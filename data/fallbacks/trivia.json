@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "trivia:Which actress's real name was Frances Ethel Gumm?",
+    "formatId": "trivia",
+    "title": "Which actress's real name was Frances Ethel Gumm?",
+    "description": "Celebrities.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Judy Garland",
+      "options": [
+        "Julie Andrews",
+        "Doris Day",
+        "Judy Garland",
+        "Marilyn Monroe"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+    "formatId": "trivia",
+    "title": "Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+    "description": "Entertainment: Cartoon & Animations.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "George Clooney",
+      "options": [
+        "George Clooney",
+        "Matt Stone",
+        "Jay Leno",
+        "Robert Smith"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:In 1453, which important city fell?",
+    "formatId": "trivia",
+    "title": "In 1453, which important city fell?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Constantinople",
+      "options": [
+        "Rome",
+        "Athens",
+        "Constantinople",
+        "Hamburg"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which English guitarist has the nickname \"Slowhand\"?",
+    "formatId": "trivia",
+    "title": "Which English guitarist has the nickname \"Slowhand\"?",
+    "description": "Entertainment: Music.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Eric Clapton",
+      "options": [
+        "Eric Clapton",
+        "Mark Knopfler",
+        "Jeff Beck",
+        "Jimmy Page"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What was the code name for the \"Nintendo Gamecube\"?",
+    "formatId": "trivia",
+    "title": "What was the code name for the \"Nintendo Gamecube\"?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Dolphin",
+      "options": [
+        "Dolphin",
+        "Revolution",
+        "Atlantis",
+        "Nitro"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:At what temperature does water boil?",
+    "formatId": "trivia",
+    "title": "At what temperature does water boil?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "212°F",
+      "options": [
+        "181°F",
+        "178°F",
+        "200°F",
+        "212°F"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "formatId": "trivia",
+    "title": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "United Kingdom",
+      "options": [
+        "United Kingdom",
+        "Portugal",
+        "Spain",
+        "France"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Who is the main protagonist in the 'Ratchet and Clank' game series?",
+    "formatId": "trivia",
+    "title": "Who is the main protagonist in the 'Ratchet and Clank' game series?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Ratchet",
+      "options": [
+        "Ratchet",
+        "Dr Nefarious",
+        "Captin Qwark",
+        "Clank"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which of the following is NOT a venomous snake?",
+    "formatId": "trivia",
+    "title": "Which of the following is NOT a venomous snake?",
+    "description": "Animals.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Reticulated python",
+      "options": [
+        "Reticulated python",
+        "Yellow bellied sea snake",
+        "Malayan Krait",
+        "Black mamba"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What is the chemical formula for ammonia?",
+    "formatId": "trivia",
+    "title": "What is the chemical formula for ammonia?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "NH3",
+      "options": [
+        "NH3",
+        "CH4",
+        "NO3",
+        "CO2"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What is the average lifespan of a domestic rabbit?",
+    "formatId": "trivia",
+    "title": "What is the average lifespan of a domestic rabbit?",
+    "description": "Animals.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "8-12 years",
+      "options": [
+        "8-12 years",
+        "4-7 years",
+        "14-20 years",
+        "1-2 years"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+    "formatId": "trivia",
+    "title": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+    "description": "Entertainment: Cartoon & Animations.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Slam dunk, nothing but net!",
+      "options": [
+        "Rikki-Tikki-Tavi, biatch!",
+        "Hit the sack, Jack!",
+        "Slam dunk, nothing but net!",
+        "Wubba-lubba-dub-dub!"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What is Canada's smallest province?",
+    "formatId": "trivia",
+    "title": "What is Canada's smallest province?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Prince Edward Island",
+      "options": [
+        "New Brunswick",
+        "Yukon",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:When was the compact disc player first released?",
+    "formatId": "trivia",
+    "title": "When was the compact disc player first released?",
+    "description": "Science: Gadgets.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "1982",
+      "options": [
+        "1982",
+        "1980",
+        "1981",
+        "1983"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+    "formatId": "trivia",
+    "title": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "USS Pueblo",
+      "options": [
+        "USS North Carolina",
+        "USS Constitution",
+        "USS Indianapolis",
+        "USS Pueblo"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+    "formatId": "trivia",
+    "title": "What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+    "description": "Science: Mathematics.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "314.15 Inches",
+      "options": [
+        "380.1215 Inches",
+        "314.15 Inches",
+        "1256.6 Inches",
+        "3141.5 Inches"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which of the following awards do Matt Stone and Trey Parker NOT have?",
+    "formatId": "trivia",
+    "title": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+    "description": "Entertainment: Television.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Oscar",
+      "options": [
+        "Emmy",
+        "Oscar",
+        "Grammy",
+        "Tony"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which of these English football clubs is based in Liverpool?",
+    "formatId": "trivia",
+    "title": "Which of these English football clubs is based in Liverpool?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Everton",
+      "options": [
+        "West Ham United",
+        "Arsenal",
+        "Crystal Palace",
+        "Everton"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "formatId": "trivia",
+    "title": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Operation Typhoon",
+      "options": [
+        "Operation Sunflower",
+        "Operation Typhoon",
+        "Case Blue",
+        "Operation Barbarossa"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:When was the Valve Corporation founded?",
+    "formatId": "trivia",
+    "title": "When was the Valve Corporation founded?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "August 24, 1996",
+      "options": [
+        "March 13, 1997",
+        "August 24, 1996",
+        "December 26, 1994",
+        "March 22, 1997"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:Which one of the following actors did not voice a character in \"Saints Row: The Third\"?",
+    "formatId": "trivia",
+    "title": "Which one of the following actors did not voice a character in \"Saints Row: The Third\"?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Ron Jeremy",
+      "options": [
+        "Sasha Grey",
+        "Ron Jeremy",
+        "Hulk Hogan",
+        "Burt Reynolds"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.094Z"
+    }
+  },
+  {
+    "id": "trivia:In \"Star Trek\", what is the Klingon delicacy of \"gagh\" made from?",
+    "formatId": "trivia",
+    "title": "In \"Star Trek\", what is the Klingon delicacy of \"gagh\" made from?",
+    "description": "Entertainment: Television.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Serpent worms",
+      "options": [
+        "Earthworms",
+        "Serpent worms",
+        "Klingworms",
+        "Spaghetti noodles"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which country does Austria not border?",
+    "formatId": "trivia",
+    "title": "Which country does Austria not border?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "France",
+      "options": [
+        "France",
+        "Slovenia",
+        "Switzerland",
+        "Slovakia"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What was Daft Punk's first studio album?",
+    "formatId": "trivia",
+    "title": "What was Daft Punk's first studio album?",
+    "description": "Entertainment: Music.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Homework",
+      "options": [
+        "Discovery",
+        "Human After All",
+        "Homework",
+        "Random Access Memories"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the oldest Disney film?",
+    "formatId": "trivia",
+    "title": "What is the oldest Disney film?",
+    "description": "Entertainment: Film.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Snow White and the Seven Dwarfs",
+      "options": [
+        "Dumbo",
+        "Pinocchio",
+        "Snow White and the Seven Dwarfs",
+        "Fantasia"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "formatId": "trivia",
+    "title": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "description": "Entertainment: Film.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Harry Potter",
+      "options": [
+        "Harry Potter",
+        "Spy Kids",
+        "Ted",
+        "Pirates of the Caribbean "
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the full name of the footballer \"Cristiano Ronaldo\"?",
+    "formatId": "trivia",
+    "title": "What is the full name of the footballer \"Cristiano Ronaldo\"?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Cristiano Ronaldo dos Santos Aveiro",
+      "options": [
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Cristiano Luis Armando Ronaldo",
+        "Cristiano Armando Diego Ronaldo",
+        "Cristiano Ronaldo los Santos Diego"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which is not a type of neuron?",
+    "formatId": "trivia",
+    "title": "Which is not a type of neuron?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Perceptual Neuron",
+      "options": [
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron",
+        "Perceptual Neuron"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "formatId": "trivia",
+    "title": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Toronto Marlies",
+      "options": [
+        "Toronto Rock",
+        "Toronto Wolfpack",
+        "Toronto Argonauts",
+        "Toronto Marlies"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+    "formatId": "trivia",
+    "title": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Mortal Kombat",
+      "options": [
+        "Duke Nukem",
+        "Resident Evil",
+        "Doom",
+        "Mortal Kombat"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which actress's real name was Frances Ethel Gumm?",
+    "formatId": "question",
+    "title": "Which actress's real name was Frances Ethel Gumm?",
+    "description": "Celebrities.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Judy Garland",
+      "options": [
+        "Julie Andrews",
+        "Doris Day",
+        "Judy Garland",
+        "Marilyn Monroe"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+    "formatId": "question",
+    "title": "Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+    "description": "Entertainment: Cartoon & Animations.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "George Clooney",
+      "options": [
+        "George Clooney",
+        "Matt Stone",
+        "Jay Leno",
+        "Robert Smith"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:In 1453, which important city fell?",
+    "formatId": "question",
+    "title": "In 1453, which important city fell?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Constantinople",
+      "options": [
+        "Rome",
+        "Athens",
+        "Constantinople",
+        "Hamburg"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which English guitarist has the nickname \"Slowhand\"?",
+    "formatId": "question",
+    "title": "Which English guitarist has the nickname \"Slowhand\"?",
+    "description": "Entertainment: Music.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Eric Clapton",
+      "options": [
+        "Eric Clapton",
+        "Mark Knopfler",
+        "Jeff Beck",
+        "Jimmy Page"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What was the code name for the \"Nintendo Gamecube\"?",
+    "formatId": "question",
+    "title": "What was the code name for the \"Nintendo Gamecube\"?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Dolphin",
+      "options": [
+        "Dolphin",
+        "Revolution",
+        "Atlantis",
+        "Nitro"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:At what temperature does water boil?",
+    "formatId": "question",
+    "title": "At what temperature does water boil?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "212°F",
+      "options": [
+        "181°F",
+        "178°F",
+        "200°F",
+        "212°F"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "formatId": "question",
+    "title": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "United Kingdom",
+      "options": [
+        "United Kingdom",
+        "Portugal",
+        "Spain",
+        "France"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Who is the main protagonist in the 'Ratchet and Clank' game series?",
+    "formatId": "question",
+    "title": "Who is the main protagonist in the 'Ratchet and Clank' game series?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Ratchet",
+      "options": [
+        "Ratchet",
+        "Dr Nefarious",
+        "Captin Qwark",
+        "Clank"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which of the following is NOT a venomous snake?",
+    "formatId": "question",
+    "title": "Which of the following is NOT a venomous snake?",
+    "description": "Animals.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Reticulated python",
+      "options": [
+        "Reticulated python",
+        "Yellow bellied sea snake",
+        "Malayan Krait",
+        "Black mamba"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the chemical formula for ammonia?",
+    "formatId": "question",
+    "title": "What is the chemical formula for ammonia?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "NH3",
+      "options": [
+        "NH3",
+        "CH4",
+        "NO3",
+        "CO2"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the average lifespan of a domestic rabbit?",
+    "formatId": "question",
+    "title": "What is the average lifespan of a domestic rabbit?",
+    "description": "Animals.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "8-12 years",
+      "options": [
+        "8-12 years",
+        "4-7 years",
+        "14-20 years",
+        "1-2 years"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+    "formatId": "question",
+    "title": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show \"Rick and Morty\"?",
+    "description": "Entertainment: Cartoon & Animations.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Slam dunk, nothing but net!",
+      "options": [
+        "Rikki-Tikki-Tavi, biatch!",
+        "Hit the sack, Jack!",
+        "Slam dunk, nothing but net!",
+        "Wubba-lubba-dub-dub!"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is Canada's smallest province?",
+    "formatId": "question",
+    "title": "What is Canada's smallest province?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Prince Edward Island",
+      "options": [
+        "New Brunswick",
+        "Yukon",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:When was the compact disc player first released?",
+    "formatId": "question",
+    "title": "When was the compact disc player first released?",
+    "description": "Science: Gadgets.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "1982",
+      "options": [
+        "1982",
+        "1980",
+        "1981",
+        "1983"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+    "formatId": "question",
+    "title": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "USS Pueblo",
+      "options": [
+        "USS North Carolina",
+        "USS Constitution",
+        "USS Indianapolis",
+        "USS Pueblo"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+    "formatId": "question",
+    "title": "What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+    "description": "Science: Mathematics.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "314.15 Inches",
+      "options": [
+        "380.1215 Inches",
+        "314.15 Inches",
+        "1256.6 Inches",
+        "3141.5 Inches"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which of the following awards do Matt Stone and Trey Parker NOT have?",
+    "formatId": "question",
+    "title": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+    "description": "Entertainment: Television.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Oscar",
+      "options": [
+        "Emmy",
+        "Oscar",
+        "Grammy",
+        "Tony"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which of these English football clubs is based in Liverpool?",
+    "formatId": "question",
+    "title": "Which of these English football clubs is based in Liverpool?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Everton",
+      "options": [
+        "West Ham United",
+        "Arsenal",
+        "Crystal Palace",
+        "Everton"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "formatId": "question",
+    "title": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "description": "History.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Operation Typhoon",
+      "options": [
+        "Operation Sunflower",
+        "Operation Typhoon",
+        "Case Blue",
+        "Operation Barbarossa"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:When was the Valve Corporation founded?",
+    "formatId": "question",
+    "title": "When was the Valve Corporation founded?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "August 24, 1996",
+      "options": [
+        "March 13, 1997",
+        "August 24, 1996",
+        "December 26, 1994",
+        "March 22, 1997"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which one of the following actors did not voice a character in \"Saints Row: The Third\"?",
+    "formatId": "question",
+    "title": "Which one of the following actors did not voice a character in \"Saints Row: The Third\"?",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Ron Jeremy",
+      "options": [
+        "Sasha Grey",
+        "Ron Jeremy",
+        "Hulk Hogan",
+        "Burt Reynolds"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:In \"Star Trek\", what is the Klingon delicacy of \"gagh\" made from?",
+    "formatId": "question",
+    "title": "In \"Star Trek\", what is the Klingon delicacy of \"gagh\" made from?",
+    "description": "Entertainment: Television.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Serpent worms",
+      "options": [
+        "Earthworms",
+        "Serpent worms",
+        "Klingworms",
+        "Spaghetti noodles"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which country does Austria not border?",
+    "formatId": "question",
+    "title": "Which country does Austria not border?",
+    "description": "Geography.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "France",
+      "options": [
+        "France",
+        "Slovenia",
+        "Switzerland",
+        "Slovakia"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What was Daft Punk's first studio album?",
+    "formatId": "question",
+    "title": "What was Daft Punk's first studio album?",
+    "description": "Entertainment: Music.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Homework",
+      "options": [
+        "Discovery",
+        "Human After All",
+        "Homework",
+        "Random Access Memories"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the oldest Disney film?",
+    "formatId": "question",
+    "title": "What is the oldest Disney film?",
+    "description": "Entertainment: Film.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Snow White and the Seven Dwarfs",
+      "options": [
+        "Dumbo",
+        "Pinocchio",
+        "Snow White and the Seven Dwarfs",
+        "Fantasia"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "formatId": "question",
+    "title": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+    "description": "Entertainment: Film.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Harry Potter",
+      "options": [
+        "Harry Potter",
+        "Spy Kids",
+        "Ted",
+        "Pirates of the Caribbean "
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the full name of the footballer \"Cristiano Ronaldo\"?",
+    "formatId": "question",
+    "title": "What is the full name of the footballer \"Cristiano Ronaldo\"?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Cristiano Ronaldo dos Santos Aveiro",
+      "options": [
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Cristiano Luis Armando Ronaldo",
+        "Cristiano Armando Diego Ronaldo",
+        "Cristiano Ronaldo los Santos Diego"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:Which is not a type of neuron?",
+    "formatId": "question",
+    "title": "Which is not a type of neuron?",
+    "description": "Science & Nature.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Perceptual Neuron",
+      "options": [
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron",
+        "Perceptual Neuron"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "formatId": "question",
+    "title": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "description": "Sports.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Toronto Marlies",
+      "options": [
+        "Toronto Rock",
+        "Toronto Wolfpack",
+        "Toronto Argonauts",
+        "Toronto Marlies"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  },
+  {
+    "id": "trivia:The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+    "formatId": "question",
+    "title": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+    "description": "Entertainment: Video Games.",
+    "image": null,
+    "sourceId": "trivia",
+    "sourceName": "Open Trivia DB",
+    "sourceItemUrl": "https://opentdb.com/",
+    "facts": [],
+    "interaction": {
+      "type": "quiz",
+      "answer": "Mortal Kombat",
+      "options": [
+        "Duke Nukem",
+        "Resident Evil",
+        "Doom",
+        "Mortal Kombat"
+      ]
+    },
+    "rights": {
+      "metadataLicense": "CC_BY_SA",
+      "mediaLicense": null,
+      "mediaLicenseUrl": null,
+      "creator": "Open Trivia DB contributors",
+      "attribution": "Open Trivia DB · CC BY-SA 4.0",
+      "sourceItemUrl": "https://opentdb.com/",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://opentdb.com/api_config.php",
+      "verifiedAt": "2026-10-09T07:48:01.095Z"
+    }
+  }
+]

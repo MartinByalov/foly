@@ -1,0 +1,82 @@
+[
+  {
+    "id": 28560,
+    "title": "The Bedroom",
+    "image": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg",
+    "detail": "Vincent van Gogh · 1889",
+    "url": "https://www.artic.edu/artworks/28560"
+  },
+  {
+    "id": 21023,
+    "title": "Buddha Shakyamuni Seated in Meditation (Dhyanamudra)",
+    "image": "https://www.artic.edu/iiif/2/0675f9a9-1a7b-c90a-3bb6-7f7be2afb678/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/0675f9a9-1a7b-c90a-3bb6-7f7be2afb678/full/1686,/0/default.jpg",
+    "detail": "Chola period, about 12th century",
+    "url": "https://www.artic.edu/artworks/21023"
+  },
+  {
+    "id": 20684,
+    "title": "Paris Street; Rainy Day",
+    "image": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/1686,/0/default.jpg",
+    "detail": "Gustave Caillebotte · 1877",
+    "url": "https://www.artic.edu/artworks/20684"
+  },
+  {
+    "id": 27992,
+    "title": "A Sunday on La Grande Jatte — 1884",
+    "image": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg",
+    "detail": "Georges Seurat · 1884–86, border added 1888–89",
+    "url": "https://www.artic.edu/artworks/27992"
+  },
+  {
+    "id": 75644,
+    "title": "Coronation Stone of Moctezuma Xocoyotzin",
+    "image": "https://www.artic.edu/iiif/2/ea8c5d62-6ce8-88e8-feb1-e0053cf534c5/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/ea8c5d62-6ce8-88e8-feb1-e0053cf534c5/full/1686,/0/default.jpg",
+    "detail": "Mexica (Aztec) · c. 1503",
+    "url": "https://www.artic.edu/artworks/75644"
+  },
+  {
+    "id": 102611,
+    "title": "Veranda Post (Òpó Ògògá)",
+    "image": "https://www.artic.edu/iiif/2/fec5d023-0b46-45df-eb57-cbf64e24121d/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/fec5d023-0b46-45df-eb57-cbf64e24121d/full/1686,/0/default.jpg",
+    "detail": "Olowe of Ise · 1910-14",
+    "url": "https://www.artic.edu/artworks/102611"
+  },
+  {
+    "id": 89503,
+    "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series \"Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+    "image": "https://www.artic.edu/iiif/2/2fa24f36-cc26-41b6-4b49-12bba2a6c1c8/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/2fa24f36-cc26-41b6-4b49-12bba2a6c1c8/full/1686,/0/default.jpg",
+    "detail": "Katsushika Hokusai · 1830/33",
+    "url": "https://www.artic.edu/artworks/89503"
+  },
+  {
+    "id": 87479,
+    "title": "The Assumption of the Virgin",
+    "image": "https://www.artic.edu/iiif/2/47fd1564-93f5-f30b-7786-013421133b4a/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/47fd1564-93f5-f30b-7786-013421133b4a/full/1686,/0/default.jpg",
+    "detail": "Domenico Theotokópoulos, called El Greco · 1577–79",
+    "url": "https://www.artic.edu/artworks/87479"
+  },
+  {
+    "id": 64818,
+    "title": "Stacks of Wheat (End of Summer)",
+    "image": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/1686,/0/default.jpg",
+    "detail": "Claude Monet · 1890–91",
+    "url": "https://www.artic.edu/artworks/64818"
+  },
+  {
+    "id": 16568,
+    "title": "Water Lilies",
+    "image": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
+    "fullImage": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1686,/0/default.jpg",
+    "detail": "Claude Monet · 1906",
+    "url": "https://www.artic.edu/artworks/16568"
+  }
+]

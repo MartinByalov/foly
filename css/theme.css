@@ -1,0 +1,87 @@
+/* Frozen frame from the actual Wix video, without a separate poster. */
+.page { isolation: isolate; }
+.video-bg {
+  position: fixed;
+  inset: var(--header-h) 0 0;
+  z-index: 0;
+  height: auto;
+  overflow: hidden;
+  background: #080808;
+  pointer-events: none;
+}
+.video-bg::before { content: none; }
+.video-bg .background-video {
+  display: block;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(.75) contrast(1.08);
+}
+.video-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,.34), rgba(0,0,0,.5)),
+    rgba(0,0,0,.22);
+}
+.daily-card {
+  background: rgba(47,46,46,.94);
+  content-visibility: auto;
+  contain-intrinsic-size: auto 365px;
+  transition: transform .25s ease, background .25s ease;
+}
+.daily-card:hover { background: rgba(54,53,53,.84); }
+.intro h1 { font-size: clamp(38px,4.4vw,58px); letter-spacing: -.035em; }
+.card-title { overflow-wrap: anywhere; }
+.card-body { width: 100%; min-height: 184px; }
+.card-copy { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 13px 0; margin-top: 0; }
+.source-row { margin-top: 0; }
+.quiz-card .card-copy { flex: 0; min-height: 0; padding: 6px 0; }
+.quiz-card .quiz-options { width: 100%; flex: 1; align-content: center; margin-top: 0; padding: 7px 0; }
+.item-title { display: block; font-size: 15px; line-height: 1.35; margin-bottom: 7px; }
+.item-description { margin: 0; line-height: 1.6; }
+.item-facts { list-style: none; margin: 8px 0 0; padding: 0; }
+.item-facts li + li { margin-top: 3px; }
+.format-item { content-visibility: auto; contain-intrinsic-size: auto 70px; }
+.source-chip { white-space: normal; overflow-wrap: anywhere; }
+.media-stage { position: relative; width: 100%; }
+.text-frame:has(meter) { display: flex; flex-direction: column; gap: 16px; }
+.text-frame meter { width: 80%; height: 24px; }
+.text-frame { align-items: center; justify-content: center; text-align: center; overflow-wrap: anywhere; }
+.media-stage .text-frame { padding: 40px 20px; }
+.media-source { position: absolute; bottom: 9px; left: 9px; max-width: calc(100% - 18px); z-index: 2; padding: 4px 6px; border-radius: 3px; background: rgba(0,0,0,.65); display: flex; flex-wrap: wrap; gap: 3px 7px; text-align: left; align-items: baseline; pointer-events: none; }
+.media-source .source-chip { border: 0; padding: 0; color: rgba(255,255,255,.78); font-size: 9px; font-weight: 400; }
+.source-author { color: rgba(255,255,255,.64); font-size: 9px; overflow-wrap: anywhere; }
+@media (min-width: 981px) {
+  .single-desktop-tail .last-visible { grid-column: 2; }
+}
+@media (min-width: 681px) and (max-width: 980px) {
+  .last-visible { grid-column: 1 / -1; width: calc((100% - 28px) / 2); justify-self: center; }
+}
+.crop-question .media img { transform: scale(2.6); }
+.daily-card:hover .crop-question .media img { transform: scale(2.6); }
+.ghost-btn.formats-btn { display: inline-block; }
+.drawer-credits { padding: 0 24px 28px; font-size: 11px; line-height: 1.6; color: rgba(255,255,255,.7); }
+.drawer-credits a { text-decoration: underline; }
+.card-number { display: none; }
+.media-button { display: block; padding: 0; color: #fff; cursor: zoom-in; }
+.media-button video { width: 100%; height: 100%; object-fit: cover; pointer-events: none; }
+.play-label { position: absolute; inset: 0; display: grid; place-items: center; font-size: 16px; font-weight: 700; text-shadow: 0 2px 10px #000; z-index: 1; }
+.media-button:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.media-dialog {
+  border: 1px solid rgba(255,255,255,.3); border-radius: 8px;
+  background: #101010; color: #fff; padding: 50px 14px 14px;
+  max-width: min(94vw, 1300px); max-height: 92vh;
+}
+.media-dialog::backdrop { background: rgba(0,0,0,.9); }
+.dialog-content { display: grid; place-items: center; }
+.dialog-content img, .dialog-content video { display: block; max-width: 100%; max-height: calc(92vh - 72px); object-fit: contain; }
+.dialog-close { position: absolute; top: 8px; right: 12px; background: transparent; color: #fff; border: 0; font-size: 30px; cursor: pointer; }
+.credits { position: relative; text-align: center; padding: 15px; font-size: 11px; color: rgba(255,255,255,.65); background: #000; }
+.credits a { text-decoration: underline; }
+.filter-btn:focus-visible, .ghost-btn:focus-visible, .source-chip:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 3px;
+}

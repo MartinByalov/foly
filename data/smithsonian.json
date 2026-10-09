@@ -1,0 +1,492 @@
+{
+  "built": "2026-10-08T21:18:50.893Z",
+  "pools": {
+    "fossil": [
+      {
+        "id": "ld1-1690368620355-1690368630080-1",
+        "title": "Plant Type",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3ce200fc5e082422a8b76a860ed10b909/90&max=640",
+        "url": "https://n2t.net/ark:/65665/37db87a51-49c0-492a-bc42-cefc1509c80c",
+        "description": "Plant Type",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1690368620355-1690368630082-2",
+        "title": "Plant Type",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3919505043c8f45b8b2d584467b351061/90&max=640",
+        "url": "https://n2t.net/ark:/65665/340ecbb3e-107d-4999-9ac8-56d91b965af3",
+        "description": "Plant Type",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414619536-1643414657203-0",
+        "title": "Priconodon crassus Marsh, 1888",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3fecb8d8c33f04b9181f960a175d49d7e/90&max=640",
+        "url": "https://n2t.net/ark:/65665/346fc51bc-cacb-4ba1-a999-9da8481f6ddd",
+        "description": "Priconodon crassus Marsh, 1888",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414619536-1643414650707-0",
+        "title": "Genus sp",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3308efcf99c514aeaa826503c9d7390d4/90&max=640",
+        "url": "https://n2t.net/ark:/65665/3c224d200-cc68-4b9a-a9fa-220623591774",
+        "description": "Genus sp",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414619536-1643414653888-1",
+        "title": "Polyptychodon rugosus Emmons, 1858",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m35e1adab50cf44c5ab280dd63ac965ae3/90&max=640",
+        "url": "https://n2t.net/ark:/65665/330063ee0-65f6-4b90-86f0-e4ad7f6c4822",
+        "description": "Polyptychodon rugosus Emmons, 1858",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414794601-1643414808083-2",
+        "title": "Liriodendron tulipifera Linnaeus",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m31d9511308f1745788740e581b8da8f9b/90&max=640",
+        "url": "https://n2t.net/ark:/65665/316369c99-aff3-477d-9d1b-08fa85f4836c",
+        "description": "Liriodendron tulipifera Linnaeus",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414794601-1643414804806-0",
+        "title": "Antholithes pruniformis Berry",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3628b72f4a8d146c496ba3c3666269b58/90&max=640",
+        "url": "https://n2t.net/ark:/65665/30268af20-9ca9-4a8c-8b07-5ce8f9799f39",
+        "description": "Antholithes pruniformis Berry",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      },
+      {
+        "id": "ld1-1643414794601-1643414808234-0",
+        "title": "Selaginella laciniata Lesquereux",
+        "image": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3a4e773f59cef4ab7b38a8b0a323101a9/90&max=640",
+        "url": "https://n2t.net/ark:/65665/30fa1eda8-fa0d-4444-96bf-5b821b0eb97d",
+        "description": "Selaginella laciniata Lesquereux",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmnhpaleo",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt"
+      }
+    ],
+    "historical-object": [
+      {
+        "id": "ld1-1643399625297-1643399670187-2",
+        "title": "perfume case",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10158&max=150&max=640",
+        "url": "",
+        "description": "perfume case",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398912743-1643398961301-0",
+        "title": "Sam Houston's Rifle",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2004-26288-02&max=150&max=640",
+        "url": "",
+        "description": "Sam Houston's Rifle",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398865972-0",
+        "title": "The Life & Age of Man by James Baille",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24649&max=150&max=640",
+        "url": "",
+        "description": "The Life & Age of Man by James Baille",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398866108-0",
+        "title": "S.T. Suit's Pure Kentucky Bourbon",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24393&max=150&max=640",
+        "url": "",
+        "description": "S.T. Suit's Pure Kentucky Bourbon",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399648952-1",
+        "title": "Various poses",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47537&max=150&max=640",
+        "url": "",
+        "description": "Various poses",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649247-1",
+        "title": "Acrobat, vertical \"press up\"",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47556&max=150&max=640",
+        "url": "",
+        "description": "Acrobat, vertical \"press up\"",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649122-0",
+        "title": "Broad jump",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-41366&max=150&max=640",
+        "url": "",
+        "description": "Broad jump",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649065-1",
+        "title": "Bactrian Camel racking",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-44785&max=150&max=640",
+        "url": "",
+        "description": "Bactrian Camel racking",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      }
+    ],
+    "aircraft": [
+      {
+        "id": "ld1-1643400021979-1643400023618-0",
+        "title": "Mignet HM.14 Pou du Ciel \"La Cucaracha\"",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NASM-A19610020000-NASM2019-00594&max=640",
+        "url": "https://n2t.net/ark:/65665/nv938fcd705-2957-4285-ad9f-418708754876",
+        "description": "Frenchman Henri Mignet designed the HM.14 Pou du Ciel (Flying Flea) in 1933. He envisioned a simple aircraft that amateurs could build and even teach themselves to fly. In an attem",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nasm",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nasm/01.txt"
+      }
+    ],
+    "machine": [
+      {
+        "id": "ld1-1643398853934-1643398889171-1",
+        "title": "Patent for Type Rubbing Machine",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-MAH-69680&max=150&max=640",
+        "url": "",
+        "description": "Patent for Type Rubbing Machine",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399134763-1643399190125-0",
+        "title": "Fire Engine Plate, \"6\"",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-AHB2011q00833&max=150&max=640",
+        "url": "",
+        "description": "Fire Engine Plate, \"6\"",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643399486815-1643399493059-0",
+        "title": "1842 - John J. Greenough's Patent Model of a Sewing Machine",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-DOR2010-0900-000001&max=150&max=640",
+        "url": "",
+        "description": "1842 - John J. Greenough's Patent Model of a Sewing Machine",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398892947-1",
+        "title": "Desmond Injector, Patent Model",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-AHB2012q42370&max=150&max=640",
+        "url": "",
+        "description": "Desmond Injector, Patent Model",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398889344-1",
+        "title": "Patent Model of a Book-stitching Machine",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-MAH-69567&max=150&max=640",
+        "url": "",
+        "description": "Patent Model of a Book-stitching Machine",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398889210-1",
+        "title": "Patent Model of a Typesetting and Distributing Machine",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-MAH-67897&max=150&max=640",
+        "url": "",
+        "description": "Patent Model of a Typesetting and Distributing Machine",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398889201-1",
+        "title": "Patent Model for a Book-Trimming and Paper-Cutting Machine",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-MAH-69687&max=150&max=640",
+        "url": "",
+        "description": "Patent Model for a Book-Trimming and Paper-Cutting Machine",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398892971-0",
+        "title": "Carpenter Compound Hydraulic Engine, Patent Model",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-RWS2011-00302&max=150&max=640",
+        "url": "",
+        "description": "Carpenter Compound Hydraulic Engine, Patent Model",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/02.txt"
+      }
+    ],
+    "tool": [
+      {
+        "id": "ld1-1643398853934-1643398861856-0",
+        "title": "Bedpan",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-AHB2014q056709-000002&max=150&max=640",
+        "url": "",
+        "description": "Bedpan",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/01.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398856797-1",
+        "title": "A History of the American Revolution",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-AHB2014q065697&max=150&max=640",
+        "url": "",
+        "description": "A History of the American Revolution",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/02.txt"
+      }
+    ],
+    "strange-object": [
+      {
+        "id": "ld1-1643399625297-1643399670187-2",
+        "title": "perfume case",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10158&max=150&max=640",
+        "url": "",
+        "description": "perfume case",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398912743-1643398961301-0",
+        "title": "Sam Houston's Rifle",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2004-26288-02&max=150&max=640",
+        "url": "",
+        "description": "Sam Houston's Rifle",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398865972-0",
+        "title": "The Life & Age of Man by James Baille",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24649&max=150&max=640",
+        "url": "",
+        "description": "The Life & Age of Man by James Baille",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398866108-0",
+        "title": "S.T. Suit's Pure Kentucky Bourbon",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24393&max=150&max=640",
+        "url": "",
+        "description": "S.T. Suit's Pure Kentucky Bourbon",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399648952-1",
+        "title": "Various poses",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47537&max=150&max=640",
+        "url": "",
+        "description": "Various poses",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649247-1",
+        "title": "Acrobat, vertical \"press up\"",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47556&max=150&max=640",
+        "url": "",
+        "description": "Acrobat, vertical \"press up\"",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649122-0",
+        "title": "Broad jump",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-41366&max=150&max=640",
+        "url": "",
+        "description": "Broad jump",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649065-1",
+        "title": "Bactrian Camel racking",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-44785&max=150&max=640",
+        "url": "",
+        "description": "Bactrian Camel racking",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      }
+    ],
+    "museum-oddity": [
+      {
+        "id": "ld1-1643399625297-1643399670187-2",
+        "title": "perfume case",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10158&max=150&max=640",
+        "url": "",
+        "description": "perfume case",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398912743-1643398961301-0",
+        "title": "Sam Houston's Rifle",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2004-26288-02&max=150&max=640",
+        "url": "",
+        "description": "Sam Houston's Rifle",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398865972-0",
+        "title": "The Life & Age of Man by James Baille",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24649&max=150&max=640",
+        "url": "",
+        "description": "The Life & Age of Man by James Baille",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643398853934-1643398866108-0",
+        "title": "S.T. Suit's Pure Kentucky Bourbon",
+        "image": "https://ids.si.edu/ids/deliveryService?id=NMAH-2003-24393&max=150&max=640",
+        "url": "",
+        "description": "S.T. Suit's Pure Kentucky Bourbon",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399648952-1",
+        "title": "Various poses",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47537&max=150&max=640",
+        "url": "",
+        "description": "Various poses",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649247-1",
+        "title": "Acrobat, vertical \"press up\"",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-47556&max=150&max=640",
+        "url": "",
+        "description": "Acrobat, vertical \"press up\"",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649122-0",
+        "title": "Broad jump",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-41366&max=150&max=640",
+        "url": "",
+        "description": "Broad jump",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      },
+      {
+        "id": "ld1-1643399625297-1643399649065-1",
+        "title": "Bactrian Camel racking",
+        "image": "https://ids.si.edu/ids/deliveryService?id=SIA-2004-44785&max=150&max=640",
+        "url": "",
+        "description": "Bactrian Camel racking",
+        "license": "CC0",
+        "mediaLicense": "CC0",
+        "unit": "nmah",
+        "provenance": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmah/00.txt"
+      }
+    ]
+  }
+}

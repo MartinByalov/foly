@@ -1,0 +1,25 @@
+{
+  "covered": 82,
+  "total": 100,
+  "missing": [
+    "on-this-day",
+    "born-today",
+    "died-today",
+    "featured-article",
+    "picture-of-the-day",
+    "geomagnetic-activity",
+    "current-event",
+    "rabbit-hole",
+    "historical-event",
+    "anniversary",
+    "earthquake",
+    "space-image",
+    "spacecraft",
+    "space-mission",
+    "historical-object",
+    "machine",
+    "tool",
+    "museum-oddity"
+  ],
+  "errors": []
+}

@@ -1,0 +1,314 @@
+{
+  "person": [
+    "Marie Curie",
+    "Albert Einstein",
+    "Ada Lovelace",
+    "Nelson Mandela"
+  ],
+  "scientist": [
+    "Charles Darwin",
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Michael Faraday"
+  ],
+  "inventor": [
+    "Nikola Tesla",
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Johannes Gutenberg"
+  ],
+  "artist": [
+    "Leonardo da Vinci",
+    "Vincent van Gogh",
+    "Claude Monet",
+    "Frida Kahlo"
+  ],
+  "writer": [
+    "William Shakespeare",
+    "Jane Austen",
+    "Virginia Woolf",
+    "Leo Tolstoy"
+  ],
+  "philosopher": [
+    "Aristotle",
+    "Plato",
+    "Immanuel Kant",
+    "René Descartes"
+  ],
+  "explorer": [
+    "Marco Polo",
+    "Ferdinand Magellan",
+    "James Cook",
+    "Roald Amundsen"
+  ],
+  "architect": [
+    "Frank Lloyd Wright",
+    "Zaha Hadid",
+    "Antoni Gaudí",
+    "Le Corbusier"
+  ],
+  "composer": [
+    "Wolfgang Amadeus Mozart",
+    "Ludwig van Beethoven",
+    "Johann Sebastian Bach",
+    "Frédéric Chopin"
+  ],
+  "athlete": [
+    "Michael Jordan",
+    "Serena Williams",
+    "Usain Bolt",
+    "Simone Biles"
+  ],
+  "country": [
+    "France",
+    "Japan",
+    "Canada",
+    "Italy"
+  ],
+  "city": [
+    "Paris",
+    "Tokyo",
+    "Rome",
+    "Sydney"
+  ],
+  "island": [
+    "Sicily",
+    "Bali",
+    "Madagascar",
+    "Crete"
+  ],
+  "mountain": [
+    "K2",
+    "Mount Everest",
+    "Mount Kilimanjaro",
+    "Mont Blanc"
+  ],
+  "river": [
+    "Danube",
+    "Nile",
+    "Amazon River",
+    "Rhine"
+  ],
+  "lake": [
+    "Lake Baikal",
+    "Lake Victoria",
+    "Lake Superior",
+    "Lake Geneva"
+  ],
+  "waterfall": [
+    "Niagara Falls",
+    "Victoria Falls",
+    "Angel Falls",
+    "Iguaçu Falls"
+  ],
+  "castle": [
+    "Neuschwanstein Castle",
+    "Windsor Castle",
+    "Edinburgh Castle",
+    "Himeji Castle"
+  ],
+  "bridge": [
+    "Golden Gate Bridge",
+    "Tower Bridge",
+    "Brooklyn Bridge",
+    "Sydney Harbour Bridge"
+  ],
+  "landmark": [
+    "Stonehenge",
+    "Eiffel Tower",
+    "Taj Mahal",
+    "Colosseum"
+  ],
+  "dinosaur": [
+    "Tyrannosaurus",
+    "Triceratops",
+    "Stegosaurus",
+    "Diplodocus"
+  ],
+  "mineral": [
+    "Calcite",
+    "quartz",
+    "calcite",
+    "gypsum",
+    "pyrite"
+  ],
+  "gemstone": [
+    "Emerald",
+    "ruby",
+    "emerald",
+    "sapphire",
+    "opal"
+  ],
+  "chemical-element": [
+    "Carbon",
+    "hydrogen",
+    "carbon",
+    "oxygen",
+    "iron"
+  ],
+  "volcano": [
+    "Mount Vesuvius",
+    "Mount Etna",
+    "Mauna Loa",
+    "Mount Fuji"
+  ],
+  "cave": [
+    "Lascaux",
+    "Mammoth Cave National Park",
+    "Postojna Cave",
+    "Carlsbad Caverns National Park"
+  ],
+  "planet": [
+    "Jupiter",
+    "Mercury",
+    "Mars",
+    "Saturn"
+  ],
+  "moon": [
+    "Titan",
+    "Ganymede",
+    "Europa",
+    "Enceladus"
+  ],
+  "exoplanet": [
+    "Proxima Centauri b",
+    "51 Pegasi b",
+    "Kepler-22 b",
+    "HD 209458 b"
+  ],
+  "star": [
+    "Sirius",
+    "Betelgeuse",
+    "Vega",
+    "Polaris"
+  ],
+  "constellation": [
+    "Scorpius",
+    "Orion",
+    "Cassiopeia",
+    "Ursa Major"
+  ],
+  "galaxy": [
+    "Andromeda Galaxy",
+    "Triangulum Galaxy",
+    "Whirlpool Galaxy",
+    "Sombrero Galaxy"
+  ],
+  "nebula": [
+    "Crab Nebula",
+    "Orion Nebula",
+    "Eagle Nebula",
+    "Ring Nebula"
+  ],
+  "asteroid": [
+    "Vesta",
+    "2 Pallas",
+    "3 Juno",
+    "433 Eros"
+  ],
+  "comet": [
+    "Halley's Comet",
+    "Comet Hale-Bopp",
+    "67P/Churyumov–Gerasimenko",
+    "Comet Hyakutake"
+  ],
+  "book": [
+    "Pride and Prejudice",
+    "Nineteen Eighty-Four",
+    "The Hobbit",
+    "Frankenstein; or, The Modern Prometheus"
+  ],
+  "film": [
+    "Cinema Paradiso",
+    "Inception",
+    "Spirited Away",
+    "The Grand Budapest Hotel"
+  ],
+  "song": [
+    "Imagine (song)",
+    "Bohemian Rhapsody",
+    "Imagine",
+    "Hey Jude",
+    "Good Vibrations"
+  ],
+  "album": [
+    "Thriller (album)",
+    "Abbey Road",
+    "Thriller",
+    "The Dark Side of the Moon",
+    "Rumours"
+  ],
+  "video-game": [
+    "Super Mario Bros.",
+    "Minecraft",
+    "Tetris",
+    "Portal"
+  ],
+  "board-game": [
+    "Go (game)",
+    "chess",
+    "go",
+    "Scrabble",
+    "The Settlers of Catan"
+  ],
+  "language": [
+    "Japanese language",
+    "French",
+    "Japanese",
+    "Spanish",
+    "Arabic"
+  ],
+  "writing-system": [
+    "Cyrillic script",
+    "Latin script",
+    "Greek alphabet",
+    "Hangul"
+  ],
+  "mythological-figure": [
+    "Athena",
+    "Zeus",
+    "Thor",
+    "Anubis"
+  ],
+  "architectural-style": [
+    "Romanesque architecture",
+    "Gothic architecture",
+    "Art Deco",
+    "brutalist architecture"
+  ],
+  "invention": [
+    "Printing press",
+    "telephone",
+    "printing press",
+    "steam engine",
+    "compass"
+  ],
+  "discovery": [
+    "Penicillin",
+    "penicillin",
+    "radioactive decay",
+    "Electromagnetic induction",
+    "X-ray"
+  ],
+  "scientific-concept": [
+    "Gravity",
+    "gravity",
+    "entropy",
+    "evolution",
+    "plate tectonics"
+  ],
+  "mathematical-concept": [
+    "Pi",
+    "pi",
+    "Pythagorean theorem",
+    "prime number",
+    "Fibonacci sequence"
+  ],
+  "unit-of-measurement": [
+    "Second",
+    "metre",
+    "kilogram",
+    "second",
+    "kelvin"
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "built": "2026-10-08T21:36:50.770Z",
+  "pools": {
+    "person": [
+      {
+        "id": "Q7186",
+        "title": "Marie Curie",
+        "description": "Maria Salomea Skłodowska Curie, better known as Marie Curie, was a Polish and naturalised-French physicist and chemist. She shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, \"for their joint researches on the radioactivity phenomena discovered by Professor Henri Becquerel\". She won the 1911 Nobel Prize in Chemistry \"[for] the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element\".",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Marie%20Curie"
+      }
+    ],
+    "scientist": [
+      {
+        "id": "Q1035",
+        "title": "Charles Darwin",
+        "description": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Charles%20Darwin"
+      }
+    ],
+    "inventor": [
+      {
+        "id": "Q9036",
+        "title": "Nikola Tesla",
+        "description": "Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Nikola%20Tesla"
+      }
+    ],
+    "artist": [
+      {
+        "id": "Q762",
+        "title": "Leonardo da Vinci",
+        "description": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and palaeontology. Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Leonardo%20da%20Vinci"
+      }
+    ],
+    "writer": [
+      {
+        "id": "Q692",
+        "title": "William Shakespeare",
+        "description": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\" or simply \"the Bard\". His extant works, including collaborations, consist of some 39 plays, 154 sonnets, 3 long narrative poems and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright. Shakespeare remains arguably the most influential writer in the English language, and his works continue to be studied and reinterpreted.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/William%20Shakespeare"
+      }
+    ],
+    "philosopher": [
+      {
+        "id": "Q868",
+        "title": "Aristotle",
+        "description": "Aristotle was an ancient Greek philosopher and polymath. His writings span the natural sciences, philosophy, linguistics, economics, politics, psychology, and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Aristotle"
+      }
+    ],
+    "explorer": [
+      {
+        "id": "Q6101",
+        "title": "Marco Polo",
+        "description": "Marco Polo was a Venetian merchant, explorer, and writer who travelled through Asia along the Silk Road between 1271 and 1295. His travels are recorded in The Travels of Marco Polo, a book that described the then-mysterious culture and inner workings of the Eastern world, including the wealth and great size of the Mongol Empire and China under the Yuan dynasty, giving Europeans their first comprehensive look into China, Persia, India, Japan, and other Asian societies.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Marco%20Polo"
+      }
+    ],
+    "architect": [
+      {
+        "id": "Q5604",
+        "title": "Frank Lloyd Wright",
+        "description": "Frank Lloyd Wright Sr. was an American architect, designer, writer, and educator. He designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and mentoring hundreds of apprentices in his Taliesin Fellowship. Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture. This philosophy was exemplified in Fallingwater (1935), which has been called \"the best all-time work of American architecture\".",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright"
+      }
+    ],
+    "composer": [
+      {
+        "id": "Q254",
+        "title": "Wolfgang Amadeus Mozart",
+        "description": "Wolfgang Amadeus Mozart was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera and choral music—and is regarded as one of the greatest composers in the history of Western music.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Wolfgang%20Amadeus%20Mozart"
+      }
+    ],
+    "athlete": [
+      {
+        "id": "Q41421",
+        "title": "Michael Jordan",
+        "description": "Michael Jeffrey Jordan, also known by his initials MJ, is an American businessman, former professional basketball player, and former baseball player. He played 15 seasons in the National Basketball Association (NBA) between 1984 and 2003, winning six NBA championships with the Chicago Bulls. Jordan is considered by many to be the greatest basketball player of all time, and is regarded as one of the most influential sports figures in history. Throughout the 1980s and 1990s, he was pivotal in popularizing the sport and the NBA internationally.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Michael%20Jordan"
+      }
+    ],
+    "country": [
+      {
+        "id": "Q142",
+        "title": "France",
+        "description": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/France"
+      }
+    ],
+    "city": [
+      {
+        "id": "Q90",
+        "title": "Paris",
+        "description": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\" mainly due to its leading role in the Age of Enlightenment.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Paris"
+      }
+    ],
+    "island": [
+      {
+        "id": "Q1460",
+        "title": "Sicily",
+        "description": "Sicily, officially the Sicilian Region, is an island in the central Mediterranean Sea and one of the twenty regions of Italy, situated south of the Italian Peninsula in continental Europe. With over 4.7 million inhabitants, including 1.2 million in and around the capital city of Palermo, it is both the largest and most populous island in the Mediterranean Sea.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Sicily"
+      }
+    ],
+    "mountain": [
+      {
+        "id": "Q43512",
+        "title": "K2",
+        "description": "K2, also known as Mount Godwin-Austen, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest at 8,849 metres (29,032 ft). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in the China-administered Trans-Karakoram Tract in the Taxkorgan Tajik Autonomous County of Xinjiang.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/K2"
+      }
+    ],
+    "river": [
+      {
+        "id": "Q1653",
+        "title": "Danube",
+        "description": "The Danube is a river in Europe, the second-longest after the Volga. It flows through Central and Southeastern Europe, from the Black Forest of Germany south through the Danube Delta in Romania into the Black Sea. A large and historically important river, it was once a frontier of the Roman Empire. In the 21st century, it connects ten European countries, running through their territories or marking a border. Originating in Germany, the Danube flows southeast for 2,850 km (1,770 mi), passing through or bordering Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine. Among the many cities on the river are four national capitals: Vienna, Bratislava, Budapest, and Belgrade. Its drainage basin amounts to 817,000 km2 (315,000 sq mi) and extends into nine more countries.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Danube"
+      }
+    ],
+    "lake": [
+      {
+        "id": "Q5513",
+        "title": "Lake Baikal",
+        "description": "Lake Baikal is a rift lake and the deepest lake in the world. It is situated in southern Siberia, Russia, between the federal subjects of Irkutsk Oblast to the northwest and the Republic of Buryatia to the southeast.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Lake%20Baikal"
+      }
+    ],
+    "waterfall": [
+      {
+        "id": "Q34221",
+        "title": "Niagara Falls",
+        "description": "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the Canadian province of Ontario and the U.S. state of New York. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries. It is also known as the Canadian Falls. The smaller American Falls and Bridal Veil Falls lie within the United States.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Niagara%20Falls"
+      }
+    ],
+    "castle": [
+      {
+        "id": "Q4152",
+        "title": "Neuschwanstein Castle",
+        "description": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill of the foothills of the Alps in the very south of Germany, near the border with Austria. It is located in the Swabia region of Bavaria, in the municipality of Schwangau, above the incorporated village of Hohenschwangau, which is also the location of Hohenschwangau Castle. The closest larger town is Füssen. The castle stands above the narrow gorge of the Pöllat stream, east of the Alpsee and Schwansee lakes, close to the mouth of the Lech into Lake Forggensee. Since 2025, the castle has been part of the UNESCO World Heritage Site \"The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee\". According to Guinness World Records, at 65 metres, it is the tallest castle in the world.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Neuschwanstein%20Castle"
+      }
+    ],
+    "bridge": [
+      {
+        "id": "Q44440",
+        "title": "Golden Gate Bridge",
+        "description": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco—the northern tip of the San Francisco Peninsula—to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Golden%20Gate%20Bridge"
+      }
+    ],
+    "landmark": [
+      {
+        "id": "Q39671",
+        "title": "Stonehenge",
+        "description": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique among contemporary monuments. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons: two bulkier vertical sarsens joined by a single lintel. The whole monument, now in ruins, is aligned towards the sunrise on the summer solstice and sunset on the winter solstice. The stones are set within earthworks in the middle of the densest complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Stonehenge"
+      }
+    ],
+    "dinosaur": [],
+    "mineral": [
+      {
+        "id": "Q171917",
+        "title": "Calcite",
+        "description": "Calcite is a carbonate mineral and the most stable polymorph of calcium carbonate (CaCO3). It is a very common mineral, particularly as a component of limestone. Calcite defines hardness 3 on the Mohs scale of mineral hardness, based on scratch hardness comparison. Large calcite crystals are used in optical equipment, and limestone composed mostly of calcite has numerous uses.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Calcite"
+      }
+    ],
+    "gemstone": [
+      {
+        "id": "Q43513",
+        "title": "Emerald",
+        "description": "Emerald is a gemstone and a variety of the mineral beryl (Be3Al2(SiO3)6) colored green by trace amounts of chromium or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds have many inclusions, so their toughness is classified as poor. Emerald is a cyclosilicate. It occurs mainly in association with quartz, muscovite, albite, schorl, microcline, fluorite, smoky quartz and elbaite.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Emerald"
+      }
+    ],
+    "chemical-element": [
+      {
+        "id": "Q623",
+        "title": "Carbon",
+        "description": "Carbon is a chemical element; it has symbol C and atomic number 6. It is nonmetallic and tetravalent—meaning that its atoms are able to form up to four covalent bonds due to its valence shell exhibiting 4 electrons. It belongs to group 14 of the periodic table. Carbon makes up about 0.025 percent of Earth's crust. Three isotopes occur naturally, 12C and 13C being stable, while 14C is a radionuclide, decaying with a half-life of 5,700 years. Carbon is one of the few elements known since antiquity.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Carbon"
+      }
+    ],
+    "volcano": [],
+    "cave": [
+      {
+        "id": "Q172125",
+        "title": "Lascaux",
+        "description": "Lascaux is a network of caves near the village of Montignac, in the department of Dordogne in southwestern France. Over 600 parietal wall paintings cover the interior walls and ceilings of the cave. The paintings represent primarily large animals, typical local contemporary fauna that correspond with the fossil record of the Upper Paleolithic in the area. They are the combined effort of many generations.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Lascaux"
+      }
+    ],
+    "planet": [
+      {
+        "id": "Q319",
+        "title": "Jupiter",
+        "description": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun. The diameter of Jupiter is 11 times that of Earth and a tenth that of the Sun. It orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years. Jupiter is the third-brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times. It was named after Jupiter, the chief deity of ancient Roman religion.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Jupiter"
+      }
+    ],
+    "moon": [],
+    "exoplanet": [
+      {
+        "id": "Q26692445",
+        "title": "Proxima Centauri b",
+        "description": "Proxima Centauri b, also referred to as Proxima b, or Alpha Centauri Cb, is an exoplanet orbiting within the habitable zone of the red dwarf star Proxima Centauri in the constellation Centaurus. The host star is the closest star to the Sun, at a distance of about 4.2 light-years from Earth, and is part of the larger triple star system Alpha Centauri. Proxima b and Proxima d, along with the currently disputed Proxima c, are the closest known exoplanets to the Solar System.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Proxima%20Centauri%20b"
+      }
+    ],
+    "star": [
+      {
+        "id": "Q3409",
+        "title": "Sirius",
+        "description": "Sirius is the brightest star in the night sky, located in the southern constellation of Canis Major. Its name is derived from the Ancient Greek word Σείριος. The star is designated α Canis Majoris, Romanized to Alpha Canis Majoris, and abbreviated α CMa or Alpha CMa. With a visual apparent magnitude of −1.46, Sirius is almost twice as bright as Canopus, the next brightest star. Sirius is a binary star consisting of a main-sequence star of spectral type A0 or A1, termed Sirius A, and a faint white dwarf companion of spectral type DA2, termed Sirius B. The distance between the two varies between 8.2 and 31.5 astronomical units as they orbit every 50 years.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Sirius"
+      }
+    ],
+    "constellation": [
+      {
+        "id": "Q8865",
+        "title": "Scorpius",
+        "description": "Scorpius is a zodiac constellation located in the Southern celestial hemisphere, where it sits near the center of the Milky Way, between Libra to the west and Sagittarius to the east. Scorpius is a constellation whose recognition predates Greek culture; it is one of the 48 constellations identified by the Greek astronomer Ptolemy in the second century.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Scorpius"
+      }
+    ],
+    "galaxy": [],
+    "nebula": [
+      {
+        "id": "Q10934",
+        "title": "Crab Nebula",
+        "description": "The Crab Nebula is also known as Messier 1(M1) or NGC 1952",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Crab%20Nebula"
+      }
+    ],
+    "asteroid": [],
+    "comet": [],
+    "book": [
+      {
+        "id": "Q170583",
+        "title": "Pride and Prejudice",
+        "description": "Pride and Prejudice is a novel by English author Jane Austen. Written when she was aged 20–21, it was her third novel written and became the second to see print when it was published in 1813. A novel of manners, it follows the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Pride%20and%20Prejudice"
+      }
+    ],
+    "film": [
+      {
+        "id": "Q464032",
+        "title": "Cinema Paradiso",
+        "description": "Cinema Paradiso is a 1988 coming-of-age comedy-drama film written and directed by Giuseppe Tornatore.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Cinema%20Paradiso"
+      }
+    ],
+    "song": [
+      {
+        "id": "Q1971",
+        "title": "Imagine (song)",
+        "description": "\"Imagine\" is a song by the English musician John Lennon from his 1971 album of the same name. The lyrics encourage listeners to imagine a world of peace, beginning with living without religion and its concepts, without economic materialism, and without borders separating nations. Shortly before his death, Lennon said that much of the song's lyrics and content came from his wife, Yoko Ono; in 2017, she received credit as a co-writer.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Imagine%20(song)"
+      }
+    ],
+    "album": [
+      {
+        "id": "Q44320",
+        "title": "Thriller (album)",
+        "description": "Thriller is the sixth studio album by the American singer Michael Jackson. It was released on November 29, 1982, through Epic Records. It was produced by Quincy Jones, who produced Jackson's previous album, Off the Wall (1979). Recording took place from April to November 1982 at Westlake Recording Studios in Los Angeles, California, with a budget of $750,000. With an ongoing backlash against disco, Jackson transitioned his sound, with Thriller primarily featuring post-disco and synth-pop among various influences ranging from funk to rock, while its themes include paranoia, romance, and social consciousness. Paul McCartney appears as the first credited featured artist on a Jackson album.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Thriller%20(album)"
+      }
+    ],
+    "video-game": [
+      {
+        "id": "Q11168",
+        "title": "Super Mario Bros.",
+        "description": "Super Mario Bros. is a 1985 platform game developed and published by Nintendo for the Nintendo Entertainment System (NES). Directed and produced by Shigeru Miyamoto, it is the successor to the 1983 arcade game Mario Bros. and the first game in the Super Mario series. Players control Mario, or his brother Luigi in the multiplayer mode, to traverse the Mushroom Kingdom to rescue Princess Toadstool from King Koopa. They traverse side-scrolling stages while avoiding hazards such as enemies and pits and collecting power-ups such as the Super Mushroom, Fire Flower, and Starman.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Super%20Mario%20Bros."
+      }
+    ],
+    "board-game": [
+      {
+        "id": "Q11413",
+        "title": "Go (game)",
+        "description": "Go, weiqi, or baduk is an abstract strategy board game for two players in which the aim is to fence off more territory than the opponent. The game was invented in China more than 2,500 years ago and is believed to be the oldest board game continuously played to the present day. A 2016 survey by the International Go Federation's 75 member nations found that there are over 46 million people worldwide who know how to play Go, and over 20 million current players, the majority of whom live in East Asia.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Go%20(game)"
+      }
+    ],
+    "language": [
+      {
+        "id": "Q5287",
+        "title": "Japanese language",
+        "description": "Japanese  is the principal language of the Japonic language family spoken by the Japanese people. It has around 123 million speakers, primarily in Japan, the only country where it is the national language, and within the Japanese diaspora worldwide.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Japanese%20language"
+      }
+    ],
+    "writing-system": [
+      {
+        "id": "Q8209",
+        "title": "Cyrillic script",
+        "description": "The Cyrillic script is a writing system used for various languages across Eurasia. It is the designated national script in various Slavic, Turkic, Mongolic, Uralic, Caucasian and Iranic-speaking countries in Southeastern Europe, Eastern Europe, the Caucasus, Central Asia, North Asia, and East Asia, and used by many other minority languages.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Cyrillic%20script"
+      }
+    ],
+    "mythological-figure": [
+      {
+        "id": "Q37122",
+        "title": "Athena",
+        "description": "Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva and Etruscan Menrva. Athena was regarded as the patron and protectress of various cities across Greece, particularly the city of Athens, from which she most likely received her name. Her major symbols include owls, olive trees, snakes, and the gorgoneion. In art, she is generally depicted wearing a helmet and holding a spear.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Athena"
+      }
+    ],
+    "architectural-style": [
+      {
+        "id": "Q46261",
+        "title": "Romanesque architecture",
+        "description": "Romanesque architecture is an architectural style of medieval Europe that was predominant in the 11th and 12th centuries. The style eventually developed into the Gothic style with the shape of the arches providing a simple distinction: the Romanesque is characterized by semicircular arches, while the Gothic is marked by the pointed arches. The Romanesque emerged nearly simultaneously in multiple countries of Western Europe; its examples can be found across the continent, making it the first pan-European architectural style since Imperial Roman architecture. As is the case with Gothic, the name of the style was transferred onto the contemporary Romanesque art.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Romanesque%20architecture"
+      }
+    ],
+    "invention": [
+      {
+        "id": "Q144334",
+        "title": "Printing press",
+        "description": "A printing press is a machine that applies pressure to transfer ink onto a surface made of paper, cloth, or a similar material. Its workers are known as printing press operators. It marked a significant improvement on earlier methods, in which the paper was rubbed by hand to transfer applied ink to the printing surface.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Printing%20press"
+      }
+    ],
+    "discovery": [
+      {
+        "id": "Q12190",
+        "title": "Penicillin",
+        "description": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Eight species of Penicillium, in the section Chrysogena, produce penicillins. Most penicillins in clinical use are synthesised by P. chrysogenum using deep tank fermentation and then purified. A number of natural penicillins have been discovered, but only two purified compounds are in clinical use: penicillin G and penicillin V. Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are still widely used today for various bacterial infections, though many types of bacteria have developed resistance following extensive use.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Penicillin"
+      }
+    ],
+    "scientific-concept": [
+      {
+        "id": "Q11412",
+        "title": "Gravity",
+        "description": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Gravity"
+      }
+    ],
+    "mathematical-concept": [
+      {
+        "id": "Q167",
+        "title": "Pi",
+        "description": "The number π is a mathematical constant, approximately equal to 3.14159, that is the ratio of a circle's circumference to its diameter. It appears in many formulae across mathematics and physics, and some of these formulae are commonly used for defining π, to avoid relying on the definition of the length of a curve.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Pi"
+      }
+    ],
+    "unit-of-measurement": [
+      {
+        "id": "Q11574",
+        "title": "Second",
+        "description": "The second is a unit of time derived from the division of the day, first into 24 hours, then into 60 minutes, and lastly into 60 seconds, for a total of 24 × 60 × 60 = 86400 seconds per day. That definition, based on 1⁄86400 of a rotation of the Earth, is still used by the Universal Time 1 (UT1) system.",
+        "sourceId": "wikipedia",
+        "sourceName": "Wikipedia contributors",
+        "license": "CC BY-SA",
+        "sourceItemUrl": "https://en.wikipedia.org/wiki/Second"
+      }
+    ]
+  }
+}

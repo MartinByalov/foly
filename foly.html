@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>FOLY. | Under Development</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: #101010; color: #fff; font-family: Arial, Helvetica, sans-serif; }
+    .preview { position: fixed; inset: -16px; filter: blur(9px); pointer-events: none; user-select: none; }
+    .preview iframe { display: block; width: 100%; height: 100%; border: 0; }
+    .notice { position: relative; z-index: 1; min-height: 100vh; min-height: 100svh; display: grid; place-items: center; padding: 32px 24px; text-align: center; background: rgba(0, 0, 0, .65); }
+    .notice-content { max-width: 620px; }
+    .brand { margin: 0 0 28px; font-size: 20px; font-weight: 800; letter-spacing: -.05em; }
+    h1 { margin: 0; font-size: clamp(32px, 7vw, 64px); line-height: 1.1; letter-spacing: -.04em; }
+    .description { margin: 24px 0 0; color: #d0d0d0; font-size: 16px; line-height: 1.7; }
+  </style>
+</head>
+<body>
+  <div class="preview" aria-hidden="true" inert>
+    <iframe src="./index.html" title="Foly background preview" tabindex="-1"></iframe>
+  </div>
+  <main class="notice">
+    <div class="notice-content">
+      <p class="brand">FOLY.</p>
+      <h1>Under Development</h1>
+      <p class="description">We're working on something worth discovering.<br />Check back soon.</p>
+    </div>
+  </main>
+</body>
+</html>

@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "smithsonian:ld1-1690368620355-1690368630080-1",
+    "formatId": "fossil",
+    "title": "Plant Type",
+    "description": "Plant Type.",
+    "image": "./media/fallbacks/cd24facfcc63e98dec762b4ea923eb503a5b32c7978bf24496467c34df2435a9.jpg",
+    "imageAlt": "Plant Type",
+    "sourceId": "smithsonian",
+    "sourceName": "Smithsonian Open Access",
+    "sourceItemUrl": "https://n2t.net/ark:/65665/37db87a51-49c0-492a-bc42-cefc1509c80c",
+    "facts": [],
+    "interaction": null,
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Smithsonian Institution",
+      "attribution": "Smithsonian Open Access",
+      "sourceItemUrl": "https://n2t.net/ark:/65665/37db87a51-49c0-492a-bc42-cefc1509c80c",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt",
+      "verifiedAt": "2026-10-08T21:18:50.893Z"
+    }
+  },
+  {
+    "id": "smithsonian:ld1-1690368620355-1690368630082-2",
+    "formatId": "fossil",
+    "title": "Plant Type",
+    "description": "Plant Type.",
+    "image": "./media/fallbacks/37db8433ae89dd8481b51beade57ea6a0e6049a1e6aad2a5706d473a9c25189e.jpg",
+    "imageAlt": "Plant Type",
+    "sourceId": "smithsonian",
+    "sourceName": "Smithsonian Open Access",
+    "sourceItemUrl": "https://n2t.net/ark:/65665/340ecbb3e-107d-4999-9ac8-56d91b965af3",
+    "facts": [],
+    "interaction": null,
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Smithsonian Institution",
+      "attribution": "Smithsonian Open Access",
+      "sourceItemUrl": "https://n2t.net/ark:/65665/340ecbb3e-107d-4999-9ac8-56d91b965af3",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt",
+      "verifiedAt": "2026-10-08T21:18:50.893Z"
+    }
+  },
+  {
+    "id": "smithsonian:ld1-1643414619536-1643414657203-0",
+    "formatId": "fossil",
+    "title": "Priconodon crassus Marsh, 1888",
+    "description": "Priconodon crassus Marsh, 1888.",
+    "image": "./media/fallbacks/247bc4f930b4322d1c3a8bcbece6b0a4d5acd2927d2cc2fa746d2bebc5960fd8.jpg",
+    "imageAlt": "Priconodon crassus Marsh, 1888",
+    "sourceId": "smithsonian",
+    "sourceName": "Smithsonian Open Access",
+    "sourceItemUrl": "https://n2t.net/ark:/65665/346fc51bc-cacb-4ba1-a999-9da8481f6ddd",
+    "facts": [],
+    "interaction": null,
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Smithsonian Institution",
+      "attribution": "Smithsonian Open Access",
+      "sourceItemUrl": "https://n2t.net/ark:/65665/346fc51bc-cacb-4ba1-a999-9da8481f6ddd",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmnhpaleo/00.txt",
+      "verifiedAt": "2026-10-08T21:18:50.893Z"
+    }
+  },
+  {
+    "id": "met:728272",
+    "formatId": "mystery-object",
+    "title": "Ancient Ruins, Bangkok",
+    "description": "1865 · Albumen silver print from glass negative.",
+    "image": "./media/fallbacks/2114e9e7ad9395c23b86cd779bc2afe42e8f20975753361b43828e439bb38d12.jpg",
+    "imageAlt": "Ancient Ruins, Bangkok",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/728272",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Ancient Ruins, Bangkok",
+      "details": "1865 · Albumen silver print from glass negative · John Thomson."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "John Thomson",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/728272",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/728272",
+      "verifiedAt": "2026-10-09T07:47:49.947Z"
+    }
+  },
+  {
+    "id": "met:191962",
+    "formatId": "mystery-object",
+    "title": "Ancient-style plaquette of Diana",
+    "description": "15Th century · Bronze.",
+    "image": "./media/fallbacks/ce137aa350eb165346b8d5c86b4d38c27ae37c72d80149eeb6d3fba98817ff6c.jpg",
+    "imageAlt": "Ancient-style plaquette of Diana",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/191962",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Ancient-style plaquette of Diana",
+      "details": "15Th century · Bronze."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/191962",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/191962",
+      "verifiedAt": "2026-10-09T07:47:49.947Z"
+    }
+  },
+  {
+    "id": "met:16042",
+    "formatId": "mystery-object",
+    "title": "Ancient Walls, 1904 (from Sketchbook)",
+    "description": "1904 · Graphite on paper · American.",
+    "image": "./media/fallbacks/005384911faf8b5020db1a9653d966497d4a1acd880aa1492bb189979c7a0aaf.jpg",
+    "imageAlt": "Ancient Walls, 1904 (from Sketchbook)",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/16042",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Ancient Walls, 1904 (from Sketchbook)",
+      "details": "1904 · Graphite on paper · Mary Newbold Sargent."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Mary Newbold Sargent",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/16042",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/16042",
+      "verifiedAt": "2026-10-09T07:47:49.947Z"
+    }
+  },
+  {
+    "id": "met:736617",
+    "formatId": "what-used-for",
+    "title": "Ancient Concerts – A Rehearsal",
+    "description": "May 14, 1838 · Lithograph.",
+    "image": "./media/fallbacks/43c8ed5603453c0f97b4abc6919112ad0bd309b48f6b9cdfd1f15c36bb49ad61.jpg",
+    "imageAlt": "Ancient Concerts – A Rehearsal",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/736617",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Ancient Concerts – A Rehearsal",
+      "details": "May 14, 1838 · Lithograph · John Doyle."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "John Doyle",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/736617",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/736617",
+      "verifiedAt": "2026-10-09T07:47:51.878Z"
+    }
+  },
+  {
+    "id": "met:16042",
+    "formatId": "what-used-for",
+    "title": "Ancient Walls, 1904 (from Sketchbook)",
+    "description": "1904 · Graphite on paper · American.",
+    "image": "./media/fallbacks/fed18d1f6bfe7c9626b26f6323c7f202a80162f25df289d4d115729d68f36ff9.jpg",
+    "imageAlt": "Ancient Walls, 1904 (from Sketchbook)",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/16042",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Ancient Walls, 1904 (from Sketchbook)",
+      "details": "1904 · Graphite on paper · Mary Newbold Sargent."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Mary Newbold Sargent",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/16042",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/16042",
+      "verifiedAt": "2026-10-09T07:47:51.878Z"
+    }
+  },
+  {
+    "id": "met:35855",
+    "formatId": "weapon-or-decoration",
+    "title": "Armor",
+    "description": "Ca. 1525 and later · Steel, leather · German, Augsburg.",
+    "image": "./media/fallbacks/f5d607b9842360bd9edcb0d21d39f37edf9b2473d1e5c19fa0e05d5895eba413.jpg",
+    "imageAlt": "Armor",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/35855",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Armor",
+      "details": "Ca. 1525 and later · Steel, leather · Kolman Helmschmid."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Kolman Helmschmid",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/35855",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/35855",
+      "verifiedAt": "2026-10-09T07:47:53.755Z"
+    }
+  },
+  {
+    "id": "met:256186",
+    "formatId": "guess-century",
+    "title": "Wall painting",
+    "description": "Mid-4th century BCE · Fresco · Greek, South Italian, Lucanian.",
+    "image": "./media/fallbacks/7654dc84cded30ac470216cd4836bdc6cc087b9c28441e94169012b45c70f271.jpg",
+    "imageAlt": "Wall painting",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/256186",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "4th century BCE",
+      "details": "Mid-4th century BCE · Fresco."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/256186",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/256186",
+      "verifiedAt": "2026-10-09T07:47:54.209Z"
+    }
+  },
+  {
+    "id": "met:670172",
+    "formatId": "guess-century",
+    "title": "Painting",
+    "description": "1784 (?) · Stipple engraving.",
+    "image": "./media/fallbacks/5a4766df8c3a5cd3966945227260891c15822dac26a40e35d87f5acc9dfb574e.jpg",
+    "imageAlt": "Painting",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/670172",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "18th century",
+      "details": "1784 (?) · Stipple engraving · Thomas Rowlandson."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Thomas Rowlandson",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/670172",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/670172",
+      "verifiedAt": "2026-10-09T07:47:54.210Z"
+    }
+  },
+  {
+    "id": "met:51867",
+    "formatId": "guess-century",
+    "title": "Painting",
+    "description": "20Th century · Leaf from an album; ink on paper · China.",
+    "image": "./media/fallbacks/5c777f1e2e80d6aa6866b1e1f2f11dbe9655e06e8e2cb24307cd6b19905b4393.jpg",
+    "imageAlt": "Painting",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/51867",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "19th century",
+      "details": "20Th century · Leaf from an album; ink on paper · Unidentified artist."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified artist",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/51867",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/51867",
+      "verifiedAt": "2026-10-09T07:47:54.210Z"
+    }
+  },
+  {
+    "id": "met:728267",
+    "formatId": "guess-material",
+    "title": "Ancient Ruins in the Interior",
+    "description": "1865 · Albumen silver print from glass negative.",
+    "image": "./media/fallbacks/d665415073afec542b398ff8e00669215f6322ed9cf7104583210b4d5a276a75.jpg",
+    "imageAlt": "Ancient Ruins in the Interior",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/728267",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Albumen silver print from glass negative",
+      "details": "1865 · Albumen silver print from glass negative · John Thomson."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "John Thomson",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/728267",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/728267",
+      "verifiedAt": "2026-10-09T07:47:56.286Z"
+    }
+  },
+  {
+    "id": "met:41847",
+    "formatId": "guess-material",
+    "title": "Hall of Ancient Airs",
+    "description": "Late 19th–early 20th century · Pine soot and binding medium; inscribed in gilt · China.",
+    "image": "./media/fallbacks/84bf04db9c1185e5623ef2124cd1a1909ac5c0179c2216b1427b1cde98b5c54f.jpg",
+    "imageAlt": "Hall of Ancient Airs",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/41847",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Pine soot and binding medium; inscribed in gilt",
+      "details": "Late 19th–early 20th century · Pine soot and binding medium; inscribed in gilt · Jian Guzhai."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Jian Guzhai",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/41847",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/41847",
+      "verifiedAt": "2026-10-09T07:47:56.286Z"
+    }
+  },
+  {
+    "id": "met:43705",
+    "formatId": "guess-material",
+    "title": "Ancient worked fragment",
+    "description": "Jadeite · Guatemala.",
+    "image": "./media/fallbacks/8eddaa806097ea155fe672a98dfc927a89584a4fb35f990282296f7d8f08f433.jpg",
+    "imageAlt": "Ancient worked fragment",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/43705",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Jadeite",
+      "details": "Jadeite."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/43705",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/43705",
+      "verifiedAt": "2026-10-09T07:47:56.286Z"
+    }
+  },
+  {
+    "id": "met:9327",
+    "formatId": "guess-artwork",
+    "title": "Vase",
+    "description": "1906 · Earthenware · American.",
+    "image": "./media/fallbacks/65dd32b65d4f637845c8dde953700739153c1da23056c715a27ffca820006fde.jpg",
+    "imageAlt": "Vase",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/9327",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Vase",
+      "details": "1906 · Earthenware · Clifton Art Pottery."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Clifton Art Pottery",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/9327",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/9327",
+      "verifiedAt": "2026-10-09T08:41:47.725Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:47.768Z",
+      "provider": "met",
+      "originalImage": "https://images.metmuseum.org/CRDImages/ad/web-thumb/DP229981.jpg"
+    }
+  },
+  {
+    "id": "met:9327",
+    "formatId": "guess-crop",
+    "title": "Vase",
+    "description": "1906 · Earthenware · American.",
+    "image": "./media/fallbacks/65dd32b65d4f637845c8dde953700739153c1da23056c715a27ffca820006fde.jpg",
+    "imageAlt": "Vase",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/9327",
+    "facts": [],
+    "interaction": {
+      "type": "crop",
+      "answer": "Vase",
+      "details": "1906 · Earthenware · Clifton Art Pottery."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Clifton Art Pottery",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/9327",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/9327",
+      "verifiedAt": "2026-10-09T07:48:00.365Z"
+    }
+  },
+  {
+    "id": "met:786756",
+    "formatId": "guess-crop",
+    "title": "Diptych of Kali / Tara, wrathful protectors",
+    "description": "1885–90 · Chromolithographic on paper · India, Kolkata, West Bengall.",
+    "image": "./media/fallbacks/7419ad7b427d2f893becd6150132c6ce011aaea4f267215a6c5e0ae8d29f4d1d.jpg",
+    "imageAlt": "Diptych of Kali / Tara, wrathful protectors",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/786756",
+    "facts": [],
+    "interaction": {
+      "type": "crop",
+      "answer": "Diptych of Kali / Tara, wrathful protectors",
+      "details": "1885–90 · Chromolithographic on paper · Calcutta Art Studio."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Calcutta Art Studio",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/786756",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/786756",
+      "verifiedAt": "2026-10-09T07:48:00.365Z"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200106038",
+    "formatId": "guess-century",
+    "title": "The Stone Bridge",
+    "description": "C. 1638 · oil on panel · Rembrandt van Rijn.",
+    "image": "./media/fallbacks/f1d41223ba1e2665356a6f8a87ca487d770458a5118e12754eb35477486e14db.jpg",
+    "imageAlt": "The Stone Bridge",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-1935--d27d7ce1f58c87131f14425799c2d0a4",
+    "interaction": {
+      "type": "reveal",
+      "answer": "17th century",
+      "details": "c. 1638 · oil on panel · Rembrandt van Rijn"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Rembrandt van Rijn",
+      "attribution": "Rembrandt van Rijn · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-1935--d27d7ce1f58c87131f14425799c2d0a4",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200106038?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:47.436Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:47.634Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/hodeb/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107845",
+    "formatId": "guess-century",
+    "title": "Jan Vos (1610-67), Amsterdam poet",
+    "description": "1700 - 1732 · Oil on tin · Arnoud van Halen.",
+    "image": "./media/fallbacks/147b318df214d4b0a2a78847cd4306355527b105d850eb5098a87ec6d4cf3d99.jpg",
+    "imageAlt": "Jan Vos (1610-67), Amsterdam poet",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4592--4fd2d4ac6d7fc6bbea3a9ac450545897",
+    "interaction": {
+      "type": "reveal",
+      "answer": "17th century",
+      "details": "1700 - 1732 · oil on tin · Arnoud van Halen"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Arnoud van Halen",
+      "attribution": "Arnoud van Halen · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4592--4fd2d4ac6d7fc6bbea3a9ac450545897",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107845?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:46.963Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:47.663Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/CKDdN/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107790",
+    "formatId": "guess-century",
+    "title": "The Crucifixion",
+    "description": "C. 1360 - c. 1370 · tempera on panel · follower of Altichiero da Verona.",
+    "image": "./media/fallbacks/b114431cdb1c74bc90de7d1166f82c6558220f2bf88e9a45b32712cd2d72ca01.jpg",
+    "imageAlt": "The Crucifixion",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4008--26c15fe531a1018e8822f293562fc885",
+    "interaction": {
+      "type": "reveal",
+      "answer": "14th century",
+      "details": "c. 1360 - c. 1370 · tempera on panel · follower of Altichiero da Verona"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "follower of Altichiero da Verona",
+      "attribution": "follower of Altichiero da Verona · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4008--26c15fe531a1018e8822f293562fc885",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107790?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:47.375Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:48.145Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/whnXa/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107818",
+    "formatId": "guess-century",
+    "title": "The Watercourse near 's-Graveland",
+    "description": "1818 · Oil on canvas · Pieter Gerardus van Os (mentioned on object).",
+    "image": "./media/fallbacks/ddb223ef46e3c7c4f299f1ff165fa256b2177670b457a5f627d14eca9608cc5d.jpg",
+    "imageAlt": "The Watercourse near 's-Graveland",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-3230--b38187564a7c1b7ec85f3e8fc0d19c08",
+    "interaction": {
+      "type": "reveal",
+      "answer": "19th century",
+      "details": "1818 · oil on canvas · Pieter Gerardus van Os (mentioned on object)"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Pieter Gerardus van Os (mentioned on object)",
+      "attribution": "Pieter Gerardus van Os (mentioned on object) · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-3230--b38187564a7c1b7ec85f3e8fc0d19c08",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107818?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:46.963Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:48.169Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/NdHpv/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107792",
+    "formatId": "guess-artist",
+    "title": "Mountainous Landscape near Düsseldorf",
+    "description": "1790 · Oil on panel · Gerard van Nijmegen.",
+    "image": "./media/fallbacks/771585c85dd275abe67924e2152887f4f19c19bf38d4ba16a10a98a38fe39420.jpg",
+    "imageAlt": "Mountainous Landscape near Düsseldorf",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4223--a8db52bed1f3024ccf360d6275f9b9a7",
+    "interaction": {
+      "type": "reveal",
+      "answer": "Gerard van Nijmegen",
+      "details": "1790 · oil on panel · Gerard van Nijmegen"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Gerard van Nijmegen",
+      "attribution": "Gerard van Nijmegen · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4223--a8db52bed1f3024ccf360d6275f9b9a7",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107792?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:48.927Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:49.714Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/OfGsE/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107843",
+    "formatId": "guess-artist",
+    "title": "Portrait of Petrus Baard, Physician and Poet from Leeuwarden",
+    "description": "1700 - 1732 · Arnoud van Halen.",
+    "image": "./media/fallbacks/c00a1ba52173155816d581cea9415130c336acf7cf8fdf2a192000574c12208a.jpg",
+    "imageAlt": "Portrait of Petrus Baard, Physician and Poet from Leeuwarden",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4569--ae9dc31e4a5e301236957c51abde38a9",
+    "interaction": {
+      "type": "reveal",
+      "answer": "Arnoud van Halen",
+      "details": "1700 - 1732 · Arnoud van Halen"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Arnoud van Halen",
+      "attribution": "Arnoud van Halen · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-4569--ae9dc31e4a5e301236957c51abde38a9",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107843?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:48.933Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:50.327Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/tLJKd/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200106078",
+    "formatId": "guess-artist",
+    "title": "The Raampoortje in Amsterdam",
+    "description": "1809 · Oil on canvas · Wouter Johannes van Troostwijk.",
+    "image": "./media/fallbacks/6869bce2deecc4a58ea5b1e227233b49feaeb2882853e76498cb82374521599d.jpg",
+    "imageAlt": "The Raampoortje in Amsterdam",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-C-1535--ce63a7a77530ce7ddf9707a732e9b76d",
+    "interaction": {
+      "type": "reveal",
+      "answer": "Wouter Johannes van Troostwijk",
+      "details": "1809 · oil on canvas · Wouter Johannes van Troostwijk"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Wouter Johannes van Troostwijk",
+      "attribution": "Wouter Johannes van Troostwijk · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-C-1535--ce63a7a77530ce7ddf9707a732e9b76d",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200106078?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:48.993Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:50.414Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/vHCad/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "https://id.rijksmuseum.nl/200107828",
+    "formatId": "guess-artist",
+    "title": "Portrait of Jan Amos Comenius",
+    "description": "1650 - 1670 · Oil on canvas · Jürgen Ovens.",
+    "image": "./media/fallbacks/48d21eb072e90ed437fa9342a3723ecbb3630c9f0e52c4a5eb343d8c984bbc9a.jpg",
+    "imageAlt": "Portrait of Jan Amos Comenius",
+    "sourceId": "rijksmuseum",
+    "sourceName": "Rijksmuseum",
+    "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-2161--a0fd2c3be578ec360aadac312b864d12",
+    "interaction": {
+      "type": "reveal",
+      "answer": "Jürgen Ovens",
+      "details": "1650 - 1670 · oil on canvas · Jürgen Ovens"
+    },
+    "facts": [],
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "PDM",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "creator": "Jürgen Ovens",
+      "attribution": "Jürgen Ovens · Rijksmuseum · PDM",
+      "sourceItemUrl": "https://www.rijksmuseum.nl/nl/collectie/object/SK-A-2161--a0fd2c3be578ec360aadac312b864d12",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://data.rijksmuseum.nl/200107828?_profile=la-framed",
+      "verifiedAt": "2026-10-09T08:39:48.995Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:39:51.159Z",
+      "provider": "rijksmuseum",
+      "originalImage": "https://iiif.micr.io/QtDLU/full/600,/0/default.jpg"
+    }
+  },
+  {
+    "id": "met:22270",
+    "formatId": "weapon-or-decoration",
+    "title": "Armor",
+    "description": "Ca. 1560–65 · Steel, leather · Northern German, possibly Brunswick-Wolfenbüttel.",
+    "image": "./media/fallbacks/312073286aa3ba5f38d139df4027cf97e9829a6afd6a8298d50698b862b93db9.jpg",
+    "imageAlt": "Armor",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22270",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Armor",
+      "details": "Ca. 1560–65 · Steel, leather."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22270",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/22270",
+      "verifiedAt": "2026-10-09T08:41:46.083Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:46.385Z",
+      "provider": "met",
+      "originalImage": "https://images.metmuseum.org/CRDImages/aa/web-thumb/DP-36242-003.jpg"
+    }
+  },
+  {
+    "id": "met:22020",
+    "formatId": "weapon-or-decoration",
+    "title": "Armor (Gusoku)",
+    "description": "19Th century · Iron, leather, lacquer, silk, copper alloy · Japanese.",
+    "image": "./media/fallbacks/e09bb8de6dbcadfa0b500a764be2649f11eb9a580267c9adc104f456c278c3e3.jpg",
+    "imageAlt": "Armor (Gusoku)",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22020",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Armor (Gusoku)",
+      "details": "19Th century · Iron, leather, lacquer, silk, copper alloy."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22020",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/22020",
+      "verifiedAt": "2026-10-09T08:41:46.083Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:46.431Z",
+      "provider": "met",
+      "originalImage": "https://images.metmuseum.org/CRDImages/aa/web-thumb/DP264123.jpg"
+    }
+  },
+  {
+    "id": "met:22277",
+    "formatId": "weapon-or-decoration",
+    "title": "Armor",
+    "description": "Ca. 1500–1510 and later; helmet, ca. 1480 · Steel, leather · Italian.",
+    "image": "./media/fallbacks/46fd3b56fa3ac8f912df3f94998dea1786e3cefdf3245609d0faeeab135c2a18.jpg",
+    "imageAlt": "Armor",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22277",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Armor",
+      "details": "Ca. 1500–1510 and later; helmet, ca. 1480 · Steel, leather."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22277",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/22277",
+      "verifiedAt": "2026-10-09T08:41:46.083Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:46.580Z",
+      "provider": "met",
+      "originalImage": "https://images.metmuseum.org/CRDImages/aa/web-thumb/14.25.718_170758_May2015.jpg"
+    }
+  },
+  {
+    "id": "met:22276",
+    "formatId": "weapon-or-decoration",
+    "title": "Armor",
+    "description": "Ca. 1575; breastplate, later; lancerest and gilt decoration, probably 18th–19th century · Steel, gold, leather, copper alloy, textile · Italian, probably Milan.",
+    "image": "./media/fallbacks/8a3879e858e47f9cffc126d33ec36b6021b9a1cdb61cc8f08a42ea81b876c45c.jpg",
+    "imageAlt": "Armor",
+    "sourceId": "met",
+    "sourceName": "The Metropolitan Museum of Art",
+    "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22276",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Armor",
+      "details": "Ca. 1575; breastplate, later; lancerest and gilt decoration, probably 18th–19th century · Steel, gold, leather, copper alloy, textile."
+    },
+    "mediaAllowed": true,
+    "publicDomain": true,
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Unidentified maker",
+      "attribution": "The Metropolitan Museum of Art · Open Access",
+      "sourceItemUrl": "https://www.metmuseum.org/art/collection/search/22276",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://collectionapi.metmuseum.org/public/collection/v1/objects/22276",
+      "verifiedAt": "2026-10-09T08:41:46.083Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:46.627Z",
+      "provider": "met",
+      "originalImage": "https://images.metmuseum.org/CRDImages/aa/web-thumb/25233.jpg"
+    }
+  },
+  {
+    "id": "cleveland:109042",
+    "formatId": "guess-artwork",
+    "title": "Art Lovers",
+    "description": "C. 1863 · Gray and black wash, charcoal, and graphite, with watercolor, on cream laid paper · Honoré Daumier (French, 1808–1879).",
+    "image": "./media/fallbacks/1b9b31148006ee579abc78ba6d8559f1d4e5ee8b17eb60b77bc6a56c270ebe04.jpg",
+    "imageAlt": "Art Lovers",
+    "sourceId": "cleveland",
+    "sourceName": "Cleveland Museum of Art",
+    "sourceItemUrl": "https://clevelandart.org/art/1927.208",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Art Lovers",
+      "details": "C. 1863 · Gray and black wash, charcoal, and graphite, with watercolor, on cream laid paper · Honoré Daumier (French, 1808–1879)."
+    },
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Honoré Daumier (French, 1808–1879)",
+      "attribution": "Cleveland Museum of Art · CC0",
+      "sourceItemUrl": "https://clevelandart.org/art/1927.208",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://openaccess-api.clevelandart.org/api/artworks/?q=art&cc0=1&has_image=1&limit=30",
+      "verifiedAt": "2026-10-09T08:41:48.664Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:49.153Z",
+      "provider": "cleveland",
+      "originalImage": "https://openaccess-cdn.clevelandart.org/1927.208/1927.208_web.jpg"
+    }
+  },
+  {
+    "id": "cleveland:370537",
+    "formatId": "guess-artwork",
+    "title": "Jack-in-the-Pulpit Vase",
+    "description": "C. 1900–1920 · blown glass · Quezal Art Glass and Decorating Company (American, 1901–1924).",
+    "image": "./media/fallbacks/ca2d573d97e8ff2cd72a051053e6da56637c709a6109762bd2d47596c6edb89a.jpg",
+    "imageAlt": "Jack-in-the-Pulpit Vase",
+    "sourceId": "cleveland",
+    "sourceName": "Cleveland Museum of Art",
+    "sourceItemUrl": "https://clevelandart.org/art/2019.244",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "Jack-in-the-Pulpit Vase",
+      "details": "C. 1900–1920 · blown glass · Quezal Art Glass and Decorating Company (American, 1901–1924)."
+    },
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Quezal Art Glass and Decorating Company (American, 1901–1924)",
+      "attribution": "Cleveland Museum of Art · CC0",
+      "sourceItemUrl": "https://clevelandart.org/art/2019.244",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://openaccess-api.clevelandart.org/api/artworks/?q=art&cc0=1&has_image=1&limit=30",
+      "verifiedAt": "2026-10-09T08:41:48.664Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:49.601Z",
+      "provider": "cleveland",
+      "originalImage": "https://openaccess-cdn.clevelandart.org/2019.244/2019.244_web.jpg"
+    }
+  },
+  {
+    "id": "cleveland:103074",
+    "formatId": "guess-artwork",
+    "title": "American Red Cross War Council Medal (obverse)",
+    "description": "1920 · Bronze · Daniel Chester French (American, 1850–1931); Medallic Art Company (American).",
+    "image": "./media/fallbacks/d58a81798c217558a97c8e7fc21e2a9c569cfd6fdf2703b73588e2cc8896d412.jpg",
+    "imageAlt": "American Red Cross War Council Medal (obverse)",
+    "sourceId": "cleveland",
+    "sourceName": "Cleveland Museum of Art",
+    "sourceItemUrl": "https://clevelandart.org/art/1921.1724.a",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "American Red Cross War Council Medal (obverse)",
+      "details": "1920 · Bronze · Daniel Chester French (American, 1850–1931); Medallic Art Company (American)."
+    },
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Daniel Chester French (American, 1850–1931); Medallic Art Company (American)",
+      "attribution": "Cleveland Museum of Art · CC0",
+      "sourceItemUrl": "https://clevelandart.org/art/1921.1724.a",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://openaccess-api.clevelandart.org/api/artworks/?q=art&cc0=1&has_image=1&limit=30",
+      "verifiedAt": "2026-10-09T08:41:48.664Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:50.486Z",
+      "provider": "cleveland",
+      "originalImage": "https://openaccess-cdn.clevelandart.org/1921.1724.a/1921.1724.a_web.jpg"
+    }
+  },
+  {
+    "id": "cleveland:103075",
+    "formatId": "guess-artwork",
+    "title": "American Red Cross War Council Medal (reverse)",
+    "description": "1920 · Bronze · Daniel Chester French (American, 1850–1931); Medallic Art Company (American).",
+    "image": "./media/fallbacks/e0903428b48ac9add4b0be51683b1c8ca8002bf3128ca64b9f6b9c5a411dd7c2.jpg",
+    "imageAlt": "American Red Cross War Council Medal (reverse)",
+    "sourceId": "cleveland",
+    "sourceName": "Cleveland Museum of Art",
+    "sourceItemUrl": "https://clevelandart.org/art/1921.1724.b",
+    "facts": [],
+    "interaction": {
+      "type": "reveal",
+      "answer": "American Red Cross War Council Medal (reverse)",
+      "details": "1920 · Bronze · Daniel Chester French (American, 1850–1931); Medallic Art Company (American)."
+    },
+    "rights": {
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "creator": "Daniel Chester French (American, 1850–1931); Medallic Art Company (American)",
+      "attribution": "Cleveland Museum of Art · CC0",
+      "sourceItemUrl": "https://clevelandart.org/art/1921.1724.b",
+      "commercialReuse": true,
+      "derivativesAllowed": true,
+      "verifiedBy": "https://openaccess-api.clevelandart.org/api/artworks/?q=art&cc0=1&has_image=1&limit=30",
+      "verifiedAt": "2026-10-09T08:41:48.664Z"
+    },
+    "snapshot": {
+      "capturedAt": "2026-10-09T08:41:51.399Z",
+      "provider": "cleveland",
+      "originalImage": "https://openaccess-cdn.clevelandart.org/1921.1724.b/1921.1724.b_web.jpg"
+    }
+  }
+]
