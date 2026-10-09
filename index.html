@@ -4,62 +4,31 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#000000" />
-  <meta name="description" content="Foly: a daily flow of things worth seeing, knowing and discovering." />
-  <title>FOLY. | A daily flow of things</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <title>FOLY. | Under Development</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-  <link rel="stylesheet" href="./css/base.css" />
-  <link rel="stylesheet" href="./css/theme.css" />
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: #101010; color: #fff; font-family: Arial, Helvetica, sans-serif; }
+    .preview { position: fixed; inset: -16px; filter: blur(9px); pointer-events: none; user-select: none; }
+    .preview iframe { display: block; width: 100%; height: 100%; border: 0; }
+    .notice { position: relative; z-index: 1; min-height: 100vh; min-height: 100svh; display: grid; place-items: center; padding: 32px 24px; text-align: center; background: rgba(0, 0, 0, .65); }
+    .notice-content { max-width: 620px; }
+    .brand { margin: 0 0 28px; font-size: 20px; font-weight: 800; letter-spacing: -.05em; }
+    h1 { margin: 0; font-size: clamp(32px, 7vw, 64px); line-height: 1.1; letter-spacing: -.04em; }
+    .description { margin: 24px 0 0; color: #d0d0d0; font-size: 16px; line-height: 1.7; }
+  </style>
 </head>
 <body>
-<header class="site-header">
-  <div class="header-inner">
-    <a class="brand" href="#">FOLY.</a>
-    <div class="header-meta">
-      <span class="date-long" id="headerDate">Daily edition</span>
-      <button class="ghost-btn formats-btn" id="formatsBtn" type="button">100 formats</button>
-      <button class="ghost-btn" id="randomBtn" type="button">Surprise me</button>
-    </div>
+  <div class="preview" aria-hidden="true" inert>
+    <iframe src="./index.html" title="Foly background preview" tabindex="-1"></iframe>
   </div>
-</header>
-<main class="page">
-  <div class="video-bg" aria-hidden="true">
-    <video class="background-video" muted playsinline preload="auto">
-      <source src="https://video.wixstatic.com/video/26357a_07594806ca564172be0267fa44f5ac9a/720p/mp4/file.mp4" type="video/mp4" />
-    </video>
-    <div class="video-overlay"></div>
-  </div>
-  <section class="content">
-    <div class="intro">
-      <p class="intro-kicker" id="editionLabel">Daily edition</p>
-      <h1>FOLY<span>.</span></h1>
-      <div class="intro-line"></div>
-      <p>100 things worth seeing and discovering. One day at a time.</p>
+  <main class="notice">
+    <div class="notice-content">
+      <p class="brand">FOLY.</p>
+      <h1>Under Development</h1>
+      <p class="description">We're working on something worth discovering.<br />Check back soon.</p>
     </div>
-    <nav class="filter-row" aria-label="Content filters">
-      <button class="filter-btn active" data-filter="all" aria-pressed="true" type="button">Everything</button>
-      <button class="filter-btn" data-filter="play" aria-pressed="false" type="button">Play</button>
-      <button class="filter-btn" data-filter="see" aria-pressed="false" type="button">See</button>
-      <button class="filter-btn" data-filter="know" aria-pressed="false" type="button">Know</button>
-      <button class="filter-btn" data-filter="today" aria-pressed="false" type="button">Today</button>
-    </nav>
-    <div class="cards" id="cards"></div>
-    <div class="archive-bar">
-      <span>NO DOOMSCROLLING</span>
-      <span>Next Foly in <span class="countdown" id="countdown">--:--:--</span></span>
-      <span>New edition tomorrow</span>
-    </div>
-  </section>
-</main>
-<div class="drawer-backdrop" id="drawerBackdrop"></div>
-<aside class="drawer" id="drawer" aria-hidden="true">
-  <div class="drawer-head"><div><div class="drawer-title">The Foly 100</div><div class="drawer-sub">Available and upcoming formats</div></div>
-    <button class="drawer-close" id="drawerClose" type="button" aria-label="Close formats">×</button></div>
-  <div class="format-grid" id="formatGrid"></div>
-</aside>
-<dialog class="media-dialog" id="mediaDialog" aria-label="Media preview">
-  <button class="dialog-close" id="dialogClose" type="button" aria-label="Close preview">×</button>
-  <div class="dialog-content" id="dialogContent"></div>
-</dialog>
-<script type="module" src="./js/app.js"></script>
+  </main>
 </body>
 </html>
