@@ -1,0 +1,812 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dam.museabrugge.be/iiif/3/6733/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Afternoon Tea"
+    ],
+    "nl": [
+      "Het vieruurtje"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "IIIF manifest"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://dam.museabrugge.be/iiif/3/6733/manifest.json\">https://dam.museabrugge.be/iiif/3/6733/manifest.json</a>"
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "nl": [
+        "Naamsvermelding"
+      ]
+    },
+    "value": {
+      "en": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be/en\">Musea Brugge</a><br><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Musea Brugge would appreciate having three copies sent to Musea Brugge, Dijver 12, 8000 Brugge. More information: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+      ],
+      "nl": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be\">Musea Brugge</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Musea Brugge dat drie exemplaren worden toegestuurd naar Musea Brugge, Dijver 12, 8000 Brugge. Meer info: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+      ]
+    }
+  },
+  "seeAlso": [
+    {
+      "id": "https://datahub.museabrugge.be/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.museabrugge.be:www.museabrugge.be:0000_GRO1356_I",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Object Description in XML"
+        ],
+        "nl": [
+          "Objectbeschrijving in XML"
+        ]
+      },
+      "format": "text/xml",
+      "profile": "http://www.lido-schema.org"
+    }
+  ],
+  "start": {
+    "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/3",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO1356.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Afternoon Tea"
+            ],
+            "nl": [
+              "Het vieruurtje"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Garemijn, Jan Anton"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO1356.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Foto: Hugo Maertens"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dit decoratieve genrestuk schetst een sfeervol beeld van het leven in een welgestelde Brugse burgerfamilie tijdens de 18de eeuw. Een vrouw en zes meisjes houden zich bezig met naai- en verstelwerk terwijl een bediende het vieruurtje op een dienblad binnenbrengt. Het tijdstip kan afgelezen worden op het uurwerk rechts. Het is vijf voor vier. Ondertussen wordt een priester binnengeleid door de heer des huizes, die op een wandelstok met versierde knop rust. De figuren behoren tot de standaardtypen van de Franse salonkunst uit de 18de eeuw. Dit blijkt uit de verfijnde manier waarop ze poseren, hun algemeen voorkomen in mooie met veel kant versierde kleren en hun behoorlijk glad gezicht zonder enig teken van persoonlijkheid.\nMogelijk is hier de familie Veranneman-de Massiet afgebeeld. Maar de opschriften op het schilderij - ‘J. Garemeyn peincit 1778’ en ‘accidit 1759’ – spreken dit enigszins tegen. Het voorgestelde lijkt onmogelijk te hebben plaatsgevonden in 1759 toen slecht één van de dochters was geboren. Ook de stijl van de klok spreekt de datering van 1759 tegen. Misschien heeft de kunstenaar een gebeurtenis uit 1759 geschilderd in 1778 en heeft hij de zes dochters op anachronistische wijze in het schilderij verwerkt. Of zijn er andere familieleden voorgesteld?"
+            ]
+          }
+        }
+      ],
+      "height": 7669,
+      "width": 5304,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6733/annotation/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6731.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6731.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 7669,
+                "width": 5304
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6733/canvas/1"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6731.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6731.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO1356.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Afternoon Tea"
+            ],
+            "nl": [
+              "Het vieruurtje"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Garemijn, Jan Anton"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO1356.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Foto: Hugo Maertens"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dit decoratieve genrestuk schetst een sfeervol beeld van het leven in een welgestelde Brugse burgerfamilie tijdens de 18de eeuw. Een vrouw en zes meisjes houden zich bezig met naai- en verstelwerk terwijl een bediende het vieruurtje op een dienblad binnenbrengt. Het tijdstip kan afgelezen worden op het uurwerk rechts. Het is vijf voor vier. Ondertussen wordt een priester binnengeleid door de heer des huizes, die op een wandelstok met versierde knop rust. De figuren behoren tot de standaardtypen van de Franse salonkunst uit de 18de eeuw. Dit blijkt uit de verfijnde manier waarop ze poseren, hun algemeen voorkomen in mooie met veel kant versierde kleren en hun behoorlijk glad gezicht zonder enig teken van persoonlijkheid.\nMogelijk is hier de familie Veranneman-de Massiet afgebeeld. Maar de opschriften op het schilderij - ‘J. Garemeyn peincit 1778’ en ‘accidit 1759’ – spreken dit enigszins tegen. Het voorgestelde lijkt onmogelijk te hebben plaatsgevonden in 1759 toen slecht één van de dochters was geboren. Ook de stijl van de klok spreekt de datering van 1759 tegen. Misschien heeft de kunstenaar een gebeurtenis uit 1759 geschilderd in 1778 en heeft hij de zes dochters op anachronistische wijze in het schilderij verwerkt. Of zijn er andere familieleden voorgesteld?"
+            ]
+          }
+        }
+      ],
+      "height": 7673,
+      "width": 5304,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6733/annotation/2-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6732.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6732.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 7673,
+                "width": 5304
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6733/canvas/2"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6732.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6732.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO1356.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Afternoon Tea"
+            ],
+            "nl": [
+              "Het vieruurtje"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Garemijn, Jan Anton"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO1356.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Foto: Hugo Maertens"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dit decoratieve genrestuk schetst een sfeervol beeld van het leven in een welgestelde Brugse burgerfamilie tijdens de 18de eeuw. Een vrouw en zes meisjes houden zich bezig met naai- en verstelwerk terwijl een bediende het vieruurtje op een dienblad binnenbrengt. Het tijdstip kan afgelezen worden op het uurwerk rechts. Het is vijf voor vier. Ondertussen wordt een priester binnengeleid door de heer des huizes, die op een wandelstok met versierde knop rust. De figuren behoren tot de standaardtypen van de Franse salonkunst uit de 18de eeuw. Dit blijkt uit de verfijnde manier waarop ze poseren, hun algemeen voorkomen in mooie met veel kant versierde kleren en hun behoorlijk glad gezicht zonder enig teken van persoonlijkheid.\nMogelijk is hier de familie Veranneman-de Massiet afgebeeld. Maar de opschriften op het schilderij - ‘J. Garemeyn peincit 1778’ en ‘accidit 1759’ – spreken dit enigszins tegen. Het voorgestelde lijkt onmogelijk te hebben plaatsgevonden in 1759 toen slecht één van de dochters was geboren. Ook de stijl van de klok spreekt de datering van 1759 tegen. Misschien heeft de kunstenaar een gebeurtenis uit 1759 geschilderd in 1778 en heeft hij de zes dochters op anachronistische wijze in het schilderij verwerkt. Of zijn er andere familieleden voorgesteld?"
+            ]
+          }
+        }
+      ],
+      "height": 7674,
+      "width": 5304,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6733/annotation/3-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6733.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6733.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 7674,
+                "width": 5304
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6733/canvas/3"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6733.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6733.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO1356.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Afternoon Tea"
+            ],
+            "nl": [
+              "Het vieruurtje"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Garemijn, Jan Anton"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO1356.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Foto: Dominique Provost"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dit decoratieve genrestuk schetst een sfeervol beeld van het leven in een welgestelde Brugse burgerfamilie tijdens de 18de eeuw. Een vrouw en zes meisjes houden zich bezig met naai- en verstelwerk terwijl een bediende het vieruurtje op een dienblad binnenbrengt. Het tijdstip kan afgelezen worden op het uurwerk rechts. Het is vijf voor vier. Ondertussen wordt een priester binnengeleid door de heer des huizes, die op een wandelstok met versierde knop rust. De figuren behoren tot de standaardtypen van de Franse salonkunst uit de 18de eeuw. Dit blijkt uit de verfijnde manier waarop ze poseren, hun algemeen voorkomen in mooie met veel kant versierde kleren en hun behoorlijk glad gezicht zonder enig teken van persoonlijkheid.\nMogelijk is hier de familie Veranneman-de Massiet afgebeeld. Maar de opschriften op het schilderij - ‘J. Garemeyn peincit 1778’ en ‘accidit 1759’ – spreken dit enigszins tegen. Het voorgestelde lijkt onmogelijk te hebben plaatsgevonden in 1759 toen slecht één van de dochters was geboren. Ook de stijl van de klok spreekt de datering van 1759 tegen. Misschien heeft de kunstenaar een gebeurtenis uit 1759 geschilderd in 1778 en heeft hij de zes dochters op anachronistische wijze in het schilderij verwerkt. Of zijn er andere familieleden voorgesteld?"
+            ]
+          }
+        }
+      ],
+      "height": 4937,
+      "width": 6942,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6733/annotation/4-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6730.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6730.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 4937,
+                "width": 6942
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6733/canvas/4"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6730.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6730.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO1356.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Afternoon Tea"
+            ],
+            "nl": [
+              "Het vieruurtje"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Garemijn, Jan Anton"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO1356.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dominique Provost"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "Dit decoratieve genrestuk schetst een sfeervol beeld van het leven in een welgestelde Brugse burgerfamilie tijdens de 18de eeuw. Een vrouw en zes meisjes houden zich bezig met naai- en verstelwerk terwijl een bediende het vieruurtje op een dienblad binnenbrengt. Het tijdstip kan afgelezen worden op het uurwerk rechts. Het is vijf voor vier. Ondertussen wordt een priester binnengeleid door de heer des huizes, die op een wandelstok met versierde knop rust. De figuren behoren tot de standaardtypen van de Franse salonkunst uit de 18de eeuw. Dit blijkt uit de verfijnde manier waarop ze poseren, hun algemeen voorkomen in mooie met veel kant versierde kleren en hun behoorlijk glad gezicht zonder enig teken van persoonlijkheid.\nMogelijk is hier de familie Veranneman-de Massiet afgebeeld. Maar de opschriften op het schilderij - ‘J. Garemeyn peincit 1778’ en ‘accidit 1759’ – spreken dit enigszins tegen. Het voorgestelde lijkt onmogelijk te hebben plaatsgevonden in 1759 toen slecht één van de dochters was geboren. Ook de stijl van de klok spreekt de datering van 1759 tegen. Misschien heeft de kunstenaar een gebeurtenis uit 1759 geschilderd in 1778 en heeft hij de zes dochters op anachronistische wijze in het schilderij verwerkt. Of zijn er andere familieleden voorgesteld?"
+            ]
+          }
+        }
+      ],
+      "height": 8717,
+      "width": 5749,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6733/canvas/5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6733/annotation/5-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6734.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6734.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 8717,
+                "width": 5749
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6733/canvas/5"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6734.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6734.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

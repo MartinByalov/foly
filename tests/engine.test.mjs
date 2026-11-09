@@ -44,14 +44,15 @@ test('homepage renders the 100 actual source-backed core formats, not collection
   for (const f of edition) assert.equal(typeof RUNTIME_POOLS[f.providers[0].adapter],'function',f.id);
 });
 
-test('homepage uses the actual Wix video without a separate poster or pause control', async () => {
+test('homepage uses one local static background without a video or pause control', async () => {
   const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
   const renderer = await readFile(new URL('../js/ui.js', import.meta.url), 'utf8');
-  assert.match(html, /<video class="background-video" muted playsinline preload="auto">/);
+  assert.match(html, /<img class="background-image" src="\.\/media\/background.webp" alt="" fetchpriority="high" decoding="async"/);
   assert.doesNotMatch(html, /poster=/);
-  assert.match(html, /video\.wixstatic\.com/);
-  assert.doesNotMatch(html, /autoplay|backgroundToggle|class="background-image"/);
-  assert.match(html, /class="cards" id="cards"/);
+  assert.doesNotMatch(html, /wixstatic|<video|autoplay|backgroundToggle/);
+  assert.match(html, /class="field" id="field"/);
+  assert.match(html, /class="grid" id="grid"/);
+  assert.match(html, /src="\.\/js\/foly\/main\.js"/);
   assert.doesNotMatch(html, /<footer class="credits"/);
   assert.match(renderer, /credit\.textContent = item\.sourceName/);
 });

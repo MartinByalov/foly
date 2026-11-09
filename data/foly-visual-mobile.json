@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-11-04T02:42:31.277Z",
+  "reports": [
+    {
+      "id": "worldBank",
+      "sample": 0,
+      "elapsedMs": 781,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    },
+    {
+      "id": "worldBank",
+      "sample": 1,
+      "elapsedMs": 168,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    },
+    {
+      "id": "worldBank",
+      "sample": 2,
+      "elapsedMs": 157,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JP",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    },
+    {
+      "id": "openFDAReports",
+      "sample": 0,
+      "elapsedMs": 6898,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://open.fda.gov/apis/drug/event/",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    },
+    {
+      "id": "openFDAReports",
+      "sample": 1,
+      "elapsedMs": 3,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://open.fda.gov/apis/drug/event/",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    },
+    {
+      "id": "openFDAReports",
+      "sample": 2,
+      "elapsedMs": 2,
+      "ok": true,
+      "kind": "chart",
+      "sourcePage": "https://open.fda.gov/apis/drug/event/",
+      "image": null,
+      "rendered": true,
+      "chartRows": 5,
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
+    }
+  ]
+}

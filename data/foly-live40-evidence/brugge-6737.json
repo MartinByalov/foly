@@ -1,0 +1,220 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dam.museabrugge.be/iiif/3/6737/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Landscape with Shepherd and Milkmaid"
+    ],
+    "nl": [
+      "Landschap met herder en melkmeid"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "IIIF manifest"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://dam.museabrugge.be/iiif/3/6737/manifest.json\">https://dam.museabrugge.be/iiif/3/6737/manifest.json</a>"
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "nl": [
+        "Naamsvermelding"
+      ]
+    },
+    "value": {
+      "en": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be/en\">Musea Brugge</a><br><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Musea Brugge would appreciate having three copies sent to Musea Brugge, Dijver 12, 8000 Brugge. More information: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+      ],
+      "nl": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be\">Musea Brugge</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Musea Brugge dat drie exemplaren worden toegestuurd naar Musea Brugge, Dijver 12, 8000 Brugge. Meer info: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+      ]
+    }
+  },
+  "seeAlso": [
+    {
+      "id": "https://datahub.museabrugge.be/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.museabrugge.be:www.museabrugge.be:0000_GRO0400_I",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Object Description in XML"
+        ],
+        "nl": [
+          "Objectbeschrijving in XML"
+        ]
+      },
+      "format": "text/xml",
+      "profile": "http://www.lido-schema.org"
+    }
+  ],
+  "start": {
+    "id": "https://dam.museabrugge.be/iiif/3/6737/canvas/1",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://dam.museabrugge.be/iiif/3/6737/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "0000.GRO0400.I"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Landscape with Shepherd and Milkmaid"
+            ],
+            "nl": [
+              "Landschap met herder en melkmeid"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Cuyp, Aelbert"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1620"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000.GRO0400.I"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Foto: Hugo Maertens"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "In een weide aan een beboste heuvel melkt een vrouw een koe. Links zit een herder met staf en naast hem zijn hond. In de verte recht beklimt een knecht de heuvel, met een juk met twee melktonnen. Het tafereel bevat daarnaast een grazende geitebok, een geit en twee schapen. Dit zeventiende-eeuws genreschilderij bevat een erotische dubbele bodem. Het thema van de melkmeid en de herder komt vaak voor, en symboliseert de verleidster (de melkmeid) die de viriliteit van de man (de herdersstaf) moet prikkelen. De erotische ondertoon blijkt ook uit verschillende details, zoals de geitebok en de hond, zinnebeelden van wellust en onkuisheid."
+            ]
+          }
+        }
+      ],
+      "height": 5723,
+      "width": 6147,
+      "items": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/3/6737/canvas/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/3/6737/annotation/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dam.museabrugge.be/iiif/2/public%2F6737.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://dam.museabrugge.be/iiif/2/public%2F6737.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 5723,
+                "width": 6147
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/6737/canvas/1"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://dam.museabrugge.be/iiif/2/public%2F6737.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dam.museabrugge.be/iiif/2/public%2F6737.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

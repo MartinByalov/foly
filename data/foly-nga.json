@@ -1,0 +1,306 @@
+{
+  "revision": "153be7170c4d4e2192270c52c67398ba642b5158",
+  "built": "2026-11-02T22:25:00.954Z",
+  "items": [
+    {
+      "title": "Gemel Bottle",
+      "artist": "Yolande Delasser",
+      "image": "https://api.nga.gov/iiif/00007f61-4922-417b-8f27-893ea328206c/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/17387",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Crock",
+      "artist": "Elsie Wein",
+      "image": "https://api.nga.gov/iiif/0000bd8c-39de-4453-b55d-5e28a9beed38/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/19245",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Iron Gate and Fence",
+      "artist": "Al Curry",
+      "image": "https://api.nga.gov/iiif/0001668a-dd1c-48e8-9267-b6d1697d43c8/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/23830",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Christ Carrying the Cross",
+      "artist": "Albrecht Altdorfer",
+      "image": "https://api.nga.gov/iiif/00032658-8a7a-44e3-8bb8-df8c172f521d/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/713",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Sir Anthony Shirley, Traveler and Ambassador to Persia",
+      "artist": "Dominicus Custos after Aegidius Sadeler II",
+      "image": "https://api.nga.gov/iiif/00054694-8f62-47f2-ada8-45dd7a0f6391/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/38735",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Slate-top Table",
+      "artist": "M. Rosenshield-von-Paulin",
+      "image": "https://api.nga.gov/iiif/00057174-2323-4d4c-8aa2-9b4db66533b5/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/18081",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Saint Matthias",
+      "artist": "Jacques Callot",
+      "image": "https://api.nga.gov/iiif/0005bc5d-5b29-46d3-a42e-6f9ae484aa2b/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/30832",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Little Dorothy",
+      "artist": "James McNeill Whistler",
+      "image": "https://api.nga.gov/iiif/00066d13-9732-40ce-9fa1-6b1a39176bce/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/11269",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Design from China Closet",
+      "artist": "Ferdinand Cartier",
+      "image": "https://api.nga.gov/iiif/0007d81b-7273-4e12-af55-5cd3ed4e3184/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/17088",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Eritrean Sibyl",
+      "artist": "Spanish 17th Century",
+      "image": "https://api.nga.gov/iiif/00084ede-d1dd-45ba-86da-7dd38e46296a/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/143647",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Geometria (Geometry)",
+      "artist": "Master of the E-Series Tarocchi",
+      "image": "https://api.nga.gov/iiif/0009b769-a457-455d-a978-26c5c8bfef0a/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/12034",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "A Warrior Fighting a Horseman",
+      "artist": "Roman 15th or 16th Century, after the Antique",
+      "image": "https://api.nga.gov/iiif/000ad93e-318b-4160-a8f2-b0ea48a82f20/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/43884",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Christmas Light",
+      "artist": "John Dana",
+      "image": "https://api.nga.gov/iiif/000b32a0-ed1b-4191-91ba-18d879e0c6e0/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/23104",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Small Glass Bowl",
+      "artist": "V.L. Vance",
+      "image": "https://api.nga.gov/iiif/000c77ea-baca-4acf-bd21-5eb0442955da/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/23004",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Christ on the Mount of Olives",
+      "artist": "German 15th Century",
+      "image": "https://api.nga.gov/iiif/000f1fa7-7f05-4242-bfa0-6b217d1e9553/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/3678",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Il défend l'orphelin et la veuve, a moins...",
+      "artist": "Honoré Daumier",
+      "image": "https://api.nga.gov/iiif/00100d82-34d0-49e9-9740-1f26ba94cac8/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/42588",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Lady Holland (Lady Mary Fitzpatrick)",
+      "artist": "Hugh Douglas Hamilton",
+      "image": "https://api.nga.gov/iiif/0010f784-5231-4886-8b0d-94bc7a452e68/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/75769",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Reflections in a Wooded Pool",
+      "artist": "Robert Hills",
+      "image": "https://api.nga.gov/iiif/001221db-88c4-40d7-9314-985c20af9dcb/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/131844",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Bowing to the Audience (Saluant le public)",
+      "artist": "Henri de Toulouse-Lautrec",
+      "image": "https://api.nga.gov/iiif/0014197c-c971-4f3d-ad6d-3c7197984fb0/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/39189",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Ennio Quirino Visconti",
+      "artist": "Luigi Rados, after Luigi Bramati or Antonio Bramati",
+      "image": "https://api.nga.gov/iiif/00146f92-feee-4806-b17a-9be0b5be1cbf/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/159742",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Mucius Scaevola",
+      "artist": "Master IO.F.F.",
+      "image": "https://api.nga.gov/iiif/0015b53c-3543-4782-9072-6a9b8da8f918/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/93414",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Mulier Augustana",
+      "artist": "Wenceslaus Hollar",
+      "image": "https://api.nga.gov/iiif/00172684-93ab-4269-8bfc-cbabb77800ea/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/7897",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Fire Tongs and Shovel",
+      "artist": "Hans Korsch",
+      "image": "https://api.nga.gov/iiif/00175406-b889-4886-80f4-d2200adf9219/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/22368",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Avalanche in an Alpine Landscape",
+      "artist": "Pierre Puvis de Chavannes",
+      "image": "https://api.nga.gov/iiif/0018e0aa-bce8-4ae3-abbc-ee84c4ae160b/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/138648",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Silver Tankard",
+      "artist": "American 20th Century",
+      "image": "https://api.nga.gov/iiif/00190aea-cb91-4871-ae8a-9ed4652eb2e4/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/26468",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Wrought Iron Gate",
+      "artist": "Al Curry",
+      "image": "https://api.nga.gov/iiif/0019ec63-fc64-4e6a-9746-6232534331ce/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/23984",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Voyage pittoresque de Genève à Milan par le Simplon",
+      "artist": "Gabriel Ludwig Lory, Mathias Gabriel Lory",
+      "image": "https://api.nga.gov/iiif/001a0bf6-0953-47fc-9fa7-de8faa101ed1/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/169148",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "Rifle",
+      "artist": "LeRoy Robinson",
+      "image": "https://api.nga.gov/iiif/001a2360-0c94-4e2c-9ad6-b820016fd337/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/23531",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "John and Abigail Montgomery",
+      "artist": "Joseph H. Davis",
+      "image": "https://api.nga.gov/iiif/001a9a3f-12ce-455c-a196-78d5d21ad1b4/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/50827",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    },
+    {
+      "title": "The Stopping Place",
+      "artist": "Jacques Callot",
+      "image": "https://api.nga.gov/iiif/001b4e5e-2b7a-4c0a-b836-a4b386808b44/full/!640,640/0/default.jpg",
+      "url": "https://www.nga.gov/artworks/51278",
+      "openaccess": "1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/153be7170c4d4e2192270c52c67398ba642b5158/data/published_images.csv"
+    }
+  ]
+}

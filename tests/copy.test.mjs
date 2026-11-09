@@ -33,8 +33,8 @@ test('card labels, media source and homepage copy match the compact presentation
   assert.match(ui,/source\.replaceChildren\(credit\)/);
   assert.doesNotMatch(ui,/row\.append\(credit\)|row\.append\(label\)|row\.append\(retry\)/);
   assert.match(ui,/link\.textContent = 'Explore'/);
-  assert.match(html,/100 things worth seeing and discovering\. One day at a time\./);
-  assert.match(html,/NO DOOMSCROLLING/);
+  assert.match(html,/100 000 boxes\. Each one opens onto something random from across the internet\./);
+  assert.match(html,/Foly: pick a box/);
   assert.doesNotMatch(app,/API adapter/);
   assert.match(app,/centerLastCard\(\)/);
   assert.match(css,/\.single-desktop-tail \.last-visible \{ grid-column: 2;/);

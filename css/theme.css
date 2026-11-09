@@ -10,7 +10,7 @@
   pointer-events: none;
 }
 .video-bg::before { content: none; }
-.video-bg .background-video {
+.video-bg .background-image {
   display: block;
   position: absolute;
   inset: 0;

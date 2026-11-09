@@ -1,0 +1,505 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Zürich, Schweizerisches Nationalmuseum, AG 2760",
+  "metadata": [
+    {
+      "label": "Location",
+      "value": "Zürich"
+    },
+    {
+      "label": "Collection Name",
+      "value": "Schweizerisches Nationalmuseum"
+    },
+    {
+      "label": "Shelfmark",
+      "value": "AG 2760"
+    },
+    {
+      "label": "Document Type",
+      "value": "Scroll/Roll"
+    },
+    {
+      "label": "DOI",
+      "value": "10.5076/e-codices-snm-AG002760"
+    },
+    {
+      "label": "Title (English)",
+      "value": "Zürich Armorial"
+    },
+    {
+      "label": "Material",
+      "value": "Parchment"
+    },
+    {
+      "label": "Place of Origin (English)",
+      "value": "Area of Lake Constance"
+    },
+    {
+      "label": "Date of Origin (English)",
+      "value": "around 1330-1345"
+    },
+    {
+      "label": "Number of Pages",
+      "value": "1"
+    },
+    {
+      "label": "Dimensions",
+      "value": "12 x 400 cm"
+    },
+    {
+      "label": "Online Since",
+      "value": "2014-12-18T00:00:00.000000Z"
+    },
+    {
+      "label": "Summary (English)",
+      "value": "The Zurich armorial on parchment is one of the most important and most unusual documents of medieval heraldry. Today it consists of four parts of various lengths, which can be combined into one four-meter-long roll. Painted on both sides of the parchment, it depicts 559 coats of arms, each shield decorated with a crest, of high and lower nobility from Northern Switzerland, Southern Germany and Western Austria. Names are given next to each shield. In addition there are 28 flags of German bishoprics and monasteries. The order of these four remaining parts, which consist of thirteen parchment leaves that were sewn together, is as follows: Part I (36.5 cm) contains the coats of arms of the bishoprics and monasteries on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/1v\">verso side</a> (Merz-Hegi numbering: I-XXVIII; the numbering in the original is from the 16th/17th century) and 22 noble coats of arms on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/1r\">recto side</a> (1-22). Parts 2 and 3 (255.5 cm) were still sewn together in 1930. Part 2, consisting of four parchment leaves, contains the coats of arms 23-104 and 108-114  on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/2r\">recto side</a> and the coats of arms 214-220, 224-308 on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/2v\">verso side</a>. Part 3, consisting of three parchment leaves sewn together, contains the coats of arms 105-107, 115-162 on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/3r\">recto side</a> and the coats of arms 163-213, 221-223 on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/3v\">verso side</a>. Part 4 (109 cm), consisting of five parchment leaves sewn together, contains the coats of arms 309-378 on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/4r\">recto side</a> and the coats of arms 379-450 on the <a href=\"http://www.e-codices.unifr.ch/en/snm/AG002760/4v\">verso side</a>. The armorial is incomplete. The missing fourth part should have contained another 109 coats of arms, which are known from a late 18th century copy of the roll. The armorial was probably created in Zurich or in the area of Lake Constance. It can be dated to the period between 1330 and 1345. The style of the workmanship is reminiscent of the famous Codex Manesse, a collection of poems in German with 137 miniatures, also created in Zurich, but somewhat older. The Zurich armorial was owned by Zürich historian and naturalist Johann Jakob Scheuchzer (1672–1733); later it became part of the collection of the Antiquarian Society of Zurich and then of the Swiss National Museum."
+    },
+    {
+      "label": "Persons",
+      "value": "lang.person: Scheuchzer, Johann Jacob"
+    },
+    {
+      "label": "Century",
+      "value": "14th century"
+    },
+    {
+      "label": "Text Language",
+      "value": "No language"
+    }
+  ],
+  "description": [
+    {
+      "@value": "Die Zürcher Wappenrolle aus Pergament ist eines der wichtigsten und eigentümlichsten Dokumente der mittelalterlichen Heraldik. Die Rolle besteht heute aus vier unterschiedlich langen Teilen, die zu einer vier Meter langen Rolle zusammengefügt werden können. Dargestellt sind beidseitig 559, jeweils immer von einer Helmzier bekränzte schildförmige Wappen des hohen und niederen Adels aus der Nordschweiz, aus Süddeutschland und dem westlichen Österreich. Die Namen sind jeweils neben den Schilden beigeschrieben. Ergänzend kommen 28 Banner von deutschen Bistümern und Klöstern hinzu. \r\nDie Reihenfolge der heute vier Teile, die aus insgesamt 13 Pergamentblättern zusammengenäht wurden, ist wie folgt zu bestimmen: Teil I (6.5 cm) enthält auf der Versoseite die Wappen der Bistümer und Klöster (Zählung Merz-Hegi: I-XXVIII; die Zählung im Original stammt aus dem 16./17. Jh.) und auf der Rectoseite 22 Adelswappen (1-22). Teil 2 und 3 (255.5 cm) waren 1930 noch zusammengenäht. Teil 2, bestehend aus vier zusammengenähten Pergamentblättern, enthält auf der Rectoseite die Wappen 23-104 und 108-114 und auf der Versoseite die Wappen 214-220, 224-308. Teil 3, aus drei Pergamentblättern zusammengenäht, enthält auf der Rectoseite die Wappen 105-107, 115-162 und auf der Versoseite die Wappen 163-213, 221-223. Der vierte Teil (109 cm) mit fünf zusammengenähten Pergamentblättern, enthält auf der Rectoseite die Wappen 309-378 und auf der Versoseite die Wappen 379-450. Die Wappenrolle ist unvollständig. Der fehlende fünfte Teil dürfte 109 weitere Wappen enthalten haben, die dank einer Kopie der Rolle aus dem späten 18. Jahrhundert bekannt sind. Die Wappenrolle wurde wahrscheinlich in Zürich oder im Bodenseeraum hergestellt. Sie kann in die Jahre zwischen 1330 und 1345 datiert werden. Der Stil der Ausführung erinnert an den berühmten Codex Manesse, eine Gedichtsammlung in deutscher Sprache mit 137 Miniaturen, die ebenfalls in Zürich entstand, aber etwas älter ist. Die Zürcher Wappenrolle befand sich im Besitz des Zürcher Historikers und Naturforschers Johann Jakob Scheuchzer (1672-1733), bevor sie in die Sammlung der Antiquarischen Gesellschaft Zürich und später in das Landesmuseum Zürich gelangte.",
+      "@language": "de"
+    },
+    {
+      "@value": "The Zurich armorial on parchment is one of the most important and most unusual documents of medieval heraldry. Today it consists of four parts of various lengths, which can be combined into one four-meter-long roll. Painted on both sides of the parchment, it depicts 559 coats of arms, each shield decorated with a crest, of high and lower nobility from Northern Switzerland, Southern Germany and Western Austria. Names are given next to each shield. In addition there are 28 flags of German bishoprics and monasteries. The order of these four remaining parts, which consist of thirteen parchment leaves that were sewn together, is as follows: Part I (36.5 cm) contains the coats of arms of the bishoprics and monasteries on the verso side (Merz-Hegi numbering: I-XXVIII; the numbering in the original is from the 16th/17th century) and 22 noble coats of arms on the recto side (1-22). Parts 2 and 3 (255.5 cm) were still sewn together in 1930. Part 2, consisting of four parchment leaves, contains the coats of arms 23-104 and 108-114  on the recto side and the coats of arms 214-220, 224-308 on the verso side. Part 3, consisting of three parchment leaves sewn together, contains the coats of arms 105-107, 115-162 on the recto side and the coats of arms 163-213, 221-223 on the verso side. Part 4 (109 cm), consisting of five parchment leaves sewn together, contains the coats of arms 309-378 on the recto side and the coats of arms 379-450 on the verso side. The armorial is incomplete. The missing fourth part should have contained another 109 coats of arms, which are known from a late 18th century copy of the roll. The armorial was probably created in Zurich or in the area of Lake Constance. It can be dated to the period between 1330 and 1345. The style of the workmanship is reminiscent of the famous Codex Manesse, a collection of poems in German with 137 miniatures, also created in Zurich, but somewhat older. The Zurich armorial was owned by Zürich historian and naturalist Johann Jakob Scheuchzer (1672–1733); later it became part of the collection of the Antiquarian Society of Zurich and then of the Swiss National Museum.",
+      "@language": "en"
+    },
+    {
+      "@value": "L'armorial de Zurich, en parchemin, est l'un des documents les plus importants et les plus exceptionnels de l'héraldique médiévale. Le rouleau se compose aujourd'hui de quatre parties de longueur différente qui peuvent être assemblées dans un long rouleau de quatre mètres. Des deux côtés du rouleau, sont présentées 559 armoiries – chacune surmontée d'un cimier – de la haute et basse noblesse du nord de la Suisse, de l'Allemagne méridionale et de l'Autriche occidentale. Les noms sont inscrits à côté de chaque blason. En outre, il y a 28 bannières d'évêchés et de monastères allemands. L'ordre des quatre parties actuelles, qui ont été assemblées par des coutures à partir de 13 feuillets de parchemin, est déterminé comme suit: la partie I (36.5 cm) contient les armoiries des évêchés et des monastères sur le côté verso (numérotation Merz-Hägi: I-XXVIII; la numérotation originale date du XVIème ou XVIIème siècle) et au recto 22 blasons de nobles (1-22). Les parties II et III (255.5 cm) étaient encore cousues ensemble en 1930. La partie II, constituée de quatre feuilles de parchemin, contient sur le recto les armoiries 23-104 et 108-114 et sur le verso les armoiries 214-220 et 224-308. La partie III, composée de trois feuilles de parchemin cousues ensemble, contient sur le recto les armoiries 105-107 et 115-162 et sur le verso les armoiries 163-213 et 221-223. La quatrième partie (109 cm) – composée de cinq feuilles de parchemin assemblées entre elles – contient sur le recto les armoiries 309-378 et, sur le verso, les armoiries 379-450. L'armorial est incomplet; en effet, il manque dans la quatrième partie, 109 armoiries, qui sont connues grâce à une copie du rouleau datant du XVIIIe siècle. Il fut probablement réalisé à Zurich ou dans la région du Lac de Constance et date entre 1330 et 1345. Le style d’exécution rappelle celui du Codex Manesse, un recueil de poésie courtoise en langue allemande accompagné de 137 miniatures, peint à Zurich et de peu antérieur. Avant d’être déposé au Musée National Suisse par la Société d’antiquités de la ville, il fut en possession de l’historien et naturaliste zurichois Jacob Scheuchzer (1672-1733).",
+      "@language": "fr"
+    },
+    {
+      "@value": "L’armoriale di Zurigo in pergamena è uno dei più eccezionali ed importanti documenti dell’eraldica medievale. Consiste oggi in quattro parti di diversa lunghezza, che possono essere riuniti in un rotolo lungo quattro metri. Vi sono riprodotti su entrambi i lati 559 blasoni - ognuno sormontato da un cimiero - dell'alta e bassa aristocrazia in prevalenza del nord della Svizzera, della Germania meridionale e dell'Austria occidentale, il cui nome è iscritto a lato dello scudo. Vi sono aggiunte 28 bandiere di vescovadi e di abbazie tedesche. La sequenza delle quattro parti rimaste, costituite a loro volta da 13 strisce di pergamena cucite insieme, è la seguente: la parte nr. 1 (36.5 cm) contiene sul verso gli stemmi dei vescovadi e delle abbazie (numerazione Merz-Hägi: I-XXVIII; la numerazione nell'originale risale al XVI-XVII secolo) e sul recto 22 blasoni di nobili. Le parti nr. 2 e nr. 3 (255.5 cm) erano ancora cucite assieme nel 1930. La parte nr. 2, costituita da quattro fogli di pergamena, contiene sul recto i blasoni 23-104 e 108-114 e sul verso i blasoni 214-220, 224-308. La parte nr. 3, costituita da tre fogli di pergamena cuciti, contiene sul recto gli stemmi 105-107, 115-162 e sul verso gli stemmi 163-213, 221-223. La quarta parte (109 cm) – cinque pergamene cucite assieme – contiene sul recto gli stemmi 309-378 e sul verso gli stemmi 379-450. L’armoriale è incompleto. La quarta parte mancante doveva contenere altri 109 blasoni oggi conosciuti attraverso una copia della fine del XVIII secolo. Fu probabilmente realizzato a Zurigo o nella regione del lago di Costanza e la sua datazione viene collocata tra il 1330 e il 1345. Lo stile di esecuzione è molto vicino a quello del Codex Manesse, una raccolta di poesie cortesi in lingua tedesca accompagnate da 137 miniature, dipinto a Zurigo e di poco anteriore. Prima di essere depositato presso il Museo Nazionale Svizzero dalla Società antiquaria della città, fu in possesso dello storico e naturalista zurighese Jacob Scheuchzer (1672-1733).",
+      "@language": "it"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "attribution": "e-codices - Virtual Manuscript Library of Switzerland",
+  "logo": "https://e-codices.ch/img/logo-for-iiif-manifest.png",
+  "service": [
+    {
+      "@context": "https://www.w3.org/ns/webmention",
+      "@id": "https://www.e-codices.ch/webmention/receive",
+      "profile": "https://www.w3.org/ns/webmention",
+      "label": "e-codices Webmention Service"
+    }
+  ],
+  "related": "https://e-codices.ch/en/list/one/snm/AG002760",
+  "within": "https://e-codices.ch/en/list/snm",
+  "sequences": [
+    {
+      "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/sequence/Sequence-1329.json",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Standardabfolge",
+          "@language": "de"
+        },
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        },
+        {
+          "@value": "Séquence normale",
+          "@language": "fr"
+        },
+        {
+          "@value": "Sequenza normale",
+          "@language": "it"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_001r.json",
+          "@type": "sc:Canvas",
+          "label": "1r",
+          "height": 6132,
+          "width": 13020,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_001r.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_001r.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 13020,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_002r.json",
+          "@type": "sc:Canvas",
+          "label": "2r",
+          "height": 6389,
+          "width": 59724,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_002r.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_002r.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_002r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6389,
+                "width": 59724,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_002r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_003r.json",
+          "@type": "sc:Canvas",
+          "label": "3r",
+          "height": 6339,
+          "width": 29816,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_003r.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_003r.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_003r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6339,
+                "width": 29816,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_003r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_004r.json",
+          "@type": "sc:Canvas",
+          "label": "4r",
+          "height": 6221,
+          "width": 38504,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_004r.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_004r.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_004r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6221,
+                "width": 38504,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_004r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_004v.json",
+          "@type": "sc:Canvas",
+          "label": "4v",
+          "height": 6290,
+          "width": 38583,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_004v.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_004v.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_004v.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6290,
+                "width": 38583,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_004v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_003v.json",
+          "@type": "sc:Canvas",
+          "label": "3v",
+          "height": 6250,
+          "width": 29693,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_003v.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_003v.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_003v.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6250,
+                "width": 29693,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_003v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_002v.json",
+          "@type": "sc:Canvas",
+          "label": "2v",
+          "height": 6212,
+          "width": 58923,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_002v.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_002v.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_002v.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6212,
+                "width": 58923,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_002v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_001v.json",
+          "@type": "sc:Canvas",
+          "label": "1v",
+          "height": 6149,
+          "width": 12908,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_001v.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_001v.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001v.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6149,
+                "width": 12908,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_MassS.json",
+          "@type": "sc:Canvas",
+          "label": "Ruler on page",
+          "height": 6132,
+          "width": 8176,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_MassS.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_MassS.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_MassS.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_MassS.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_ProfilS.json",
+          "@type": "sc:Canvas",
+          "label": "QP card on page",
+          "height": 6132,
+          "width": 8176,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_ProfilS.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_ProfilS.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_ProfilS.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_ProfilS.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_ProfilSG.json",
+          "@type": "sc:Canvas",
+          "label": "Digital Colorchecker",
+          "height": 6132,
+          "width": 8176,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_ProfilSG.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_ProfilSG.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_ProfilSG.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6132,
+                "width": 8176,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_ProfilSG.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/sequence/Sequence-1330.json",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Panorama",
+          "@language": "de"
+        },
+        {
+          "@value": "Panorama",
+          "@language": "en"
+        },
+        {
+          "@value": "Panorama",
+          "@language": "fr"
+        },
+        {
+          "@value": "Panorama",
+          "@language": "it"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_r.json",
+          "@type": "sc:Canvas",
+          "label": "r",
+          "height": 1772,
+          "width": 25984,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_r.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_r.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_r.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1772,
+                "width": 25984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_v.json",
+          "@type": "sc:Canvas",
+          "label": "v",
+          "height": 1772,
+          "width": 25984,
+          "images": [
+            {
+              "@id": "https://e-codices.ch/metadata/iiif/snm-AG002760/annotation/snm-AG002760_v.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://e-codices.ch/metadata/iiif/snm-AG002760/canvas/snm-AG002760_v.json",
+              "resource": {
+                "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_v.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1772,
+                "width": 25984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": []
+}

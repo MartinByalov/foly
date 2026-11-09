@@ -1,0 +1,515 @@
+{
+  "checkedAt": "2026-11-03T20:10:48.513Z",
+  "reports": [
+    {
+      "id": "muzee",
+      "url": "https://resourcespace.muzee.be/iiif/3/6748/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": {
+        "label": {
+          "en": [
+            "Attribution"
+          ],
+          "nl": [
+            "Naamsvermelding"
+          ]
+        },
+        "value": {
+          "en": [
+            "<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a><br></span><span><a href=\"https://www.muzee.be/en\">Mu.ZEE, Art Museum by the Sea</a><br></span><span>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Mu.ZEE would appreciate having three copies sent to Mu.ZEE, Romestraat 11, 8400 Oostende, Belgium. More information: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</span>"
+          ],
+          "nl": [
+            "<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a><br></span><span><a href=\"https://www.muzee.be/nl\">Mu.ZEE, Kunstmuseum aan zee</a><br></span><span>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Mu.ZEE dat drie exemplaren worden toegestuurd naar Mu.ZEE, Romestraat 11, 8400 Oostende. Meer info: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</span>"
+          ]
+        }
+      },
+      "count": 1,
+      "body": {
+        "id": "https://resourcespace.muzee.be/iiif/2/public%2F6748.tif/full/full/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "service": [
+          {
+            "@id": "https://resourcespace.muzee.be/iiif/2/public%2F6748.tif",
+            "@type": "ImageService2",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+          }
+        ],
+        "height": 4855,
+        "width": 5315
+      },
+      "rightsFields": [
+        "    \"rights\": \"https://creativecommons.org/publicdomain/mark/1.0/\",",
+        "                \"<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\\\"http://creativecommons.org/publicdomain/mark/1.0/\\\"><img src=\\\"https://licensebuttons.net/p/mark/1.0/88x31.png\\\"/></a><br></sp",
+        "                \"<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\\\"http://creativecommons.org/publicdomain/mark/1.0/\\\"><img src=\\\"https://licensebuttons.net/p/mark/1.0/88x31.png\\\"/></a><br></sp"
+      ]
+    },
+    {
+      "id": "brugge",
+      "url": "https://dam.museabrugge.be/iiif/3/6726/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": {
+        "label": {
+          "en": [
+            "Attribution"
+          ],
+          "nl": [
+            "Naamsvermelding"
+          ]
+        },
+        "value": {
+          "en": [
+            "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be/en\">Musea Brugge</a><br><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Musea Brugge would appreciate having three copies sent to Musea Brugge, Dijver 12, 8000 Brugge. More information: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+          ],
+          "nl": [
+            "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.museabrugge.be\">Musea Brugge</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Musea Brugge dat drie exemplaren worden toegestuurd naar Musea Brugge, Dijver 12, 8000 Brugge. Meer info: <a href=\"mailto:musea@brugge.be\">musea@brugge.be</a>.</p></p>"
+          ]
+        }
+      },
+      "count": 1,
+      "body": {
+        "id": "https://dam.museabrugge.be/iiif/2/public%2F6726.tif/full/full/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "service": [
+          {
+            "@id": "https://dam.museabrugge.be/iiif/2/public%2F6726.tif",
+            "@type": "ImageService2",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+          }
+        ],
+        "height": 30914,
+        "width": 40000
+      },
+      "rightsFields": [
+        "    \"rights\": \"https://creativecommons.org/publicdomain/mark/1.0/\",",
+        "                \"<p><a href=\\\"http://creativecommons.org/publicdomain/mark/1.0/\\\"><img src=\\\"https://licensebuttons.net/p/mark/1.0/88x31.png\\\"/></a></p><a href=\\\"https://www.museabrugge.be/en\\\">Musea Brugge</a><br><p>The original TI",
+        "                \"<p><a href=\\\"http://creativecommons.org/publicdomain/mark/1.0/\\\"><img src=\\\"https://licensebuttons.net/p/mark/1.0/88x31.png\\\"/></a></p><a href=\\\"https://www.museabrugge.be\\\">Musea Brugge</a><br><p>De originele TIFF-"
+      ]
+    },
+    {
+      "id": "ecodices",
+      "url": "https://www.e-codices.unifr.ch/metadata/iiif/snm-AG002760/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "e-codices - Virtual Manuscript Library of Switzerland",
+      "count": 11,
+      "body": {
+        "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001r.jp2/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 6132,
+        "width": 13020,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://media.e-codices.ch/iip/snm/snm-AG002760/snm-AG002760_001r.jp2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "rightsFields": [
+        "uralista zurighese Jacob Scheuchzer (1672-1733).\",\"@language\":\"it\"}],\"license\":\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\",\"attribution\":\"e-codices - Virtual Manuscript Library of Switzerland\",\"logo\":\"https://e-codices.ch/img/logo-for-iiif-m"
+      ]
+    },
+    {
+      "id": "swedenLibrary",
+      "url": "https://www.manuscripta.se/iiif/100200/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "National Library of Sweden",
+      "count": 32,
+      "body": {
+        "@id": "https://iiif.manuscripta.se/iiif/ms-100200/ms-100200_0001.tif/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 10000,
+        "width": 5800,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif.manuscripta.se/iiif/ms-100200/ms-100200_0001.tif",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "rightsFields": [
+        "    \"license\": \"https://creativecommons.org/publicdomain/mark/1.0/\","
+      ]
+    },
+    {
+      "id": "gottingen",
+      "url": "https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN235181684_0029/manifest",
+      "status": 200,
+      "cors": "*",
+      "credit": "Bereitgestellt von: Digitalisierungszentrum der Niedersächsichen Staats- und Universitäts Bibliothek Göttingen",
+      "count": 609,
+      "body": {
+        "@id": "https://manifests.sub.uni-goettingen.de/iiif/image/gdz:PPN235181684_0029:00000001",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@id": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN235181684_0029:00000001",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        },
+        "height": 400,
+        "width": 300
+      }
+    },
+    {
+      "id": "radboud",
+      "url": "https://bijzonderecollecties.ubn.ru.nl/iiif/2/Handschriften:41837/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "count": 53,
+      "body": {
+        "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784",
+          "width": 4959,
+          "height": 3140,
+          "tiles": [
+            {
+              "width": 4959,
+              "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16
+              ]
+            }
+          ],
+          "profile": "http://iiif.io/api/image/2/level1.json",
+          "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4959,
+        "height": 3140
+      }
+    },
+    {
+      "id": "leipzig",
+      "url": "https://iiif.ub.uni-leipzig.de/0000001660/manifest.json",
+      "error": "fetch failed"
+    },
+    {
+      "id": "jena",
+      "url": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00002711/manifest",
+      "status": 200,
+      "cors": "*",
+      "count": 229,
+      "body": {
+        "service": {
+          "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00002711%2FBE_1035_0000_00.tif"
+        },
+        "width": 10473,
+        "height": 15037,
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@type": "dctypes:Image",
+        "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00002711%2FBE_1035_0000_00.tif"
+      }
+    },
+    {
+      "id": "geneva",
+      "url": "https://iiif.unige.ch/manifest/IIIFManifest_1072068799.json",
+      "status": 404,
+      "cors": null,
+      "count": 0
+    },
+    {
+      "id": "trinity",
+      "url": "https://digitalcollections.tcd.ie/concern/works/hm50tr726/manifest",
+      "status": 200,
+      "cors": null,
+      "count": 0
+    },
+    {
+      "id": "wales",
+      "url": "https://damsssl.llgc.org.uk/iiif/2.0/4398332/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "rights": "http://hdl.handle.net/10107/PublicDomainMark",
+      "credit": "Llyfrgell Genedlaethol Cymru – The National Library of Wales",
+      "count": 16,
+      "body": {
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4398332/res/4398333.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif.llyfrgell.cymru/iiif/4398333",
+          "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+          "height": 6496,
+          "width": 7304,
+          "tiles": [
+            {
+              "width": 256,
+              "height": 256,
+              "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32
+              ]
+            }
+          ]
+        },
+        "height": 6496,
+        "width": 7304
+      },
+      "rightsFields": [
+        "\t\"license\": \"http://hdl.handle.net/10107/PublicDomainMark\","
+      ]
+    },
+    {
+      "id": "huntington",
+      "url": "https://hdl.huntington.org/iiif/2/p15150coll7:5145/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "credit": [
+        "",
+        "For information on use of Digital Library materials, please see Library Rights and Permissions: https://www.huntington.org/library-rights-permissions"
+      ],
+      "count": 1,
+      "body": {
+        "@id": "https://cdm16003.contentdm.oclc.org/iiif/2/p15150coll7:5145/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://cdm16003.contentdm.oclc.org/iiif/2/p15150coll7:5145",
+          "width": 6384,
+          "height": 5780,
+          "tiles": [
+            {
+              "width": 6384,
+              "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16
+              ]
+            }
+          ],
+          "profile": "http://iiif.io/api/image/2/level1.json",
+          "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 6384,
+        "height": 5780
+      },
+      "rightsFields": [
+        "ovenance\",\"value\":\"Purchased from A.S.W. Rosenbach, 1919.\"},{\"label\":\"Rights\",\"value\":\"For information on use of Digital Library materials, please see Library Rights and Permissions: https://www.huntington.org/library-rights-permissions\"},{\"label\":\"Subject",
+        "r information on use of Digital Library materials, please see Library Rights and Permissions: https://www.huntington.org/library-rights-permissions\"],\"seeAlso\":{\"@id\":\"https://cdm16003.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16003.c"
+      ]
+    },
+    {
+      "id": "durham",
+      "url": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/manifest",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+      "credit": "Durham University Library",
+      "count": 2,
+      "body": {
+        "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/3a425f2f8a21a4525a16fa3e96e42f0e.jp2/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3047,
+        "height": 4377,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/3a425f2f8a21a4525a16fa3e96e42f0e.jp2",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "rightsFields": [
+        "  \"license\": \"https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode\","
+      ]
+    },
+    {
+      "id": "bruggeLibrary",
+      "url": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615",
+      "status": 200,
+      "cors": "*",
+      "rights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "credit": "Provided by Bruges Public Library",
+      "count": 39,
+      "body": {
+        "width": 3139,
+        "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A490f744d-b4f1-11ec-b684-d4641196f1af/full/full/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A490f744d-b4f1-11ec-b684-d4641196f1af",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        },
+        "label": "B_OB_MS615_000voorplatr.tif",
+        "height": 4035,
+        "format": "image/jpeg",
+        "@type": "dctypes:Image"
+      },
+      "rightsFields": [
+        "ry\",\"label\":\"B_OB_MS615 - [Fragment van een Merovingische oorkonde]\",\"license\":\"http://creativecommons.org/licenses/by-nc/4.0/\",\"metadata\":[{\"value\":\"[Fragment van een Merovingische oorkonde]\",\"label\":\"Title\"},{\"value\":\"Bruges Public Library\",\"label\":\"Physi"
+      ]
+    },
+    {
+      "id": "huisBoek",
+      "url": "https://access.ecodices.nl/iiif/presentation/MMW_10_A_12/manifest",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/licences/by/4.0/",
+      "credit": {
+        "label": {
+          "en": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "en": [
+            "eCodicesNL"
+          ]
+        }
+      },
+      "count": 597,
+      "body": {
+        "id": "https://access.ecodices.nl/iiif/image/5A59058B-E6F9-4A9C-B38F-10B4C2EF40AB/full/full/0/default.jpg",
+        "type": "Image",
+        "service": [
+          {
+            "@id": "https://access.ecodices.nl/iiif/image/5A59058B-E6F9-4A9C-B38F-10B4C2EF40AB",
+            "@type": "ImageService2",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        ],
+        "format": "image/jpeg",
+        "width": 6034,
+        "height": 8261
+      },
+      "rightsFields": [
+        "ment\":{\"label\":{\"en\":[\"Attribution\"]},\"value\":{\"en\":[\"eCodicesNL\"]}},\"rights\":\"https://creativecommons.org/licences/by/4.0/\",\"homepage\":[{\"id\":\"https://db.ecodices.nl/detail/6545/overview\",\"label\":{\"en\":[\"Homepage\"]}}],\"metadata\":[{\"label\":{\"none\":[\"\"]},\"v",
+        "s, Bibliothèque Nationale de France, fr. 6272.\"]}},{\"label\":{\"none\":[\"Rights\"]},\"value\":{\"none\":[\"CC0 1.0 Universal\"]}},{\"label\":{\"none\":[\"Publisher\"]},\"value\":{\"none\":[\"eCodicesNL\"]}}],\"items\":[{\"id\":\"https://access.ecodices.nl/iiif/presentation/MMW_10_A_"
+      ]
+    },
+    {
+      "id": "brown",
+      "url": "https://repository.library.brown.edu/iiif/presentation/bdr:37024/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "count": 1,
+      "body": {
+        "@id": "https://repository.library.brown.edu/iiif/image/bdr:37024/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 2688,
+        "width": 1794,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://repository.library.brown.edu/iiif/image/bdr:37024",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    },
+    {
+      "id": "emanuscripta",
+      "url": "https://www.e-manuscripta.ch/i3f/v20/4602948/manifest",
+      "status": 200,
+      "cors": "*",
+      "credit": "e-manuscripta.ch, the digital platform for manuscript material from Swiss libraries and archives",
+      "count": 1,
+      "body": {
+        "service": {
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://www.e-manuscripta.ch/i3f/v20/4602949"
+        },
+        "format": "image/jpeg",
+        "height": 760,
+        "width": 1000,
+        "@id": "https://www.e-manuscripta.ch/download/webcache/1000/4602949",
+        "@type": "dctypes:Image"
+      }
+    },
+    {
+      "id": "princetonLibrary",
+      "url": "https://figgy.princeton.edu/concern/scanned_resources/8d8b3997-d323-4b1c-aaca-1670a3181566/manifest",
+      "status": 200,
+      "cors": "http://localhost:8000",
+      "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+      "count": 41,
+      "body": {
+        "@type": "dctypes:Image",
+        "@id": "https://iiif-cloud.princeton.edu/iiif/2/be%2Fe7%2Fb0%2Fbee7b04124ad457b8bdff54ba2ad7127%2Fintermediate_file/full/1000,/0/default.jpg",
+        "height": 3607,
+        "width": 2417,
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif-cloud.princeton.edu/iiif/2/be%2Fe7%2Fb0%2Fbee7b04124ad457b8bdff54ba2ad7127%2Fintermediate_file",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      },
+      "rightsFields": [
+        "rinceton.edu/catalog/9924732393506421.marcxml\",\"format\":\"text/xml\"}],\"license\":\"http://rightsstatements.org/vocab/NKC/1.0/\",\"thumbnail\":{\"@id\":\"https://iiif-cloud.princeton.edu/iiif/2/be%2Fe7%2Fb0%2Fbee7b04124ad457b8bdff54ba2ad7127%2Fintermediate_file/full/"
+      ]
+    },
+    {
+      "id": "folger",
+      "url": "https://digitalcollections.folger.edu/node/50479/manifest",
+      "status": 200,
+      "cors": "*",
+      "credit": "Digital Collections",
+      "count": 2,
+      "body": {
+        "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120235-Preservation%2520Master%2520File.jpg/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 6408,
+        "width": 4677,
+        "service": {
+          "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120235-Preservation%2520Master%2520File.jpg",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+        }
+      },
+      "rightsFields": [
+        "anuscript\"},{\"label\":\"Resource Type\",\"value\":\"Still Image\"},{\"label\":\"Rights\",\"value\":\"https:\\/\\/rightsstatements.org\\/page\\/NoC-US\\/1.0\\/\"},{\"label\":\"Sort order\",\"value\":\"52\"},{\"label\":\"Title\",\"value\":\"1 recto\"},{\"label\":\"Page\\/opening\",\"value\":\"1 recto\"}",
+        "anuscript\"},{\"label\":\"Resource Type\",\"value\":\"Still Image\"},{\"label\":\"Rights\",\"value\":\"https:\\/\\/rightsstatements.org\\/page\\/NoC-US\\/1.0\\/\"},{\"label\":\"Sort order\",\"value\":\"53\"},{\"label\":\"Title\",\"value\":\"1 verso\"},{\"label\":\"Page\\/opening\",\"value\":\"1 verso\"}",
+        "anuscripts\"},{\"label\":\"Resource Type\",\"value\":\"Collection\"},{\"label\":\"Rights\",\"value\":\"https:\\/\\/rightsstatements.org\\/page\\/NoC-US\\/1.0\\/\"},{\"label\":\"Call number\",\"value\":\"X.d.502 (1)\"},{\"label\":\"Note(s)\",\"value\":\"\\u003Cp\\u003EFor two pieces of land.\\u003"
+      ]
+    },
+    {
+      "id": "erara",
+      "url": "https://www.e-rara.ch/i3f/v20/7568336/manifest",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/deed.de",
+      "credit": "e-rara, the platform for digitized rare books from Swiss institutions",
+      "count": 1738,
+      "body": {
+        "service": {
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://www.e-rara.ch/i3f/v20/9556086"
+        },
+        "format": "image/jpeg",
+        "height": 1233,
+        "width": 1000,
+        "@id": "https://www.e-rara.ch/download/webcache/1000/9556086",
+        "@type": "dctypes:Image"
+      },
+      "rightsFields": [
+        "tform for digitized rare books from Swiss institutions\",\"service\":[],\"license\":\"https://creativecommons.org/publicdomain/mark/1.0/deed.de\",\"structures\":[],\"sequences\":[{\"canvases\":[{\"height\":3040,\"width\":2464,\"images\":[{\"resource\":{\"service\":{\"profile\":\"htt"
+      ]
+    }
+  ]
+}

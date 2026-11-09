@@ -1,0 +1,284 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Potentilla eriocarpa Wall. ex Lehm. (E00008781)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "CETAF ID"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"http://data.rbge.org.uk/herb/E00008781\">http://data.rbge.org.uk/herb/E00008781</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Catalogue Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "E00008781"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Scientific Name"
+        ]
+      },
+      "value": {
+        "en": [
+          "<i>Potentilla</i> <i>eriocarpa</i> Wall. ex Lehm."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Collector Number"
+        ]
+      },
+      "value": {
+        "en": [
+          "8015"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Family"
+        ]
+      },
+      "value": {
+        "en": [
+          "Rosaceae"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Genus"
+        ]
+      },
+      "value": {
+        "en": [
+          "Potentilla"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Species"
+        ]
+      },
+      "value": {
+        "en": [
+          "eriocarpa"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Field Notes"
+        ]
+      },
+      "value": {
+        "en": [
+          "Achenes woody."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Country"
+        ]
+      },
+      "value": {
+        "en": [
+          "India"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "State/Province"
+        ]
+      },
+      "value": {
+        "en": [
+          "Himachal Pradesh"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Locality"
+        ]
+      },
+      "value": {
+        "en": [
+          "India:Himachal Pradesh:Jagatsuk Nullah, Kulu"
+        ]
+      }
+    }
+  ],
+  "summary": [
+    "Summary of Specimen: E00008781"
+  ],
+  "viewingDirection": "left-to-right",
+  "thumbnail": [
+    {
+      "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781/full/174,249/0/default.jpg",
+      "type": "Image",
+      "service": [
+        {
+          "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "rights": "https://creativecommons.org/licenses/by-sa/2.5/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Royal Botanic Garden Edinburgh"
+      ]
+    }
+  },
+  "logo": {
+    "@id": "https://iiif.rbge.org.uk/herb/rbge_logo.png"
+  },
+  "provider": [
+    {
+      "id": "http://www.rbge.org.uk",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "Royal Botanic Garden Edinburgh"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "http://www.rbge.org.uk",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Royal Botanic Garden Edinburgh"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": {
+        "id": "https://iiif.rbge.org.uk/herb/rbge_logo.png",
+        "type": "Image",
+        "format": "image/png"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://data.rbge.org.uk/herb/E00008781",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Catalogue page for this specimen."
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://data.rbge.org.uk/herb/E00008781",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Specimen description in RDF XML."
+        ]
+      },
+      "format": "application/rdf+xml"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781#canvas",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "E00008781"
+        ]
+      },
+      "height": 7988,
+      "width": 5598,
+      "items": [
+        {
+          "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781#annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781#annotation",
+              "type": "Annotation",
+              "motivation": "Painting",
+              "body": {
+                "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ],
+                "height": 7988,
+                "width": 5598
+              },
+              "target": "https://iiif.rbge.org.uk/herb/iiif/E00008781#canvas"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781/full/174,249/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781",
+              "type": "ImageService3",
+              "profile": "level0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

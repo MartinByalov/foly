@@ -1,0 +1,169 @@
+{
+  "checkedAt": "2026-11-04T05:28:17.767Z",
+  "reports": [
+    {
+      "id": "met",
+      "endpoint": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+      "image": "https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg",
+      "ok": true,
+      "width": 4000,
+      "height": 3184,
+      "registryEnabled": true,
+      "admissionChecked": false,
+      "field": "primaryImage",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "cleveland",
+      "endpoint": "https://openaccess-api.clevelandart.org/api/artworks/?cc0&has_image=1&limit=1",
+      "image": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_web.jpg",
+      "ok": true,
+      "width": 748,
+      "height": 893,
+      "registryEnabled": true,
+      "admissionChecked": false,
+      "field": "data[].images.web.url",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "artic",
+      "endpoint": "https://api.artic.edu/api/v1/artworks/27992?fields=id,title,image_id,is_public_domain",
+      "image": null,
+      "ok": false,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "data.image_id + IIIF",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission.",
+      "error": "Failed to fetch"
+    },
+    {
+      "id": "apod",
+      "endpoint": "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2024-01-01",
+      "image": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+      "ok": true,
+      "width": 121,
+      "height": 102,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "hdurl || url",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "spacex",
+      "endpoint": "https://api.spacexdata.com/v4/rockets",
+      "image": null,
+      "ok": false,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "[].flickr_images[]",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission.",
+      "error": "signal timed out"
+    },
+    {
+      "id": "inaturalist",
+      "endpoint": "https://api.inaturalist.org/v1/observations?photos=true&photo_license=cc0,cc-by&quality_grade=research&per_page=1",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759530060/square.jpg",
+      "ok": true,
+      "width": 75,
+      "height": 75,
+      "registryEnabled": true,
+      "admissionChecked": false,
+      "field": "results[].photos[].url",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "mealdb",
+      "endpoint": "https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772",
+      "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "ok": true,
+      "width": 700,
+      "height": 700,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "meals[].strMealThumb",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "dogCeo",
+      "endpoint": "https://dog.ceo/api/breeds/image/random",
+      "image": "https://images.dog.ceo/breeds/lhasa/n02098413_7358.jpg",
+      "ok": true,
+      "width": 500,
+      "height": 375,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "message",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "pokeapi",
+      "endpoint": "https://pokeapi.co/api/v2/pokemon/1",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "ok": true,
+      "width": 96,
+      "height": 96,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "sprites.front_default",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "rickAndMorty",
+      "endpoint": "https://rickandmortyapi.com/api/character/1",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "ok": true,
+      "width": 300,
+      "height": 300,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "image",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "apodWordPress",
+      "endpoint": "https://science.nasa.gov/wp-json/wp/v2/apod-basic",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=4144&h=2822&fit=clip&crop=faces%2Cfocalpoint",
+      "ok": true,
+      "width": 4144,
+      "height": 2822,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "[].hdurl",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "spacexLaunch",
+      "endpoint": "https://api.spacexdata.com/v4/launches/latest",
+      "image": null,
+      "ok": false,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "links.flickr.original[]",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission.",
+      "error": "signal timed out"
+    },
+    {
+      "id": "cocktaildb",
+      "endpoint": "https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=11007",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "ok": true,
+      "width": 700,
+      "height": 700,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "drinks[].strDrinkThumb",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission."
+    },
+    {
+      "id": "randomDuck",
+      "endpoint": "https://random-d.uk/api/v2/random",
+      "image": null,
+      "ok": false,
+      "registryEnabled": false,
+      "admissionChecked": false,
+      "field": "url",
+      "note": "Transport/decode evidence only; does not establish item rights or production admission.",
+      "error": "Failed to fetch"
+    }
+  ]
+}

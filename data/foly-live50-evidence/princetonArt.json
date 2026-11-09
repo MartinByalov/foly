@@ -1,0 +1,179 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://data.artmuseum.princeton.edu/iiif/objects/8161",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Guercino (Giovanni Francesco Barbieri) (1591–1666, born Cento, Italy; died Bologna, Italy), Study for the Martyrdom of Saint Bartholomew, 1635–36. Pen and brown ink and brush and brown wash on cream laid paper; 20.3 × 25.5 cm, 42.1 × 54.8 × 2.9 cm (frame). Bequest of Dan Fellows Platt, Class of 1895 (x1948-734)"
+    ]
+  },
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "\r\nBorn in Cento, a small town near Ferrara in northern Italy, Giovanni Francesco Barbieri was nicknamed Guercino because he was <I>guercio</I>, or cross-eyed. Largely self-taught, he was deeply influenced by the innovative naturalism of the Bolognese painter Ludovico Carracci, onto which he grafted a vibrant chiaroscuro, emotional intensity, and inventive narrative that made him one of the most appealing and influential Italian Baroque artists. A brilliant and versatile draftsman, he produced thousands of studies for his religious and mythological painting commissions throughout his long and successful career, most of which he spent in Cento and Bologna after a short stay in Rome in 1621–23. In addition, he made informal sketches of landscapes, genre scenes, and caricatures for his own pleasure or to share with friends. Thanks to the astute purchases of Dan Fellows Platt and Frank Jewett Mather Jr. at a time when Baroque art was out of favor, the Museum’s collection of drawings by Guercino and his school is the most extensive in North America.</P>\r\nThese two pen and wash sketches beautifully exemplify how Guercino exploits economical means for maximum expression, combining elegant yet robust contours with subtly varied washes to convey the essence of the subject matter with dramatic lighting and spatial effects. The horizontal composition study for the <I>Martyrdom of Saint Bartholomew</I> (1635–36, San Martino, Siena) is one of four radically different conceptions of the central motif, all of which differ from the final, vertical altarpiece. Using the sheet of paper as a stage for brainstorming, Guercino dashes off strokes of ink and splashes of wash for this conception of the scene, which contrasts the yielding body and delicate facial features of the suffering saint with the tough stances and shadowy profiles of the two torturers who are flaying him alive.</P>\r\nTurning from the horrific to the comical in the <I>Boy with a Large Hat</I>, Guercino employs his minimalist technique to caricatural effect. Spare contours underscore the boy’s compact build, while the single curve of dark wash casts a deep shadow that echoes the exaggerated width of his squashed hat and moon-like face. This sketch, which reveals Guercino’s keen and compassionate observation of humanity, belongs to a small album of the artist’s caricatures and genre portraits that was once owned by the eighteenth-century British painter Joshua Reynolds, and is now one of the Museum’s treasures.&nbsp;</P></SPAN>"
+        ]
+      },
+      "label": {
+        "en": [
+          "Description"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1/full/!350,350/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 281,
+      "width": 350,
+      "service": [
+        {
+          "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Princeton University Art Museum"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://artmuseum.princeton.edu/about",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "Princeton Univesity Art Museum"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://artmuseum.princeton.edu/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Princeton Univesity Art Museum Homepage"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/puam_logo/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 38,
+          "width ": 200,
+          "service": [
+            {
+              "@id": "https://media.artmuseum.princeton.edu/iiif/3/collection/puam_logo",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://artmuseum.princeton.edu/collections/objects/8161",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Object Page in Online Collections Catalog"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://data.artmuseum.princeton.edu/iiif/objects/collection",
+      "type": "Collection"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://data.artmuseum.princeton.edu/iiif/objects/8161/canvas/8161-canvas-110988",
+      "type": "Canvas",
+      "height": 3219,
+      "width": 4000,
+      "items": [
+        {
+          "id": "https://data.artmuseum.princeton.edu/iiif/objects/8161/page/8161-anno-110988",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.artmuseum.princeton.edu/iiif/objects/8161/annotation/8161-anno-110988",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.artmuseum.princeton.edu/iiif/objects/8161/canvas/8161-canvas-110988",
+              "body": {
+                "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3219,
+                "width": 4000,
+                "service": [
+                  {
+                    "@id": "https://media.artmuseum.princeton.edu/iiif/2/collection/x1948-734_1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  },
+                  {
+                    "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1/full/!350,350/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 281,
+          "width": 350,
+          "service": [
+            {
+              "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "View 1"
+        ]
+      }
+    }
+  ],
+  "start": {
+    "id": "https://media.artmuseum.princeton.edu/iiif/3/collection/x1948-734_1",
+    "type": "Canvas"
+  }
+}

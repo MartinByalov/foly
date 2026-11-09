@@ -1,0 +1,460 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://api.dc.library.northwestern.edu/api/v2/works/4c0790f6-ae02-42cd-9efb-26f3dd508184?as=iiif",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Obama '08 t-shirt."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "unknown Kenyan (Manufacturer)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "2010"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Department"
+        ]
+      },
+      "value": {
+        "none": [
+          "Herskovits Library of African Studies"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "size 70 cm, 57 x 66 cm irregular."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "none": [
+          "T-shirts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "Obama 279"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Last Modified"
+        ]
+      },
+      "value": {
+        "none": [
+          "2022-02-25T19:39:54.543081Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Materials"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 t-shirt : cotton, vinyl"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Provenance"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kenya."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "none": [
+          "Master-Knit"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "Copyright Undetermined"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Souvenirs (Keepsakes)",
+          "Kenya",
+          "Obama, Barack"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "none": [
+      "Orange t-shirt short-sleeved t-shirt with multicolor silkscreen on front and back. Front of t-shirt: portrait of Barack Obama superimposed on flag of Kenya with \"Obama '08\" in white lettering below. Back of t-shirt: \"Ndio tunaweza\" (translation: yes we can) in Swahili black capital lettering on two lines."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries",
+        "The images on this web site are from material in the collections of the Melville J. Herskovits Library of African Studies of Northwestern University Libraries. The images are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the images from this site is not permitted.  The copyright for these materials is undetermined. If you hold the rights to any materials presented on this site and would like them removed please contact the Melville J. Herskovits Library of African Studies and your issue will be addressed"
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/UND/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4c0790f6-ae02-42cd-9efb-26f3dd508184/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4c0790f6-ae02-42cd-9efb-26f3dd508184",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4c0790f6-ae02-42cd-9efb-26f3dd508184",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Homepage at Northwestern University Libraries Digital Collections"
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/ecacd539-fe38-40ec-bbc0-590acee3d4f2?as=iiif",
+      "type": "Collection",
+      "label": {
+        "none": [
+          "Africa Embracing Obama"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This collection documents the extraordinary cultural outpouring of celebratory materials from across the continent of Africa.  They represent Africa’s pride in, ownership of and hopefulness for the candidacy and presidency of Barack Obama. "
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif",
+      "type": "Canvas",
+      "height": 8688,
+      "width": 5792,
+      "label": {
+        "none": [
+          "p202-35556043832401-obama-01.tif"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c/full/^!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c",
+              "profile": "http://iiif.io/api/image/3/level2.json",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c/full/^600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 8688,
+                "width": 5792,
+                "label": {
+                  "en": [
+                    "p202-35556043832401-obama-01.tif"
+                  ]
+                },
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c",
+                    "profile": "http://iiif.io/api/image/3/level2.json",
+                    "type": "ImageService3"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "placeholderCanvas": {
+        "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/placeholder",
+        "type": "Canvas",
+        "width": 640,
+        "height": 960,
+        "items": [
+          {
+            "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/placeholder/annotation-page/0",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/placeholder/annotation/0",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c/full/^!640,960/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/tiff",
+                  "width": 640,
+                  "height": 960,
+                  "service": [
+                    {
+                      "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c",
+                      "type": "ImageService3",
+                      "profile": "http://iiif.io/api/image/3/level2.json"
+                    }
+                  ]
+                },
+                "target": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8599dd2c-c458-4465-a8f8-057ede29fd8c?as=iiif/placeholder"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif",
+      "type": "Canvas",
+      "height": 8688,
+      "width": 5792,
+      "label": {
+        "none": [
+          "p202-35556043832401-obama-02.tif"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a/full/^!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a",
+              "profile": "http://iiif.io/api/image/3/level2.json",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a/full/^600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 8688,
+                "width": 5792,
+                "label": {
+                  "en": [
+                    "p202-35556043832401-obama-02.tif"
+                  ]
+                },
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a",
+                    "profile": "http://iiif.io/api/image/3/level2.json",
+                    "type": "ImageService3"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "placeholderCanvas": {
+        "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/placeholder",
+        "type": "Canvas",
+        "width": 640,
+        "height": 960,
+        "items": [
+          {
+            "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/placeholder/annotation-page/0",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/placeholder/annotation/0",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a/full/^!640,960/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/tiff",
+                  "width": 640,
+                  "height": 960,
+                  "service": [
+                    {
+                      "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a096fc34-e89a-434f-8835-0233a5f2a98a",
+                      "type": "ImageService3",
+                      "profile": "http://iiif.io/api/image/3/level2.json"
+                    }
+                  ]
+                },
+                "target": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a096fc34-e89a-434f-8835-0233a5f2a98a?as=iiif/placeholder"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "provider": [
+    {
+      "id": "https://www.library.northwestern.edu/",
+      "type": "Agent",
+      "label": {
+        "none": [
+          "Northwestern University Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/",
+          "type": "Text",
+          "label": {
+            "none": [
+              "Northwestern University Libraries Digital Collections Homepage"
+            ]
+          },
+          "format": "text/html",
+          "language": [
+            "en"
+          ]
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+          "type": "Image",
+          "format": "image/webp",
+          "height": 139,
+          "width": 1190
+        }
+      ]
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+      "type": "Image",
+      "format": "image/webp",
+      "height": 139,
+      "width": 1190
+    }
+  ]
+}

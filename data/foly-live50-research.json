@@ -1,0 +1,1534 @@
+{
+  "checkedAt": "2026-11-03T20:37:17.614Z",
+  "reports": [
+    {
+      "id": "tokyoMuseum",
+      "url": "https://museumcollection.tokyo/iiif/6379100/manifest",
+      "status": 403,
+      "cors": null,
+      "count": 0
+    },
+    {
+      "id": "wroclaw",
+      "url": "https://bibliotekacyfrowa.pl/iiif-manifest/manifest/38354/PDF.json",
+      "status": 200,
+      "cors": "*",
+      "count": 1,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "pl": [
+              "Opis"
+            ]
+          },
+          "value": {
+            "pl": [
+              "Tygodnik ilustrowany dodawany od 20 lipca 1924 roku do dziennika Schlesische Zeitung, zawierający wiele ciekawych ilustracji ze Śląska i całego świata. W 1927 od nru 14 zmienił się tytuł na: \"Schlesische Illustrierte Zeitung. Wochenbeilage der Schlesischen Zeitung. Początkowo drukowany w Berlinie, od 1927 w drukarni Korna we Wrocławiu. W 1934 tytuł przestal się ukazywać."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Access rights"
+            ],
+            "pl": [
+              "Prawa dostępu"
+            ]
+          },
+          "value": {
+            "en": [
+              "Publicly available without restrictions"
+            ],
+            "pl": [
+              "Dostępne publicznie bez ograniczeń"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "pl": [
+              "Wydawca"
+            ]
+          },
+          "value": {
+            "pl": [
+              "Verlag der Otto Elsner A.-G., Buchdruckerei und Verlagsbuchhandlung"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "License"
+            ],
+            "pl": [
+              "Licencja"
+            ]
+          },
+          "value": {
+            "en": [
+              "Public Domain Mark 1.0",
+              "https://creativecommons.org/publicdomain/mark/1.0/deed.en"
+            ],
+            "pl": [
+              "Znak domeny publicznej 1.0",
+              "https://creativecommons.org/publicdomain/mark/1.0/deed.pl"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ],
+            "pl": [
+              "Data"
+            ]
+          },
+          "value": {
+            "pl": [
+              "1932-07-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Format"
+            ],
+            "pl": [
+              "Format"
+            ]
+          },
+          "value": {
+            "en": [
+              "image/x.djvu"
+            ],
+            "pl": [
+              "image/x.djvu"
+            ],
+            "universal": [
+              "image/x.djvu"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Source"
+            ],
+            "pl": [
+              "Źródło"
+            ]
+          },
+          "value": {
+            "pl": [
+              "GSL P 31305 IV"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "pl": [
+              "Język"
+            ]
+          },
+          "value": {
+            "en": [
+              "ger"
+            ],
+            "pl": [
+              "ger"
+            ],
+            "universal": [
+              "ger"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Relation"
+            ],
+            "pl": [
+              "Powiązanie"
+            ]
+          },
+          "value": {
+            "pl": [
+              "HDD00006\\GSL"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Location of original object"
+            ],
+            "pl": [
+              "Lokalizacja oryginału"
+            ]
+          },
+          "value": {
+            "pl": [
+              "BUWr Kolekcja Śląsko-Łużycka"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "PLMET"
+            ],
+            "pl": [
+              "Schemat metadanych PLMET"
+            ]
+          },
+          "value": {
+            "pl": [
+              "https://docs.psnc.pl/spaces/FBCMETGUIDE/overview"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publishing"
+            ],
+            "pl": [
+              "Miejsce wydania"
+            ]
+          },
+          "value": {
+            "pl": [
+              "Berlin"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Detailed Type"
+            ],
+            "pl": [
+              "Szczegółowy typ zasobu"
+            ]
+          },
+          "value": {
+            "pl": [
+              "czasopisma"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "pl": [
+              "Tytuł"
+            ]
+          },
+          "value": {
+            "pl": [
+              "Schlesische Illustrierte Zeitung 1932-07-09 Nr 29"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ],
+            "pl": [
+              "Temat i słowa kluczowe"
+            ]
+          },
+          "value": {
+            "pl": [
+              "czasopisma niemieckie",
+              "ilustracje",
+              "fotografie"
+            ]
+          }
+        }
+      ],
+      "body": {
+        "format": "application/pdf",
+        "id": "https://bibliotekacyfrowa.pl/Content/38354/PDF/document.pdf",
+        "label": {
+          "@none": [
+            "PDF/document.pdf"
+          ]
+        },
+        "type": "Text"
+      }
+    },
+    {
+      "id": "leuven",
+      "url": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/manifest",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "count": 1,
+      "metadata": [
+        {
+          "label": "Gebruik",
+          "value": [
+            {
+              "@value": "Goed voor gebruik",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Formats voor gebruik",
+          "value": [
+            {
+              "@value": "Grafische reproductie (geheel/gedeeltelijk) in om het even welke vorm (affiches/foto\\'s/dia\\'s/post- en prentkaarten...),Publicatie van het werk (geheel/gedeeltelijk) in krant/weekblad/informatiebrochure/tijdschrift/of anderszins en de verspreiding van de laatstgenoemde creaties,Opname (geheel/gedeeltelijk) van het werk in een beeldenbank en op de website van M/documentatiemap/boek/catalogus/databank (grafisch en/of elektronische) en de verspreiding van de laatstgenoemde creaties,Publieke mededeling en ter beschikking stelling (bv. via film/televisie/internet) van een werk (geheel/gedeeltelijk),Recht tot tentoonstelling in de gebouwen/instellingen en inrichtingen van het Museum alsook in de gebouwen/instellingen en inrichtingen van de huurder/ontlener van deze werken in de zin van bovenstaande paragraaf 7",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Publiceren op website?",
+          "value": [
+            {
+              "@value": "Ja",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "© Creditline NL",
+          "value": "Portret van een man, Michiel van Mierevelt, 1629, Collectie M Leuven, bron: artinflanders.be, foto: Cedric Verhelst"
+        },
+        {
+          "label": "Onderschrift NL",
+          "value": "Portret van een man, Michiel van Mierevelt, 1629"
+        },
+        {
+          "label": "© Creditline FR",
+          "value": "Portrait d'un homme, Michiel van Mierevelt, 1629, Collection M leuven, source: artinflanders.be, photo: Cedric Verhelst"
+        },
+        {
+          "label": "Onderschrift FR",
+          "value": "Portrait d'un homme, Michiel van Mierevelt, 1629"
+        },
+        {
+          "label": "© Creditline EN",
+          "value": "Portrait of a Man, Michiel van Mierevelt, 1629, Collection M leuven, source: artinflanders.be, photo: Cedric Verhelst"
+        },
+        {
+          "label": "Onderschrift EN",
+          "value": "Portrait of a Man, Michiel van Mierevelt, 1629"
+        },
+        {
+          "label": "Rechtenstatus",
+          "value": [
+            {
+              "@value": "publiek domein (PDM)",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Rechtenverklaring",
+          "value": [
+            {
+              "@value": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Mappenstructuur",
+          "value": [
+            {
+              "@value": "Collectie,M-collectie,Schilderingen, tekeningen en drukwerk",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Wat",
+          "value": [
+            {
+              "@value": "Oude kunst",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Type beeld",
+          "value": [
+            {
+              "@value": "Objectfoto",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Fotograaf",
+          "value": [
+            {
+              "@value": "Cedric Verhelst",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "Originele bestandsnaam",
+          "value": "S_54_M.tif"
+        },
+        {
+          "label": "Datum foto",
+          "value": "2024-08-28 11:06:36"
+        },
+        {
+          "label": "Bestandsformaat",
+          "value": "TIFF"
+        },
+        {
+          "label": "Bestandsgrootte",
+          "value": "968 MB"
+        },
+        {
+          "label": "Afmetingen",
+          "value": "11172x15149"
+        },
+        {
+          "label": "Kleurruimte",
+          "value": "Uncalibrated"
+        },
+        {
+          "label": "Inventarisnummer",
+          "value": "S/54/M"
+        },
+        {
+          "label": "Titel kunstobject",
+          "value": "Portret van een man"
+        },
+        {
+          "label": "Vervaardiger",
+          "value": "Michiel van Mierevelt"
+        },
+        {
+          "label": "Sterfdatum vervaardiger",
+          "value": "1641-06-27"
+        },
+        {
+          "label": "GUID uit Axiell Collections",
+          "value": "68a3dc5b-13f4-4b14-ba68-74f6116dc401"
+        },
+        {
+          "label": "pURI collectiestuk",
+          "value": "https://data.mleuven.be/ark:16425/68a3dc5b-13f4-4b14-ba68-74f6116dc401"
+        },
+        {
+          "label": "IIIF resource?",
+          "value": [
+            {
+              "@value": "Yes",
+              "@language": "nl"
+            }
+          ]
+        },
+        {
+          "label": "IIIF Sequence",
+          "value": "1"
+        }
+      ],
+      "body": {
+        "@id": "https://mleuven.resourcespace.com/iiif/image/6172/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 15149,
+        "width": 11172,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://mleuven.resourcespace.com/iiif/image/6172",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      }
+    },
+    {
+      "id": "harvardArt",
+      "url": "https://iiif.harvardartmuseums.org/manifests/object/133370",
+      "status": 200,
+      "cors": "*",
+      "credit": "Harvard Art Museums",
+      "count": 2,
+      "metadata": [
+        {
+          "label": "Date",
+          "value": "1948"
+        },
+        {
+          "label": "Classification",
+          "value": "Photographs"
+        },
+        {
+          "label": "Credit Line",
+          "value": "Harvard Art Museums/Fogg Museum, Transfer from the Carpenter Center for the Visual Arts, American Professional Photographers Collection"
+        },
+        {
+          "label": "Object Number",
+          "value": "4.2002.9196"
+        },
+        {
+          "label": "People",
+          "value": [
+            "Artist: Martin Schweig, American, 20th century"
+          ]
+        },
+        {
+          "label": "Technique",
+          "value": "Negative, gelatin silver (film)"
+        },
+        {
+          "label": "Dimensions",
+          "value": "image: 10.16 x 12.7 cm (4 x 5 in.)"
+        }
+      ],
+      "body": {
+        "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 813,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1024
+      }
+    },
+    {
+      "id": "qatarLibrary",
+      "url": "https://www.qdl.qa/en/iiif/qnlhc/2702/manifest",
+      "status": 403,
+      "cors": null,
+      "count": 0
+    },
+    {
+      "id": "edinburghBotanic",
+      "url": "https://iiif.rbge.org.uk/herb/iiif/E00008781/manifest",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "credit": {
+        "label": {
+          "en": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "en": [
+            "Royal Botanic Garden Edinburgh"
+          ]
+        }
+      },
+      "count": 1,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "CETAF ID"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://data.rbge.org.uk/herb/E00008781\">http://data.rbge.org.uk/herb/E00008781</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Catalogue Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "E00008781"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Scientific Name"
+            ]
+          },
+          "value": {
+            "en": [
+              "<i>Potentilla</i> <i>eriocarpa</i> Wall. ex Lehm."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Collector Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "8015"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Family"
+            ]
+          },
+          "value": {
+            "en": [
+              "Rosaceae"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Genus"
+            ]
+          },
+          "value": {
+            "en": [
+              "Potentilla"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Species"
+            ]
+          },
+          "value": {
+            "en": [
+              "eriocarpa"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Field Notes"
+            ]
+          },
+          "value": {
+            "en": [
+              "Achenes woody."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Country"
+            ]
+          },
+          "value": {
+            "en": [
+              "India"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "State/Province"
+            ]
+          },
+          "value": {
+            "en": [
+              "Himachal Pradesh"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Locality"
+            ]
+          },
+          "value": {
+            "en": [
+              "India:Himachal Pradesh:Jagatsuk Nullah, Kulu"
+            ]
+          }
+        }
+      ],
+      "body": {
+        "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781/info.json",
+        "type": "Image",
+        "format": "image/jpeg",
+        "service": [
+          {
+            "id": "https://iiif.rbge.org.uk/herb/iiif/E00008781",
+            "type": "ImageService3",
+            "profile": "level0"
+          }
+        ],
+        "height": 7988,
+        "width": 5598
+      }
+    },
+    {
+      "id": "ucla",
+      "url": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest",
+      "status": 200,
+      "cors": "*",
+      "count": 2,
+      "metadata": [
+        {
+          "label": "Repository",
+          "value": "Louise M. Darling Biomedical Library. History and Special Collections for the Sciences"
+        }
+      ],
+      "body": {
+        "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F7q192w7x/full/600,/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F7q192w7x",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    },
+    {
+      "id": "designGent",
+      "url": "https://api.collectie.gent/iiif/presentation/v2/manifest/dmg:3075",
+      "status": 200,
+      "cors": "*",
+      "count": 1,
+      "body": {
+        "@id": "https://api.collectie.gent/iiif/image/iiif/2/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 3285,
+        "width": 2432,
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://api.collectie.gent/iiif/image/iiif/2/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    },
+    {
+      "id": "oxford",
+      "url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198.json",
+      "status": 200,
+      "cors": "*",
+      "credit": "<span>Photo: © Bodleian Libraries, University of Oxford. Terms of use: <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. For more information, please see <a href=\"https://digital.bodleian.ox.ac.uk/terms/\">https://digital.bodleian.ox.ac.uk/terms/</a></span>",
+      "count": 226,
+      "metadata": [
+        {
+          "label": "Homepage",
+          "value": "<span><a href=\"https://digital.bodleian.ox.ac.uk/objects/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198/\">View on Digital Bodleian</a></span>"
+        },
+        {
+          "label": "Catalogue Description",
+          "value": "<a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_290\">Full catalogue record in Catalogue of Western Medieval Manuscripts in Oxford Libraries</a>"
+        },
+        {
+          "label": "Title",
+          "value": "Bestiary"
+        },
+        {
+          "label": "Shelfmark",
+          "value": "Bodleian Library MS. Ashmole 1511"
+        },
+        {
+          "label": "Language",
+          "value": "Latin"
+        },
+        {
+          "label": "Date Statement",
+          "value": "1201–1225"
+        },
+        {
+          "label": "Place of Origin",
+          "value": "England. Peterborough (?) or Lincoln (?)"
+        },
+        {
+          "label": "Description",
+          "value": "'The Ashmole Bestiary'"
+        },
+        {
+          "label": "Description",
+          "value": "Decoration: important miniatures. Initials. (P&A iii. 334, pl. XXIX and frontispiece)."
+        },
+        {
+          "label": "Collection",
+          "value": "Western Medieval Manuscripts"
+        },
+        {
+          "label": "Catalogue Identifier",
+          "value": "Summary Catalogue 7541"
+        },
+        {
+          "label": "Record Created",
+          "value": "2017-12-04T15:15:57+00:00"
+        },
+        {
+          "label": "Holding Institution",
+          "value": "Bodleian Libraries, University of Oxford"
+        }
+      ],
+      "body": {
+        "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/fb43631c-1f61-4865-806c-9fe59b5753ff",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 6578,
+        "height": 8500,
+        "service": {
+          "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/fb43631c-1f61-4865-806c-9fe59b5753ff",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      }
+    },
+    {
+      "id": "cambridge",
+      "url": "https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03996",
+      "status": 200,
+      "cors": "*",
+      "credit": "Provided by Cambridge University Library. Cambridge University Library  Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License (CC BY-NC 4.0)   This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+      "count": 285,
+      "metadata": [
+        {
+          "label": "Origin Place",
+          "value": "Cambridge"
+        },
+        {
+          "label": "Provenance",
+          "value": "From the Portsmouth Collection, donated by the fifth Earl of Portsmouth, 1872."
+        },
+        {
+          "label": "Physical Location",
+          "value": "Cambridge University Library"
+        },
+        {
+          "label": "Extent",
+          "value": "140 ff. [quarto]"
+        },
+        {
+          "label": "Funding",
+          "value": ""
+        },
+        {
+          "label": "Abstract",
+          "value": "<p style='text-align: justify;'>Add. 3996 is a notebook that Newton used as a young student. Newton’s youthful interest in learning was encouraged by his uncle, William Ayscough, and by the schoolmaster at Grantham, John Stokes. Despite opposition from his mother, who wanted him to stay at home and farm, Newton was admitted to Trinity College, Cambridge, on 5 June 1661, and matriculated on 8 July. His uncle had been educated at Trinity and one of the fellows of the College, Humphrey Babington, was related to a family with whom Newton had lodged while at school in Grantham. Perhaps because of some reluctance of his mother’s to waste money on education, perhaps in order to assist Babington, Newton entered Trinity as a sub-sizar, that is a student who was to supplement his income by acting as a servant either for the fellows or for other wealthier students, and who was allowed to pay lower fees for attending lectures.</p><p style='text-align: justify;'> Newton’s ‘Trinity College Notebook’ MS Add. 3996 was used by him as an undergraduate, from about 1661 to 1665. It includes his notes on books he was recommended to read for his studies, but it also shows him starting to read for himself and comment not only on classical sources, but also contemporary natural philosophical writing, such as the works of René Descartes or the Dutch mathematician Willebrord Snell. Newton also makes his own observations on a comet. In this notebook we see Newton, in his independent reading, reflection and observations of the world around him embarking on his career as a natural philosopher.</p><p style='text-align: justify;'> Although this is not the earliest of Newton’s surviving notebooks, it may well be the one that he purchased, together with some ink, on his arrival in Cambridge. Undergraduate education at this time consisted largely of following courses of reading directed by a tutor, in Newton’s case Benjamin Pulleyn. These initially focussed on the traditional skills of grammar, logic, and rhetoric. At Cambridge, it was also usual for undergraduates to study ethics, metaphysics, physics, and mathematics. Together with some books that he bought in the early 1660s, this notebook bears witness to Newton’s first steps in the Aristotelian curriculum of the early modern university. It is dated on the flyleaf, ‘Isaac Newton/ Trin: Coll Cant/ 1661’ [<a href='' onclick='store.loadPage(3);return false;'>fol 1r</a>] and contains notes and occasional exercises relating to Newton’s reading, compiled in the manner of summarising and glossing recommended by most tutors. Many of these notes are written in the rather crude form of secretary hand that the young Newton practised. They cover his study of Aristotle’s <i>Organon</i> and Porphyry’s <i>Isagoge</i>; the scholastic compendium, <i>Physiologiae peripateticae</i>, by Joannes Magirus; Aristotle’s <i>Ethics</i> and the <i>Ethica</i> of Eustachius of St. Paul; the <i>Axiomata</i> of Daniel Stahl, which introduced him to Aristotelian metaphysics, and, finally, a text-book of rhetoric by the great humanist scholar, Gerardus Joannes Vossius.</p><p style='text-align: justify;'> By about the beginning of 1664, Newton’s writing had matured into the neat, if slightly spindly, italic hand that he would continue to develop over the rest of his life. His reading and thinking had also taken a new course, albeit one that was promoted by many of the best tutors in contemporary Cambridge. Newton had begun to reflect for himself on the metaphysical and natural philosophical terms and concepts deployed by the scholastic authors that he had been studying. Prompted perhaps by the scholarship to which he was elected in April 1664, Newton had started to read for himself both in the classical sources and commentaries and in contemporary philosophical and scientific writing, notably the works of Walter Charleton and René Descartes. Within the confines of a traditional commonplace book, and deploying many of the categories of renaissance philosophy, Newton had thus embarked through reading on his career as a mechanical, and eventually experimental, philosopher. Quoting portentously from Charleton, he headed his remarks ‘Amicus Plato amicus Aristoteles magis amica veritas’ (Plato is my friend, Aristotle is my friend, but my greatest friend is truth) [<a href='' onclick='store.loadPage(179);return false;'>fol 88r</a>]. This marks the beginning of a famous section of the manuscript where Newton organised his notetaking according to ‘Qu[a]estiones quaedam Philosophiae’ (certain philosophical questions) [<a href='' onclick='store.loadPage(179);return false;'>fols 88r-135r</a>], where he listed the subjects that interested him, and intended to study in greater depth – not only through the reading of Aristotelian and anti-Aristotelian texts, but also by means of experiments.</p><p style='text-align: justify;'>Niccolò Guicciardini, Università degli Studi di Milano, and Scott Mandelbrote, Peterhouse, Cambridge.</p>"
+        },
+        {
+          "label": "Persistent Identifier (ARK)",
+          "value": "<a href=\"https://resolver.ark.lib.cam.ac.uk/ark:/12090/cula/pt0js7b2p\">ark:/12090/cula/pt0js7b2p</a>"
+        },
+        {
+          "label": "Date of Creation",
+          "value": "c. 1661 - c. 1665"
+        },
+        {
+          "label": "Title",
+          "value": "Trinity College Notebook"
+        },
+        {
+          "label": "Author(s) of the Record",
+          "value": "Linda Cross, Robert Iliffe, Michael Hawkins, John Young, Huw Jones"
+        },
+        {
+          "label": "Material",
+          "value": "Paper"
+        },
+        {
+          "label": "Member of",
+          "value": "<ul class=\"collections\"><li><a href=\"/collections/newton/1\">Newton Papers</a></li><li><a href=\"/collections/treasures/1\">Treasures of the Library</a></li></ul>"
+        },
+        {
+          "label": "Classmark",
+          "value": "MS Add. 3996"
+        },
+        {
+          "label": "Donor(s)",
+          "value": "Portsmouth, Isaac Newton Wallop, Earl of, 1825-1891"
+        },
+        {
+          "label": "Subject(s)",
+          "value": "Science -- Mathematics"
+        },
+        {
+          "label": "Language(s)",
+          "value": "English, Latin and Greek"
+        },
+        {
+          "label": "Author(s)",
+          "value": "Newton, Isaac, Sir, 1642-1727"
+        },
+        {
+          "label": "Bibliography",
+          "value": "<div style='list-style-type: disc;'><div style='display: list-item; margin-left: 20px;'>J.E. McGuire and Martin Tamny (eds), <i>Certain Philosophical Questions: Newton’s Trinity Notebook</i> (Cambridge, 1983), especially pp. 296-304 </div><div style='display: list-item; margin-left: 20px;'>A. Rupert Hall, ‘Sir Isaac Newton’s Note-book, 1661-1665’, <i>The Cambridge Historical Journal,</i> 9 (1948), 239-50</div><div style='display: list-item; margin-left: 20px;'>Richard S. Westfall, <em class=\"underline\">Never at Rest. A Biography of Isaac Newton</em> (Cambridge, 1980), pp. 66-104</div></div><br />"
+        }
+      ],
+      "body": {
+        "@type": "dctypes:Image",
+        "service": {
+          "profile": "http://iiif.io/api/image/2/level1.json",
+          "@id": "https://images.lib.cam.ac.uk/iiif/MS-ADD-03996-000-00001.jp2",
+          "@context": "http://iiif.io/api/image/2/context.json"
+        },
+        "format": "image/jpg",
+        "width": 4032,
+        "@id": "https://images.lib.cam.ac.uk/iiif/MS-ADD-03996-000-00001.jp2",
+        "height": 5829
+      }
+    },
+    {
+      "id": "northwestern",
+      "url": "https://api.dc.library.northwestern.edu/api/v2/works/4c0790f6-ae02-42cd-9efb-26f3dd508184?as=iiif",
+      "status": 200,
+      "cors": "http://localhost:8000",
+      "rights": "http://rightsstatements.org/vocab/UND/1.0/",
+      "credit": {
+        "label": {
+          "none": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "none": [
+            "Courtesy of Northwestern University Libraries",
+            "The images on this web site are from material in the collections of the Melville J. Herskovits Library of African Studies of Northwestern University Libraries. The images are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the images from this site is not permitted.  The copyright for these materials is undetermined. If you hold the rights to any materials presented on this site and would like them removed please contact the Melville J. Herskovits Library of African Studies and your issue will be addressed"
+          ]
+        }
+      },
+      "count": 2,
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Contributor"
+            ]
+          },
+          "value": {
+            "none": [
+              "unknown Kenyan (Manufacturer)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "2010"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Department"
+            ]
+          },
+          "value": {
+            "none": [
+              "Herskovits Library of African Studies"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Dimensions"
+            ]
+          },
+          "value": {
+            "none": [
+              "size 70 cm, 57 x 66 cm irregular."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Genre"
+            ]
+          },
+          "value": {
+            "none": [
+              "T-shirts"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "none": [
+              "Obama 279"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Last Modified"
+            ]
+          },
+          "value": {
+            "none": [
+              "2022-02-25T19:39:54.543081Z"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Materials"
+            ]
+          },
+          "value": {
+            "none": [
+              "1 t-shirt : cotton, vinyl"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Provenance"
+            ]
+          },
+          "value": {
+            "none": [
+              "Kenya."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Publisher"
+            ]
+          },
+          "value": {
+            "none": [
+              "Master-Knit"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Rights Statement"
+            ]
+          },
+          "value": {
+            "none": [
+              "Copyright Undetermined"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "none": [
+              "Souvenirs (Keepsakes)",
+              "Kenya",
+              "Obama, Barack"
+            ]
+          }
+        }
+      ],
+      "body": {
+        "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c/full/^600,/0/default.jpg",
+        "type": "Image",
+        "format": "image/tiff",
+        "height": 8688,
+        "width": 5792,
+        "label": {
+          "en": [
+            "p202-35556043832401-obama-01.tif"
+          ]
+        },
+        "service": [
+          {
+            "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8599dd2c-c458-4465-a8f8-057ede29fd8c",
+            "profile": "http://iiif.io/api/image/3/level2.json",
+            "type": "ImageService3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "northTexas",
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc1942141/manifest/",
+      "status": 200,
+      "cors": "*",
+      "rights": "https://digital.library.unt.edu/terms-of-use/",
+      "credit": "UNT Music Library - UNT Digital Library",
+      "count": 114,
+      "metadata": [
+        {
+          "label": "title",
+          "value": "[Bound volume of music manuscripts]"
+        },
+        {
+          "label": "creator",
+          "value": "Berge, Louis"
+        },
+        {
+          "label": "date",
+          "value": "1854/1855"
+        },
+        {
+          "label": "language",
+          "value": "fre"
+        },
+        {
+          "label": "description.content",
+          "value": "Bound volume of music manuscripts, apparently by Louis Berge."
+        },
+        {
+          "label": "description.physical",
+          "value": "114 p."
+        },
+        {
+          "label": "subject.KWD",
+          "value": "sheet music"
+        },
+        {
+          "label": "subject.LCGFT",
+          "value": "Notated music"
+        },
+        {
+          "label": "collection",
+          "value": "BERGE"
+        },
+        {
+          "label": "institution",
+          "value": "UNTML"
+        },
+        {
+          "label": "resourceType",
+          "value": "image_score"
+        },
+        {
+          "label": "format",
+          "value": "image"
+        },
+        {
+          "label": "identifier",
+          "value": "berge-01-53"
+        }
+      ],
+      "body": {
+        "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942141/m1/1/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942141/m1/1",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 1782
+      }
+    },
+    {
+      "id": "bgbm",
+      "url": "https://herbarium.bgbm.org/data/iiif/B200012401/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "credit": "http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de",
+      "count": 1,
+      "metadata": [
+        {
+          "label": "dwc:family",
+          "value": "Aspleniaceae"
+        },
+        {
+          "label": "dwc:catalogNumber",
+          "value": "B 20 0012401"
+        },
+        {
+          "label": "dc:title",
+          "value": "Asplenium bullatum Wall. ex Mett."
+        },
+        {
+          "label": "dwc:fieldNumber",
+          "value": "Hb.Wall.215"
+        },
+        {
+          "label": "dwc:materialSampleID",
+          "value": "http://herbarium.bgbm.org/object/B200012401"
+        },
+        {
+          "label": "dwc:countryCode",
+          "value": "NP"
+        },
+        {
+          "label": "dwc:eventDate",
+          "value": "1821"
+        },
+        {
+          "label": "dwc:country",
+          "value": "Nepal"
+        },
+        {
+          "label": "dwc:basisOfRecord",
+          "value": "Specimen"
+        },
+        {
+          "label": "dwc:locality",
+          "value": "Nepalea"
+        },
+        {
+          "label": "dwc:scientificName",
+          "value": "Asplenium bullatum Wall. ex Mett."
+        },
+        {
+          "label": "dc:type",
+          "value": "Specimen"
+        },
+        {
+          "label": "dwc:recordNumber",
+          "value": "Hb.Wall.215"
+        },
+        {
+          "label": "dc:created",
+          "value": "1821"
+        },
+        {
+          "label": "dwc:genus",
+          "value": "Asplenium"
+        },
+        {
+          "label": "dwc:collectionCode",
+          "value": "B"
+        },
+        {
+          "label": "dwc:previousIdentifications",
+          "value": "Asplenium bullatum Wall. ex Mett."
+        },
+        {
+          "label": "dwc:specificEpithet",
+          "value": "bullatum"
+        },
+        {
+          "label": "dc:publisher",
+          "value": "BGBM"
+        },
+        {
+          "label": "dc:creator",
+          "value": "Wallich,N."
+        },
+        {
+          "label": "dwc:recordedBy",
+          "value": "Wallich,N."
+        },
+        {
+          "label": "dwc:associatedMedia",
+          "value": "https://image.bgbm.org/images/internal/HerbarThumbs/B200012401_1700"
+        },
+        {
+          "label": "dc:thumbnail",
+          "value": "https://image.bgbm.org/images/internal/HerbarThumbs/B200012401_1700"
+        },
+        {
+          "label": "CETAF_ID",
+          "value": "<a href=\"http://herbarium.bgbm.org/object/B200012401\">http://herbarium.bgbm.org/object/B200012401</a>"
+        },
+        {
+          "label": "dwciri:recordedBy",
+          "value": "<a href=\"http://www.wikidata.org/entity/Q730310\">http://www.wikidata.org/entity/Q730310</a>"
+        },
+        {
+          "label": "owl:sameAs",
+          "value": "<a href=\"http://viaf.org/viaf/9962177\">http://viaf.org/viaf/9962177</a>"
+        },
+        {
+          "label": "owl:sameAs",
+          "value": "<a href=\"http://purl.oclc.org/net/edu.harvard.huh/guid/uuid/dbd4bf21-2d4a-4d82-b5be-edaf3326d5a1\">http://purl.oclc.org/net/edu.harvard.huh/guid/uuid/dbd4bf21-2d4a-4d82-b5be-edaf3326d5a1</a>"
+        },
+        {
+          "label": "dwc:associatedMedia",
+          "value": "<a href=\"https://pictures.bgbm.org/digilib/Scaler/IIIF/B!20!00!12!40!B_20_0012401.jpg/full/2048,/0/default.jpg\">https://pictures.bgbm.org/digilib/Scaler/IIIF/B!20!00!12!40!B_20_0012401.jpg/full/2048,/0/default.jpg</a>"
+        }
+      ],
+      "body": {
+        "@type": "dctypes:Image",
+        "@id": "https://pictures.bgbm.org/iiif/3/B/20/00/12/40/B_20_0012401.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://pictures.bgbm.org/iiif/3/B!20!00!12!40!B_20_0012401.jpg",
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "proctocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 6924,
+        "height": 10107
+      }
+    },
+    {
+      "id": "bremen",
+      "url": "https://brema.suub.uni-bremen.de/i3f/v20/1569525/manifest",
+      "status": 500,
+      "cors": "*",
+      "count": 0
+    },
+    {
+      "id": "jena",
+      "url": "https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00002711/manifest",
+      "status": 200,
+      "cors": "*",
+      "count": 229,
+      "metadata": [
+        {
+          "label": "title",
+          "value": "Chorbuch 2: 7 Messen (Ordinaria)"
+        }
+      ],
+      "body": {
+        "service": {
+          "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00002711%2FBE_1035_0000_00.tif"
+        },
+        "width": 10473,
+        "height": 15037,
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@type": "dctypes:Image",
+        "@id": "https://collections.thulb.uni-jena.de/api/iiif/image/v2/HisBest_derivate_00002711%2FBE_1035_0000_00.tif"
+      }
+    },
+    {
+      "id": "leipzig",
+      "url": "https://iiif.ub.uni-leipzig.de/0000009864/manifest.json",
+      "error": "fetch failed"
+    },
+    {
+      "id": "utrecht",
+      "url": "https://objects.library.uu.nl/manifest/iiif/v3/1874-9510",
+      "status": 200,
+      "cors": "*",
+      "credit": {
+        "label": {
+          "en": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "en": [
+            "See Library catalog"
+          ]
+        }
+      },
+      "count": 37,
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Title"
+            ]
+          },
+          "value": {
+            "none": [
+              "Expositio Arnaldi Ossati in disputationem Jacobi Carpentarii De methodo."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Published"
+            ]
+          },
+          "value": {
+            "none": [
+              "1564."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Format"
+            ]
+          },
+          "value": {
+            "none": [
+              "Pamphlet"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Universiteitsbibliotheek Utrecht"
+            ]
+          }
+        }
+      ],
+      "body": {
+        "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/12/60/151260422518980108028740808013875359776.jp2/full/full/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 2032,
+        "width": 1243,
+        "service": [
+          {
+            "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/12/60/151260422518980108028740808013875359776.jp2",
+            "type": "ImageService3",
+            "profile": "level1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "radboud",
+      "url": "https://bijzonderecollecties.ubn.ru.nl/iiif/2/Handschriften:41837/manifest.json",
+      "status": 200,
+      "cors": "*",
+      "count": 53,
+      "metadata": [
+        {
+          "label": "Year of Creation",
+          "value": "1788"
+        },
+        {
+          "label": "Shelf Mark",
+          "value": "Hs IV 55"
+        },
+        {
+          "label": "Subject - Radboud Theme",
+          "value": "Collectie Soeterbeeck; Religie en kloosterleven;"
+        },
+        {
+          "label": "Title",
+          "value": "(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55"
+        },
+        {
+          "label": "Repository",
+          "value": "English Title"
+        },
+        {
+          "label": "Source",
+          "value": "<span>From: <a href=\"https://bijzonderecollecties.ubn.ru.nl/digital/collection/Handschriften/id/41837\">(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55</a></span>"
+        }
+      ],
+      "body": {
+        "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784",
+          "width": 4959,
+          "height": 3140,
+          "tiles": [
+            {
+              "width": 4959,
+              "scaleFactors": [
+                1,
+                2,
+                4,
+                8,
+                16
+              ]
+            }
+          ],
+          "profile": "http://iiif.io/api/image/2/level1.json",
+          "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4959,
+        "height": 3140
+      }
+    },
+    {
+      "id": "trinity",
+      "url": "https://digitalcollections.tcd.ie/concern/works/hm50tr726/manifest",
+      "status": 200,
+      "cors": null,
+      "count": 0
+    },
+    {
+      "id": "gottingen",
+      "url": "https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN235181684_0029/manifest",
+      "status": 200,
+      "cors": "*",
+      "credit": "Bereitgestellt von: Digitalisierungszentrum der Niedersächsichen Staats- und Universitäts Bibliothek Göttingen",
+      "count": 609,
+      "metadata": [
+        {
+          "label": "Ort",
+          "value": [
+            "Leipzig"
+          ]
+        },
+        {
+          "label": "Übergeordnetes Werk",
+          "value": "<a href=\"https://gdz.sub.uni-goettingen.de/volumes/id/PPN235181684\">Mathematische Annalen</a>"
+        },
+        {
+          "label": "Jahr",
+          "value": "1887"
+        },
+        {
+          "label": "Sprache",
+          "value": [
+            "Deutsch"
+          ]
+        },
+        {
+          "label": "PURL",
+          "value": "<a href=\"https://resolver.sub.uni-goettingen.de/purl?PPN235181684_0029\" target=\"_blank\">https://resolver.sub.uni-goettingen.de/purl?PPN235181684_0029</a>"
+        }
+      ],
+      "body": {
+        "@id": "https://manifests.sub.uni-goettingen.de/iiif/image/gdz:PPN235181684_0029:00000001",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@id": "https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN235181684_0029:00000001",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        },
+        "height": 400,
+        "width": 300
+      }
+    }
+  ]
+}

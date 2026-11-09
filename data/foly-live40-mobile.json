@@ -1,0 +1,236 @@
+{
+  "checkedAt": "2026-11-03T20:30:24.636Z",
+  "reports": [
+    {
+      "id": "muzee",
+      "sample": 0,
+      "elapsedMs": 645,
+      "ok": true,
+      "kind": "image",
+      "image": "https://resourcespace.muzee.be/iiif/2/public%2F6748.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 731
+    },
+    {
+      "id": "muzee",
+      "sample": 1,
+      "elapsedMs": 635,
+      "ok": true,
+      "kind": "image",
+      "image": "https://resourcespace.muzee.be/iiif/2/public%2F6749.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1456
+    },
+    {
+      "id": "muzee",
+      "sample": 2,
+      "elapsedMs": 578,
+      "ok": true,
+      "kind": "image",
+      "image": "https://resourcespace.muzee.be/iiif/2/public%2F6751.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 669
+    },
+    {
+      "id": "museaBrugge",
+      "sample": 0,
+      "elapsedMs": 548,
+      "ok": true,
+      "kind": "image",
+      "image": "https://dam.museabrugge.be/iiif/2/public%2F6726.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 618
+    },
+    {
+      "id": "museaBrugge",
+      "sample": 1,
+      "elapsedMs": 325,
+      "ok": true,
+      "kind": "image",
+      "image": "https://dam.museabrugge.be/iiif/2/public%2F6728.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 838
+    },
+    {
+      "id": "museaBrugge",
+      "sample": 2,
+      "elapsedMs": 708,
+      "ok": true,
+      "kind": "image",
+      "image": "https://dam.museabrugge.be/iiif/2/public%2F6736.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 2982
+    },
+    {
+      "id": "kansaiUniversity",
+      "sample": 0,
+      "elapsedMs": 3576,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0004.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 546
+    },
+    {
+      "id": "kansaiUniversity",
+      "sample": 1,
+      "elapsedMs": 2568,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0026.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 546
+    },
+    {
+      "id": "kansaiUniversity",
+      "sample": 2,
+      "elapsedMs": 2416,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0061.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 546
+    },
+    {
+      "id": "swedenLibrary",
+      "sample": 0,
+      "elapsedMs": 693,
+      "ok": true,
+      "kind": "image",
+      "image": "https://iiif.manuscripta.se/iiif/ms-100200/ms-100200_0002.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1379
+    },
+    {
+      "id": "swedenLibrary",
+      "sample": 1,
+      "elapsedMs": 245,
+      "ok": true,
+      "kind": "image",
+      "image": "https://iiif.manuscripta.se/iiif/ms-100200/ms-100200_0012.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1379
+    },
+    {
+      "id": "swedenLibrary",
+      "sample": 2,
+      "elapsedMs": 188,
+      "ok": true,
+      "kind": "image",
+      "image": "https://iiif.manuscripta.se/iiif/ms-100200/ms-100200_0028.tif/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1379
+    },
+    {
+      "id": "erara",
+      "sample": 0,
+      "elapsedMs": 1138,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.e-rara.ch/i3f/v20/9556111/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1240
+    },
+    {
+      "id": "erara",
+      "sample": 1,
+      "elapsedMs": 465,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.e-rara.ch/i3f/v20/9556271/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1244
+    },
+    {
+      "id": "erara",
+      "sample": 2,
+      "elapsedMs": 461,
+      "ok": true,
+      "kind": "image",
+      "image": "https://www.e-rara.ch/i3f/v20/9556521/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1244
+    },
+    {
+      "id": "toledoLibrary",
+      "sample": 0,
+      "elapsedMs": 4352,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16007.contentdm.oclc.org/iiif/2/p16007coll31:1206/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": "toledoLibrary",
+      "sample": 1,
+      "elapsedMs": 848,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16007.contentdm.oclc.org/iiif/2/p16007coll31:1207/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 534
+    },
+    {
+      "id": "toledoLibrary",
+      "sample": 2,
+      "elapsedMs": 699,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16007.contentdm.oclc.org/iiif/2/p16007coll31:1209/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 534
+    },
+    {
+      "id": "clevelandLibrary",
+      "sample": 0,
+      "elapsedMs": 2818,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10709/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 1456
+    },
+    {
+      "id": "clevelandLibrary",
+      "sample": 1,
+      "elapsedMs": 1969,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10713/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 745
+    },
+    {
+      "id": "clevelandLibrary",
+      "sample": 2,
+      "elapsedMs": 1180,
+      "ok": true,
+      "kind": "image",
+      "image": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10720/full/800,/0/default.jpg",
+      "rendered": true,
+      "width": 800,
+      "height": 745
+    }
+  ]
+}

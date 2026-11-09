@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-11-04T23:06:29.295Z",
+  "reports": [
+    {
+      "id": "europeana",
+      "sample": 0,
+      "elapsedMs": 1218,
+      "ok": true,
+      "kind": "image",
+      "sourcePage": "https://www.europeana.eu/item/401/item_VMHPNHAEAQ4VZHR6A3S572VGR7XJDFRK",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.muis.ee%2Fdigitaalhoidla%2Fapi%2Fmeedia%2Foriginaal%3Fid%3Dcae88004-c956-4dcc-9fc6-46bf53c4a7e5&type=IMAGE",
+      "rendered": true,
+      "width": 400,
+      "height": 284
+    },
+    {
+      "id": "openverse",
+      "sample": 0,
+      "elapsedMs": 8004,
+      "ok": false,
+      "error": "signal is aborted without reason"
+    },
+    {
+      "id": "naturalEarth",
+      "sample": 0,
+      "elapsedMs": 1882,
+      "ok": true,
+      "kind": "image",
+      "sourcePage": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/attachment/banner_countries/",
+      "image": "https://www.naturalearthdata.com/wp-content/uploads/2009/09/banner_countries.png",
+      "rendered": true,
+      "width": 580,
+      "height": 150
+    },
+    {
+      "id": "nga",
+      "sample": 0,
+      "elapsedMs": 332,
+      "ok": true,
+      "kind": "image",
+      "sourcePage": "https://www.nga.gov/artworks/43884",
+      "image": "https://api.nga.gov/iiif/000ad93e-318b-4160-a8f2-b0ea48a82f20/full/!640,640/0/default.jpg",
+      "rendered": true,
+      "width": 640,
+      "height": 474
+    }
+  ]
+}

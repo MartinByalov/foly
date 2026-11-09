@@ -1,0 +1,296 @@
+{
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Description"
+        ],
+        "pl": [
+          "Opis"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Tygodnik ilustrowany dodawany od 20 lipca 1924 roku do dziennika Schlesische Zeitung, zawierający wiele ciekawych ilustracji ze Śląska i całego świata. W 1927 od nru 14 zmienił się tytuł na: \"Schlesische Illustrierte Zeitung. Wochenbeilage der Schlesischen Zeitung. Początkowo drukowany w Berlinie, od 1927 w drukarni Korna we Wrocławiu. W 1934 tytuł przestal się ukazywać."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Access rights"
+        ],
+        "pl": [
+          "Prawa dostępu"
+        ]
+      },
+      "value": {
+        "en": [
+          "Publicly available without restrictions"
+        ],
+        "pl": [
+          "Dostępne publicznie bez ograniczeń"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ],
+        "pl": [
+          "Wydawca"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Verlag der Otto Elsner A.-G., Buchdruckerei und Verlagsbuchhandlung"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "License"
+        ],
+        "pl": [
+          "Licencja"
+        ]
+      },
+      "value": {
+        "en": [
+          "Public Domain Mark 1.0",
+          "https://creativecommons.org/publicdomain/mark/1.0/deed.en"
+        ],
+        "pl": [
+          "Znak domeny publicznej 1.0",
+          "https://creativecommons.org/publicdomain/mark/1.0/deed.pl"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ],
+        "pl": [
+          "Data"
+        ]
+      },
+      "value": {
+        "pl": [
+          "1932-07-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Format"
+        ],
+        "pl": [
+          "Format"
+        ]
+      },
+      "value": {
+        "en": [
+          "image/x.djvu"
+        ],
+        "pl": [
+          "image/x.djvu"
+        ],
+        "universal": [
+          "image/x.djvu"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ],
+        "pl": [
+          "Źródło"
+        ]
+      },
+      "value": {
+        "pl": [
+          "GSL P 31305 IV"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ],
+        "pl": [
+          "Język"
+        ]
+      },
+      "value": {
+        "en": [
+          "ger"
+        ],
+        "pl": [
+          "ger"
+        ],
+        "universal": [
+          "ger"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Relation"
+        ],
+        "pl": [
+          "Powiązanie"
+        ]
+      },
+      "value": {
+        "pl": [
+          "HDD00006\\GSL"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Location of original object"
+        ],
+        "pl": [
+          "Lokalizacja oryginału"
+        ]
+      },
+      "value": {
+        "pl": [
+          "BUWr Kolekcja Śląsko-Łużycka"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "PLMET"
+        ],
+        "pl": [
+          "Schemat metadanych PLMET"
+        ]
+      },
+      "value": {
+        "pl": [
+          "https://docs.psnc.pl/spaces/FBCMETGUIDE/overview"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of publishing"
+        ],
+        "pl": [
+          "Miejsce wydania"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Berlin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Detailed Type"
+        ],
+        "pl": [
+          "Szczegółowy typ zasobu"
+        ]
+      },
+      "value": {
+        "pl": [
+          "czasopisma"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Title"
+        ],
+        "pl": [
+          "Tytuł"
+        ]
+      },
+      "value": {
+        "pl": [
+          "Schlesische Illustrierte Zeitung 1932-07-09 Nr 29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ],
+        "pl": [
+          "Temat i słowa kluczowe"
+        ]
+      },
+      "value": {
+        "pl": [
+          "czasopisma niemieckie",
+          "ilustracje",
+          "fotografie"
+        ]
+      }
+    }
+  ],
+  "id": "https://bibliotekacyfrowa.pl/manifest",
+  "label": {
+    "pl": [
+      "Schlesische Illustrierte Zeitung 1932-07-09 Nr 29"
+    ]
+  },
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "items": [
+    {
+      "width": 1600,
+      "id": "https://bibliotekacyfrowa.pl/canvas/page1",
+      "label": {
+        "@none": [
+          "PDF/document.pdf"
+        ]
+      },
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://bibliotekacyfrowa.pl/annotation/page1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "motivation": "painting",
+              "id": "https://bibliotekacyfrowa.pl/annotation/page1/1",
+              "type": "Annotation",
+              "body": {
+                "format": "application/pdf",
+                "id": "https://bibliotekacyfrowa.pl/Content/38354/PDF/document.pdf",
+                "label": {
+                  "@none": [
+                    "PDF/document.pdf"
+                  ]
+                },
+                "type": "Text"
+              },
+              "target": "https://bibliotekacyfrowa.pl/annotation/page1"
+            }
+          ]
+        }
+      ],
+      "height": 1200
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/manifest",
+  "@type": "sc:Manifest",
+  "label": "Bonbonnière met deksel op vierkante voet",
+  "description": "",
+  "metadata": [
+    {
+      "label": "Gebruik",
+      "value": [
+        {
+          "@value": "Goed voor gebruik",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Formats voor gebruik",
+      "value": [
+        {
+          "@value": "Grafische reproductie (geheel/gedeeltelijk) in om het even welke vorm (affiches/foto\\'s/dia\\'s/post- en prentkaarten...),Publicatie van het werk (geheel/gedeeltelijk) in krant/weekblad/informatiebrochure/tijdschrift/of anderszins en de verspreiding van de laatstgenoemde creaties,Opname (geheel/gedeeltelijk) van het werk in een beeldenbank en op de website van M/documentatiemap/boek/catalogus/databank (grafisch en/of elektronische) en de verspreiding van de laatstgenoemde creaties,Publieke mededeling en ter beschikking stelling (bv. via film/televisie/internet) van een werk (geheel/gedeeltelijk),Recht tot tentoonstelling in de gebouwen/instellingen en inrichtingen van het Museum alsook in de gebouwen/instellingen en inrichtingen van de huurder/ontlener van deze werken in de zin van bovenstaande paragraaf 7",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Publiceren op website?",
+      "value": [
+        {
+          "@value": "Ja",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "© Creditline NL",
+      "value": "Bonbonnière met deksel op vierkante voet, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830, Collectie M Leuven, bron: artinflanders.be, foto: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift NL",
+      "value": "Bonbonnière met deksel op vierkante voet, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830"
+    },
+    {
+      "label": "© Creditline FR",
+      "value": "Bonbonnière avec couvercle sur base carrée, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830, Collection M Leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift FR",
+      "value": "Bonbonnière avec couvercle sur base carrée, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830"
+    },
+    {
+      "label": "© Creditline EN",
+      "value": "Bonbon Dish with Cover and Square Foot, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830, Collection M Leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift EN",
+      "value": "Bonbon Dish with Cover and Square Foot, Verrerie Impériale et Royale de Vonêche, ca. 1800-1830"
+    },
+    {
+      "label": "Rechtenstatus",
+      "value": [
+        {
+          "@value": "publiek domein (PDM)",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Rechtenverklaring",
+      "value": [
+        {
+          "@value": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Mappenstructuur",
+      "value": [
+        {
+          "@value": "Collectie,Glas,M-collectie",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Wat",
+      "value": [
+        {
+          "@value": "Oude kunst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Type beeld",
+      "value": [
+        {
+          "@value": "Objectfoto",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Fotograaf",
+      "value": [
+        {
+          "@value": "Cedric Verhelst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Originele bestandsnaam",
+      "value": "GL_195.tif"
+    },
+    {
+      "label": "Datum foto",
+      "value": "2025-02-05 12:45:04"
+    },
+    {
+      "label": "Bestandsformaat",
+      "value": "TIFF"
+    },
+    {
+      "label": "Bestandsgrootte",
+      "value": "454 MB"
+    },
+    {
+      "label": "Afmetingen",
+      "value": "7536x10047"
+    },
+    {
+      "label": "Kleurruimte",
+      "value": "Uncalibrated"
+    },
+    {
+      "label": "Inventarisnummer",
+      "value": "GL/195"
+    },
+    {
+      "label": "Titel kunstobject",
+      "value": "Bonbonnière met deksel op vierkante voet"
+    },
+    {
+      "label": "Vervaardiger",
+      "value": "Verrerie Impériale et Royale de Vonêche"
+    },
+    {
+      "label": "Sterfdatum vervaardiger",
+      "value": "1930"
+    },
+    {
+      "label": "GUID uit Axiell Collections",
+      "value": "883fa0ca-21cf-4922-b26e-01d209671fd0"
+    },
+    {
+      "label": "pURI collectiestuk",
+      "value": "https://data.mleuven.be/ark:16425/883fa0ca-21cf-4922-b26e-01d209671fd0"
+    },
+    {
+      "label": "IIIF resource?",
+      "value": [
+        {
+          "@value": "Yes",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "IIIF Sequence",
+      "value": "1"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "thumbnail": {
+    "@id": "https://mleuven.resourcespace.com/iiif/image/9012/full/thm/0/default.jpg",
+    "@type": "dctypes:Image",
+    "height": 175,
+    "width": 131,
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://mleuven.resourcespace.com/iiif/image/9012",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences": [
+    {
+      "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Default order",
+      "canvases": [
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/canvas/0",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 10047,
+          "width": 7536,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/9012/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 131,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/9012",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/annotation/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/9012/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 10047,
+                "width": 7536,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/9012",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/canvas/0"
+            }
+          ]
+        },
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "height": 11316,
+          "width": 8487,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/9008/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 131,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/9008",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/9008/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 11316,
+                "width": 8487,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/9008",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/883fa0ca-21cf-4922-b26e-01d209671fd0/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

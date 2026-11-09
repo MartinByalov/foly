@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/e7b6bb56-140a-1b62-9126-9c6029cd380f/manifest",
+  "label": "赤門",
+  "thumbnail": "https://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/igakubu/e7b6bb56-140a-1b62-9126-9c6029cd380f_2.jpg",
+  "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+  "attribution": "東京大学医学図書館 Medical Library, The University of Tokyo, JAPAN",
+  "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/e7b6bb56-140a-1b62-9126-9c6029cd380f",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/e7b6bb56-140a-1b62-9126-9c6029cd380f?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/igakubu",
+  "viewingDirection": "right-to-left",
+  "metadata": [
+    {
+      "label": "タイトル / Title",
+      "value": "赤門"
+    },
+    {
+      "label": "identifier",
+      "value": "e7b6bb56-140a-1b62-9126-9c6029cd380f"
+    },
+    {
+      "label": "Database Label",
+      "value": "医学部関係史料"
+    },
+    {
+      "label": "Manifest Uri",
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/e7b6bb56-140a-1b62-9126-9c6029cd380f/manifest"
+    },
+    {
+      "label": "attributionLabel",
+      "value": "東京大学医学図書館 Medical Library, The University of Tokyo, JAPAN"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/iiif/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingHint": "individuals",
+      "canvases": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e7b6bb56-140a-1b62-9126-9c6029cd380f/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "thumbnail": {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/medlib202401/akamonshashin/A1911-005-L1.tif/full/!220,220/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 220,
+            "height": 220
+          },
+          "height": 2319,
+          "width": 3159,
+          "images": [
+            {
+              "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e7b6bb56-140a-1b62-9126-9c6029cd380f/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/medlib202401/akamonshashin/A1911-005-L1.tif/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2319,
+                "width": 3159,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/medlib202401/akamonshashin/A1911-005-L1.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e7b6bb56-140a-1b62-9126-9c6029cd380f/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

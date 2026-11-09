@@ -1,0 +1,612 @@
+{
+  "reviewedAt": "2026-11-03",
+  "checkedAt": "2026-11-03T18:24:22.428Z",
+  "scope": "20 new independent candidates. Research evidence is not a production registry.",
+  "reports": [
+    {
+      "id": "digitalCommonwealth",
+      "name": "Digital Commonwealth",
+      "theme": "History",
+      "documentation": "https://www.digitalcommonwealth.org/api",
+      "endpoint": "https://www.digitalcommonwealth.org/search.json?q=flowers&per_page=5",
+      "assessment": "Requires independent item and metadata rights review.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.digitalcommonwealth.org/api",
+        "finalUrl": "https://www.digitalcommonwealth.org/api",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 592,
+        "json": false,
+        "keys": [],
+        "sample": "\n<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en\">\n  <head>\n    <!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-8VWQYCPZDB\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-8VWQYCPZDB');\n</script>\n\n    <!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-PRD7NH3');</script>\n<!-- End Google Tag Manager -->\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <meta name=\"description\" content=\"An online library of photographs, manuscripts, audio recordings, and other materials of historical interest from libraries, museums, archives, and historical societies across Massachusetts.\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n\n    <!-- Internet Explorer use the highest version available -->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <title>API - Digital Commonwealth</title>\n    <link href=\"https://www.digitalcommonwealth.org/search/opensearch.xml\" title=\"Digital Commonwealth\" type=\"application/opensearchdescription+xml\" rel=\"search\" "
+      },
+      "api": {
+        "url": "https://www.digitalcommonwealth.org/search.json?q=flowers&per_page=5",
+        "finalUrl": "https://www.digitalcommonwealth.org/search.json?q=flowers&per_page=5",
+        "status": 200,
+        "contentType": "application/json; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 762,
+        "json": true,
+        "keys": [
+          "links",
+          "meta",
+          "data"
+        ],
+        "sample": "{\"links\":{\"self\":\"https://www.digitalcommonwealth.org/search.json?per_page=5\\u0026q=flowers\",\"next\":\"https://www.digitalcommonwealth.org/search.json?page=2\\u0026per_page=5\\u0026q=flowers\",\"last\":\"https://www.digitalcommonwealth.org/search.json?page=2809\\u0026per_page=5\\u0026q=flowers\"},\"meta\":{\"pages\":{\"current_page\":1,\"next_page\":2,\"prev_page\":null,\"total_pages\":2809,\"limit_value\":5,\"offset_value\":0,\"total_count\":14044,\"first_page?\":true,\"last_page?\":false}},\"data\":[{\"id\":\"commonwealth:sj13dk96t\",\"type\":\"DigitalObject\",\"attributes\":{\"id\":\"commonwealth:sj13dk96t\",\"system_create_dtsi\":\"2023-09-22T21:54:53Z\",\"system_modified_dtsi\":\"2023-09-22T21:56:44Z\",\"curator_model_ssi\":\"Curator::DigitalObject\",\"curator_model_suffix_ssi\":\"DigitalObject\",\"title_info_primary_tsi\":\"Flowering tree and flowers\",\"genre_basic_ssim\":[\"Photographs\"],\"genre_specific_ssim\":[\"Slides\"],\"date_tsim\":[\"[ca. 1975]\"],\"date_type_ssm\":[\"dateCreated\"],\"date_edtf_ssm\":[\"1975~\"],\"date_start_dtsi\":\"1975-01-01T00:00:00Z\",\"date_end_dtsi\":\"1975-12-31T23:59:59.999Z\",\"name_tsim\":[\"Favor, Warren E., 1912-1995\"],\"name_role_tsim\":[\"Photographer\"],\"name_facet_ssim\":[\"Favor, Warren E., 1912-1995\"],\"related_item_host_ssim\":[\"Warren Favor Collection\"],\"subject_topic_tsim\":[\"Flowers\",\"Trees\"],\"subject_facet_ssim\":[\"Flowers\",\"Trees\"],\"physical_location_ssim\":[\"Boston Public Library\"],\"sub_location_tsi\":\"Arts Department\",\"identifier_uri_ss\":\"https://ark.digitalcommonwealth.org/ark:/50959/sj13dk96t\",\"identifier_iiif_manifest_ss\":\"https://ark.digitalcommonwealth.org/ark:/50959/sj13dk96t/manifest\",\"identifier_local_other_tsim\":[\"2"
+      }
+    },
+    {
+      "id": "dpla",
+      "name": "Digital Public Library of America",
+      "theme": "History",
+      "documentation": "https://pro.dp.la/developers/policies",
+      "endpoint": null,
+      "assessment": "API key required. No private credential is available to this static application.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://pro.dp.la/developers/policies",
+        "finalUrl": "https://pro.dp.la/developers/policies",
+        "status": 403,
+        "contentType": "text/html",
+        "cors": null,
+        "elapsedMs": 108,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: xFoAb0Tn_2iJodnBv9HNMENpsrociSKIjeU_0kPz18wL-s0-OgUzYA==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+      },
+      "api": null
+    },
+    {
+      "id": "tePapa",
+      "name": "Museum of New Zealand Te Papa Tongarewa",
+      "theme": "Natural history",
+      "documentation": "https://www.tepapa.govt.nz/learn/research/datasets/collections-api/api-terms-of-use",
+      "endpoint": null,
+      "assessment": "Production registration key required. Evaluation guest keys expire after 30 minutes.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.tepapa.govt.nz/learn/research/datasets/collections-api/api-terms-of-use",
+        "finalUrl": "https://www.tepapa.govt.nz/learn/research/datasets/collections-api/api-terms-of-use",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 862,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width\" data-next-head=\"\"/><title data-next-head=\"\">API Terms of Use | Te Papa</title><link rel=\"canonical\" href=\"https://tepapa.govt.nz/learn/research/datasets/collections-api/api-terms-of-use\" data-next-head=\"\"/><meta name=\"description\" content=\"If you use our API to access collection data and images, you need to follow our terms of use.\" data-next-head=\"\"/><meta property=\"og:title\" content=\"API Terms of Use | Te Papa\" data-next-head=\"\"/><meta property=\"og:type\" content=\"website\" data-next-head=\"\"/><meta property=\"og:locale\" content=\"en_GB\" data-next-head=\"\"/><meta property=\"og:url\" content=\"https://tepapa.govt.nz/learn/research/datasets/collections-api/api-terms-of-use\" data-next-head=\"\"/><meta property=\"og:description\" content=\"If you use our API to access collection data and images, you need to follow our terms of use.\" data-next-head=\"\"/><meta property=\"og:image\" content=\"https://tepapa.govt.nz/assets/76067/1712872534-ma_i667039_tepapa_handwritten-list-relating_full.jpg\" data-next-head=\"\"/><meta property=\"og:image:width\" content=\"5597\" data-next-head=\"\"/><meta property=\"og:image:height\" content=\"3281\" data-next-head=\"\"/><meta name=\"twitter:card\" content=\"summary\" data-next-head=\"\"/><meta name=\"twitter:site\" content=\"@Te_papa\" data-next-head=\"\"/><meta name=\"twitter:title\" content=\"API Terms of Use | Te Papa\" data-next-head=\"\"/><meta name=\"twitter:description\" content=\"If you use our API to access collection data and images, you need to follow our terms of use."
+      },
+      "api": null
+    },
+    {
+      "id": "bhl",
+      "name": "Biodiversity Heritage Library",
+      "theme": "Botany",
+      "documentation": "https://www.biodiversitylibrary.org/docs/api3.html",
+      "endpoint": null,
+      "assessment": "API key required and image rights vary by item.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.biodiversitylibrary.org/docs/api3.html",
+        "finalUrl": "https://www.biodiversitylibrary.org/docs/api3.html",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 113,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-OnsYm9JtG5RJZAVnHiO03R&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+      },
+      "api": null
+    },
+    {
+      "id": "openverse",
+      "name": "Openverse",
+      "theme": "Photography",
+      "documentation": "https://docs.openverse.org/terms_of_service",
+      "endpoint": "https://api.openverse.org/v1/images/?q=botanical&license=cc0&page_size=5",
+      "assessment": "Aggregator does not verify licensing. Original provider evidence is necessary. Do not scrape or bulk paginate.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://docs.openverse.org/terms_of_service",
+        "finalUrl": "https://docs.openverse.org/terms_of_service",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": "*",
+        "elapsedMs": 283,
+        "json": false,
+        "keys": [],
+        "sample": "<!doctype html>\n<html class=\"no-js\" lang=\"en\" data-content_root=\"./\">\n  <head><meta charset=\"utf-8\"/>\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/>\n    <meta name=\"color-scheme\" content=\"light dark\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<link rel=\"index\" title=\"Index\" href=\"genindex.html\" /><link rel=\"search\" title=\"Search\" href=\"search.html\" /><link rel=\"prev\" title=\"2022-02-23 Project Proposal: Vuex to Pinia conversion\" href=\"projects/proposals/vuex_to_pina_conversion/20220223-project_proposal.html\" />\n\n    <link rel=\"shortcut icon\" href=\"_static/favicon.ico\"/><!-- Generated with Sphinx 8.1.3 and Furo 2024.08.06 -->\n        <title>Openverse Terms of Service - Openverse documentation</title>\n      <link rel=\"stylesheet\" type=\"text/css\" href=\"_static/pygments.css?v=a746c00c\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"_static/styles/furo.css?v=354aac6f\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"_static/copybutton.css?v=76b2166b\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"_static/styles/furo-extensions.css?v=302659d7\" />\n    \n    \n\n\n<style>\n  body {\n    --color-code-background: #f8f8f8;\n  --color-code-foreground: black;\n  \n  }\n  @media not print {\n    body[data-theme=\"dark\"] {\n      --color-code-background: #202020;\n  --color-code-foreground: #d0d0d0;\n  \n    }\n    @media (prefers-color-scheme: dark) {\n      body:not([data-theme=\"light\"]) {\n        --color-code-background: #202020;\n  --color-code-foreground: #d0d0d0;\n  \n      }\n    }\n  }\n</style></head>\n  <body>\n    \n    <script>\n      docu"
+      },
+      "api": {
+        "url": "https://api.openverse.org/v1/images/?q=botanical&license=cc0&page_size=5",
+        "finalUrl": "https://api.openverse.org/v1/images/?q=botanical&license=cc0&page_size=5",
+        "status": 200,
+        "contentType": "application/json",
+        "cors": "*",
+        "elapsedMs": 131,
+        "json": true,
+        "keys": [
+          "result_count",
+          "page_count",
+          "page_size",
+          "page",
+          "results"
+        ],
+        "sample": "{\"result_count\":240,\"page_count\":48,\"page_size\":5,\"page\":1,\"results\":[{\"id\":\"f7da45f0-db49-4d45-9854-56ea68add8f5\",\"title\":\"Christchurch Botanic Gardens.\",\"indexed_on\":\"2020-04-03T22:21:19.484830Z\",\"foreign_landing_url\":\"https://www.flickr.com/photos/88123769@N02/14063342357\",\"url\":\"https://live.staticflickr.com/2921/14063342357_29c4da5869_b.jpg\",\"creator\":\"Bernard Spragg\",\"creator_url\":\"https://www.flickr.com/photos/88123769@N02\",\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"flickr\",\"source\":\"flickr\",\"category\":null,\"filesize\":null,\"filetype\":null,\"tags\":[{\"name\":\"autumn\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"avonriverchristchurch\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"botanicalgardens\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"cco\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"christchurchbotanicgardens\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"christchurchnz\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"freephotos\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"gardens\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"geotagged\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"hagleypark\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"hagleyparkchristchurch\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"panasonicdmcfz200\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"parks\",\"accuracy\":null,\"unstable__provider\":\"flickr\"},{\"name\":\"publicgardens\",\"accuracy\":null,\"uns"
+      }
+    },
+    {
+      "id": "walters",
+      "name": "Walters Art Museum",
+      "theme": "Art",
+      "documentation": "https://raw.githubusercontent.com/WaltersArtMuseum/api-thewalters-org/master/README.md",
+      "endpoint": null,
+      "assessment": "Official v1 API closed in 2023. Static CC0 replacement needs a separate reproducible dataset build and image checks.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://raw.githubusercontent.com/WaltersArtMuseum/api-thewalters-org/master/README.md",
+        "finalUrl": "https://raw.githubusercontent.com/WaltersArtMuseum/api-thewalters-org/master/README.md",
+        "status": 200,
+        "contentType": "text/plain; charset=utf-8",
+        "cors": "*",
+        "elapsedMs": 194,
+        "json": false,
+        "keys": [],
+        "sample": "\n\n\n\nWalters Art Museum Collections API\n===============================================================================\n\n[Documentation](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki) and static data files, for the Walters Art Museum collections API.\n\nThe API allows web developers and software programmers to query data from the museum, whose online repository contains more than 10,000 digital records of art and artifacts from the museum's collection. The records include information about the artworks as well as digital images. The museum created the API so developers and programmers can more easily create their own applications that feature the museum's data and images. The data and images are made available to the public under a [CC0 license](https://thewalters.org/about/policies/rights-reproductions/) that facilitates reuse, even for commercial purposes.\n\n**note**: v1 of the Walters API closed in 2023. Until a v2 can come online, we provide static data files via this repository.\n\nThe API describes:\n\n  - [Objects](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/objects) within the museum collection [art.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/art.csv)\n  - [Media](https://github.com/WaltersArtMuseum/api-thewalters-org/wiki/images), primarily images of the museum objects [media.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/media.csv)\n  - Relationships, describing artworks comprised of multiple museum objects [relationships.csv](https://github.com/WaltersArtMuseum/api-thewalters-org/blob/main/relat"
+      },
+      "api": null
+    },
+    {
+      "id": "brooklyn",
+      "name": "Brooklyn Museum",
+      "theme": "Art",
+      "documentation": "https://opencollection.brooklynmuseum.org/search/advanced",
+      "endpoint": "https://opencollection.brooklynmuseum.org/search/flowers",
+      "assessment": "Requires current endpoint and separate media rights verification. HTML search is not proof of a JSON API.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://opencollection.brooklynmuseum.org/search/advanced",
+        "finalUrl": "https://opencollection.brooklynmuseum.org/search/advanced",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 12199,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\n    <title>Brooklyn Museum</title>\n    <meta name=\"description\" content=\"\">\n    <meta name=\"channel\" content=\"collection\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"thumbnail\" content=\"\">\n\n    <link rel=\"apple-touch-icon\" href=\"apple-touch-icon.png\">\n    <!-- Place favicon.ico in the root directory -->\n    <!-- Google Tag Manager -->\n    <script>(function (w, d, s, l, i) {\n        w[l] = w[l] || []; w[l].push({\n          'gtm.start':\n            new Date().getTime(), event: 'gtm.js'\n        }); var f = d.getElementsByTagName(s)[0],\n          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =\n            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);\n      })(window, document, 'script', 'dataLayer', 'GTM-NCNXDCL');</script>\n    <!-- End Google Tag Manager -->\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://opencollection.brooklynmuseum.org/oc-assets/css/styles.min.css?v=1.020\" />\n  </head>\n  <body>\n    <!--[if lt IE 8]>\n      <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n    <![endif]-->\n\n    <a href=\"#end-nav\" class=\"skip-navigation\">Skip Navigation</a>\n<div class=\"nav-container container\">\n  <div class=\"row\">\n    <div class=\"col-sm-6 hidden-xs\">\n      <div class=\"header-log"
+      },
+      "api": {
+        "url": "https://opencollection.brooklynmuseum.org/search/flowers",
+        "finalUrl": "https://opencollection.brooklynmuseum.org/search/flowers",
+        "status": 404,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 359,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\n    <title>Brooklyn Museum</title>\n    <meta name=\"description\" content=\"\">\n    <meta name=\"channel\" content=\"collection\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"thumbnail\" content=\"\">\n\n    <link rel=\"apple-touch-icon\" href=\"apple-touch-icon.png\">\n    <!-- Place favicon.ico in the root directory -->\n    <!-- Google Tag Manager -->\n    <script>(function (w, d, s, l, i) {\n        w[l] = w[l] || []; w[l].push({\n          'gtm.start':\n            new Date().getTime(), event: 'gtm.js'\n        }); var f = d.getElementsByTagName(s)[0],\n          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =\n            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);\n      })(window, document, 'script', 'dataLayer', 'GTM-NCNXDCL');</script>\n    <!-- End Google Tag Manager -->\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://opencollection.brooklynmuseum.org/oc-assets/css/styles.min.css?v=1.020\" />\n  </head>\n  <body>\n    <!--[if lt IE 8]>\n      <p class=\"browserupgrade\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n    <![endif]-->\n\n    <a href=\"#end-nav\" class=\"skip-navigation\">Skip Navigation</a>\n<div class=\"nav-container container\">\n  <div class=\"row\">\n    <div class=\"col-sm-6 hidden-xs\">\n      <div class=\"header-log"
+      }
+    },
+    {
+      "id": "scienceMuseum",
+      "name": "Science Museum Group",
+      "theme": "Technology",
+      "documentation": "https://www.sciencemuseumgroup.org.uk/our-work/our-collection/using-our-collection-api",
+      "endpoint": "https://collection.sciencemuseumgroup.org.uk/search?q=locomotive",
+      "assessment": "Review JSON negotiation and per-image licence. Do not bulk download their large datasets.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.sciencemuseumgroup.org.uk/our-work/our-collection/using-our-collection-api",
+        "finalUrl": "https://www.sciencemuseumgroup.org.uk/our-work/our-collection/using-our-collection-api",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 189,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"t-default\">\n  <head>\n    <!-- Google Tag Manager -->\n    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n      })(window,document,'script','dataLayer','GTM-582PMSZ9');</script>\n    <!-- End Google Tag Manager -->\n    <meta charset=\"utf-8\" />\n<meta name=\"referrer\" content=\"origin-when-cross-origin\" />\n<meta property=\"og:site_name\" content=\"Science Museum Group\" />\n<meta property=\"og:url\" content=\"https://www.sciencemuseumgroup.org.uk/our-work/our-collection/using-our-collection-api\" />\n<meta property=\"og:title\" content=\"Using our collection APi | Science Museum Group\" />\n<meta property=\"og:image\" content=\"\" />\n<meta property=\"og:image:url\" content=\"\" />\n<meta property=\"og:image:secure_url\" content=\"\" />\n<meta property=\"og:image:width\" content=\",\" />\n<meta property=\"og:image:height\" content=\",\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@sciencemuseum\" />\n<meta name=\"twitter:title\" content=\"Using our collection APi | Science Museum Group\" />\n<meta name=\"twitter:site:id\" content=\"15994087\" />\n<meta name=\"twitter:creator\" content=\"@sciencemuseum\" />\n<meta name=\"twitter:creator:id\" content=\"15994087\" />\n<meta name=\"twitter:image\" content=\"https://www.sciencemuseumgroup.org.uk,\" />\n"
+      },
+      "api": {
+        "url": "https://collection.sciencemuseumgroup.org.uk/search?q=locomotive",
+        "finalUrl": "https://collection.sciencemuseumgroup.org.uk/search?q=locomotive",
+        "status": 403,
+        "contentType": "text/html",
+        "cors": null,
+        "elapsedMs": 193,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nRequest blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n<BR clear=\"all\">\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: GClhk6esb1S0cJTD9kaxy31aurT4jrJxOgP8kGacpcw9XaQONuvpdg==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>"
+      }
+    },
+    {
+      "id": "nma",
+      "name": "National Museum of Australia",
+      "theme": "History",
+      "documentation": "https://www.nma.gov.au/about/our-collection/museum-api",
+      "endpoint": null,
+      "assessment": "API use is CC BY-NC. Incompatible with the current unrestricted-reuse rights gate.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.nma.gov.au/about/our-collection/museum-api",
+        "finalUrl": "https://www.nma.gov.au/about/our-collection/museum-api",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 233,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-DyqAhpTghNygpSw8GyWnhf&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+      },
+      "api": null
+    },
+    {
+      "id": "auckland",
+      "name": "Auckland War Memorial Museum",
+      "theme": "Natural history",
+      "documentation": "https://www.aucklandmuseum.com/legal/api-terms-and-conditions",
+      "endpoint": null,
+      "assessment": "API metadata terms restrict reuse to non-commercial applications. No unrestricted-use integration.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.aucklandmuseum.com/legal/api-terms-and-conditions",
+        "finalUrl": "https://www.aucklandmuseum.com/legal/api-terms-and-conditions",
+        "status": 200,
+        "contentType": "text/html",
+        "cors": null,
+        "elapsedMs": 81,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html lang=\"en\"> <head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\"><link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\"><meta name=\"x-app\" content=\"_default\"><meta name=\"x-env\" content=\"production\"><meta name=\"x-release\" content=\"_default-v1.42.0\"><!-- Consent Mode v2 - Must be FIRST before GTM or GA4 scripts.\n         ADR-0034: a consent default that arrives after GTM does not apply\n         retroactively — the tags have already fired. Nothing goes above this.\n         See docs/adr/0034-analytics-via-gtm-consent-denied-default.md\n         Also re-applies a stored \"granted\" — consent state does not survive\n         a page load. Source: @shared-utilities/lib/consent. --><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{\"analytics_storage\":\"denied\",\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\"});try{var m=new RegExp(\"(?:^|;\\\\s*)akm_consent=(granted|denied)(?:;|$)\").exec(document.cookie);var c=m?m[1]:localStorage.getItem(\"analytics-consent\");if(c==='granted')gtag('consent','update',{\"analytics_storage\":\"granted\",\"ad_storage\":\"granted\",\"ad_user_data\":\"granted\",\"ad_personalization\":\"granted\"})}catch(e){}</script><!-- GTM loader — defers ~865 KiB of tracker bundles out of FCP/LCP critical path.\n         Loads on first interaction (pointerdown/keydown/scroll/touchstart) or 4s idle.\n         Source: @shared-utilities/lib/gtm — never inline it with define:vars (see ther"
+      },
+      "api": null
+    },
+    {
+      "id": "parisMusees",
+      "name": "Paris Musees",
+      "theme": "Art",
+      "documentation": "https://www.parismuseescollections.paris.fr/fr/se-connecter-a-l-api",
+      "endpoint": null,
+      "assessment": "Registration and authentication token required. No shared or invented token.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.parismuseescollections.paris.fr/fr/se-connecter-a-l-api",
+        "elapsedMs": 20008,
+        "error": "The operation was aborted due to timeout"
+      },
+      "api": null
+    },
+    {
+      "id": "nrm",
+      "name": "Swedish Museum of Natural History",
+      "theme": "Natural history",
+      "documentation": "https://samlingar.nrm.se/swagger/",
+      "endpoint": "https://samlingar.nrm.se/swagger/v1/swagger.json",
+      "assessment": "Inspect official schema and item-level media rights before implementation.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://samlingar.nrm.se/swagger/",
+        "finalUrl": "https://samlingar.nrm.se/swagger/",
+        "status": 200,
+        "contentType": "text/html",
+        "cors": "*",
+        "elapsedMs": 190,
+        "json": false,
+        "keys": [],
+        "sample": "<!-- HTML for static distribution bundle build -->\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <title>Swagger UI</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"./swagger-ui.css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"index.css\" />\n    <link rel=\"icon\" type=\"image/png\" href=\"./favicon-32x32.png\" sizes=\"32x32\" />\n    <link rel=\"icon\" type=\"image/png\" href=\"./favicon-16x16.png\" sizes=\"16x16\" />\n  </head>\n\n  <body>\n    <div id=\"swagger-ui\"></div>\n    <script src=\"./swagger-ui-bundle.js\" charset=\"UTF-8\"> </script>\n    <script src=\"./swagger-ui-standalone-preset.js\" charset=\"UTF-8\"> </script>\n    <script src=\"./swagger-initializer.js\" charset=\"UTF-8\"> </script>\n  </body>\n</html>\n"
+      },
+      "api": {
+        "url": "https://samlingar.nrm.se/swagger/v1/swagger.json",
+        "finalUrl": "https://samlingar.nrm.se/swagger/v1/swagger.json",
+        "status": 404,
+        "contentType": "text/html",
+        "cors": "*",
+        "elapsedMs": 190,
+        "json": false,
+        "keys": [],
+        "sample": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+      }
+    },
+    {
+      "id": "finnishGallery",
+      "name": "Finnish National Gallery",
+      "theme": "Art",
+      "documentation": "https://kokoelma.kansallisgalleria.fi/api/swagger/",
+      "endpoint": null,
+      "assessment": "Search requires x-api-key, but the official objects dump explicitly requires no authentication. Follow up with a reproducible subset build, independent metadata rights evidence and browser image checks. Do not reject the entire provider for search authentication.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://kokoelma.kansallisgalleria.fi/api/swagger/",
+        "finalUrl": "https://kokoelma.kansallisgalleria.fi/api/swagger/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": null,
+        "elapsedMs": 168,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Api Documentation</title>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <link href=\"https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:300,400,700\" rel=\"stylesheet\" />\n    <style>\n      body {\n        margin: 0;\n        padding: 0;\n      }\n    </style>\n  </head>\n  <body>\n    <div id=\"redoc-container\"></div>\n    <script src=\"/assets/swagger/redoc.standalone.js\"> </script>\n  </body>\n  <script>\n    Redoc.init(\n      \"/docs/swagger.json\",\n      {},\n      document.getElementById(\"redoc-container\")\n    );\n  </script>\n</html>\n"
+      },
+      "api": null
+    },
+    {
+      "id": "gallica",
+      "name": "Bibliotheque nationale de France Gallica",
+      "theme": "Maps",
+      "documentation": "https://gallica.bnf.fr/accueil/fr/html/conditions-dutilisation-de-gallica",
+      "endpoint": null,
+      "assessment": "Separate document reuse terms need review. Public API access is not an unrestricted image licence.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://gallica.bnf.fr/accueil/fr/html/conditions-dutilisation-de-gallica",
+        "finalUrl": "https://gallica.bnf.fr/accueil/fr/html/conditions-dutilisation-de-gallica",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 68,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Sorry, you have been blocked</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_ac"
+      },
+      "api": null
+    },
+    {
+      "id": "loc",
+      "name": "Library of Congress",
+      "theme": "Maps",
+      "documentation": "https://www.loc.gov/pictures/api",
+      "endpoint": "https://www.loc.gov/collections/garden-and-forest/?fo=json&c=3",
+      "assessment": "Rights vary by collection and item. Requires explicit rights evidence, not access_restricted=false.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.loc.gov/pictures/api",
+        "finalUrl": "https://www.loc.gov/pictures/api",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 32,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-ZdFniklkr42mUuN7FWqaDu&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+      },
+      "api": {
+        "url": "https://www.loc.gov/collections/garden-and-forest/?fo=json&c=3",
+        "finalUrl": "https://www.loc.gov/collections/garden-and-forest/?fo=json&c=3",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 41,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-VYquKMzrMYVwuttVddffUj&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+      }
+    },
+    {
+      "id": "nypl",
+      "name": "New York Public Library",
+      "theme": "History",
+      "documentation": "https://api-collections.nypl.org/docs",
+      "endpoint": "https://api-collections.nypl.org/openapi.json",
+      "assessment": "Review current Collections API instead of assuming the older token-based API is the only option.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://api-collections.nypl.org/docs",
+        "finalUrl": "https://api-collections.nypl.org/docs",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": "*",
+        "elapsedMs": 374,
+        "json": false,
+        "keys": [],
+        "sample": "\n    <!DOCTYPE html>\n    <html>\n    <head>\n    <link type=\"text/css\" rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui.css\">\n    <link rel=\"shortcut icon\" href=\"https://fastapi.tiangolo.com/img/favicon.png\">\n    <title>NYPL Collections API - Swagger UI</title>\n    </head>\n    <body>\n    <div id=\"swagger-ui\">\n    </div>\n    <script src=\"https://cdn.jsdelivr.net/npm/swagger-ui-dist@5/swagger-ui-bundle.js\"></script>\n    <!-- `SwaggerUIBundle` is now available on the page -->\n    <script>\n    const ui = SwaggerUIBundle({\n        url: '/openapi.json',\n    \"dom_id\": \"#swagger-ui\",\n\"layout\": \"BaseLayout\",\n\"deepLinking\": true,\n\"showExtensions\": true,\n\"showCommonExtensions\": true,\noauth2RedirectUrl: window.location.origin + '/docs/oauth2-redirect',\n    presets: [\n        SwaggerUIBundle.presets.apis,\n        SwaggerUIBundle.SwaggerUIStandalonePreset\n        ],\n    })\n    </script>\n    </body>\n    </html>\n    "
+      },
+      "api": {
+        "url": "https://api-collections.nypl.org/openapi.json",
+        "finalUrl": "https://api-collections.nypl.org/openapi.json",
+        "status": 200,
+        "contentType": "application/json",
+        "cors": "*",
+        "elapsedMs": 468,
+        "json": true,
+        "keys": [
+          "openapi",
+          "info",
+          "paths",
+          "components"
+        ],
+        "sample": "{\"openapi\":\"3.1.0\",\"info\":{\"title\":\"NYPL Collections API\",\"description\":\"Information about the New York Public Library's digital collections.\",\"version\":\"1.0.0\"},\"paths\":{\"/\":{\"get\":{\"summary\":\"Read Root\",\"operationId\":\"read_root__get\",\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{}}}}}}},\"/cached-time\":{\"get\":{\"summary\":\"Read Time\",\"operationId\":\"read_time_cached_time_get\",\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{}}}}}}},\"/status\":{\"get\":{\"summary\":\"Read Status\",\"operationId\":\"read_status_status_get\",\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{}}}}}}},\"/search\":{\"get\":{\"tags\":[\"search\"],\"summary\":\"Search\",\"operationId\":\"search_search_get\",\"parameters\":[{\"description\":\"Filter search by 'topic'\",\"required\":false,\"schema\":{\"type\":\"string\",\"title\":\"Topic\",\"description\":\"Filter search by 'topic'\"},\"name\":\"topic\",\"in\":\"query\"},{\"description\":\"Filter search by 'name'\",\"required\":false,\"schema\":{\"type\":\"string\",\"title\":\"Name\",\"description\":\"Filter search by 'name'\"},\"name\":\"name\",\"in\":\"query\"},{\"description\":\"Filter search by 'collection'\",\"required\":false,\"schema\":{\"type\":\"string\",\"title\":\"Collection\",\"description\":\"Filter search by 'collection'\"},\"name\":\"collection\",\"in\":\"query\"},{\"description\":\"Filter search by 'subcollection'\",\"required\":false,\"schema\":{\"type\":\"string\",\"title\":\"Subcollection\",\"description\":\"Filter search by 'subcollection'\"},\"name\":\"subcollection\",\"in\":\"query\"},{\"description\":\"Filter search by 'place'\","
+      }
+    },
+    {
+      "id": "ingenium",
+      "name": "Ingenium",
+      "theme": "Technology",
+      "documentation": "https://api.ingenium.ca/en/",
+      "endpoint": null,
+      "assessment": "All APIs require an individual token that must not be shared.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://api.ingenium.ca/en/",
+        "finalUrl": "https://api.ingenium.ca/en/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": "*",
+        "elapsedMs": 596,
+        "json": false,
+        "keys": [],
+        "sample": "\n\n\n\n\n\n<!DOCTYPE html>\n\n<html class=\"h-100\" lang=\"en\">\n  <head>\n    <!-- Google Tag Manager -->\n    <script>\n      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n      })\n      (window,document,'script','dataLayer','GTM-KKTJCL3');\n    </script>\n    <!-- End Google Tag Manager -->\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\n    <title>Collection API</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"Ingenium Canada Collection API\">\n    <meta name=\"author\" content=\"Andrew Macdonald\">\n\n    \n    <!-- Your stuff: Third-party CSS libraries go here -->\n\n    <!-- This file stores project-specific CSS -->\n    <link  rel=\"stylesheet\" href=\"/static/drf_spectacular_sidecar/swagger-ui-dist/swagger-ui.css\">\n    <link href=\"/static/css/project.min.css\" rel=\"stylesheet\">\n\n    \n    <!-- Le javascript\n    ================================================== -->\n    \n    \n      <script type=\"application/javascript\" src=\"https://kit.fontawesome.com/381760cc01.js\" crossorigin=\"anonymous\"></script>\n      <!-- Vendor dependencies bundled as one file-->\n      <script type=\"application/javascript\" src=\"/static/js/vendors.min.js\" defer></script>\n      <!-- place project specific Javascript in this file -->\n      <script type=\"application/ja"
+      },
+      "api": null
+    },
+    {
+      "id": "risd",
+      "name": "RISD Museum",
+      "theme": "Art",
+      "documentation": "https://risdmuseum.org/art-design/projects-publications/articles/risd-museum-collection-api",
+      "endpoint": "https://risdmuseum.org/api/v1/collection?search_api_fulltext=flowers&items_per_page=5&has_images=1",
+      "assessment": "Public JSON endpoint. Must separately establish metadata and image rights.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://risdmuseum.org/art-design/projects-publications/articles/risd-museum-collection-api",
+        "finalUrl": "https://risdmuseum.org/art-design/projects-publications/articles/risd-museum-collection-api",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 52,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Sorry, you have been blocked</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_ac"
+      },
+      "api": {
+        "url": "https://risdmuseum.org/api/v1/collection?search_api_fulltext=flowers&items_per_page=5&has_images=1",
+        "finalUrl": "https://risdmuseum.org/api/v1/collection?search_api_fulltext=flowers&items_per_page=5&has_images=1",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "cors": null,
+        "elapsedMs": 52,
+        "json": false,
+        "keys": [],
+        "sample": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Sorry, you have been blocked</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_ac"
+      }
+    },
+    {
+      "id": "eso",
+      "name": "European Southern Observatory",
+      "theme": "Astronomy",
+      "documentation": "https://www.eso.org/sci/facilities/paranal/astroclimate/ASMDatabase/apicalls.html",
+      "endpoint": null,
+      "assessment": "Documented atmospheric API is measurements, not reusable gallery images. A media API was not established.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://www.eso.org/sci/facilities/paranal/astroclimate/ASMDatabase/apicalls.html",
+        "finalUrl": "https://www.eso.org/sci/facilities/paranal/astroclimate/ASMDatabase/apicalls.html",
+        "status": 200,
+        "contentType": "text/html;charset=utf-8",
+        "cors": null,
+        "elapsedMs": 413,
+        "json": false,
+        "keys": [],
+        "sample": "\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html  lang=\"en\">\n\n\n<head>\n\n\n\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=7\" /><meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"pragma\" content=\"no-cache\" />\n<meta http-equiv=\"Reply-to\" content=\"webteam@eso.org\" />\n<meta name=\"robots\" content=\"index,follow\" />\n<meta name=\"description\" content=\"ESO is the European Organisation for Astronomical Research in the Southern Hemisphere. It operates the La Silla Paranal Observatory in Chile and has its headquarters in Garching, near Munich, Germany.\" />\n<meta name=\"MSSmartTagsPreventParsing\" content=\"TRUE\" />\n<meta name=\"author\" content=\"webteam@eso.org\" />\n<meta name=\"page-topic\" content=\"Astronomy\" />\n<meta name=\"page-type\" content=\"Research Organisation\" />\n<meta name=\"organisation\" content=\"ESO, European Organisation for Astronomical Research in the Southern Hemisphere\" />\n<meta name=\"Content-Language\" content=\"en\" />\n<meta name=\"Language\" content=\"en\" />\n<meta name=\"publisher\" content=\"ESO\" />\n<meta name=\"copyright\" content=\"1999-2008 ESO\" />\n<meta name=\"revisit-after\" content=\"1 day\" />\n<meta name=\"keywords\" content=\"ESO, eso.org, Astronomy, Astrophysics, Astronomie, Suedsternwarte, telescopes, detectors, comets, planets, stars, galaxies, nebulae, universe, NTT, VLT, VLTI, ALMA, E-ELT, La Silla, Paranal, Garching, Chile\" />\n\n\n\n<title>ESO - Accessing Data (API)</title>\n\n<script type=\"text/javascript\" src=\"/etc/designs/eso/resources/functions.js\"></script>\n\n<link rel=\"styleshee"
+      },
+      "api": null
+    },
+    {
+      "id": "usno",
+      "name": "US Naval Observatory",
+      "theme": "Astronomy",
+      "documentation": "https://aa.usno.navy.mil/data/api.html",
+      "endpoint": "https://aa.usno.navy.mil/api/moon/phases/date?date=2026-11-03&nump=4",
+      "assessment": "Moon-phase API provides calculated data. Do not count a text-only source as an image integration.",
+      "assessmentStatus": "screening note, not legal clearance or a verified production implementation",
+      "decision": "not-integrated",
+      "docs": {
+        "url": "https://aa.usno.navy.mil/data/api.html",
+        "finalUrl": "https://aa.usno.navy.mil/data/api.html",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "cors": "*",
+        "elapsedMs": 1192,
+        "json": false,
+        "keys": [],
+        "sample": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Application Programming Interface Documentation</title>\n    <meta name=\"description\" content=\"This page describes how to query the api server for USNO data services data.\">\n    <meta name=\"keywords\" content=\"API, application programming interface, astronomy, astronomical calculators, USNO data services\">\n\n    <link rel=\"stylesheet\" href=\"/uswds/css/uswds.min.css\">\n    <link rel=\"stylesheet\" href=\"/css/styles.css\">\n    <link rel=\"stylesheet\" href=\"/css/aa.css\">\n    <link rel=\"shortcut icon\" href=\"/img/favicon.ico\">\n    <script src=\"/uswds/js/uswds-init.min.js\"></script>\n    <script id=\"MathJax-script\" async src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\"></script>   \n</head>\n\n<body>\n    \n\n<a class=\"usa-skipnav\" href=\"#main-content\">Skip to main content</a>\n\n\n\n<div class=\"site-banner usa-banner\">\n    <div class=\"usa-accordion\">\n        <header class=\"usa-banner__header\">\n            <div class=\"usa-banner__inner\">\n                <div class=\"grid-col-auto\">\n                    <img class=\"usa-banner__header-flag\" src=\"/uswds/img/us_flag_small.png\" alt=\"U.S. flag\">\n                </div>\n                <div class=\"grid-col-fill tablet:grid-col-auto\">\n                    <p class=\"usa-banner__header-text\">An official website of the United States government</p>\n                    <p class=\"usa-banner__header-action\" aria-hidden=\"true\">Here’s how you k"
+      },
+      "api": {
+        "url": "https://aa.usno.navy.mil/api/moon/phases/date?date=2026-11-03&nump=4",
+        "finalUrl": "https://aa.usno.navy.mil/api/moon/phases/date?date=2026-11-03&nump=4",
+        "status": 200,
+        "contentType": "application/json",
+        "cors": "*",
+        "elapsedMs": 874,
+        "json": true,
+        "keys": [
+          "apiversion",
+          "day",
+          "month",
+          "numphases",
+          "phasedata",
+          "year"
+        ],
+        "sample": "{\n  \"apiversion\": \"4.0.1\", \n  \"day\": 3, \n  \"month\": 11, \n  \"numphases\": 4, \n  \"phasedata\": [\n    {\n      \"day\": 9, \n      \"month\": 11, \n      \"phase\": \"New Moon\", \n      \"time\": \"07:02\", \n      \"year\": 2026\n    }, \n    {\n      \"day\": 17, \n      \"month\": 11, \n      \"phase\": \"First Quarter\", \n      \"time\": \"11:48\", \n      \"year\": 2026\n    }, \n    {\n      \"day\": 24, \n      \"month\": 11, \n      \"phase\": \"Full Moon\", \n      \"time\": \"14:53\", \n      \"year\": 2026\n    }, \n    {\n      \"day\": 1, \n      \"month\": 12, \n      \"phase\": \"Last Quarter\", \n      \"time\": \"06:08\", \n      \"year\": 2026\n    }\n  ], \n  \"year\": 2026\n}\n"
+      }
+    }
+  ],
+  "followups": [
+    {
+      "url": "https://api-collections.nypl.org/search?q=flowers&rightsFilter=publicDomain&perPage=3",
+      "finalUrl": "https://api-collections.nypl.org/search?q=flowers&rightsFilter=publicDomain&perPage=3",
+      "status": 403,
+      "contentType": "application/json",
+      "cors": "*",
+      "elapsedMs": 357,
+      "json": true,
+      "keys": [
+        "detail"
+      ],
+      "sample": "{\"detail\":\"Not authenticated\"}"
+    },
+    {
+      "url": "https://www.digitalcommonwealth.org/copyright",
+      "finalUrl": "https://www.digitalcommonwealth.org/copyright",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "cors": null,
+      "elapsedMs": 486,
+      "json": false,
+      "keys": [],
+      "sample": "\n<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en\">\n  <head>\n    <!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-8VWQYCPZDB\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-8VWQYCPZDB');\n</script>\n\n    <!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-PRD7NH3');</script>\n<!-- End Google Tag Manager -->\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <meta name=\"description\" content=\"An online library of photographs, manuscripts, audio recordings, and other materials of historical interest from libraries, museums, archives, and historical societies across Massachusetts.\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n\n    <!-- Internet Explorer use the highest version available -->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <title>Copyright &amp; Terms of Use - Digital Commonwealth</title>\n    <link href=\"https://www.digitalcommonwealth.org/search/opensearch.xml\" title=\"Digital Commonwealth\" type=\"application/opensearchdescr"
+    },
+    {
+      "url": "https://art.thewalters.org/images/raw/PS1_11.1_Fnt_DD_T12.jpg",
+      "finalUrl": "https://art.thewalters.org/images/raw/PS1_11.1_Fnt_DD_T12.jpg",
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "cors": null,
+      "elapsedMs": 54,
+      "json": false,
+      "keys": [],
+      "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-nIiJRQljQ0XDwlvyinaTaW&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+    },
+    {
+      "url": "https://art.thewalters.org/images/raw/PL7_11.4_Fnt_TR_T03I-tms.jpg",
+      "finalUrl": "https://art.thewalters.org/images/raw/PL7_11.4_Fnt_TR_T03I-tms.jpg",
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "cors": null,
+      "elapsedMs": 65,
+      "json": false,
+      "keys": [],
+      "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-H0HbrxNugy8Q5B821NwbE5&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+    },
+    {
+      "url": "https://art.thewalters.org/images/raw/PL7_49.685_Fnt_TR_T90I-tms.jpg",
+      "finalUrl": "https://art.thewalters.org/images/raw/PL7_49.685_Fnt_TR_T90I-tms.jpg",
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "cors": null,
+      "elapsedMs": 52,
+      "json": false,
+      "keys": [],
+      "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-1dtZcLN5hbrX948cd0lO3o&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgM"
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10722/manifest.json",
+  "label": "The History of Valentine and Orson",
+  "metadata": [
+    {
+      "label": "Original Collection",
+      "value": "John G. White Chapbook Collection"
+    },
+    {
+      "label": "Contributors",
+      "value": "Marshall, John (Printer)"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1800"
+    },
+    {
+      "label": "Digital File Storage",
+      "value": "clevelandpubliclibrarycollectiontreasures/Chapbooks/SN00001/book 14 The history of Valentine and Orson/28102557_CLE_01.pdf\r\n"
+    },
+    {
+      "label": "Digital Format",
+      "value": "application/pdf"
+    },
+    {
+      "label": "File Name",
+      "value": "28102557_CLE_01.pdf"
+    },
+    {
+      "label": "Identifier",
+      "value": "ocm28102557; PN970 .J6 REEL 1.14"
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Location",
+      "value": "Newcastle upon Tyne (England); England"
+    },
+    {
+      "label": "Location of Original",
+      "value": "Cleveland Public Library. Fine Arts and Special Collections Department."
+    },
+    {
+      "label": "Original Format",
+      "value": "Booklet"
+    },
+    {
+      "label": "Data Provider",
+      "value": "Cleveland Public Library"
+    },
+    {
+      "label": "Publisher",
+      "value": "Newcastle : Printed by J. Marshall, [18-?]"
+    },
+    {
+      "label": "Rights",
+      "value": "This work is free of known copyright. For more information, please go to: https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "label": "Rights License",
+      "value": "Public Domain Mark 1.0"
+    },
+    {
+      "label": "Rights Note",
+      "value": "Cleveland Public Library neither grants nor denies permission to publish photographs or images from its collection, including those in the Digital Gallery. Unless otherwise stated, the Library believes that the images in the Digital Gallery are in the Public Domain, although the Library makes no representations regarding the copyright of any item in the Digital Gallery. The Library is not responsible if you choose to use any Digital Gallery image(s) in your work. Please credit the Cleveland Public Library Digital Gallery as the source of any image(s) used. "
+    },
+    {
+      "label": "Standardized Rights Statement",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "Subject",
+      "value": "Chapbooks, English"
+    },
+    {
+      "label": "Title",
+      "value": "The History of Valentine and Orson"
+    },
+    {
+      "label": "Type",
+      "value": "Text"
+    },
+    {
+      "label": "Repository",
+      "value": "Cleveland Public Library Digital Gallery"
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://cplorg.contentdm.oclc.org/digital/collection/p4014coll9/id/10722\">The History of Valentine and Orson</a></span>"
+    }
+  ],
+  "attribution": [
+    "",
+    "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  ],
+  "seeAlso": {
+    "@id": "https://cdm16014.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16014.contentdm.oclc.org:p4014coll9/10722&metadataPrefix=oai_qdc",
+    "format": "application/xml",
+    "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10722/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "The History of Valentine and Orson",
+      "canvases": [
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10709/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Page  1",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10709/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10709/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10709",
+                  "width": 700,
+                  "height": 1256,
+                  "tiles": [
+                    {
+                      "width": 700,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 700,
+                "height": 1256
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10709/canvas/c0"
+            }
+          ],
+          "width": 700,
+          "height": 1256
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10710/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "Page  2",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10710/annotation/a1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10710/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10710",
+                  "width": 927,
+                  "height": 864,
+                  "tiles": [
+                    {
+                      "width": 927,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 927,
+                "height": 864
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10710/canvas/c1"
+            }
+          ],
+          "width": 927,
+          "height": 864
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10711/canvas/c2",
+          "@type": "sc:Canvas",
+          "label": "Page  3",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10711/annotation/a2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10711/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10711",
+                  "width": 935,
+                  "height": 873,
+                  "tiles": [
+                    {
+                      "width": 935,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 935,
+                "height": 873
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10711/canvas/c2"
+            }
+          ],
+          "width": 935,
+          "height": 873
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10712/canvas/c3",
+          "@type": "sc:Canvas",
+          "label": "Page  4",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10712/annotation/a3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10712/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10712",
+                  "width": 946,
+                  "height": 883,
+                  "tiles": [
+                    {
+                      "width": 946,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 946,
+                "height": 883
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10712/canvas/c3"
+            }
+          ],
+          "width": 946,
+          "height": 883
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10713/canvas/c4",
+          "@type": "sc:Canvas",
+          "label": "Page  5",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10713/annotation/a4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10713/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10713",
+                  "width": 925,
+                  "height": 862,
+                  "tiles": [
+                    {
+                      "width": 925,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 925,
+                "height": 862
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10713/canvas/c4"
+            }
+          ],
+          "width": 925,
+          "height": 862
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10714/canvas/c5",
+          "@type": "sc:Canvas",
+          "label": "Page  6",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10714/annotation/a5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10714/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10714",
+                  "width": 939,
+                  "height": 876,
+                  "tiles": [
+                    {
+                      "width": 939,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 939,
+                "height": 876
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10714/canvas/c5"
+            }
+          ],
+          "width": 939,
+          "height": 876
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10715/canvas/c6",
+          "@type": "sc:Canvas",
+          "label": "Page  7",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10715/annotation/a6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10715/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10715",
+                  "width": 927,
+                  "height": 864,
+                  "tiles": [
+                    {
+                      "width": 927,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 927,
+                "height": 864
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10715/canvas/c6"
+            }
+          ],
+          "width": 927,
+          "height": 864
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10716/canvas/c7",
+          "@type": "sc:Canvas",
+          "label": "Page  8",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10716/annotation/a7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10716/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10716",
+                  "width": 925,
+                  "height": 862,
+                  "tiles": [
+                    {
+                      "width": 925,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 925,
+                "height": 862
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10716/canvas/c7"
+            }
+          ],
+          "width": 925,
+          "height": 862
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10717/canvas/c8",
+          "@type": "sc:Canvas",
+          "label": "Page  9",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10717/annotation/a8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10717/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10717",
+                  "width": 927,
+                  "height": 863,
+                  "tiles": [
+                    {
+                      "width": 927,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 927,
+                "height": 863
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10717/canvas/c8"
+            }
+          ],
+          "width": 927,
+          "height": 863
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10718/canvas/c9",
+          "@type": "sc:Canvas",
+          "label": "Page  10",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10718/annotation/a9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10718/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10718",
+                  "width": 927,
+                  "height": 864,
+                  "tiles": [
+                    {
+                      "width": 927,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 927,
+                "height": 864
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10718/canvas/c9"
+            }
+          ],
+          "width": 927,
+          "height": 864
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10719/canvas/c10",
+          "@type": "sc:Canvas",
+          "label": "Page  11",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10719/annotation/a10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10719/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10719",
+                  "width": 950,
+                  "height": 890,
+                  "tiles": [
+                    {
+                      "width": 950,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 950,
+                "height": 890
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10719/canvas/c10"
+            }
+          ],
+          "width": 950,
+          "height": 890
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10720/canvas/c11",
+          "@type": "sc:Canvas",
+          "label": "Page  12",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10720/annotation/a11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10720/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10720",
+                  "width": 930,
+                  "height": 867,
+                  "tiles": [
+                    {
+                      "width": 930,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 930,
+                "height": 867
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10720/canvas/c11"
+            }
+          ],
+          "width": 930,
+          "height": 867
+        },
+        {
+          "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10721/canvas/c12",
+          "@type": "sc:Canvas",
+          "label": "Page  13",
+          "images": [
+            {
+              "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10721/annotation/a12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10721/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll9:10721",
+                  "width": 700,
+                  "height": 1272,
+                  "tiles": [
+                    {
+                      "width": 700,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 700,
+                "height": 1272
+              },
+              "on": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10721/canvas/c12"
+            }
+          ],
+          "width": 700,
+          "height": 1272
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10722/range/r0",
+      "@type": "sc:Range",
+      "label": "The History of Valentine and Orson",
+      "ranges": [],
+      "canvases": [
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10709/canvas/c0",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10710/canvas/c1",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10711/canvas/c2",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10712/canvas/c3",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10713/canvas/c4",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10714/canvas/c5",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10715/canvas/c6",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10716/canvas/c7",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10717/canvas/c8",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10718/canvas/c9",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10719/canvas/c10",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10720/canvas/c11",
+        "https://cdm16014.contentdm.oclc.org/iiif/p4014coll9:10721/canvas/c12"
+      ],
+      "viewingHint": "top"
+    }
+  ]
+}

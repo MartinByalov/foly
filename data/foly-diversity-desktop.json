@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-11-04T02:25:42.315Z",
+  "reports": [
+    {
+      "id": "nobel",
+      "sample": 0,
+      "elapsedMs": 1126,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/",
+      "image": null,
+      "rendered": true
+    },
+    {
+      "id": "nobel",
+      "sample": 1,
+      "elapsedMs": 14,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://www.nobelprize.org/prizes/medicine/1912/carrel/facts/",
+      "image": null,
+      "rendered": true
+    },
+    {
+      "id": "nobel",
+      "sample": 2,
+      "elapsedMs": 10,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://www.nobelprize.org/prizes/medicine/1920/krogh/facts/",
+      "image": null,
+      "rendered": true
+    },
+    {
+      "id": "noaaTides",
+      "sample": 0,
+      "elapsedMs": 415,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290",
+      "image": null,
+      "rendered": true
+    },
+    {
+      "id": "noaaTides",
+      "sample": 1,
+      "elapsedMs": 140,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8443970",
+      "image": null,
+      "rendered": true
+    },
+    {
+      "id": "noaaTides",
+      "sample": 2,
+      "elapsedMs": 140,
+      "ok": true,
+      "kind": "text",
+      "sourcePage": "https://tidesandcurrents.noaa.gov/stationhome.html?id=1612340",
+      "image": null,
+      "rendered": true
+    }
+  ]
+}

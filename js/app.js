@@ -5,9 +5,7 @@ import { RUNTIME_POOLS } from './runtime-pools.js';
 import { loadLocalPools } from './local-pools.js';
 import { createCard, render } from './ui.js';
 import { frameQueue, pruneOldCache } from './performance.js';
-import { freezeBackground } from './background.js';
 
-freezeBackground(document.querySelector('.background-video'));
 
 const today = new Date();
 const todayKey = dayKey(today);

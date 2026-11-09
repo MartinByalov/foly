@@ -1,0 +1,56 @@
+{
+  "built": "2026-11-03T18:44:37.364Z",
+  "responseSha256": "d27a14cf364e7e6c6707107387fa96b7c2135e9cc7c9474dffe33d8b15fcfd49",
+  "metadataEvidence": "https://www.cooperhewitt.org/open-source-at-cooper-hewitt/",
+  "mediaEvidence": "https://apidocs.cooperhewitt.org/images-and-other-media/",
+  "items": [
+    {
+      "objectId": "object-139904",
+      "mediaId": "media-114774",
+      "cc0": true,
+      "image": "https://ciim-static-media.s3.us-east-1.amazonaws.com/114/774/large_CHSDM_1E1C7974C3262_000001.jpg",
+      "title": "A design object from Cooper Hewitt",
+      "url": "https://api.cooperhewitt.org/?query=%7Bobject(id%3A%22object-139904%22)%7Bid%20title%20multimedia%7D%7D",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "evidence": "https://api.cooperhewitt.org/?query=%7Bobject(size%3A50%2ChasImages%3Atrue%2Cgeneral%3A%22vase%22)%7Bid%20title%20multimedia%7D%7D",
+      "mediaSha256": "26ca08ae9bd3630c1f37eda3527ae0a97c6f81046445e1718e57084c5825ef8e"
+    },
+    {
+      "objectId": "object-215187",
+      "mediaId": "media-110528",
+      "cc0": true,
+      "image": "https://ciim-static-media.s3.us-east-1.amazonaws.com/110/528/large_CHSDM_432076413AFB2_000001.jpg",
+      "title": "A design object from Cooper Hewitt",
+      "url": "https://api.cooperhewitt.org/?query=%7Bobject(id%3A%22object-215187%22)%7Bid%20title%20multimedia%7D%7D",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "evidence": "https://api.cooperhewitt.org/?query=%7Bobject(size%3A50%2ChasImages%3Atrue%2Cgeneral%3A%22vase%22)%7Bid%20title%20multimedia%7D%7D",
+      "mediaSha256": "1bd85be6f2c4aca0cf4b6b929231661bae297ba3886594d3c9449fddc3a063ca"
+    },
+    {
+      "objectId": "object-186396",
+      "mediaId": "media-117316",
+      "cc0": true,
+      "image": "https://ciim-static-media.s3.us-east-1.amazonaws.com/117/316/large_CHSDM_E7FDFE0C5C6F2_000001.jpg",
+      "title": "A design object from Cooper Hewitt",
+      "url": "https://api.cooperhewitt.org/?query=%7Bobject(id%3A%22object-186396%22)%7Bid%20title%20multimedia%7D%7D",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "evidence": "https://api.cooperhewitt.org/?query=%7Bobject(size%3A50%2ChasImages%3Atrue%2Cgeneral%3A%22vase%22)%7Bid%20title%20multimedia%7D%7D",
+      "mediaSha256": "9caa995319b9c079340afa87e1756a3016fa77060e3c0726efb4d0ad427dcc36"
+    },
+    {
+      "objectId": "object-133543",
+      "mediaId": "media-109675",
+      "cc0": true,
+      "image": "https://ciim-static-media.s3.us-east-1.amazonaws.com/109/675/large_CHSDM_E74455AA69CA2_000001.jpg",
+      "title": "A design object from Cooper Hewitt",
+      "url": "https://api.cooperhewitt.org/?query=%7Bobject(id%3A%22object-133543%22)%7Bid%20title%20multimedia%7D%7D",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "evidence": "https://api.cooperhewitt.org/?query=%7Bobject(size%3A50%2ChasImages%3Atrue%2Cgeneral%3A%22vase%22)%7Bid%20title%20multimedia%7D%7D",
+      "mediaSha256": "9304a1217585b770d75cb33c9e3c3d760ef7009a4200bea09ac08e114ba2a2bd"
+    }
+  ]
+}

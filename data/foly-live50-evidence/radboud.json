@@ -1,0 +1,2337 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41837/manifest.json",
+  "label": "(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55",
+  "metadata": [
+    {
+      "label": "Year of Creation",
+      "value": "1788"
+    },
+    {
+      "label": "Shelf Mark",
+      "value": "Hs IV 55"
+    },
+    {
+      "label": "Subject - Radboud Theme",
+      "value": "Collectie Soeterbeeck; Religie en kloosterleven;"
+    },
+    {
+      "label": "Title",
+      "value": "(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55"
+    },
+    {
+      "label": "Repository",
+      "value": "English Title"
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://bijzonderecollecties.ubn.ru.nl/digital/collection/Handschriften/id/41837\">(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55</a></span>"
+    }
+  ],
+  "seeAlso": {
+    "@id": "https://cdm21010.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm21010.contentdm.oclc.org:Handschriften/41837&metadataPrefix=oai_qdc",
+    "format": "application/xml",
+    "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41837/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55",
+      "canvases": [
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41784/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0001",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41784/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41784",
+                  "width": 4959,
+                  "height": 3140,
+                  "tiles": [
+                    {
+                      "width": 4959,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 4959,
+                "height": 3140
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41784/canvas/c0"
+            }
+          ],
+          "width": 4959,
+          "height": 3140
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41785/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0002",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41785/annotation/a1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41785/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41785",
+                  "width": 2469,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41785/canvas/c1"
+            }
+          ],
+          "width": 2469,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41786/canvas/c2",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0003",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41786/annotation/a2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41786/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41786",
+                  "width": 2542,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2542,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2542,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41786/canvas/c2"
+            }
+          ],
+          "width": 2542,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41787/canvas/c3",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0004",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41787/annotation/a3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41787/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41787",
+                  "width": 2469,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41787/canvas/c3"
+            }
+          ],
+          "width": 2469,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41788/canvas/c4",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0005",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41788/annotation/a4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41788/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41788",
+                  "width": 2542,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2542,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2542,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41788/canvas/c4"
+            }
+          ],
+          "width": 2542,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41789/canvas/c5",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0006",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41789/annotation/a5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41789/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41789",
+                  "width": 2512,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2512,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41789/canvas/c5"
+            }
+          ],
+          "width": 2512,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41790/canvas/c6",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0007",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41790/annotation/a6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41790/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41790",
+                  "width": 2530,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2530,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2530,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41790/canvas/c6"
+            }
+          ],
+          "width": 2530,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41791/canvas/c7",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0008",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41791/annotation/a7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41791/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41791",
+                  "width": 2512,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2512,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2512,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41791/canvas/c7"
+            }
+          ],
+          "width": 2512,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41792/canvas/c8",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0009",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41792/annotation/a8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41792/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41792",
+                  "width": 2531,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2531,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2531,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41792/canvas/c8"
+            }
+          ],
+          "width": 2531,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41793/canvas/c9",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0010",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41793/annotation/a9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41793/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41793",
+                  "width": 2551,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2551,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2551,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41793/canvas/c9"
+            }
+          ],
+          "width": 2551,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41794/canvas/c10",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0011",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41794/annotation/a10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41794/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41794",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41794/canvas/c10"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41795/canvas/c11",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0012",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41795/annotation/a11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41795/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41795",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41795/canvas/c11"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41796/canvas/c12",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0013",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41796/annotation/a12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41796/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41796",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41796/canvas/c12"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41797/canvas/c13",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0014",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41797/annotation/a13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41797/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41797",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41797/canvas/c13"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41798/canvas/c14",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0015",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41798/annotation/a14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41798/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41798",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41798/canvas/c14"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41799/canvas/c15",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0016",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41799/annotation/a15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41799/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41799",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41799/canvas/c15"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41800/canvas/c16",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0017",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41800/annotation/a16",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41800/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41800",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41800/canvas/c16"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41801/canvas/c17",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0018",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41801/annotation/a17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41801/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41801",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41801/canvas/c17"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41802/canvas/c18",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0019",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41802/annotation/a18",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41802/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41802",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41802/canvas/c18"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41803/canvas/c19",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0020",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41803/annotation/a19",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41803/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41803",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41803/canvas/c19"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41804/canvas/c20",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0021",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41804/annotation/a20",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41804/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41804",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41804/canvas/c20"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41805/canvas/c21",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0022",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41805/annotation/a21",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41805/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41805",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41805/canvas/c21"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41806/canvas/c22",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0023",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41806/annotation/a22",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41806/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41806",
+                  "width": 2468,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2468,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2468,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41806/canvas/c22"
+            }
+          ],
+          "width": 2468,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41807/canvas/c23",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0024",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41807/annotation/a23",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41807/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41807",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41807/canvas/c23"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41808/canvas/c24",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0025",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41808/annotation/a24",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41808/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41808",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41808/canvas/c24"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41809/canvas/c25",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0026",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41809/annotation/a25",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41809/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41809",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41809/canvas/c25"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41810/canvas/c26",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0027",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41810/annotation/a26",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41810/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41810",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41810/canvas/c26"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41811/canvas/c27",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0028",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41811/annotation/a27",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41811/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41811",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41811/canvas/c27"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41812/canvas/c28",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0029",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41812/annotation/a28",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41812/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41812",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41812/canvas/c28"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41813/canvas/c29",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0030",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41813/annotation/a29",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41813/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41813",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41813/canvas/c29"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41814/canvas/c30",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0031",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41814/annotation/a30",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41814/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41814",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41814/canvas/c30"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41815/canvas/c31",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0032",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41815/annotation/a31",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41815/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41815",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41815/canvas/c31"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41816/canvas/c32",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0033",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41816/annotation/a32",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41816/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41816",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41816/canvas/c32"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41817/canvas/c33",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0034",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41817/annotation/a33",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41817/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41817",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41817/canvas/c33"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41818/canvas/c34",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0035",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41818/annotation/a34",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41818/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41818",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41818/canvas/c34"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41819/canvas/c35",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0036",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41819/annotation/a35",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41819/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41819",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41819/canvas/c35"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41820/canvas/c36",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0037",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41820/annotation/a36",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41820/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41820",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41820/canvas/c36"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41821/canvas/c37",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0038",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41821/annotation/a37",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41821/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41821",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41821/canvas/c37"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41822/canvas/c38",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0039",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41822/annotation/a38",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41822/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41822",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41822/canvas/c38"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41823/canvas/c39",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0040",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41823/annotation/a39",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41823/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41823",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41823/canvas/c39"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41824/canvas/c40",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0041",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41824/annotation/a40",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41824/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41824",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41824/canvas/c40"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41825/canvas/c41",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0042",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41825/annotation/a41",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41825/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41825",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41825/canvas/c41"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41826/canvas/c42",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0043",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41826/annotation/a42",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41826/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41826",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41826/canvas/c42"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41827/canvas/c43",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0044",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41827/annotation/a43",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41827/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41827",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41827/canvas/c43"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41828/canvas/c44",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0045",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41828/annotation/a44",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41828/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41828",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41828/canvas/c44"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41829/canvas/c45",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0046",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41829/annotation/a45",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41829/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41829",
+                  "width": 2569,
+                  "height": 3072,
+                  "tiles": [
+                    {
+                      "width": 2569,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2569,
+                "height": 3072
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41829/canvas/c45"
+            }
+          ],
+          "width": 2569,
+          "height": 3072
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41830/canvas/c46",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0047",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41830/annotation/a46",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41830/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41830",
+                  "width": 2469,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2469,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2469,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41830/canvas/c46"
+            }
+          ],
+          "width": 2469,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41831/canvas/c47",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0048",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41831/annotation/a47",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41831/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41831",
+                  "width": 2647,
+                  "height": 3097,
+                  "tiles": [
+                    {
+                      "width": 2647,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2647,
+                "height": 3097
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41831/canvas/c47"
+            }
+          ],
+          "width": 2647,
+          "height": 3097
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41832/canvas/c48",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0049",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41832/annotation/a48",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41832/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41832",
+                  "width": 2429,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2429,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2429,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41832/canvas/c48"
+            }
+          ],
+          "width": 2429,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41833/canvas/c49",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0050",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41833/annotation/a49",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41833/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41833",
+                  "width": 2647,
+                  "height": 3097,
+                  "tiles": [
+                    {
+                      "width": 2647,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2647,
+                "height": 3097
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41833/canvas/c49"
+            }
+          ],
+          "width": 2647,
+          "height": 3097
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41834/canvas/c50",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0051",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41834/annotation/a50",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41834/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41834",
+                  "width": 2414,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2414,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2414,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41834/canvas/c50"
+            }
+          ],
+          "width": 2414,
+          "height": 3056
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41835/canvas/c51",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0052",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41835/annotation/a51",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41835/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41835",
+                  "width": 2647,
+                  "height": 3097,
+                  "tiles": [
+                    {
+                      "width": 2647,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2647,
+                "height": 3097
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41835/canvas/c51"
+            }
+          ],
+          "width": 2647,
+          "height": 3097
+        },
+        {
+          "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41836/canvas/c52",
+          "@type": "sc:Canvas",
+          "label": "MMUBN000008_Hs IV 55_0053",
+          "images": [
+            {
+              "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41836/annotation/a52",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41836/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm21010.contentdm.oclc.org/iiif/2/Handschriften:41836",
+                  "width": 2414,
+                  "height": 3056,
+                  "tiles": [
+                    {
+                      "width": 2414,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 2414,
+                "height": 3056
+              },
+              "on": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41836/canvas/c52"
+            }
+          ],
+          "width": 2414,
+          "height": 3056
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41837/range/r0",
+      "@type": "sc:Range",
+      "label": "(Para)liturgisch verzamelhandschrift [samengesteld door Arnoldus Beckers] / Hs IV 55",
+      "ranges": [],
+      "canvases": [
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41784/canvas/c0",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41785/canvas/c1",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41786/canvas/c2",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41787/canvas/c3",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41788/canvas/c4",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41789/canvas/c5",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41790/canvas/c6",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41791/canvas/c7",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41792/canvas/c8",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41793/canvas/c9",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41794/canvas/c10",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41795/canvas/c11",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41796/canvas/c12",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41797/canvas/c13",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41798/canvas/c14",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41799/canvas/c15",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41800/canvas/c16",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41801/canvas/c17",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41802/canvas/c18",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41803/canvas/c19",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41804/canvas/c20",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41805/canvas/c21",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41806/canvas/c22",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41807/canvas/c23",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41808/canvas/c24",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41809/canvas/c25",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41810/canvas/c26",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41811/canvas/c27",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41812/canvas/c28",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41813/canvas/c29",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41814/canvas/c30",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41815/canvas/c31",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41816/canvas/c32",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41817/canvas/c33",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41818/canvas/c34",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41819/canvas/c35",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41820/canvas/c36",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41821/canvas/c37",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41822/canvas/c38",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41823/canvas/c39",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41824/canvas/c40",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41825/canvas/c41",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41826/canvas/c42",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41827/canvas/c43",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41828/canvas/c44",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41829/canvas/c45",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41830/canvas/c46",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41831/canvas/c47",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41832/canvas/c48",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41833/canvas/c49",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41834/canvas/c50",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41835/canvas/c51",
+        "https://cdm21010.contentdm.oclc.org/iiif/Handschriften:41836/canvas/c52"
+      ],
+      "viewingHint": "top"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/manifest",
+  "@type": "sc:Manifest",
+  "label": "Reliekhouder van het heilig Kruis en de twaalf apostelen",
+  "description": "",
+  "metadata": [
+    {
+      "label": "Gebruik",
+      "value": [
+        {
+          "@value": "Goed voor gebruik",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Formats voor gebruik",
+      "value": [
+        {
+          "@value": "Grafische reproductie (geheel/gedeeltelijk) in om het even welke vorm (affiches/foto\\'s/dia\\'s/post- en prentkaarten...),Publicatie van het werk (geheel/gedeeltelijk) in krant/weekblad/informatiebrochure/tijdschrift/of anderszins en de verspreiding van de laatstgenoemde creaties,Opname (geheel/gedeeltelijk) van het werk in een beeldenbank en op de website van M/documentatiemap/boek/catalogus/databank (grafisch en/of elektronische) en de verspreiding van de laatstgenoemde creaties,Publieke mededeling en ter beschikking stelling (bv. via film/televisie/internet) van een werk (geheel/gedeeltelijk),Recht tot tentoonstelling in de gebouwen/instellingen en inrichtingen van het Museum alsook in de gebouwen/instellingen en inrichtingen van de huurder/ontlener van deze werken in de zin van bovenstaande paragraaf 7",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Publiceren op website?",
+      "value": [
+        {
+          "@value": "Ja",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "© Creditline NL",
+      "value": "Reliekhouder van het heilig Kruis en de twaalf apostelen, Jean Pierre Schots, 1815, Collectie M Leuven, bron: artinflanders.be, foto: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift NL",
+      "value": "Reliekhouder van het heilig Kruis en de twaalf apostelen, Jean Pierre Schots, 1815"
+    },
+    {
+      "label": "© Creditline FR",
+      "value": "Reliquaire de la sainte Croix et des douze apôtres, Jean Pierre Schots, 1815, Collection M Leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift FR",
+      "value": "Reliquaire de la sainte Croix et des douze apôtres, Jean Pierre Schots, 1815"
+    },
+    {
+      "label": "© Creditline EN",
+      "value": "Reliquary of the Holy Cross and the twelve apostles, Jean Pierre Schots, 1815, Collection M Leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift EN",
+      "value": "Reliquary of the Holy Cross and the twelve apostles, Jean Pierre Schots, 1815"
+    },
+    {
+      "label": "Rechtenstatus",
+      "value": [
+        {
+          "@value": "publiek domein (PDM)",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Rechtenverklaring",
+      "value": [
+        {
+          "@value": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Mappenstructuur",
+      "value": [
+        {
+          "@value": "Collectie,M-collectie,Metaal",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Wat",
+      "value": [
+        {
+          "@value": "Oude kunst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Type beeld",
+      "value": [
+        {
+          "@value": "Objectfoto",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Fotograaf",
+      "value": [
+        {
+          "@value": "Cedric Verhelst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Originele bestandsnaam",
+      "value": "B_VIII_321.tif"
+    },
+    {
+      "label": "Datum foto",
+      "value": "2024-06-06 15:21:36"
+    },
+    {
+      "label": "Bestandsformaat",
+      "value": "TIFF"
+    },
+    {
+      "label": "Bestandsgrootte",
+      "value": "428 MB"
+    },
+    {
+      "label": "Afmetingen",
+      "value": "7316x9754"
+    },
+    {
+      "label": "Kleurruimte",
+      "value": "Uncalibrated"
+    },
+    {
+      "label": "Inventarisnummer",
+      "value": "B/VIII/321"
+    },
+    {
+      "label": "Titel kunstobject",
+      "value": "Reliekhouder van het heilig Kruis en de twaalf apostelen"
+    },
+    {
+      "label": "Vervaardiger",
+      "value": "Jean Pierre Schots"
+    },
+    {
+      "label": "Sterfdatum vervaardiger",
+      "value": "1828"
+    },
+    {
+      "label": "GUID uit Axiell Collections",
+      "value": "12ba8f89-2be1-4ce9-9c6f-2acafd348678"
+    },
+    {
+      "label": "pURI collectiestuk",
+      "value": "https://data.mleuven.be/ark:16425/12ba8f89-2be1-4ce9-9c6f-2acafd348678"
+    },
+    {
+      "label": "IIIF resource?",
+      "value": [
+        {
+          "@value": "Yes",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "IIIF Sequence",
+      "value": "1"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "thumbnail": {
+    "@id": "https://mleuven.resourcespace.com/iiif/image/8509/full/thm/0/default.jpg",
+    "@type": "dctypes:Image",
+    "height": 175,
+    "width": 131,
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://mleuven.resourcespace.com/iiif/image/8509",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences": [
+    {
+      "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Default order",
+      "canvases": [
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/0",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 9754,
+          "width": 7316,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/8509/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 131,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/8509",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/annotation/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/8509/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9754,
+                "width": 7316,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/8509",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/0"
+            }
+          ]
+        },
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "height": 9933,
+          "width": 7449,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/8566/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 131,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/8566",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/8566/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9933,
+                "width": 7449,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/8566",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "3",
+          "height": 9284,
+          "width": 6963,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/8505/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 131,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/8505",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/annotation/2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/8505/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9284,
+                "width": 6963,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/8505",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/12ba8f89-2be1-4ce9-9c6f-2acafd348678/canvas/2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript">
+      const REDIRECT_LOOP_THRESHOLD_MS = 3000; // 3 seconds
+      const orig = "/";
+      const uid  = "ccb0257f815aa00162732004227dbc36";
+
+      let attemptTimestamp = null;
+      try {
+        attemptTimestamp = localStorage.getItem("vlngx_js_check_attempt");
+      } catch (e) {
+        console.warn("JS Check: localStorage not available or read failed.", e);
+      }
+
+      document.cookie = "js_enabled=2; path=/; SameSite=Lax";
+      const now = Date.now();
+      const beaconUrl = "/js_check_beacon?uid=" + uid + "&orig=" + encodeURIComponent(orig)
+      if (attemptTimestamp && (now - parseInt(attemptTimestamp) < REDIRECT_LOOP_THRESHOLD_MS)) {
+          navigator.sendBeacon(beaconUrl + "&cookiefail=true");
+          document.title = "Action Required";
+          document.body.innerHTML =
+            "<h1>Processing Request</h1>" +
+            "<p>If this page persists, please ensure cookies are enabled in your browser settings. This site requires cookies for optimal functionality.</p>";
+      } else {
+          localStorage.setItem("vlngx_js_check_attempt", now.toString());
+          navigator.sendBeacon(beaconUrl + "&passed=true");
+          window.location.href = orig;
+      }
+
+    </script>
+  </head>
+  <body>
+    <noscript>Please enable JavaScript and Cookies to continue.</noscript>
+    <p>Verifying your browser, please wait...</p>
+  </body>
+</html>
+        

@@ -1,0 +1,137 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370",
+  "@type": "sc:Manifest",
+  "attribution": "Harvard Art Museums",
+  "description": "",
+  "label": "Untitled (two men sitting with beer at wooden banquet table in brewing company)",
+  "logo": {
+    "@id": "https://nrs.harvard.edu/urn-3:HUAM:logo2/full/!800,800/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://nrs.harvard.edu/urn-3:HUAM:logo2",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "metadata": [
+    {
+      "label": "Date",
+      "value": "1948"
+    },
+    {
+      "label": "Classification",
+      "value": "Photographs"
+    },
+    {
+      "label": "Credit Line",
+      "value": "Harvard Art Museums/Fogg Museum, Transfer from the Carpenter Center for the Visual Arts, American Professional Photographers Collection"
+    },
+    {
+      "label": "Object Number",
+      "value": "4.2002.9196"
+    },
+    {
+      "label": "People",
+      "value": [
+        "Artist: Martin Schweig, American, 20th century"
+      ]
+    },
+    {
+      "label": "Technique",
+      "value": "Negative, gelatin silver (film)"
+    },
+    {
+      "label": "Dimensions",
+      "value": "image: 10.16 x 12.7 cm (4 x 5 in.)"
+    }
+  ],
+  "rendering": {
+    "@id": "https://www.harvardartmuseums.org/collections/object/133370",
+    "format": "text/html",
+    "label": "Full record view"
+  },
+  "sequences": [
+    {
+      "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/canvas/canvas-178482",
+          "@type": "sc:Canvas",
+          "height": 813,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/annotation/anno-178482",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/133370/canvas/canvas-178482",
+              "resource": {
+                "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1024
+              }
+            }
+          ],
+          "label": "1",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/list/178482",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 1024
+        },
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/canvas/canvas-178483",
+          "@type": "sc:Canvas",
+          "height": 813,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/annotation/anno-178483",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/133370/canvas/canvas-178483",
+              "resource": {
+                "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990P_dynmc/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 813,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990P_dynmc",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1024
+              }
+            }
+          ],
+          "label": "2",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/133370/list/178483",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 1024
+        }
+      ],
+      "viewingHint": "individuals"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc/full/!170,170/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://nrs.harvard.edu/urn-3:HUAM:INV051990N_dynmc",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "within": "https://www.harvardartmuseums.org/collections"
+}

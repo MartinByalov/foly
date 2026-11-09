@@ -1,0 +1,72 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://repository.library.brown.edu/iiif/presentation/bdr:37024/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "\"Bill\" and the water wagon",
+  "metadata": [
+    {
+      "label": "Full_Title",
+      "value": "\"Bill\" and the water wagon"
+    },
+    {
+      "label": "Series",
+      "value": "Alcohol, Temperance & Prohibition"
+    },
+    {
+      "label": "Contributors",
+      "value": "P., M. H. (creator)"
+    },
+    {
+      "label": "Date Issued",
+      "value": "1914"
+    },
+    {
+      "label": "Notes",
+      "value": "by M.H.P."
+    },
+    {
+      "label": "Extent",
+      "value": "[4] p. illus."
+    }
+  ],
+  "seeAlso": "https://repository.library.brown.edu/api/items/bdr:37024/",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "@id": "https://repository.library.brown.edu/iiif/presentation/bdr:37024/canvas/page-bdr:37024.json",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 2688,
+          "width": 1794,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://repository.library.brown.edu/iiif/image/bdr:37024/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2688,
+                "width": 1794,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://repository.library.brown.edu/iiif/image/bdr:37024",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://repository.library.brown.edu/iiif/presentation/bdr:37024/canvas/page-bdr:37024.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "related": {
+    "@id": "https://repository.library.brown.edu/studio/item/bdr:37024/",
+    "format": "text/html",
+    "label": "BDR display"
+  }
+}

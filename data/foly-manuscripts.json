@@ -1,0 +1,121 @@
+{
+  "builtAt": "2026-11-03T19:46:01.037Z",
+  "metadataStatement": "Foly-authored display text is CC0. No provider catalogue prose is reproduced.",
+  "providers": {
+    "heidelbergLibrary": {
+      "evidence": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg389/manifest.json",
+      "sha256": "d3fa5410dc8e4498c737777fadd7ac35b74dab9a381115f5e08b5235e8b21173",
+      "manifest": {
+        "license": "http://creativecommons.org/publicdomain/mark/1.0/deed.de",
+        "sequences": [
+          {
+            "canvases": [
+              {
+                "@id": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg389/canvas/0006",
+                "@type": "sc:Canvas",
+                "label": "1*v",
+                "images": [
+                  {
+                    "resource": {
+                      "@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg389/4/0000c_1av.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "height": 2348,
+                      "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A0000c_1av.jpg",
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                      },
+                      "width": 1494
+                    }
+                  }
+                ]
+              },
+              {
+                "@id": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg389/canvas/0021",
+                "@type": "sc:Canvas",
+                "label": "5r",
+                "images": [
+                  {
+                    "resource": {
+                      "@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg389/4/005r.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "height": 2348,
+                      "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A005r.jpg",
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                      },
+                      "width": 1494
+                    }
+                  }
+                ]
+              },
+              {
+                "@id": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg389/canvas/0051",
+                "@type": "sc:Canvas",
+                "label": "20r",
+                "images": [
+                  {
+                    "resource": {
+                      "@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg389/4/020r.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "height": 2348,
+                      "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A020r.jpg",
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                      },
+                      "width": 1494
+                    }
+                  }
+                ]
+              },
+              {
+                "@id": "https://digi.ub.uni-heidelberg.de/diglit/iiif/cpg389/canvas/0081",
+                "@type": "sc:Canvas",
+                "label": "35r",
+                "images": [
+                  {
+                    "resource": {
+                      "@id": "https://digi.ub.uni-heidelberg.de/diglitData/image/cpg389/4/035r.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "height": 2348,
+                      "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A035r.jpg",
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                      },
+                      "width": 1494
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "media": [
+        {
+          "image": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A0000c_1av.jpg/full/800,/0/default.jpg",
+          "sha256": "77fe0f9dce47cd6b9fab49631ed4df122accc79d65dffd7089621dc86903fcaf"
+        },
+        {
+          "image": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A005r.jpg/full/800,/0/default.jpg",
+          "sha256": "bcb7576013464bf4bd5a1243b7c1a6e3737007c15307d7c9ce22d350a7db38ca"
+        },
+        {
+          "image": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A020r.jpg/full/800,/0/default.jpg",
+          "sha256": "fa924eee9030b5322747a24e798339163ecd294e9bae6f170fcef0aa1a9593b0"
+        },
+        {
+          "image": "https://digi.ub.uni-heidelberg.de/iiif/2/cpg389%3A035r.jpg/full/800,/0/default.jpg",
+          "sha256": "8d9c6736cc616b7fe08a7383e442eec060d9cd7f43b5b7c6aee007a18d23f87f"
+        }
+      ]
+    }
+  }
+}

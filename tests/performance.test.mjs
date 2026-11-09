@@ -91,6 +91,6 @@ test('static background image is not duplicated in CSS',async()=>{
   assert.doesNotMatch(css,/static\.wixstatic\.com|radial-gradient/);
   const html=await readFile(new URL('../index.html',import.meta.url),'utf8');
   assert.equal((html.match(/class="video-bg"/g)||[]).length,1);
-  assert.equal((html.match(/class="background-video"/g)||[]).length,1);
-  assert.doesNotMatch(html, /autoplay|backgroundToggle|class="background-image"/);
+  assert.equal((html.match(/class="background-image"/g)||[]).length,1);
+  assert.doesNotMatch(html, /autoplay|backgroundToggle|<video|wixstatic/);
 });

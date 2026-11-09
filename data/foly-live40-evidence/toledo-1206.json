@@ -1,0 +1,175 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/manifest.json",
+  "label": "Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019",
+  "metadata": [
+    {
+      "label": "Contact Information",
+      "value": "Please contact the Local History and Genealogy Department of the Toledo Lucas County Public Library for more information at digitization@toledolibrary.org"
+    },
+    {
+      "label": "Coverage",
+      "value": "111 Ottawa Street"
+    },
+    {
+      "label": "Creator",
+      "value": "Dewees, John Michael"
+    },
+    {
+      "label": "Date of original",
+      "value": "March 16, 2019"
+    },
+    {
+      "label": "Description",
+      "value": "The Anthony Wayne Bridge (or High Level Bridge) seen from Middlegrounds Metropark, photographed on March 16, 2019."
+    },
+    {
+      "label": "Provenance.Donor",
+      "value": "Dewees, John Michael"
+    },
+    {
+      "label": "Format (digital)",
+      "value": "JPEG"
+    },
+    {
+      "label": "Format (original)",
+      "value": "Picture; Color photograph"
+    },
+    {
+      "label": "File Name",
+      "value": "CPA-2019-00584.jpg"
+    },
+    {
+      "label": "Latitude",
+      "value": "41.638972"
+    },
+    {
+      "label": "Longitude",
+      "value": "-83.535448"
+    },
+    {
+      "label": "Place",
+      "value": "Toledo (Ohio); Lucas County (Ohio)"
+    },
+    {
+      "label": "Publisher (digital)",
+      "value": "Toledo Lucas County Public Library"
+    },
+    {
+      "label": "Repository",
+      "value": "Not owned by TLCPL."
+    },
+    {
+      "label": "Resource Identifier",
+      "value": "CPA-2019-00584"
+    },
+    {
+      "label": "Rights Description",
+      "value": "Public Domain Dedication"
+    },
+    {
+      "label": "Rights Holder",
+      "value": "This work has been ascribed a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication by the photographer placing the material in the public domain."
+    },
+    {
+      "label": "Rights URI",
+      "value": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "label": "Source",
+      "value": "Community Photo Album"
+    },
+    {
+      "label": "Subject",
+      "value": "Parks and recreation; Toledo Metroparks; Transportation; Maumee River"
+    },
+    {
+      "label": "Time period",
+      "value": "2010s"
+    },
+    {
+      "label": "Title",
+      "value": "Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019"
+    },
+    {
+      "label": "Type",
+      "value": "StillImage"
+    },
+    {
+      "label": "Repository",
+      "value": ""
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://ohiomemory.org/digital/collection/p16007coll31/id/1206\">Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019</a></span>"
+    }
+  ],
+  "attribution": [
+    "",
+    "http://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "within": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019",
+      "canvases": [
+        {
+          "@id": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019",
+          "images": [
+            {
+              "@id": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16007.contentdm.oclc.org/iiif/2/p16007coll31:1206/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16007.contentdm.oclc.org/iiif/2/p16007coll31:1206",
+                  "width": 4000,
+                  "height": 6000,
+                  "tiles": [
+                    {
+                      "width": 4000,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 4000,
+                "height": 6000
+              },
+              "on": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/canvas/c0"
+            }
+          ],
+          "width": 4000,
+          "height": 6000
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/range/r0",
+      "@type": "sc:Range",
+      "label": "Anthony Wayne Bridge Seen from Middlegrounds Metropark, March 16, 2019",
+      "ranges": [],
+      "canvases": [
+        "https://cdm16007.contentdm.oclc.org/iiif/p16007coll31:1206/canvas/c0"
+      ]
+    }
+  ]
+}

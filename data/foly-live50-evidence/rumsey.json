@@ -1,0 +1,169 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305961~90076345/manifest",
+  "label": "Wasser Flutt in Nieder Teutschland.",
+  "attribution": "David Rumsey Historical Map Collection",
+  "service": {
+    "@context": "http://iiif.io/api/search/1/context.json",
+    "@id": "https://www.davidrumsey.com/luna/servlet/iiif/services/RUMSEY~8~1~305961~90076345/search",
+    "profile": "http://iiif.io/api/search/1/search"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305961~90076345/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "Wasser Flutt in Nieder Teutschland.",
+          "description": "",
+          "metadata": [
+            {
+              "label": "Author",
+              "value": "Homann, Johann Baptist, 1663-1724"
+            },
+            {
+              "label": "Date",
+              "value": "1716"
+            },
+            {
+              "label": "Short Title",
+              "value": "Wasser Flutt in Nieder Teutschland."
+            },
+            {
+              "label": "Type",
+              "value": "Atlas Map"
+            },
+            {
+              "label": "Obj Height cm",
+              "value": "50"
+            },
+            {
+              "label": "Obj Width cm",
+              "value": "59"
+            },
+            {
+              "label": "Scale 1",
+              "value": "590,000"
+            },
+            {
+              "label": "Note",
+              "value": "Shows results of a terrible flood in 1717 on the coast of the Netherlands, near Bremen, Germany."
+            },
+            {
+              "label": "Country",
+              "value": "Netherlands"
+            },
+            {
+              "label": "Region",
+              "value": "Bremen (Germany)"
+            },
+            {
+              "label": "Full Title",
+              "value": "Wasser Flutt in Nieder Teutschland. (inset) Nord Holland."
+            },
+            {
+              "label": "List No",
+              "value": "12499.152"
+            },
+            {
+              "label": "Series No",
+              "value": "152"
+            },
+            {
+              "label": "Page No",
+              "value": "117"
+            },
+            {
+              "label": "Publication Author",
+              "value": "Homann, Johann Baptist, 1663-1724"
+            },
+            {
+              "label": "Pub Date",
+              "value": "1716"
+            },
+            {
+              "label": "Pub Title",
+              "value": "Atlas Novus Terrarum Orbis Imperia Regna et Status Exactis Fabulis Geographice Demonstrans. (There is also a title page in Gothic German)."
+            },
+            {
+              "label": "Pub Note",
+              "value": "This 12 cm thick volume has a regular title page, handwritten table of contents, and introductory 42 page text in Gothic German. The decorative title page and maps are in Latin or German. Maps hand colored and lavishly illustrated. \"Johann Babtiste Homann (1664-1724), Nuremberg, was born in Oberkammlach, the Electorate of Bavaria. Although educated at a Jesuit school, and preparing for an ecclesiastical career, he eventually converted to Protestantism and from 1687 worked as a civil law notary in Nuremberg. He soon turned to engraving and cartography; in 1702 he founded his own publishing house. Homann acquired renown as a leading German cartographer, and in 1715 was appointed Imperial Geographer by Emperor Charles VI.\" (Adina Sommer, Antique and Contemporary Art, Munich). This is an early edition of his world atlas, with many maps added later by an owner and with the index pages in manuscript - indicating that this was a composite version of Homann's world atlas, made up for the customer. Publication date is estimated at 1716 from the title page, but most of the maps are undated."
+            },
+            {
+              "label": "Pub List No",
+              "value": "12499.000"
+            },
+            {
+              "label": "Pub Type",
+              "value": "World Atlas"
+            },
+            {
+              "label": "Pub Maps",
+              "value": "190"
+            },
+            {
+              "label": "Pub Height cm",
+              "value": "57"
+            },
+            {
+              "label": "Pub Width cm",
+              "value": "37"
+            },
+            {
+              "label": "Image No",
+              "value": "12499152.jp2"
+            },
+            {
+              "label": "Download 1",
+              "value": "<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/179/12499152.jp2 target=_blank>Full Image Download in JP2 Format</a>"
+            },
+            {
+              "label": "Download 2",
+              "value": "<a href=\"https://www.extensis.com/support/geoviewer-9\" target=\"_blank\">GeoViewer for JP2 and SID files</a>"
+            },
+            {
+              "label": "Authors",
+              "value": "Homann, Johann Baptist, 1663-1724"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~305961~90076345/full/!96,96/0/default.jpg",
+            "format": "image/jpeg"
+          },
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~305961~90076345/full/!1024,1024/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~305961~90076345",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 12147,
+                "height": 9119
+              },
+              "on": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305961~90076345/canvas/c1"
+            }
+          ],
+          "otherContent": [
+            "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305961~90076345/list/luna"
+          ],
+          "width": 12147,
+          "height": 9119
+        }
+      ]
+    }
+  ],
+  "logo": {
+    "@id": "https://www.davidrumsey.com/luna/images/LUNAIIIF80.png",
+    "format": "image/png"
+  },
+  "related": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~305961~90076345"
+}

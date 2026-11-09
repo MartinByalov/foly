@@ -1,0 +1,152 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/manifest.json",
+  "label": "Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896",
+  "metadata": [
+    {
+      "label": "Citation Information",
+      "value": "University of Washington Libraries, Special Collections, [Order Number or Negative Number] "
+    },
+    {
+      "label": "Location Depicted",
+      "value": "United States--Alaska--Pribilof Islands--St. Paul Island"
+    },
+    {
+      "label": "Date",
+      "value": "1896"
+    },
+    {
+      "label": "Notes",
+      "value": "Caption on mount: Native family, St. Paul Isd. Pribilof group\r\n\r\nPH Coll 595.6"
+    },
+    {
+      "label": "Digital Collection",
+      "value": "Alaska, Western Canada and United States Collection"
+    },
+    {
+      "label": "Negative Number",
+      "value": "NA3050"
+    },
+    {
+      "label": "Object Type",
+      "value": "Photograph; image"
+    },
+    {
+      "label": "Order Number",
+      "value": "AWC0048"
+    },
+    {
+      "label": "Ordering Information",
+      "value": "To order a reproduction, inquire about permissions, or for information about prices see: \r\n http://www.lib.washington.edu/specialcollections/services/reproduction/reproduction \r\nPlease cite the Order Number"
+    },
+    {
+      "label": "Repository Collection Guide",
+      "value": "To view the finding aid for this collection see:  http://www.lib.washington.edu/specialcoll/findaids/docs/photosgraphics/AlaskanMarineResourcesandPribiloffIslandsPHColl595.xml"
+    },
+    {
+      "label": "Repository",
+      "value": "University of Washington Libraries, Special Collections "
+    },
+    {
+      "label": "Rights URI",
+      "value": "http://rightsstatements.org/vocab/CNE/1.0/"
+    },
+    {
+      "label": "Repository Collection",
+      "value": "Alaska Marine Resources and Pribilof Islands Photograph Collection. PH Coll 595"
+    },
+    {
+      "label": "Subjects (LCSH)",
+      "value": "Alaska Natives--Alaska--Saint Paul Island; Alaska Native children--Alaska--Saint Paul Island "
+    },
+    {
+      "label": "Subjects (LCTGM)",
+      "value": "Aleuts--Men--Alaska--Saint Paul Island; Aleuts--Children--Alaska--Saint Paul Island; Boys--Alaska--Saint Paul Island; Families--Alaska--Saint Paul Island; Porches--Alaska--Saint Paul Island; Group portraits"
+    },
+    {
+      "label": "Title",
+      "value": "Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896"
+    },
+    {
+      "label": "Repository",
+      "value": "University of Washington Digital Collections"
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://digitalcollections.lib.washington.edu/digital/collection/alaskawcanada/id/59\">Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896</a></span>"
+    }
+  ],
+  "attribution": [
+    "",
+    "http://rightsstatements.org/vocab/CNE/1.0/"
+  ],
+  "seeAlso": {
+    "@id": "https://cdm16786.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16786.contentdm.oclc.org:alaskawcanada/59&metadataPrefix=oai_qdc",
+    "format": "application/xml",
+    "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896",
+      "canvases": [
+        {
+          "@id": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896",
+          "images": [
+            {
+              "@id": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16786.contentdm.oclc.org/iiif/2/alaskawcanada:59/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16786.contentdm.oclc.org/iiif/2/alaskawcanada:59",
+                  "width": 768,
+                  "height": 617,
+                  "tiles": [
+                    {
+                      "width": 768,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 768,
+                "height": 617
+              },
+              "on": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/canvas/c0"
+            }
+          ],
+          "width": 768,
+          "height": 617
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/range/r0",
+      "@type": "sc:Range",
+      "label": "Aleut family, three men and boy, posed on porch of house, Saint Paul Island, 1896",
+      "ranges": [],
+      "canvases": [
+        "https://cdm16786.contentdm.oclc.org/iiif/alaskawcanada:59/canvas/c0"
+      ]
+    }
+  ]
+}

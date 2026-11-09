@@ -1,0 +1,232 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Frauenfeld, Kantonsbibliothek Thurgau, X 77",
+  "metadata": [
+    {
+      "label": "Location",
+      "value": "Frauenfeld"
+    },
+    {
+      "label": "Collection Name",
+      "value": "Kantonsbibliothek Thurgau"
+    },
+    {
+      "label": "Shelfmark",
+      "value": "X 77"
+    },
+    {
+      "label": "Title",
+      "value": "Antiphonary"
+    },
+    {
+      "label": "Subtitle",
+      "value": "Feast of St Martin of Tours"
+    },
+    {
+      "label": "Fragmentarium ID",
+      "value": "F-qdm5"
+    },
+    {
+      "label": "Material",
+      "value": "Parchment"
+    },
+    {
+      "label": "Document Type",
+      "value": "Fragment"
+    },
+    {
+      "label": "Number of Fragment Items",
+      "value": "1 leaf"
+    },
+    {
+      "label": "Page/Folio Reference",
+      "value": "Front pastedown"
+    },
+    {
+      "label": "Current Dimensions (in mm)",
+      "value": "316 x 219 mm"
+    },
+    {
+      "label": "Online Since",
+      "value": "2025-05-22"
+    },
+    {
+      "label": "Reconstruction Summary",
+      "value": "<p>A single leaf from a 12th-century antiphonary containing texts for the Feast of St Martin, Bishop of Tours (11 November). Repurposed as a pastedown at the front of the incunabulum X 77, an edition of Aurelius Augustinus', <em>De civitate dei</em> and <em>De trinitate </em>from 1489.  </p>"
+    },
+    {
+      "label": "Reconstruction Summary Author",
+      "value": "Fergus Bovill (2025)"
+    },
+    {
+      "label": "Date of origin",
+      "value": "1101 – 1200 CE"
+    },
+    {
+      "label": "Places",
+      "value": "Switzerland"
+    },
+    {
+      "label": "Illuminated",
+      "value": "Yes"
+    },
+    {
+      "label": "Century",
+      "value": "12th century"
+    },
+    {
+      "label": "Text Language",
+      "value": "Latin"
+    },
+    {
+      "label": "Script Type",
+      "value": "Praegothica"
+    },
+    {
+      "label": "Liturgica",
+      "value": "Antiphonar"
+    },
+    {
+      "label": "Decoration",
+      "value": "Initial"
+    },
+    {
+      "label": "Decoration",
+      "value": "Red"
+    },
+    {
+      "label": "Musical Notation",
+      "value": "Neumes (staffless)"
+    }
+  ],
+  "description": [
+    {
+      "@value": "A single leaf from a 12th-century antiphonary containing texts for the Feast of St Martin, Bishop of Tours (11 November). Repurposed as a pastedown at the front of the incunabulum X 77, an edition of Aurelius Augustinus', De civitate dei and De trinitate from 1489.  ",
+      "@language": "en"
+    }
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Fragmentarium – International Digital Research Lab for Medieval Manuscript Fragments",
+  "logo": "https://fragmentarium.ms/img/fragmentarium-logo-sm-square.png",
+  "service": "https://fragmentarium.ms/search/",
+  "seeAlso": "https://fragmentarium.ms/overview/F-qdm5",
+  "within": "https://fragmentarium.ms/metadata/iiif/collection/C-p1jc.json",
+  "sequences": [
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/sequence/Sequence-10917.json",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_e005.jp2.json",
+          "@type": "sc:Canvas",
+          "label": "front pastedown",
+          "height": 11530,
+          "width": 8759,
+          "images": [
+            {
+              "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/annotation/F-qdm5/kbt_frg_x077_e005.jp2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_e005.jp2.json",
+              "resource": {
+                "@id": "https://fragmentarium.ms:443/loris/F-qdm5/kbt_frg_x077_e005.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 11530,
+                "width": 8759,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://fragmentarium.ms:443/loris/F-qdm5/kbt_frg_x077_e005.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_ProfilE.jp2.json",
+          "@type": "sc:Canvas",
+          "label": "colour checker",
+          "height": 11530,
+          "width": 8759,
+          "images": [
+            {
+              "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/annotation/F-qdm5/kbt_frg_x077_ProfilE.jp2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_ProfilE.jp2.json",
+              "resource": {
+                "@id": "https://fragmentarium.ms:443/loris/F-qdm5/kbt_frg_x077_ProfilE.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 11530,
+                "width": 8759,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://fragmentarium.ms:443/loris/F-qdm5/kbt_frg_x077_ProfilE.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/TopLevelRangeGroup.json",
+      "@type": "sc:Range",
+      "@viewingHint": "top",
+      "label": "F-qdm5",
+      "ranges": [
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5978.json",
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5979.json"
+      ]
+    },
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5978.json",
+      "@type": "sc:Range",
+      "within": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/TopLevelRangeGroup.json",
+      "label": "Physical structure (Front pastedown)",
+      "ranges": [
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5978-8812.json"
+      ]
+    },
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5979.json",
+      "@type": "sc:Range",
+      "within": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/TopLevelRangeGroup.json",
+      "label": "Reference images (Colour checker)",
+      "ranges": [
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5979-8813.json"
+      ]
+    },
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5978-8812.json",
+      "@type": "sc:Range",
+      "within": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5978.json",
+      "label": "[s.n.]",
+      "canvases": [
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_e005.jp2.json"
+      ]
+    },
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5979-8813.json",
+      "@type": "sc:Range",
+      "within": "https://fragmentarium.ms/metadata/iiif/F-qdm5/range/Range-5979.json",
+      "label": "[s.n.]",
+      "canvases": [
+        "https://fragmentarium.ms/metadata/iiif/F-qdm5/canvas/F-qdm5/kbt_frg_x077_ProfilE.jp2.json"
+      ]
+    }
+  ]
+}

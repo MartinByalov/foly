@@ -1,0 +1,117 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://collections.st-andrews.ac.uk/571936/manifest",
+  "label": "Marilyn Monroe rehearsing a scene from \"The Misfits\", Nevada",
+  "attribution": "Image courtesy of University of St Andrews Libraries and Museums.",
+  "logo": "https://collections.st-andrews.ac.uk/uv/logo.png",
+  "metadata": [
+    {
+      "label": "Identifier",
+      "value": "1997-2-2"
+    },
+    {
+      "label": "Title",
+      "value": "Marilyn Monroe rehearsing a scene from \"The Misfits\", Nevada"
+    },
+    {
+      "label": "Date",
+      "value": "1960"
+    },
+    {
+      "label": "Creator",
+      "value": " <a href='https://collections.st-andrews.ac.uk/search/?query=ArtistIRN:1512&form=grid&mode=query'>Arnold, Eve, (12 April 1912 - 4 January 2012)  (photographer) </a>,"
+    },
+    {
+      "label": "Record URL",
+      "value": "<a href='https://collections.st-andrews.ac.uk/item/marilyn-monroe-rehearsing-a-scene-from-the-misfits-nevada/571936'>https://collections.st-andrews.ac.uk/item/marilyn-monroe-rehearsing-a-scene-from-the-misfits-nevada/571936</a>"
+    },
+    {
+      "label": "Format",
+      "value": "photographic prints"
+    },
+    {
+      "label": "Media",
+      "value": "gelatin silver prints"
+    },
+    {
+      "label": "Department",
+      "value": "Special Collections - Photographic Collections"
+    },
+    {
+      "label": "Parent",
+      "value": "<a href='https://collections.st-andrews.ac.uk/series/individual-portrait-series/372224'>Individual Portrait Series</a> (Series)"
+    },
+    {
+      "label": "Record level",
+      "value": "Item"
+    },
+    {
+      "label": "Conditions of use",
+      "value": "Copyright not evaluated. The copyright status is unknown and The University has not undertaken an effort to determine the copyright status of the underlying work."
+    },
+    {
+      "label": "Credit line",
+      "value": "Image Courtesy of the University of St Andrews Library, ID 1997-2-2"
+    },
+    {
+      "label": "IRN",
+      "value": "571936"
+    },
+    {
+      "label": "Image delivery",
+      "value": "Working in partnership with <a href='https://kakadusoftware.com/'>Kakadu</a> to deliver high quality image reproductions via IIIF."
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "viewingHint": "individuals",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://collections.st-andrews.ac.uk/571936/manifest/canvas/348727",
+          "otherContent": [
+            {
+              "@id": "https://collections.st-andrews.ac.uk/annotation/571936/348727",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://collections.st-andrews.ac.uk/ai/anno/all/571936/348727/7360/4912",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "label": "1",
+          "width": 7360,
+          "height": 4912,
+          "thumbnail": {
+            "@id": "https://collections.st-andrews.ac.uk/media/348727/348727.thumb.jpg",
+            "@type": "dctypes:Image",
+            "width": 100,
+            "height": 100
+          },
+          "images": [
+            {
+              "@type": "dctypes:Image",
+              "motivation": "sc:painting",
+              "on": "https://collections.st-andrews.ac.uk/571936/manifest/canvas/348727",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://collections.st-andrews.ac.uk/iiif/2/348727~348727/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "width": 7360,
+                "height": 4912,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://collections.st-andrews.ac.uk/iiif/2/348727~348727",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

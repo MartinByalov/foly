@@ -1,0 +1,163 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/manifest",
+  "@type": "sc:Manifest",
+  "label": "Jerusalem",
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Id",
+          "@language": "en"
+        },
+        {
+          "@value": "Id",
+          "@language": "ger"
+        }
+      ],
+      "value": "AK114_094"
+    },
+    {
+      "label": [
+        {
+          "@value": "Title",
+          "@language": "en"
+        },
+        {
+          "@value": "Titel",
+          "@language": "ger"
+        }
+      ],
+      "value": "Jerusalem"
+    },
+    {
+      "label": [
+        {
+          "@value": "Place",
+          "@language": "en"
+        },
+        {
+          "@value": "Ort",
+          "@language": "ger"
+        }
+      ],
+      "value": "<a href='https://sws.geonames.org/281184'>Jerusalem</a>"
+    },
+    {
+      "label": [
+        {
+          "@value": "Publisher",
+          "@language": "en"
+        },
+        {
+          "@value": "Verlag",
+          "@language": "ger"
+        }
+      ],
+      "value": "Ledermann"
+    },
+    {
+      "label": [
+        {
+          "@value": "Year",
+          "@language": "en"
+        },
+        {
+          "@value": "Jahr",
+          "@language": "ger"
+        }
+      ],
+      "value": "1907"
+    },
+    {
+      "label": [
+        {
+          "@value": "Disseminator",
+          "@language": "en"
+        },
+        {
+          "@value": "Anbieter",
+          "@language": "ger"
+        }
+      ],
+      "value": "<a href='https://akon.onb.ac.at/'>Ansichtskarten Online</a>"
+    },
+    {
+      "label": [
+        {
+          "@value": "Physical Location",
+          "@language": "en"
+        },
+        {
+          "@value": "Standort",
+          "@language": "ger"
+        }
+      ],
+      "value": "ÖNB"
+    }
+  ],
+  "description": "Stefansthor",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution": [
+    {
+      "@value": "Austrian National Library",
+      "@language": "en"
+    },
+    {
+      "@value": "Österreichische Nationalbibliothek",
+      "@language": "ger"
+    }
+  ],
+  "logo": "https://iiif.onb.ac.at/logo/",
+  "seeAlso": [
+    {
+      "@id": "http://data.onb.ac.at/AKON/AK114_094",
+      "format": "text/html"
+    },
+    {
+      "@id": "http://data.onb.ac.at/AKON/AK114_094.rdf",
+      "format": "application/rdf+xml"
+    }
+  ],
+  "sequences": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/sequence/normal",
+      "@type": "sc:Sequence",
+      "startCanvas": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/canvas/094",
+      "canvases": [
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/canvas/094",
+          "@type": "sc:Canvas",
+          "label": "Jerusalem",
+          "height": 1084,
+          "width": 1679,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/annotation/094",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.onb.ac.at/images/AKON/AK114_094/094/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "height": 1084,
+                "width": 1679,
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.onb.ac.at/images/AKON/AK114_094/094",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.onb.ac.at/presentation/AKON/AK114_094/canvas/094"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

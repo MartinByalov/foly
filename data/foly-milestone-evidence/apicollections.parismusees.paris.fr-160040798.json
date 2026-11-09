@@ -1,0 +1,125 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://apicollections.parismusees.paris.fr/iiif/160040798/manifest",
+  "@type": "sc:Manifest",
+  "label": "Sainte Ursule (Bartsch 132, Hollstein 412)",
+  "metadata": [
+    {
+      "label": "Autres titres",
+      "value": [
+        "Sainte Ursule (Bartsch 132, Hollstein 412) (Titre principal)"
+      ]
+    },
+    {
+      "label": "Auteur",
+      "value": [
+        "Meckenem, Israël van"
+      ]
+    },
+    {
+      "label": "Dénomination",
+      "value": "Estampe originale"
+    },
+    {
+      "label": "Type d'objet",
+      "value": [
+        "Estampe",
+        "Arts graphiques"
+      ]
+    },
+    {
+      "label": "Datation en siècle",
+      "value": "15e siècle"
+    },
+    {
+      "label": "Époque/Période",
+      "value": "Bas Moyen Âge (Xe-XVe siècles)"
+    },
+    {
+      "label": "Dimensions",
+      "value": [
+        "Oeuvre - Hauteur 16 cm",
+        "Oeuvre - Largeur 15.4 cm",
+        "Passe-partout - Hauteur 49 cm",
+        "Passe-partout - Largeur 38.5 cm"
+      ]
+    },
+    {
+      "label": "Matériaux et techniques",
+      "value": "Burin"
+    },
+    {
+      "label": "Inscriptions",
+      "value": [
+        "Inscription concernant le titre - <p>En haut au centre : \"Ste ursula\"</p>\n",
+        "Monogramme = chiffre - <p>Monogramme en bas au centre : \"I.M\"</p>\n",
+        "Marque de collection - <p>En bas à gauche :\"Dutuit\" (Lugt 709)</p>\n"
+      ]
+    },
+    {
+      "label": "Date d’acquisition",
+      "value": "<div class=\"pm-date-precision\">\n  \n                            <span class=\"year\">1902</span>\n        \n  </div>\n"
+    },
+    {
+      "label": "Mode d'acquisition",
+      "value": "Legs"
+    },
+    {
+      "label": "Numéro d’inventaire",
+      "value": "GDUT6329"
+    },
+    {
+      "label": "Institution",
+      "value": "Petit Palais, musée des Beaux-arts de la Ville de Paris"
+    },
+    {
+      "label": "Catalogue des œuvres de Paris Musées",
+      "value": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/sainte-ursule-bartsch-132-hollstein-412"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/thumbnail/collections/atoms/images/PPA/lpdp_82424-4.jpg?itok=vBk-nAY9",
+    "@type": "dctypes:Image",
+    "height": 300,
+    "width": 289
+  },
+  "logo": {
+    "@id": "https://apicollections.parismusees.paris.fr/themes/custom/pm8/logo.svg"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://apicollections.parismusees.paris.fr/iiif/160040798/manifest/canvas/LPDP_82424-4",
+          "@type": "sc:Canvas",
+          "height": 2160,
+          "width": 2080,
+          "label": "LPDP_82424-4",
+          "metadata": [
+            {
+              "label": "Droits",
+              "value": "CC0 Paris Musées / Petit Palais, musée des Beaux-Arts de la Ville de Paris"
+            },
+            {
+              "label": "Copyright",
+              "value": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://apicollections.parismusees.paris.fr/iiif/160040798/manifest/canvas/LPDP_82424-4",
+              "resource": {
+                "@id": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/lpdp_82424-4.jpg?itok=5fXg2uwe",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

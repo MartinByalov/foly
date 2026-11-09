@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/0fd71b8a-6b7c-45a5-b272-353967717677/manifest",
+  "label": "Indice.",
+  "thumbnail": "https://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/piranesi/0fd71b8a-6b7c-45a5-b272-353967717677_4.jpg",
+  "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse",
+  "attribution": "東京大学総合図書館 General Library, The University of Tokyo, JAPAN",
+  "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/0fd71b8a-6b7c-45a5-b272-353967717677",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/0fd71b8a-6b7c-45a5-b272-353967717677?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/piranesi",
+  "viewingDirection": "right-to-left",
+  "metadata": [
+    {
+      "label": "タイトル / Title",
+      "value": "Indice."
+    },
+    {
+      "label": "identifier",
+      "value": "0fd71b8a-6b7c-45a5-b272-353967717677"
+    },
+    {
+      "label": "Database Label",
+      "value": "ピラネージ画像データベース Opere di Giovanni Battista Piranesi"
+    },
+    {
+      "label": "Manifest Uri",
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/0fd71b8a-6b7c-45a5-b272-353967717677/manifest"
+    },
+    {
+      "label": "attributionLabel",
+      "value": "東京大学総合図書館 General Library, The University of Tokyo, JAPAN"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/iiif/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingHint": "individuals",
+      "canvases": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fd71b8a-6b7c-45a5-b272-353967717677/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "thumbnail": {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/piranesi/0000-0000-2071/0000-0000-2071-1407.tif/full/!220,220/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 220,
+            "height": 220
+          },
+          "height": 4785,
+          "width": 3604,
+          "images": [
+            {
+              "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fd71b8a-6b7c-45a5-b272-353967717677/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/piranesi/0000-0000-2071/0000-0000-2071-1407.tif/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4785,
+                "width": 3604,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/piranesi/0000-0000-2071/0000-0000-2071-1407.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0fd71b8a-6b7c-45a5-b272-353967717677/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

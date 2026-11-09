@@ -1,0 +1,1782 @@
+{
+  "attribution": "Provided by Bruges Public Library",
+  "label": "B_OB_MS615 - [Fragment van een Merovingische oorkonde]",
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "metadata": [
+    {
+      "value": "[Fragment van een Merovingische oorkonde]",
+      "label": "Title"
+    },
+    {
+      "value": "Bruges Public Library",
+      "label": "Physical location"
+    },
+    {
+      "label": "Call number",
+      "value": "Ms. 615"
+    },
+    {
+      "label": "Language",
+      "value": "Latin"
+    },
+    {
+      "label": "Date of creation",
+      "value": "7de eeuw; tweede helft 7de eeuw"
+    },
+    {
+      "label": "Origin place",
+      "value": "[West-Europa]"
+    },
+    {
+      "label": "Summary",
+      "value": "Manuscript 615, dating from the second half of the seventh century, contains a fragment of a Merovingian charter. It is the oldest written document preserved in Bruges. The document was found inside a thirteenth century codex from Ten Duinen Abbey in 1852. The fragment had been used to fortify the binding of the codex. The manuscript contains a deed of sale of a piece of privately owned land in Bessin (Calvados). The buyer was a religious institution, unspecified due to the state of the document.  [Summary by Dr. Mark Vermeer]"
+    },
+    {
+      "value": "Oorspronkelijk een schutblad aan de binnenzijde van het voorplat van Brugge, OB, Ms. 471. Sporen hiervan zijn te vinden in de bovenmarge, waar een 15de-eeuwse hand de titel van dit hs. heeft neergeschreven: 'Diete particulares. Tractatus quidam qui speculum medicine dicitur. Macer de uiribus herbarium'",
+      "label": "Note"
+    },
+    {
+      "label": "Note",
+      "value": "In de ruimte tussen de regels is door een laatmiddeleeuwse hand enkele losse woorden geschreven: 'cun' en 'virgo'"
+    },
+    {
+      "value": "De oorkonde regelt de verkoop van een stuk grond uit privé-bezit aan een religieuze instelling. Op basis van de pagusvermelding 'Bajocassino' wordt het stuk grond gesitueerd in het gebied Bessin (regio Calvados, dep. Basse-Normandie). Mogelijke kopers zijn: de abdij van St. Denis bij Parijs, de abdij St. Martin bij Tours, of een abdij in Vlaanderen of in Noord-Frankrijk",
+      "label": "Note"
+    },
+    {
+      "label": "Genre/form",
+      "value": "Aktes|Q705914"
+    },
+    {
+      "label": "Genre/form",
+      "value": "Oorkonde|Q705914"
+    },
+    {
+      "label": "Topic general subdivision",
+      "value": "Geschiedenis"
+    },
+    {
+      "label": "Material",
+      "value": "Perkament (Wikidata Q226697)"
+    },
+    {
+      "label": "Extent",
+      "value": "1 folio"
+    },
+    {
+      "label": "Dimensions",
+      "value": "210 x 150 mm"
+    },
+    {
+      "label": "Decoration and binding",
+      "value": "sierinitialen|Q7103514"
+    },
+    {
+      "label": "Script",
+      "value": "Merovingische minuskel"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "De Poorter, A., Catalogue des manuscrits de la bibliothèque publique de la ville de Bruges (Catalogue général des manuscrits des bibliothèques de Belgique 2), Gembloux: Duculot, 1934"
+    },
+    {
+      "value": "Berthelot, Sandrine - Hincker, Vincent (eds), Vous avez dit barbares? : archéologie des temps mérovingiens en Normandie, Ve-VIIIe siècles, Gent: Snoeck Publishers, 2018",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Bordier, H., \"Diplômes mérovingiens\", Bulletin de la Société de l'Histoire de France, 1855-1856, 254-258"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Bormans, J., \"Note sur la transcription d'un fragment de diplôme de l'époque mérovingienne\", Comte rendu des séances de la Commission royale d'histoire, 4 (1852), 265-273"
+    },
+    {
+      "value": "Chronique janvier-février 1855 [sic pour 1856], In: Bibliothèque de l'école des chartes. 1856, tome 17, p. 300",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Debus, K., \"Studien zu merowingischen Urkunden und Briefen : Untersuchungen und Texte\", Archiv für Diplomatik, Schriftgeschichte, Siegel- und Wappenkunde 14 (1968), 45-50"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Gasnault, P., \"Séance du 29 octobre : quelques documents originaux peu connus de l'époque mérovingienne\",  Bulletin de la société nationale des antiquaires de France, 1969, 254-264"
+    },
+    {
+      "value": "Ghyssaert, \"Bijvoegsel aan de catalogus van handschriften van de Stedelijke Bibliotheek Brugge\", Archief- en bibliotheekwezen in België 57/3-4 (1986)",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Laude, P.J., Catalogue méthodique, descriptif et analytique des manuscrits de la bibliothèque publique de Bruges, Brugge: De Tanghe, 1859"
+    },
+    {
+      "value": "Pirenne, H., \"Note sur un diplôme du roi franc Thierry III conservé à la Bibliothèque de l'Université de Gand et le fragment de charte mérovingienne conservé à la Bibliothèque de Bruges\", Compte rendu des séances de la Commission royale d'Histoire, 5ème série, t. III, n°2, 1893",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Strubbe, Egied, Grondbegrippen van de paleografie der middeleeuwen, Brussel : Story, 1961, 2 vols."
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Vezin, J. \"Le B en ligature à droite dans les écritures du VIIe et du VIIIe siècles\", Journal des savants, 1971, 261-286"
+    },
+    {
+      "value": "van Belleghem, Doenja (ed.), De Duinenhandschriften : over de manuscripten van de cisterciënzerabdij Ten Duinen in het Grootseminarie Brugge en de Openbare bibliotheek Brugge, Brugge: Openbare Bibliotheek, 2016",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Bibliographic references",
+      "value": "Online catalogue description by Dr. Evelien Hauwaerts (Public Library Bruges). Online catalogusbeschrijving door Dr. Evelien Hauwaerts (Openbare Bibliotheek Brugge)"
+    },
+    {
+      "value": "Co-auteur online catalogusbeschrijving: Mark Vermeer",
+      "label": "Bibliographic references"
+    },
+    {
+      "label": "Provenance",
+      "value": "Cisterciënzerabdij Ter Doest (S.O.Cist.)"
+    },
+    {
+      "label": "Provenance",
+      "value": "Cisterciënzerabdij Ten Duinen (S.O.Cist.)"
+    },
+    {
+      "value": "<a href=\"https://mmmonk.be/Abdijmuseum Ten Duinen 1138Brugge\">Mmmonk: Middeleeuwse Monastieke Manuscripten - Open - Netwerk - KennisSchatten van de Duinenabdij. Gegeerd. Onbegrepen. Onbekend800 jaar boekbanden</a>",
+      "label": "Digitization project"
+    },
+    {
+      "label": "Digitization date",
+      "value": "2010-06-22"
+    },
+    {
+      "label": "Catalogue record",
+      "value": "<a href=\"http://brugge.bibliotheek.be/?itemid=%7clibrary%2fv%2fobbrugge%2foudedrukken%7c3198\">http://brugge.bibliotheek.be/?itemid=%7clibrary%2fv%2fobbrugge%2foudedrukken%7c3198</a>"
+    },
+    {
+      "value": "B_OB_MS615",
+      "label": "Alternative Identifier"
+    }
+  ],
+  "related": [
+    {
+      "@id": "http://brugge.bibliotheek.be/?itemid=%7clibrary%2fv%2fobbrugge%2foudedrukken%7c3198",
+      "format": "text/html"
+    }
+  ],
+  "within": [],
+  "@type": "sc:Manifest",
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/490f744d-b4f1-11ec-b684-d4641196f1af/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/490f744d-b4f1-11ec-b684-d4641196f1af",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "width": 3139,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A490f744d-b4f1-11ec-b684-d4641196f1af/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A490f744d-b4f1-11ec-b684-d4641196f1af",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_000voorplatr.tif",
+                "height": 4035,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/490f744d-b4f1-11ec-b684-d4641196f1af",
+          "width": 3139,
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/490f744d-b4f1-11ec-b684-d4641196f1af"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "voorplat r."
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4035,
+          "label": "voorplat r."
+        },
+        {
+          "label": "voorplat v.",
+          "metadata": [
+            {
+              "value": "voorplat v.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/5138cd4f-b4f1-11ec-b684-d26e43c11534",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4035,
+          "images": [
+            {
+              "resource": {
+                "height": 4035,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A5138cd4f-b4f1-11ec-b684-d26e43c11534",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_000voorplatv.tif",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A5138cd4f-b4f1-11ec-b684-d26e43c11534/full/full/0/default.jpg",
+                "width": 3146
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/5138cd4f-b4f1-11ec-b684-d26e43c11534/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/5138cd4f-b4f1-11ec-b684-d26e43c11534",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/5138cd4f-b4f1-11ec-b684-d26e43c11534",
+          "width": 3146
+        },
+        {
+          "width": 3146,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4bdc0033-b4f1-11ec-b684-f3b6f1c6d362",
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4bdc0033-b4f1-11ec-b684-f3b6f1c6d362/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4bdc0033-b4f1-11ec-b684-f3b6f1c6d362",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4bdc0033-b4f1-11ec-b684-f3b6f1c6d362",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "label": "B_OB_MS615_000voorwerk1r.tif",
+                "height": 4035,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4bdc0033-b4f1-11ec-b684-f3b6f1c6d362/full/full/0/default.jpg",
+                "width": 3146
+              }
+            }
+          ],
+          "height": 4035,
+          "@type": "sc:Canvas",
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4bdc0033-b4f1-11ec-b684-f3b6f1c6d362",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "voorwerk 1r."
+            }
+          ],
+          "label": "voorwerk 1r."
+        },
+        {
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/519aa2d1-b4f1-11ec-b684-a51a626d19c8",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "voorwerk 1v."
+            }
+          ],
+          "height": 4035,
+          "@type": "sc:Canvas",
+          "label": "voorwerk 1v.",
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/519aa2d1-b4f1-11ec-b684-a51a626d19c8",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/519aa2d1-b4f1-11ec-b684-a51a626d19c8",
+              "@type": "oa:Annotation",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/519aa2d1-b4f1-11ec-b684-a51a626d19c8/image-annotations/0",
+              "resource": {
+                "width": 3146,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A519aa2d1-b4f1-11ec-b684-a51a626d19c8/full/full/0/default.jpg",
+                "label": "B_OB_MS615_000voorwerk1v.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A519aa2d1-b4f1-11ec-b684-a51a626d19c8"
+                },
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 4035
+              }
+            }
+          ],
+          "width": 3146
+        },
+        {
+          "label": "fol. 1r.",
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4cd4181e-b4f1-11ec-b684-d6895158868e",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 1r.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4027,
+          "images": [
+            {
+              "resource": {
+                "height": 4027,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4cd4181e-b4f1-11ec-b684-d6895158868e"
+                },
+                "label": "B_OB_MS615_001r.tif",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4cd4181e-b4f1-11ec-b684-d6895158868e/full/full/0/default.jpg",
+                "width": 2942
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4cd4181e-b4f1-11ec-b684-d6895158868e/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4cd4181e-b4f1-11ec-b684-d6895158868e",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4cd4181e-b4f1-11ec-b684-d6895158868e",
+          "width": 2942
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/49999796-b4f1-11ec-b684-968c98f63145",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/49999796-b4f1-11ec-b684-968c98f63145",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/49999796-b4f1-11ec-b684-968c98f63145/image-annotations/0",
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A49999796-b4f1-11ec-b684-968c98f63145/full/full/0/default.jpg",
+                "width": 3083,
+                "label": "B_OB_MS615_001v.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A49999796-b4f1-11ec-b684-968c98f63145",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4028
+              }
+            }
+          ],
+          "width": 3083,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 1v."
+            }
+          ],
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/49999796-b4f1-11ec-b684-968c98f63145",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "label": "fol. 1v."
+        },
+        {
+          "label": "fol. 2r.",
+          "@type": "sc:Canvas",
+          "height": 4027,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 2r."
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4ded9175-b4f1-11ec-b684-cc0fa02dcfd6",
+              "format": "image/tiff"
+            }
+          ],
+          "width": 2942,
+          "images": [
+            {
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ded9175-b4f1-11ec-b684-cc0fa02dcfd6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ded9175-b4f1-11ec-b684-cc0fa02dcfd6/image-annotations/0",
+              "resource": {
+                "height": 4027,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4ded9175-b4f1-11ec-b684-cc0fa02dcfd6",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "label": "B_OB_MS615_002r.tif",
+                "width": 2942,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4ded9175-b4f1-11ec-b684-cc0fa02dcfd6/full/full/0/default.jpg"
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ded9175-b4f1-11ec-b684-cc0fa02dcfd6"
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "label": "B_OB_MS615_002v.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4fac644b-b4f1-11ec-b684-d6aec756c10c",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "height": 4028,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3083,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4fac644b-b4f1-11ec-b684-d6aec756c10c/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4fac644b-b4f1-11ec-b684-d6aec756c10c/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4fac644b-b4f1-11ec-b684-d6aec756c10c",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4fac644b-b4f1-11ec-b684-d6aec756c10c",
+          "width": 3083,
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4fac644b-b4f1-11ec-b684-d6aec756c10c",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 2v.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4028,
+          "label": "fol. 2v."
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4c4eb794-b4f1-11ec-b684-f940dca0553f",
+          "images": [
+            {
+              "resource": {
+                "height": 4027,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4c4eb794-b4f1-11ec-b684-f940dca0553f",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_003r.tif",
+                "width": 2978,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4c4eb794-b4f1-11ec-b684-f940dca0553f/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4c4eb794-b4f1-11ec-b684-f940dca0553f/image-annotations/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4c4eb794-b4f1-11ec-b684-f940dca0553f"
+            }
+          ],
+          "width": 2978,
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4c4eb794-b4f1-11ec-b684-f940dca0553f"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 3r."
+            }
+          ],
+          "height": 4027,
+          "@type": "sc:Canvas",
+          "label": "fol. 3r."
+        },
+        {
+          "label": "fol. 3v.",
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/423a63ad-b4f1-11ec-b684-f79b074668a3",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 3v.",
+              "label": "Title"
+            }
+          ],
+          "width": 3083,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/423a63ad-b4f1-11ec-b684-f79b074668a3",
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A423a63ad-b4f1-11ec-b684-f79b074668a3",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_003v.tif",
+                "height": 4028,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A423a63ad-b4f1-11ec-b684-f79b074668a3/full/full/0/default.jpg",
+                "width": 3083
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/423a63ad-b4f1-11ec-b684-f79b074668a3/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/423a63ad-b4f1-11ec-b684-f79b074668a3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting"
+            }
+          ]
+        },
+        {
+          "label": "fol. 4r.",
+          "height": 4027,
+          "@type": "sc:Canvas",
+          "metadata": [
+            {
+              "value": "fol. 4r.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4319b981-b4f1-11ec-b684-df75895ab954",
+              "label": "source image file"
+            }
+          ],
+          "width": 2978,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4319b981-b4f1-11ec-b684-df75895ab954",
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4319b981-b4f1-11ec-b684-df75895ab954/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4319b981-b4f1-11ec-b684-df75895ab954",
+              "@type": "oa:Annotation",
+              "resource": {
+                "width": 2978,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4319b981-b4f1-11ec-b684-df75895ab954/full/full/0/default.jpg",
+                "label": "B_OB_MS615_004r.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4319b981-b4f1-11ec-b684-df75895ab954"
+                },
+                "height": 4027,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "width": 3083,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4f3dfe06-b4f1-11ec-b684-ee9c8228b505/full/full/0/default.jpg",
+                "label": "B_OB_MS615_004v.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4f3dfe06-b4f1-11ec-b684-ee9c8228b505"
+                },
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4028
+              },
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4f3dfe06-b4f1-11ec-b684-ee9c8228b505",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4f3dfe06-b4f1-11ec-b684-ee9c8228b505/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4f3dfe06-b4f1-11ec-b684-ee9c8228b505",
+          "width": 3083,
+          "label": "fol. 4v.",
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4f3dfe06-b4f1-11ec-b684-ee9c8228b505",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 4v.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4028
+        },
+        {
+          "label": "fol. 5r.",
+          "@type": "sc:Canvas",
+          "height": 4027,
+          "metadata": [
+            {
+              "value": "fol. 5r.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4151b7f6-b4f1-11ec-b684-99a500c14441"
+            }
+          ],
+          "width": 2978,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 4027,
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4151b7f6-b4f1-11ec-b684-99a500c14441",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_005r.tif",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4151b7f6-b4f1-11ec-b684-99a500c14441/full/full/0/default.jpg",
+                "width": 2978
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4151b7f6-b4f1-11ec-b684-99a500c14441/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4151b7f6-b4f1-11ec-b684-99a500c14441",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4151b7f6-b4f1-11ec-b684-99a500c14441"
+        },
+        {
+          "label": "fol. 5v.",
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/41b5e515-b4f1-11ec-b684-8a8b07662c1f"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 5v.",
+              "label": "Title"
+            }
+          ],
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/41b5e515-b4f1-11ec-b684-8a8b07662c1f",
+          "images": [
+            {
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A41b5e515-b4f1-11ec-b684-8a8b07662c1f/full/full/0/default.jpg",
+                "width": 3083,
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A41b5e515-b4f1-11ec-b684-8a8b07662c1f",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_005v.tif",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4028
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/41b5e515-b4f1-11ec-b684-8a8b07662c1f/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/41b5e515-b4f1-11ec-b684-8a8b07662c1f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting"
+            }
+          ],
+          "width": 3083
+        },
+        {
+          "@type": "sc:Canvas",
+          "height": 4027,
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/45db3875-b4f1-11ec-b684-de791f91a74f",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 6r."
+            }
+          ],
+          "label": "fol. 6r.",
+          "width": 2978,
+          "images": [
+            {
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45db3875-b4f1-11ec-b684-de791f91a74f/full/full/0/default.jpg",
+                "width": 2978,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4027,
+                "label": "B_OB_MS615_006r.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45db3875-b4f1-11ec-b684-de791f91a74f",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45db3875-b4f1-11ec-b684-de791f91a74f/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45db3875-b4f1-11ec-b684-de791f91a74f",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45db3875-b4f1-11ec-b684-de791f91a74f"
+        },
+        {
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/48a68d42-b4f1-11ec-b684-875f89a82d75/image-annotations/0",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/48a68d42-b4f1-11ec-b684-875f89a82d75",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A48a68d42-b4f1-11ec-b684-875f89a82d75/full/full/0/default.jpg",
+                "width": 3083,
+                "label": "B_OB_MS615_006v.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A48a68d42-b4f1-11ec-b684-875f89a82d75",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 4028,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/48a68d42-b4f1-11ec-b684-875f89a82d75",
+          "width": 3083,
+          "label": "fol. 6v.",
+          "metadata": [
+            {
+              "value": "fol. 6v.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/48a68d42-b4f1-11ec-b684-875f89a82d75",
+              "label": "source image file"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4028
+        },
+        {
+          "label": "fol. 7r.",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 7r."
+            }
+          ],
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4840edcc-b4f1-11ec-b684-ed20355a103a",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "height": 4027,
+          "@type": "sc:Canvas",
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4840edcc-b4f1-11ec-b684-ed20355a103a",
+          "images": [
+            {
+              "resource": {
+                "width": 2978,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4840edcc-b4f1-11ec-b684-ed20355a103a/full/full/0/default.jpg",
+                "height": 4027,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4840edcc-b4f1-11ec-b684-ed20355a103a",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_007r.tif"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4840edcc-b4f1-11ec-b684-ed20355a103a/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4840edcc-b4f1-11ec-b684-ed20355a103a",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "width": 2978
+        },
+        {
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 7v."
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/464e1dd0-b4f1-11ec-b684-e80b612a4d75"
+            }
+          ],
+          "label": "fol. 7v.",
+          "width": 3083,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/464e1dd0-b4f1-11ec-b684-e80b612a4d75",
+          "images": [
+            {
+              "resource": {
+                "width": 3083,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A464e1dd0-b4f1-11ec-b684-e80b612a4d75/full/full/0/default.jpg",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A464e1dd0-b4f1-11ec-b684-e80b612a4d75",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "label": "B_OB_MS615_007v.tif",
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 4028
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/464e1dd0-b4f1-11ec-b684-e80b612a4d75/image-annotations/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/464e1dd0-b4f1-11ec-b684-e80b612a4d75"
+            }
+          ]
+        },
+        {
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4af60780-b4f1-11ec-b684-c508a83b3a7f"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 8r.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4027,
+          "label": "fol. 8r.",
+          "images": [
+            {
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4af60780-b4f1-11ec-b684-c508a83b3a7f/full/full/0/default.jpg",
+                "width": 2978,
+                "label": "B_OB_MS615_008r.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4af60780-b4f1-11ec-b684-c508a83b3a7f"
+                },
+                "height": 4027,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              },
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4af60780-b4f1-11ec-b684-c508a83b3a7f",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4af60780-b4f1-11ec-b684-c508a83b3a7f/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4af60780-b4f1-11ec-b684-c508a83b3a7f",
+          "width": 2978
+        },
+        {
+          "label": "fol. 8v.",
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/50cce958-b4f1-11ec-b684-9ad0ea03d744"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 8v."
+            }
+          ],
+          "width": 3083,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/50cce958-b4f1-11ec-b684-9ad0ea03d744",
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A50cce958-b4f1-11ec-b684-9ad0ea03d744",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_008v.tif",
+                "height": 4028,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3083,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A50cce958-b4f1-11ec-b684-9ad0ea03d744/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/50cce958-b4f1-11ec-b684-9ad0ea03d744/image-annotations/0",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/50cce958-b4f1-11ec-b684-9ad0ea03d744"
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A445b3cd9-b4f1-11ec-b684-e1c89cc05531/full/full/0/default.jpg",
+                "width": 2978,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4027,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A445b3cd9-b4f1-11ec-b684-e1c89cc05531"
+                },
+                "label": "B_OB_MS615_009nawerk1r.tif"
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/445b3cd9-b4f1-11ec-b684-e1c89cc05531",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/445b3cd9-b4f1-11ec-b684-e1c89cc05531/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/445b3cd9-b4f1-11ec-b684-e1c89cc05531",
+          "width": 2978,
+          "label": "nawerk 1r.",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "nawerk 1r."
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/445b3cd9-b4f1-11ec-b684-e1c89cc05531",
+              "format": "image/tiff"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4027
+        },
+        {
+          "width": 3041,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45079411-b4f1-11ec-b684-dd5e80a75719",
+          "images": [
+            {
+              "resource": {
+                "width": 3041,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45079411-b4f1-11ec-b684-dd5e80a75719/full/full/0/default.jpg",
+                "label": "B_OB_MS615_009nawerk1v.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45079411-b4f1-11ec-b684-dd5e80a75719"
+                },
+                "height": 4028,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45079411-b4f1-11ec-b684-dd5e80a75719/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45079411-b4f1-11ec-b684-dd5e80a75719",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "height": 4028,
+          "@type": "sc:Canvas",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "nawerk 1v."
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/45079411-b4f1-11ec-b684-dd5e80a75719",
+              "label": "source image file"
+            }
+          ],
+          "label": "nawerk 1v."
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/46c66c87-b4f1-11ec-b684-d6571a647f5d",
+          "images": [
+            {
+              "resource": {
+                "width": 2978,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A46c66c87-b4f1-11ec-b684-d6571a647f5d/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 4027,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A46c66c87-b4f1-11ec-b684-d6571a647f5d",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_010achterplatr.tif"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/46c66c87-b4f1-11ec-b684-d6571a647f5d/image-annotations/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/46c66c87-b4f1-11ec-b684-d6571a647f5d"
+            }
+          ],
+          "width": 2978,
+          "metadata": [
+            {
+              "value": "achterplat r.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/46c66c87-b4f1-11ec-b684-d6571a647f5d",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "height": 4027,
+          "@type": "sc:Canvas",
+          "label": "achterplat r."
+        },
+        {
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4a848380-b4f1-11ec-b684-892e3d3a99aa",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "achterplat v.",
+              "label": "Title"
+            }
+          ],
+          "height": 4056,
+          "@type": "sc:Canvas",
+          "label": "achterplat v.",
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a848380-b4f1-11ec-b684-892e3d3a99aa",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a848380-b4f1-11ec-b684-892e3d3a99aa",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a848380-b4f1-11ec-b684-892e3d3a99aa/image-annotations/0",
+              "resource": {
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 4056,
+                "label": "B_OB_MS615_010achterplatv.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4a848380-b4f1-11ec-b684-892e3d3a99aa"
+                },
+                "width": 3180,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4a848380-b4f1-11ec-b684-892e3d3a99aa/full/full/0/default.jpg"
+              }
+            }
+          ],
+          "width": 3180
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4740,
+                "label": "B_OB_MS615_011rug.tif",
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4b2215c8-b4f1-11ec-b684-db337ae3308a",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 822,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4b2215c8-b4f1-11ec-b684-db337ae3308a/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b2215c8-b4f1-11ec-b684-db337ae3308a/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b2215c8-b4f1-11ec-b684-db337ae3308a",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b2215c8-b4f1-11ec-b684-db337ae3308a",
+          "width": 822,
+          "label": "rug",
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4b2215c8-b4f1-11ec-b684-db337ae3308a",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "rug",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 4740
+        },
+        {
+          "@type": "sc:Canvas",
+          "height": 3188,
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4e779a42-b4f1-11ec-b684-90e036eecbf4",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 12r."
+            }
+          ],
+          "label": "fol. 12r.",
+          "width": 3047,
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e779a42-b4f1-11ec-b684-90e036eecbf4/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e779a42-b4f1-11ec-b684-90e036eecbf4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4e779a42-b4f1-11ec-b684-90e036eecbf4"
+                },
+                "label": "B_OB_MS615_012r.tif",
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 3188,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4e779a42-b4f1-11ec-b684-90e036eecbf4/full/full/0/default.jpg",
+                "width": 3047
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e779a42-b4f1-11ec-b684-90e036eecbf4"
+        },
+        {
+          "@type": "sc:Canvas",
+          "height": 3188,
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/43d7ea90-b4f1-11ec-b684-d27239e8192d",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 12v."
+            }
+          ],
+          "label": "fol. 12v.",
+          "width": 3104,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A43d7ea90-b4f1-11ec-b684-d27239e8192d",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "label": "B_OB_MS615_012v.tif",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3188,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A43d7ea90-b4f1-11ec-b684-d27239e8192d/full/full/0/default.jpg",
+                "width": 3104
+              },
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/43d7ea90-b4f1-11ec-b684-d27239e8192d",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/43d7ea90-b4f1-11ec-b684-d27239e8192d/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/43d7ea90-b4f1-11ec-b684-d27239e8192d"
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/476330b8-b4f1-11ec-b684-ec4e0ea32ad4",
+          "images": [
+            {
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/476330b8-b4f1-11ec-b684-ec4e0ea32ad4",
+              "@type": "oa:Annotation",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/476330b8-b4f1-11ec-b684-ec4e0ea32ad4/image-annotations/0",
+              "resource": {
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A476330b8-b4f1-11ec-b684-ec4e0ea32ad4",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_013r.tif",
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "height": 3810,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A476330b8-b4f1-11ec-b684-ec4e0ea32ad4/full/full/0/default.jpg",
+                "width": 3033
+              }
+            }
+          ],
+          "width": 3033,
+          "label": "fol. 13r.",
+          "metadata": [
+            {
+              "value": "fol. 13r.",
+              "label": "Title"
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/476330b8-b4f1-11ec-b684-ec4e0ea32ad4"
+            }
+          ],
+          "height": 3810,
+          "@type": "sc:Canvas"
+        },
+        {
+          "width": 3027,
+          "images": [
+            {
+              "resource": {
+                "width": 3027,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A506c18d2-b4f1-11ec-b684-ab41e86f0a57/full/full/0/default.jpg",
+                "height": 3810,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "label": "B_OB_MS615_013v.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A506c18d2-b4f1-11ec-b684-ab41e86f0a57",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/506c18d2-b4f1-11ec-b684-ab41e86f0a57/image-annotations/0",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/506c18d2-b4f1-11ec-b684-ab41e86f0a57",
+              "motivation": "sc:painting"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/506c18d2-b4f1-11ec-b684-ab41e86f0a57",
+          "label": "fol. 13v.",
+          "@type": "sc:Canvas",
+          "height": 3810,
+          "rendering": [
+            {
+              "label": "source image file",
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/506c18d2-b4f1-11ec-b684-ab41e86f0a57"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 13v."
+            }
+          ]
+        },
+        {
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a18523c-b4f1-11ec-b684-e17676e13414",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a18523c-b4f1-11ec-b684-e17676e13414/image-annotations/0",
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4a18523c-b4f1-11ec-b684-e17676e13414/full/full/0/default.jpg",
+                "width": 3025,
+                "label": "B_OB_MS615_014r.tif",
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4a18523c-b4f1-11ec-b684-e17676e13414",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3816
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4a18523c-b4f1-11ec-b684-e17676e13414",
+          "width": 3025,
+          "label": "fol. 14r.",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 14r."
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4a18523c-b4f1-11ec-b684-e17676e13414",
+              "label": "source image file"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 3816
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "height": 3817,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "label": "B_OB_MS615_014v.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A47d1f367-b4f1-11ec-b684-f5902f20390b",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 3025,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A47d1f367-b4f1-11ec-b684-f5902f20390b/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/47d1f367-b4f1-11ec-b684-f5902f20390b/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/47d1f367-b4f1-11ec-b684-f5902f20390b",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/47d1f367-b4f1-11ec-b684-f5902f20390b",
+          "width": 3025,
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/47d1f367-b4f1-11ec-b684-f5902f20390b",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 14v.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 3817,
+          "label": "fol. 14v."
+        },
+        {
+          "images": [
+            {
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/42a735c2-b4f1-11ec-b684-95c1295cf179/image-annotations/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/42a735c2-b4f1-11ec-b684-95c1295cf179",
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A42a735c2-b4f1-11ec-b684-95c1295cf179/full/full/0/default.jpg",
+                "width": 3068,
+                "label": "B_OB_MS615_015r.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A42a735c2-b4f1-11ec-b684-95c1295cf179",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 3831,
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              }
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/42a735c2-b4f1-11ec-b684-95c1295cf179",
+          "width": 3068,
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/42a735c2-b4f1-11ec-b684-95c1295cf179",
+              "format": "image/tiff"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 15r."
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 3831,
+          "label": "fol. 15r."
+        },
+        {
+          "width": 3068,
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5",
+          "images": [
+            {
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5/image-annotations/0",
+              "resource": {
+                "width": 3068,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3831,
+                "label": "B_OB_MS615_015v.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5"
+                }
+              }
+            }
+          ],
+          "height": 3831,
+          "@type": "sc:Canvas",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 15v."
+            }
+          ],
+          "rendering": [
+            {
+              "label": "source image file",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4ecfcbfc-b4f1-11ec-b684-87dbe93a6aa5",
+              "format": "image/tiff"
+            }
+          ],
+          "label": "fol. 15v."
+        },
+        {
+          "label": "fol. 16r.",
+          "@type": "sc:Canvas",
+          "height": 3774,
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4d8ab43c-b4f1-11ec-b684-8182a8b04fdb",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 16r."
+            }
+          ],
+          "width": 3069,
+          "images": [
+            {
+              "resource": {
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4d8ab43c-b4f1-11ec-b684-8182a8b04fdb/full/full/0/default.jpg",
+                "width": 3069,
+                "label": "B_OB_MS615_016r.tif",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4d8ab43c-b4f1-11ec-b684-8182a8b04fdb",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3774
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d8ab43c-b4f1-11ec-b684-8182a8b04fdb/image-annotations/0",
+              "@type": "oa:Annotation",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d8ab43c-b4f1-11ec-b684-8182a8b04fdb",
+              "motivation": "sc:painting"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d8ab43c-b4f1-11ec-b684-8182a8b04fdb"
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4378220f-b4f1-11ec-b684-d626ce82d299",
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3774,
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4378220f-b4f1-11ec-b684-d626ce82d299",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_016v.tif",
+                "width": 3068,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4378220f-b4f1-11ec-b684-d626ce82d299/full/full/0/default.jpg"
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4378220f-b4f1-11ec-b684-d626ce82d299/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4378220f-b4f1-11ec-b684-d626ce82d299",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting"
+            }
+          ],
+          "width": 3068,
+          "label": "fol. 16v.",
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4378220f-b4f1-11ec-b684-d626ce82d299",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 16v.",
+              "label": "Title"
+            }
+          ],
+          "height": 3774,
+          "@type": "sc:Canvas"
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "height": 3774,
+                "format": "image/jpeg",
+                "@type": "dctypes:Image",
+                "label": "B_OB_MS615_017r.tif",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45875327-b4f1-11ec-b684-f9a438d1be10"
+                },
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A45875327-b4f1-11ec-b684-f9a438d1be10/full/full/0/default.jpg",
+                "width": 3068
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45875327-b4f1-11ec-b684-f9a438d1be10",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45875327-b4f1-11ec-b684-f9a438d1be10/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/45875327-b4f1-11ec-b684-f9a438d1be10",
+          "width": 3068,
+          "label": "fol. 17r.",
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/45875327-b4f1-11ec-b684-f9a438d1be10",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "fol. 17r."
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 3774
+        },
+        {
+          "width": 3068,
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3774,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4b744f6e-b4f1-11ec-b684-dc2facf55499",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "label": "B_OB_MS615_017v.tif",
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4b744f6e-b4f1-11ec-b684-dc2facf55499/full/full/0/default.jpg",
+                "width": 3068
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b744f6e-b4f1-11ec-b684-dc2facf55499",
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b744f6e-b4f1-11ec-b684-dc2facf55499/image-annotations/0"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4b744f6e-b4f1-11ec-b684-dc2facf55499",
+          "@type": "sc:Canvas",
+          "height": 3774,
+          "rendering": [
+            {
+              "format": "image/tiff",
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4b744f6e-b4f1-11ec-b684-dc2facf55499",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 17v.",
+              "label": "Title"
+            }
+          ],
+          "label": "fol. 17v."
+        },
+        {
+          "label": "fol. 18r.",
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4e2eec6f-b4f1-11ec-b684-c073565a19f2",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 18r.",
+              "label": "Title"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "height": 2915,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4e2eec6f-b4f1-11ec-b684-c073565a19f2",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "label": "B_OB_MS615_018r.tif",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2915,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4e2eec6f-b4f1-11ec-b684-c073565a19f2/full/full/0/default.jpg",
+                "width": 2164
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e2eec6f-b4f1-11ec-b684-c073565a19f2/image-annotations/0",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e2eec6f-b4f1-11ec-b684-c073565a19f2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting"
+            }
+          ],
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4e2eec6f-b4f1-11ec-b684-c073565a19f2",
+          "width": 2164
+        },
+        {
+          "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d153e8c-b4f1-11ec-b684-8689b7de6672",
+          "images": [
+            {
+              "resource": {
+                "width": 2165,
+                "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4d153e8c-b4f1-11ec-b684-8689b7de6672/full/full/0/default.jpg",
+                "label": "B_OB_MS615_018v.tif",
+                "service": {
+                  "@id": "https://sharedcanvas.be/IIIF/images/B_OB_MS615%3A4d153e8c-b4f1-11ec-b684-8689b7de6672",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2914
+              },
+              "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d153e8c-b4f1-11ec-b684-8689b7de6672/image-annotations/0",
+              "motivation": "sc:painting",
+              "on": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/canvases/4d153e8c-b4f1-11ec-b684-8689b7de6672",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "width": 2165,
+          "rendering": [
+            {
+              "@id": "https://sharedcanvas.be/download/B_OB_MS615/4d153e8c-b4f1-11ec-b684-8689b7de6672",
+              "format": "image/tiff",
+              "label": "source image file"
+            }
+          ],
+          "metadata": [
+            {
+              "value": "fol. 18v.",
+              "label": "Title"
+            }
+          ],
+          "height": 2914,
+          "@type": "sc:Canvas",
+          "label": "fol. 18v."
+        }
+      ],
+      "viewingDirection": "left-to-right",
+      "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615/sequences/0",
+      "viewingHint": "paged",
+      "@type": "sc:Sequence"
+    }
+  ],
+  "@id": "https://sharedcanvas.be/IIIF/manifests/B_OB_MS615",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

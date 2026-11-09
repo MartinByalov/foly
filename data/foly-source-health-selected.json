@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-11-04T18:00:13.124Z",
+  "reports": [
+    {
+      "id": "europeana",
+      "kind": "api",
+      "checkedAt": "2026-11-04T18:00:08.734Z",
+      "ok": true,
+      "contentKind": "image",
+      "item": "https://www.europeana.eu/item/401/item_FDEZFFPSJNUMPHVMMOPXGLI7MTY73SHS",
+      "sourcePage": "https://www.europeana.eu/item/401/item_FDEZFFPSJNUMPHVMMOPXGLI7MTY73SHS",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.muis.ee%2Fdigitaalhoidla%2Fapi%2Fmeedia%2Foriginaal%3Fid%3Db5066c9c-86e6-48d5-a936-a6c525339286&type=IMAGE",
+      "rights": {
+        "metadataLicense": "CC0",
+        "metadataLicenseUrl": "",
+        "mediaLicense": "CC0",
+        "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceItemUrl": "https://www.europeana.eu/item/401/item_FDEZFFPSJNUMPHVMMOPXGLI7MTY73SHS",
+        "mediaUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.muis.ee%2Fdigitaalhoidla%2Fapi%2Fmeedia%2Foriginaal%3Fid%3Db5066c9c-86e6-48d5-a936-a6c525339286&type=IMAGE",
+        "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.muis.ee%2Fdigitaalhoidla%2Fapi%2Fmeedia%2Foriginaal%3Fid%3Db5066c9c-86e6-48d5-a936-a6c525339286&type=IMAGE",
+        "verifiedBy": "https://api.europeana.eu/record/v2/401/item_FDEZFFPSJNUMPHVMMOPXGLI7MTY73SHS.json?wskey=api2demo",
+        "author": "",
+        "source_url": "https://www.europeana.eu/item/401/item_FDEZFFPSJNUMPHVMMOPXGLI7MTY73SHS",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "license_name": "CC0",
+        "verifiedAt": "2026-11-04T18:00:09.160Z",
+        "attribution": "",
+        "creator": "",
+        "mediaTitle": "",
+        "originalMediaUrl": "",
+        "changes": ""
+      },
+      "rightsValid": true
+    },
+    {
+      "id": "openverse",
+      "kind": "api",
+      "checkedAt": "2026-11-04T18:00:08.885Z",
+      "ok": true,
+      "contentKind": "image",
+      "item": "https://www.flickr.com/photos/88123769@N02/14063342357",
+      "sourcePage": "https://www.flickr.com/photos/88123769@N02/14063342357",
+      "image": "https://live.staticflickr.com/2921/14063342357_29c4da5869_b.jpg",
+      "rights": {
+        "metadataLicense": "CC0",
+        "metadataLicenseUrl": "",
+        "mediaLicense": "CC0",
+        "mediaLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceItemUrl": "https://www.flickr.com/photos/88123769@N02/14063342357",
+        "mediaUrl": "https://live.staticflickr.com/2921/14063342357_29c4da5869_b.jpg",
+        "thumbUrl": "https://live.staticflickr.com/2921/14063342357_29c4da5869_b.jpg",
+        "verifiedBy": "https://api.openverse.org/v1/images/f7da45f0-db49-4d45-9854-56ea68add8f5/",
+        "author": "Bernard Spragg",
+        "source_url": "https://www.flickr.com/photos/88123769@N02/14063342357",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "license_name": "CC0",
+        "verifiedAt": "2026-11-04T18:00:12.839Z",
+        "attribution": "Bernard Spragg · CC0",
+        "creator": "Bernard Spragg",
+        "mediaTitle": "",
+        "originalMediaUrl": "",
+        "changes": ""
+      },
+      "rightsValid": true
+    }
+  ]
+}

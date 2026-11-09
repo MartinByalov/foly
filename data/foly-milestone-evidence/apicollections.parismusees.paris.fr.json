@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://apicollections.parismusees.paris.fr/iiif/160040797/manifest",
+  "@type": "sc:Manifest",
+  "label": "La Mort de la Vierge, d'après Martin Schongauer (Bartsch 50)",
+  "metadata": [
+    {
+      "label": "Autres titres",
+      "value": [
+        "La Mort de la Vierge, d'après Martin Schongauer (Bartsch 50) (Titre principal)"
+      ]
+    },
+    {
+      "label": "Autres titres",
+      "value": [
+        "La Mort de la Vierge, d'après Martin Schongauer (Bartsch 50) (Titre principal)"
+      ]
+    },
+    {
+      "label": "Auteur",
+      "value": [
+        "Meckenem, Israël van",
+        "Schongauer, Martin"
+      ]
+    },
+    {
+      "label": "Dénomination",
+      "value": "Estampe d'interprétation"
+    },
+    {
+      "label": "Type d'objet",
+      "value": [
+        "Estampe",
+        "Arts graphiques"
+      ]
+    },
+    {
+      "label": "Datation en siècle",
+      "value": "15e siècle"
+    },
+    {
+      "label": "Époque/Période",
+      "value": [
+        "Bas Moyen Âge (Xe-XVe siècles)",
+        "Bas Moyen Âge (Xe-XVe siècles)"
+      ]
+    },
+    {
+      "label": "Dimensions",
+      "value": [
+        "Oeuvre - Hauteur 25 cm",
+        "Oeuvre - Largeur 17 cm",
+        "Passe-partout - Hauteur 49 cm",
+        "Passe-partout - Largeur 38.5 cm"
+      ]
+    },
+    {
+      "label": "Matériaux et techniques",
+      "value": "Burin"
+    },
+    {
+      "label": "Inscriptions",
+      "value": [
+        "Signature - <p>Signé dans la marge inférieure : \"Israhel V.M.\"</p>\n",
+        "Marque de collection - <p>En bas à gauche :\"Dutuit\" (Lugt 708)</p>\n"
+      ]
+    },
+    {
+      "label": "Date d’acquisition",
+      "value": "<div class=\"pm-date-precision\">\n  \n                            <span class=\"year\">1902</span>\n        \n  </div>\n"
+    },
+    {
+      "label": "Mode d'acquisition",
+      "value": "Legs"
+    },
+    {
+      "label": "Numéro d’inventaire",
+      "value": "GDUT6328"
+    },
+    {
+      "label": "Institution",
+      "value": "Petit Palais, musée des Beaux-arts de la Ville de Paris"
+    },
+    {
+      "label": "Catalogue des œuvres de Paris Musées",
+      "value": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/la-mort-de-la-vierge-d-apres-martin-schongauer-bartsch-50"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/thumbnail/collections/atoms/images/PPA/lpdp_82424-3.jpg?itok=O8DTCACM",
+    "@type": "dctypes:Image",
+    "height": 300,
+    "width": 210
+  },
+  "logo": {
+    "@id": "https://apicollections.parismusees.paris.fr/themes/custom/pm8/logo.svg"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://apicollections.parismusees.paris.fr/iiif/160040797/manifest/canvas/LPDP_82424-3",
+          "@type": "sc:Canvas",
+          "height": 2160,
+          "width": 1510,
+          "label": "LPDP_82424-3",
+          "metadata": [
+            {
+              "label": "Droits",
+              "value": "CC0 Paris Musées / Petit Palais, musée des Beaux-Arts de la Ville de Paris"
+            },
+            {
+              "label": "Copyright",
+              "value": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://apicollections.parismusees.paris.fr/iiif/160040797/manifest/canvas/LPDP_82424-3",
+              "resource": {
+                "@id": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/lpdp_82424-3.jpg?itok=FvhBWyQ-",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

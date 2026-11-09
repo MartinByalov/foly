@@ -4,31 +4,77 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#000000" />
-  <meta name="robots" content="noindex, nofollow" />
-  <title>FOLY. | Under Development</title>
+  <meta name="description" content="Foly: 100 000 boxes. Each one opens onto something random from across the internet." />
+  <title>FOLY. | Pick a box</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-  <style>
-    * { box-sizing: border-box; }
-    html, body { margin: 0; min-height: 100%; background: #101010; color: #fff; font-family: Arial, Helvetica, sans-serif; }
-    .preview { position: fixed; inset: -16px; filter: blur(9px); pointer-events: none; user-select: none; }
-    .preview iframe { display: block; width: 100%; height: 100%; border: 0; }
-    .notice { position: relative; z-index: 1; min-height: 100vh; min-height: 100svh; display: grid; place-items: center; padding: 32px 24px; text-align: center; background: rgba(0, 0, 0, .65); }
-    .notice-content { max-width: 620px; }
-    .brand { margin: 0 0 28px; font-size: 20px; font-weight: 800; letter-spacing: -.05em; }
-    h1 { margin: 0; font-size: clamp(32px, 7vw, 64px); line-height: 1.1; letter-spacing: -.04em; }
-    .description { margin: 24px 0 0; color: #d0d0d0; font-size: 16px; line-height: 1.7; }
-  </style>
+  <link rel="stylesheet" href="./css/base.css" />
+  <link rel="stylesheet" href="./css/theme.css" />
+  <link rel="stylesheet" href="./css/foly.css" />
 </head>
 <body>
-  <div class="preview" aria-hidden="true" inert>
-    <iframe src="./foly.html" title="Foly background preview" tabindex="-1"></iframe>
-  </div>
-  <main class="notice">
-    <div class="notice-content">
-      <p class="brand">FOLY.</p>
-      <h1>Under Development</h1>
-      <p class="description">We're working on something worth discovering.<br />Check back soon.</p>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="./" aria-label="FOLY."><svg viewBox="0 0 100 32" aria-hidden="true" focusable="false"><text x="0" y="26" textLength="100" lengthAdjust="spacingAndGlyphs">FOLY.</text></svg></a>
+    <div class="header-meta">
+    <select id="languageSelect" class="ghost-btn language-select icon-btn" aria-label="Language">
+        <option value="en">English</option><option value="bg">Български - Bulgarian</option><option value="fr">Français - French</option><option value="hi">हिन्दी - Hindi</option>
+    </select>
+      <div class="filter-menu">
+        <button class="ghost-btn icon-btn" id="categoriesBtn" type="button" aria-label="Categories" title="Categories" aria-haspopup="true" aria-expanded="false" aria-controls="categoryMenu">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+          <span class="filter-count" id="categoryCount" aria-hidden="true" hidden></span>
+        </button>
+        <div class="filter-panel" id="categoryMenu" hidden>
+          <input class="category-search" id="categorySearch" type="search" placeholder="Search categories…" aria-label="Search categories" autocomplete="off" />
+          <label class="filter-option all"><input type="checkbox" id="allCategories" checked /> <span>All categories</span></label>
+          <div class="filter-options" id="categoryList"></div>
+          <p class="category-empty" id="categoryEmpty" role="status" hidden>No matching categories.</p>
+        </div>
+      </div>
     </div>
-  </main>
+  </div>
+</header>
+<main class="page">
+  <div class="video-bg" aria-hidden="true">
+    <img class="background-image" src="./media/background.webp" alt="" fetchpriority="high" decoding="async" />
+    <div class="video-overlay"></div>
+  </div>
+  <section class="content">
+    <h1 class="visually-hidden">Foly: pick a box</h1>
+    <div class="field" id="field"><div class="grid" id="grid"></div></div>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <small class="footer-brand">© FOLY.</small>
+    <nav class="footer-nav" aria-label="Information">
+      <button type="button" data-info="about" aria-haspopup="dialog" aria-controls="infoDialog">About</button>
+      <button type="button" data-info="sources" aria-haspopup="dialog" aria-controls="infoDialog">Sources</button>
+      <button type="button" data-info="privacy" aria-haspopup="dialog" aria-controls="infoDialog">Privacy</button>
+    </nav>
+  </div>
+</footer>
+<div class="drawer-backdrop" id="drawerBackdrop"></div>
+<aside class="drawer" id="archive" aria-hidden="true" aria-label="Discoveries">
+  <div class="drawer-head"><div><div class="drawer-title">Discoveries · <span id="historyCount">0</span></div><div class="drawer-sub">CLEARED ON CLOSE</div></div>
+    <button class="drawer-close dialog-close" type="button" aria-label="Close discoveries">×</button></div>
+  <ol class="archive-list" id="archiveList"></ol>
+  <p class="archive-empty" id="archiveEmpty">Nothing yet. Open a box to start.</p>
+</aside>
+<dialog class="media-dialog discovery" id="discovery" aria-label="Discovery">
+  <button class="dialog-close" id="dialogClose" type="button" aria-label="Close">×</button>
+  <div id="discoveryBody"></div>
+</dialog>
+<dialog class="media-dialog info-dialog" id="infoDialog" aria-labelledby="infoTitle">
+  <button class="dialog-close" id="infoClose" type="button" aria-label="Close information">×</button>
+  <h2 id="infoTitle"></h2>
+  <div class="info-copy" id="infoBody"></div>
+</dialog>
+<template id="info-trivia">
+  <h3 id="about-trivia">Trivia credits</h3>
+  <p>Trivia questions and answer choices: Open Trivia DB contributors, provided by <a href="https://opentdb.com/" target="_blank" rel="noopener noreferrer">Open Trivia DB</a>, under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>. <a href="https://opentdb.com/api_config.php" target="_blank" rel="noopener noreferrer">Provider licence notice</a>.</p>
+  <p>Question and answer wording is unchanged. Foly decodes API text, shuffles answer choices, presents them as buttons and displays the correct answer after a choice. These credits apply to all Open Trivia DB questions displayed in Foly. Their supplied question titles identify the individual questions.</p>
+</template>
+<script type="module" src="./js/foly/main.js"></script>
 </body>
 </html>

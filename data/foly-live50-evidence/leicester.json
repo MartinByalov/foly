@@ -1,0 +1,138 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/manifest.json",
+  "label": "A view from Durdham Down near Bristol",
+  "metadata": [
+    {
+      "label": "Contact us",
+      "value": "Please contact library@le.ac.uk with enquiries"
+    },
+    {
+      "label": "Location",
+      "value": "United Kingdom -- England -- Gloucestershire -- Durdham Down"
+    },
+    {
+      "label": "Description",
+      "value": "'A View from Durdham Down near Bristol.' Above left V. II.' Above right 'P. 224.'"
+    },
+    {
+      "label": "Download available",
+      "value": "Yes"
+    },
+    {
+      "label": "Format",
+      "value": "TIF"
+    },
+    {
+      "label": "Identifier",
+      "value": "GLOUC-371"
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Metadata licence",
+      "value": "You can re-use this metadata record under a Creative Commons Zero �no rights reserved� licence: http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "label": "Rights",
+      "value": "Item digitised from the collection of the Centre for Regional and Local History. You may use this item in accordance with the licence https://creativecommons.org/licenses/by-nc/4.0/ (CC BY-NC 4.0). You are free to share or adapt this resource for non-commercial purposes, subject to acknowledgement to the University of Leicester Centre for Regional and Local History."
+    },
+    {
+      "label": "Subject",
+      "value": "rivers; ships; cliffs"
+    },
+    {
+      "label": "Title",
+      "value": "A view from Durdham Down near Bristol"
+    },
+    {
+      "label": "Type",
+      "value": "Engraving"
+    },
+    {
+      "label": "Repository",
+      "value": "Special Collections"
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://leicester.contentdm.oclc.org/digital/collection/p16445coll16/id/2217\">A view from Durdham Down near Bristol</a></span>"
+    }
+  ],
+  "attribution": [
+    "",
+    "You can re-use this metadata record under a Creative Commons Zero �no rights reserved� licence: http://creativecommons.org/publicdomain/zero/1.0/",
+    "",
+    "Item digitised from the collection of the Centre for Regional and Local History. You may use this item in accordance with the licence https://creativecommons.org/licenses/by-nc/4.0/ (CC BY-NC 4.0). You are free to share or adapt this resource for non-commercial purposes, subject to acknowledgement to the University of Leicester Centre for Regional and Local History."
+  ],
+  "seeAlso": {
+    "@id": "https://cdm16445.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16445.contentdm.oclc.org:p16445coll16/2217&metadataPrefix=oai_qdc",
+    "format": "application/xml",
+    "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "A view from Durdham Down near Bristol",
+      "canvases": [
+        {
+          "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "A view from Durdham Down near Bristol",
+          "images": [
+            {
+              "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll16:2217/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll16:2217",
+                  "width": 4837,
+                  "height": 2985,
+                  "tiles": [
+                    {
+                      "width": 4837,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 4837,
+                "height": 2985
+              },
+              "on": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/canvas/c0"
+            }
+          ],
+          "width": 4837,
+          "height": 2985
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/range/r0",
+      "@type": "sc:Range",
+      "label": "A view from Durdham Down near Bristol",
+      "ranges": [],
+      "canvases": [
+        "https://cdm16445.contentdm.oclc.org/iiif/p16445coll16:2217/canvas/c0"
+      ]
+    }
+  ]
+}

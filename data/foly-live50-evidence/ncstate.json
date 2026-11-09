@@ -1,0 +1,95 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003/manifest",
+  "@type": "sc:Manifest",
+  "label": "Neon beer sign",
+  "description": "Photo by: T.H. Huvard; Date: November 3",
+  "related": {
+    "@id": "https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003",
+    "format": "text/html",
+    "label": "HTML page for the resource",
+    "dcterms:modified": "2024-05-30T04:38:39.446Z"
+  },
+  "logo": {
+    "@id": "https://d.lib.ncsu.edu/collections/assets/ncsu-libraries-white-logo-placement-fa371d02703e250a7573c9ff7efda2be0f0ab068729c9d69c4fed1c532dda73b.jpg"
+  },
+  "attribution": "North Carolina State University, Division of Student Affairs, Student Media Authority Records, 1909-2011 (UA016.035), Special Collections Research Center at NC State University Libraries",
+  "license": [
+    "https://d.lib.ncsu.edu/collections/about#rights_and_use"
+  ],
+  "metadata": [
+    {
+      "label": "title",
+      "value": "Neon beer sign"
+    },
+    {
+      "label": "Creator",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog?f%5Bnames_facet%5D%5B%5D=North+Carolina+State+University.+Student+Media\">North Carolina State University. Student Media</a> (Producer); <a href=\"https://d.lib.ncsu.edu/collections/catalog?f%5Bnames_facet%5D%5B%5D=Huvard%2C+Todd+H.\">Huvard, Todd H.</a> (Photographer)</span>"
+    },
+    {
+      "label": "URL",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003\">https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003</a></span>"
+    },
+    {
+      "label": "",
+      "value": "<span><a href=\"https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003?manifest=https%3A%2F%2Fd.lib.ncsu.edu%2Fcollections%2Fcatalog%2Fua016_035-007-bx0013-007-003%2Fmanifest.json\">IIIF drag &amp; drop</a> (<a href=\"https://d.lib.ncsu.edu/collections/about-iiif\">About IIIF</a>)</span>"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://iiif.lib.ncsu.edu/iiif/ua016_035-007-bx0013-007-003/full/150,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.lib.ncsu.edu/iiif/ua016_035-007-bx0013-007-003",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://d.lib.ncsu.edu/collections/canvas/ua016_035-007-bx0013-007-003",
+          "width": 6111,
+          "height": 4904,
+          "label": "[1]",
+          "images": [
+            {
+              "@id": "https://d.lib.ncsu.edu/collections/canvas/ua016_035-007-bx0013-007-003/image",
+              "@type": "oa:Annotation",
+              "on": "https://d.lib.ncsu.edu/collections/canvas/ua016_035-007-bx0013-007-003",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.ncsu.edu/iiif/ua016_035-007-bx0013-007-003/full/1170,/0/default.jpg",
+                "width": 6111,
+                "height": 4904,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/ua016_035-007-bx0013-007-003"
+                },
+                "@type": "dctypes:Image"
+              }
+            }
+          ]
+        }
+      ],
+      "@type": "sc:Sequence",
+      "viewingHint": "non-paged"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003.dcxml",
+      "format": "text/xml",
+      "label": "Dublin Core XML"
+    },
+    {
+      "@id": "https://d.lib.ncsu.edu/collections/catalog/ua016_035-007-bx0013-007-003/schemaorg.json",
+      "format": "application/ld+json",
+      "profile": "https://schema.org",
+      "label": "Schema.org metadata as JSON-LD"
+    }
+  ],
+  "dcterms:modified": "2024-05-30T04:38:38.000Z",
+  "dcterms:created": "2019-04-04T17:42:15.000Z"
+}

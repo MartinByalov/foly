@@ -1,0 +1,1431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="fz8KnKpHdET7YBgbcJXyzfj3Xffb8oLo62rz1UJf">
+
+        <title>29 results found for &quot;Paderborn&quot; | IIIF Collections of Manuscripts and Rare Books</title>
+        <meta name="description" content="A Biblissima prototype to search for interoperable digitized manuscripts and rare books across IIIF-compliant digital libraries">
+        <meta name="robots" content="noindex" />
+        <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" href="https://static.biblissima.fr/images/favicons/apple-touch-icon-152x152.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://static.biblissima.fr/images/favicons/mstile-144x144.png">
+    <link rel="icon" type="image/png" href="https://static.biblissima.fr/images/favicons/favicon.png">
+    <!--[if IE]><link rel="shortcut icon" href="https://static.biblissima.fr/images/favicons/favicon.ico"><![endif]-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Scripts -->
+    <script type="text/javascript">
+        DATA_URL = 'https://iiif.biblissima.fr/collections/';
+        HOME_URL = 'https://iiif.biblissima.fr/collections';
+    </script>
+    
+    <script src="https://iiif.biblissima.fr/collections/js/vendors/tify3/tify.js"></script>
+    <script src="https://iiif.biblissima.fr/collections/js/app.js?id=96a07681b7d1da5dd86e" defer></script>
+    
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    
+    <!-- Styles -->
+    <!-- <link href="https://iiif.biblissima.fr/collections/js/vendors/tify3/tify.css" rel="stylesheet"> -->
+    <link href="https://iiif.biblissima.fr/collections/css/app.css?id=62399b1b707104ab2683" rel="stylesheet">
+</head>
+<body>
+    <style>
+.menu-bbma-close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #FFF;
+  -webkit-transition: .2s linear all;
+  transition: .2s linear all;
+}
+
+.menu-bbma-btn:hover,
+.menu-bbma-close-btn:hover {
+  color: #fed443;
+}
+
+.menu-bbma-wrapper {
+  background: #2b2e2f;
+  width: 320px;
+  height: 100%;
+  position: absolute;
+  left: -320px;
+  z-index: 1060;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+.menu-bbma-wrapper.active {
+  left: 0;
+  box-shadow: 1px 0 4px 0 rgba(51,51,51,.4);
+}
+
+.menu-bbma-wrapper .header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20px 15px;
+  align-items: center;
+  -webkit-box-align: center;
+    -ms-flex-align: center;
+  /*border-bottom: solid 2px #e6e5e5;*/
+}
+
+.menu-bbma-wrapper .header h2 {
+  font-family: "Source Serif Pro",Georgia,Times,serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0px;
+  padding: 0;
+  border: none;
+}
+
+.menu-bbma-wrapper .header .menu-bbma-close-btn {
+  color: #fff;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+
+.menu-bbma-wrapper .header .menu-bbma-close-btn:hover {
+  color: #fed443;
+}
+
+.menu-bbma-wrapper a {
+  color: #fff;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.menu-bbma-wrapper ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-bbma-wrapper ul li {
+  background: #3C474C;
+  position: relative;
+  border-bottom: solid 1px #5f686e;
+  margin-bottom: 0;
+}
+
+.home-bbma .menu-bbma-wrapper ul li:first-child {
+  display: none;
+}
+
+.menu-bbma-wrapper ul li:first-child h3 {
+  margin-bottom: 0;
+}
+
+.menu-bbma-wrapper ul li h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #FFF;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 0;
+  font-family: 'Source sans pro', sans-serif;
+  text-transform: uppercase;
+}
+
+.menu-bbma-wrapper ul li a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column wrap;
+          flex-flow: column wrap;
+  padding: 20px 15px 20px 16px;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper ul li a:hover {
+  background: #5f676d;
+  border-right: 2px solid #fed443;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper ul li a p {
+  color: #ddd;
+  font-weight: 400;
+}
+
+.menu-bbma-wrapper .footer {
+  background: #2b2e2f;
+  padding: 20px 15px;
+  color: #fff;
+}
+
+.menu-bbma-wrapper .footer a {
+  padding: 0 5px;
+  font-size: 13px;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper .footer a:hover {
+  opacity: .8;
+}
+
+.menu-bbma-wrapper .other-links {
+  text-transform: uppercase;
+}
+
+.menu-bbma-wrapper ul li p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 21px;
+}
+</style>
+<div class="menu-bbma-wrapper">
+    <nav class="menu-bbma" id="menuBbma">
+        <div class="header">
+            <h2>Discover Biblissima</h2>
+            <button class="material-icons menu-bbma-close-btn" id="menuBbmaCloseBtn">close</button>
+        </div>
+        <ul>
+            <li>
+                <a href="https://biblissima.fr">
+                    <h3>Home Biblissima</h3>
+                </a>
+            </li>
+            <li>
+                <a href="https://portail.biblissima.fr">
+                    <h3>Biblissima Portal</h3>
+                    <!-- TODO : <sup></sup> .po -->
+                    <!-- <p>Point d'accès au patrimoine écrit du Moyen &Acirc;ge et de la Renaissance en Occident du VIII<sup>e</sup> au XVIII<sup>e</sup> siècle</p> -->
+                    <p>An entry point to the written heritage of the Middle Ages and the Renaissance in Western Europe, from the 8th to the 18th century.</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://iiif.biblissima.fr/collections/">
+                    <h3>IIIF Collections</h3>
+                    <p>A search engine of interoperable digitized manuscripts and rare books</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://data.biblissima.fr/w/Accueil">
+                    <h3>Biblissima Authority Files</h3>
+                    <p>Collaborative platform to manage and publish Biblissima authority data</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://outils.biblissima.fr">
+                    <h3>Biblissima Tools</h3>
+                    <p>Help for reading and learning classical languages, XML editing tools and environments</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://iiif.biblissima.fr/services-iiif">
+                    <h3>IIIF360</h3>
+                    <p>Expertise service around IIIF standards</p>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="footer">
+      <p class="other-links"><a href="https://projet.biblissima.fr">Project</a> | <a href="https://demos.biblissima.fr">Demos</a> | <a href="https://doc.biblissima.fr">Documentation</a></p>
+      <p><a href="https://doc.biblissima.fr/contribuer-a-biblissima">Contribute to Biblissima+</a></p>
+      <p><a href="https://listes.campus-condorcet.fr/sympa/info/biblissima-info-membres">Subscribe to our newsletter</a></p>
+      <p><a href="https://projet.biblissima.fr/fr/contact">Contact us</a></p>
+    </div>
+</div>
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('#menuBbmaBtn, #menuBbmaCloseBtn').forEach(function(el) {
+    el.addEventListener('click', function() {
+      document.querySelector('.menu-bbma-wrapper').classList.toggle('active');
+    })
+  });
+});
+</script>
+  
+    <div id="app">
+                <main class="search">
+                    <div><style type="text/css">
+.top-bar-bbma.navbar {
+    border: 0;
+    padding: 0;
+    margin-bottom: 0;
+    z-index: 1000;
+}
+.top-bar-bbma.main-menu {
+    background: #16232d;
+    border-radius: 0;
+    min-height: 0;
+    box-shadow:  0px 0px 3px rgb(0 0 0 / 80%)
+}
+.top-bar-bbma .navbar-header {
+    display: flex;
+    margin: 0;
+    height: 43px;
+    align-items: center;
+}
+.top-bar-bbma .navbar-header h1 {
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 4rem;
+    overflow: initial;
+}
+.top-bar-bbma .navbar-header h1 a {
+    display: block;
+}
+.top-bar-bbma .navbar-header h1 a img {
+    display: block;
+    margin-top: -7px;
+}
+.menu-bbma-btn {
+    background: 0 0;
+    border: none;
+    cursor: pointer;
+    color: #dde1e6;
+    transition: .2s linear all;
+    padding: 0 10px 0 0;
+}
+</style>
+<nav class="main-menu navbar top-bar-bbma" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button class="material-icons menu-bbma-btn" id="menuBbmaBtn"></button>
+            <h1>
+                <a href="https://biblissima.fr" class="logo">
+                    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMSBUaW55Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLXRpbnkuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJ0aW55IiBpZD0iQ2FscXVlXzEiCgkgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxNDVweCIgaGVpZ2h0PSIyN3B4IgoJIHZpZXdCb3g9IjAgMCAxNDUgMjciIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik0xMzUuMjQsMTkuOTgzVjAuNDE3aDMuOTA5djE5LjU2N0gxMzUuMjR6IE0xNDEuMDkxLDguMjM0SDE0NXYxMS43NWgtMy45MDlWOC4yMzR6Ii8+CjwvZz4KPGc+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNOC45Nyw5LjE0MmMzLjk3OSwwLDUuODUxLDEuNzQyLDUuODUxLDQuMTM0YzAsMS44Mi0xLjA5MiwzLjQwNi00LjIxMiw0LjAwNAoJCWMzLjY2NiwwLjQ2OCw1LjE0OCwyLjEzMiw1LjE0OCw0LjMxNmMwLDIuMjg4LTEuNzY4LDQuNzg0LTcuNDg4LDQuNzg0SDEuMDE0di0xLjIyMmwyLjE4NC0wLjIzNAoJCUMzLjI1LDIyLjc0LDMuMjUsMjAuNTMsMy4yNSwxOC4yNjl2LTEuMDE0YzAtMi4yMSwwLTQuNDQ2LTAuMDUyLTYuNjU3bC0yLjE4NC0wLjIzNFY5LjE0Mkg4Ljk3eiBNNi42MywxMC40NjgKCQljLTAuMDUyLDIuMDU0LTAuMDUyLDQuMTg2LTAuMDUyLDYuMzE4aDEuMDY2YzIuNjc4LDAsMy44NzUtMS4wNCwzLjg3NS0zLjI3NmMwLTIuMTU4LTEuMTQ0LTMuMDQyLTMuNTEtMy4wNDJINi42M3ogTTcuODUyLDI1LjAyOQoJCWMyLjg4NiwwLDQuMzk1LTEuMTk2LDQuMzk1LTMuNDMzYzAtMi4zOTItMS40MDQtMy41MzYtNC40OTgtMy41MzZoLTEuMTdjMCwyLjQ0NCwwLDQuNzMyLDAuMDUyLDYuOTY5SDcuODUyeiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTI0LjU3LDI1LjMxNHYxLjA2NmgtNi40NDh2LTEuMDY2bDEuNzE2LTAuMzM4YzAuMDI2LTEuMjczLDAuMDI2LTIuOTM4LDAuMDI2LTQuMDU2di0xLjMKCQljMC0xLjQzMS0wLjAyNi0yLjIzNi0wLjA3OC0zLjI3NkwxNy45NCwxNi4xMXYtMC45NjJsNC43MDYtMS42NjRsMC40MTYsMC4yODZsLTAuMDc4LDMuNjR2My41MTFjMCwxLjExOCwwLDIuNzgyLDAuMDI2LDQuMDgyCgkJTDI0LjU3LDI1LjMxNHogTTE5LjQyMiw5LjI5OGMwLTEuMTE4LDAuODU4LTEuODcyLDEuOTc2LTEuODcyYzEuMDkyLDAsMS45NSwwLjc1NCwxLjk1LDEuODcyYzAsMS4wNjYtMC44NTgsMS44NDYtMS45NSwxLjg0NgoJCUMyMC4yOCwxMS4xNDUsMTkuNDIyLDEwLjM2NCwxOS40MjIsOS4yOTh6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNMzEuNDYsMTUuMzNjMS4xNDQtMS4yNDgsMi40NDQtMS44NDYsMy44NzUtMS44NDZjMi44MDgsMCw1LjAxOCwyLjM5Myw1LjAxOCw2LjU1MwoJCWMwLDQuMDgyLTIuNDQ0LDYuNzMzLTUuNDM0LDYuNzMzYy0xLjM3OCwwLTIuNTIyLTAuNDkzLTMuNTEtMS43MTZsLTAuMzM4LDEuNjlsLTQuMzk0LTAuMzY0di0xLjA2NmwxLjcxNi0wLjMzOAoJCWMwLjAyNi0xLjMsMC4wMjYtMi45MzgsMC4wMjYtNC4wNTZWMTBMMjYuNTIsOS43NjZWOC43NTJsNC42NTQtMS4xN2wwLjM5LDAuMjM0bC0wLjEwNCwzLjY2NlYxNS4zM3ogTTMxLjUzOCwyMy44MzMKCQljMC44MDYsMC43NTQsMS41ODYsMS4xMTgsMi40NDQsMS4xMThjMS42OSwwLDMuMDQyLTEuNTYxLDMuMDQyLTQuNzg0YzAtMy4xOTgtMS4xOTYtNC44MTEtMi45MzgtNC44MTEKCQljLTAuODA2LDAtMS42NjQsMC40NDItMi41NDgsMS4xOTZWMjMuODMzeiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTQ5LjI3LDI1LjMxNHYxLjA2NmgtNi43NnYtMS4wNjZsMS43NjgtMC4zMzhjMC4wMjYtMS4zNTIsMC4wNTItMi43MDQsMC4wNTItNC4wNTZWMTAuMDI2bC0xLjg5OC0wLjI2CgkJVjguNzUybDQuNzMyLTEuMTdsMC4zOSwwLjIzNGwtMC4xMDQsMy42NjZ2OS40MzhjMCwxLjM1MiwwLjAyNiwyLjcwNCwwLjA1Miw0LjA1Nkw0OS4yNywyNS4zMTR6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNNTcuODI0LDI1LjMxNHYxLjA2NmgtNi40NDh2LTEuMDY2bDEuNzE2LTAuMzM4YzAuMDI2LTEuMjczLDAuMDI2LTIuOTM4LDAuMDI2LTQuMDU2di0xLjMKCQljMC0xLjQzMS0wLjAyNi0yLjIzNi0wLjA3OC0zLjI3NmwtMS44NDYtMC4yMzR2LTAuOTYybDQuNzA2LTEuNjY0bDAuNDE2LDAuMjg2bC0wLjA3OCwzLjY0djMuNTExYzAsMS4xMTgsMCwyLjc4MiwwLjAyNiw0LjA4MgoJCUw1Ny44MjQsMjUuMzE0eiBNNTIuNjc2LDkuMjk4YzAtMS4xMTgsMC44NTgtMS44NzIsMS45NzYtMS44NzJjMS4wOTIsMCwxLjk1LDAuNzU0LDEuOTUsMS44NzJjMCwxLjA2Ni0wLjg1OCwxLjg0Ni0xLjk1LDEuODQ2CgkJQzUzLjUzNCwxMS4xNDUsNTIuNjc2LDEwLjM2NCw1Mi42NzYsOS4yOTh6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNNjYuMzc4LDE4Ljc4OWMyLjUyMSwwLjg1NywzLjQ4MywyLjE4NCwzLjQ4MywzLjk1MWMwLDIuMzQxLTEuOTI0LDQuMDMtNS40MzQsNC4wMwoJCWMtMS41ODYsMC0yLjg2LTAuMzYzLTQuMTg3LTEuMDkybC0wLjAyNi0zLjAxNmgxLjc0MmwwLjQ2OCwyLjQxOGMwLjYyNCwwLjI2LDEuMjc0LDAuMzksMi4wMjgsMC4zOQoJCWMxLjc2OSwwLDIuNjUyLTAuNjc2LDIuNjUyLTEuNzk0YzAtMC45NjItMC42NDktMS41MzQtMi4zMTMtMi4wOGwtMS4zMDEtMC40MTZjLTEuOTUtMC42NS0zLjE0Ni0xLjg3Mi0zLjE0Ni0zLjY2NgoJCWMwLTIuMjEsMS44NzItNC4wMyw0Ljk0LTQuMDNjMS40ODIsMCwyLjY1MiwwLjM5LDMuODc0LDEuMDY2bC0wLjEzLDIuNzU2aC0xLjcxNmwtMC40NjgtMi4xODQKCQljLTAuNDk0LTAuMjA5LTAuOTg4LTAuMzEyLTEuNjEyLTAuMzEyYy0xLjM3OCwwLTIuMTg0LDAuNjI0LTIuMTg0LDEuNjg5YzAsMC44ODUsMC41MiwxLjM3OSwyLjI4OSwxLjk3N0w2Ni4zNzgsMTguNzg5eiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTc4LjU3MiwxOC43ODljMi41MjEsMC44NTcsMy40ODQsMi4xODQsMy40ODQsMy45NTFjMCwyLjM0MS0xLjkyNCw0LjAzLTUuNDM2LDQuMDMKCQljLTEuNTg2LDAtMi44NTktMC4zNjMtNC4xODUtMS4wOTJsLTAuMDI2LTMuMDE2aDEuNzQzbDAuNDY3LDIuNDE4YzAuNjI1LDAuMjYsMS4yNzUsMC4zOSwyLjAyOSwwLjM5CgkJYzEuNzY4LDAsMi42NTItMC42NzYsMi42NTItMS43OTRjMC0wLjk2Mi0wLjY1LTEuNTM0LTIuMzE0LTIuMDhsLTEuMzAxLTAuNDE2Yy0xLjk0OS0wLjY1LTMuMTQ2LTEuODcyLTMuMTQ2LTMuNjY2CgkJYzAtMi4yMSwxLjg3My00LjAzLDQuOTQxLTQuMDNjMS40ODIsMCwyLjY1MiwwLjM5LDMuODczLDEuMDY2bC0wLjEyOSwyLjc1NmgtMS43MTdsLTAuNDY5LTIuMTg0CgkJYy0wLjQ5Mi0wLjIwOS0wLjk4Ni0wLjMxMi0xLjYxMS0wLjMxMmMtMS4zNzcsMC0yLjE4NCwwLjYyNC0yLjE4NCwxLjY4OWMwLDAuODg1LDAuNTIsMS4zNzksMi4yODcsMS45NzdMNzguNTcyLDE4Ljc4OXoiLz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik05MC44NDQsMjUuMzE0djEuMDY2aC02LjQ0OXYtMS4wNjZsMS43MTctMC4zMzhjMC4wMjUtMS4yNzMsMC4wMjUtMi45MzgsMC4wMjUtNC4wNTZ2LTEuMwoJCWMwLTEuNDMxLTAuMDI1LTIuMjM2LTAuMDc4LTMuMjc2bC0xLjg0Ni0wLjIzNHYtMC45NjJsNC43MDctMS42NjRsMC40MTYsMC4yODZsLTAuMDc4LDMuNjR2My41MTFjMCwxLjExOCwwLDIuNzgyLDAuMDI1LDQuMDgyCgkJTDkwLjg0NCwyNS4zMTR6IE04NS42OTUsOS4yOThjMC0xLjExOCwwLjg1Ny0xLjg3MiwxLjk3Ny0xLjg3MmMxLjA5MiwwLDEuOTQ5LDAuNzU0LDEuOTQ5LDEuODcyYzAsMS4wNjYtMC44NTcsMS44NDYtMS45NDksMS44NDYKCQlDODYuNTUzLDExLjE0NSw4NS42OTUsMTAuMzY0LDg1LjY5NSw5LjI5OHoiLz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik0xMTUuMDQ5LDI1LjMxNHYxLjA2NmgtNi4zNDR2LTEuMDY2bDEuNjEzLTAuMzM4YzAuMDI1LTEuMjczLDAuMDI1LTIuODg2LDAuMDI1LTQuMDU2di0yLjQ0NAoJCWMwLTIuMjEtMC41NDctMi44MDktMS44NDYtMi44MDljLTAuOTM4LDAtMS44NzMsMC40NDItMi44NjEsMS4zMjZjMC4wMjcsMC4zMzgsMC4wNTMsMC43MjksMC4wNTMsMS4xNDV2Mi43ODIKCQljMCwxLjE3LDAsMi43ODIsMC4wMjUsNC4wODJsMS41NjEsMC4zMTJ2MS4wNjZoLTYuMzcxdi0xLjA2NmwxLjY2NC0wLjMzOGMwLjAyNy0xLjI3MywwLjAyNy0yLjg4NiwwLjAyNy00LjA1NnYtMi40MTgKCQljMC0yLjEwNi0wLjQ2OS0yLjgzNS0xLjgyLTIuODM1Yy0wLjk4OCwwLTEuOTI0LDAuNDk0LTIuODM0LDEuMzAxdjMuOTUyYzAsMS4xNDQsMCwyLjc4MiwwLjAyNSw0LjA4MmwxLjUzNSwwLjMxMnYxLjA2NmgtNi40MjQKCQl2LTEuMDY2bDEuNjkxLTAuMzM4YzAuMDI1LTEuMjczLDAuMDI1LTIuOTM4LDAuMDI1LTQuMDU2VjE5LjQ5YzAtMS40MywwLTIuMTA1LTAuMDc4LTMuMTQ2bC0xLjgyLTAuMjM0di0wLjk2Mmw0LjM0Mi0xLjY2NAoJCWwwLjQxNiwwLjI4NmwwLjIwOSwyLjAyOGMxLjI0OC0xLjQ1NywyLjczLTIuMzE0LDQuMzE2LTIuMzE0YzEuNjg5LDAsMi43ODEsMC43NTQsMy4yNSwyLjM5M2MxLjQwNC0xLjcxNywyLjg4Ny0yLjM5Myw0LjQ3My0yLjM5MwoJCWMyLjM0LDAsMy41MzUsMS40MywzLjUzNSw0LjU3NnYyLjg2YzAsMS4xNywwLDIuNzgyLDAuMDI1LDQuMDgyTDExNS4wNDksMjUuMzE0eiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTEyOS43MTMsMjUuMDI5Yy0wLjU5OCwxLjI3My0xLjM3NywxLjY2NC0yLjU3NCwxLjY2NGMtMS41MzMsMC0yLjM5My0wLjc1NS0yLjY3OC0xLjk1CgkJYy0xLjI3MywxLjMtMi4xMDUsMi4wMjctMy43NywyLjAyN2MtMS45NTEsMC0zLjQ1OS0xLjE3LTMuNDU5LTMuMzI4YzAtMS42MzgsMC45MS0yLjkxMiw0LjY1NC00LjEwNwoJCWMwLjY3Ni0wLjIzNCwxLjU4Ni0wLjQ5NCwyLjQ5Ni0wLjcyOXYtMC43OGMwLTIuNDE4LTAuNTk4LTMuMDY4LTIuMjg3LTMuMDY4Yy0wLjMxMiwwLTAuNjUsMC4wMjYtMS4wNDEsMC4wNzhsLTAuMzEyLDEuNTA5CgkJYy0wLjE1NiwxLjI0OC0wLjgwNSwxLjgxOS0xLjY2NCwxLjgxOWMtMC44MDUsMC0xLjMyNi0wLjQ0MS0xLjQ1NS0xLjE5NWMwLjMxMi0yLjA4LDIuMzE0LTMuNDg0LDUuNDg2LTMuNDg0CgkJYzMuMDE2LDAsNC4zNDIsMS4zNTIsNC4zNDIsNC43MzJ2NS43MmMwLDAuNzgsMC4yMzQsMS4xNywwLjcwMSwxLjE3YzAuMzY1LDAsMC42MjUtMC4yMDgsMC44MzItMC40NDFsMC4xMzEtMC4xM0wxMjkuNzEzLDI1LjAyOXoKCQkgTTEyNC4zODMsMTkuNjQ2Yy0wLjcyOSwwLjIzNC0xLjQwNCwwLjQ0Mi0xLjg0NiwwLjYyNGMtMS43NDIsMC43MDItMi4yNjIsMS42NjQtMi4yNjIsMi42NTJjMCwwLjcwMiwwLjE4MiwxLjA5MiwwLjQ5NCwxLjQwNAoJCWMwLjM2MywwLjM5LDAuODA1LDAuNTQ2LDEuMzUyLDAuNTQ2YzAuNjc2LDAsMS4xMTctMC4yODYsMi4yNjItMS4wOTJWMTkuNjQ2eiIvPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=" alt="Biblissima">
+                </a>
+            </h1>
+        </div>
+        <ul class="nav">
+	    <li>
+                <a href="https://listes.campus-condorcet.fr/sympa/arc/biblissima-info-membres" title="Liste de diffusion" class="nav-link">
+                    <i class="bi bi-envelope-fill"></i>
+                </a>
+            </li>
+	    <li>
+                <a href="https://www.linkedin.com/company/biblissima" rel="me" title="LinkedIn" class="nav-link">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+            </li>
+	    <li>
+                <a href="https://bsky.app/profile/biblissima.bsky.social" rel="me" title="Bluesky" class="nav-link">
+                    <i class="bi bi-bluesky"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://universites.social/@biblissima" rel="me" title="Mastodon" class="nav-link">
+                    <i class="bi bi-mastodon"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCaHWzwUV0xBAQ-sEdE9EtKg" title="Youtube" class="nav-link">
+                    <i class="bi bi-youtube"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/biblissima" title="Github" class="nav-link">
+                    <i class="bi bi-github"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://gitlab.huma-num.fr/biblissima" title="Gitlab" class="nav-link">
+                    <i class="bi bi-gitlab"></i>
+                </a>
+            </li>
+            <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-three-dots-vertical"></i>
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end">
+                    <li class="dropdown-item"><a href="https://zenodo.org/communities/biblissima">Communauté Zenodo</a></li>
+                    <li class="dropdown-item"><a href="https://gitlab.huma-num.fr/biblissima">Gitlab</a></li>
+                </ul>
+            </li> -->
+        </ul>
+    </div>
+</nav>
+</div>
+<header>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<a class="navbar-brand" href="https://iiif.biblissima.fr/collections">
+			
+		IIIF Collections - Manuscripts &amp; Rare Books
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  		</button>
+
+	  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+	  		<form class="mr-auto mt-2 mb-0 mt-md-0" action="https://iiif.biblissima.fr/collections/search" method="GET">
+	  			<div class="input-group">					
+					<button type="button" class="input-group-prepend btn btn-outline-success my-2 my-sm-0" id="searchHelp"><i class="material-icons">help</i></button>
+					<input class="form-control" type="text" placeholder="Search across ~144,000 IIIF manifests of digitized manuscripts and rare books" aria-label="Search" name="q" value="Paderborn" autofocus>
+					<button class="input-group-append btn btn-outline-success my-2 my-sm-0" type="submit"><i class="material-icons">search</i></button>
+	  			</div>
+	    	</form>
+			<ul class="navbar-nav my-2 my-md-0 ml-md-3">
+				<li class="nav-item active">
+					<a class="nav-link" href="https://iiif.biblissima.fr/collections/about">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="cartButton" href="#"><i class="material-icons">shopping_cart</i><span class="badge badge-success badge-pill" id="number"><strong>0</strong></span></a>
+				</li>
+			</ul>
+	  	</div>
+	</nav>
+</header>
+            <div class="container">
+    <div class="row">
+                <ul class="badges col-12 list-inline">
+            <li class="list-inline-item"><a class="px-3 py-1 badge-danger mb-3" href=https://iiif.biblissima.fr/collections/search>Remove all filters<span class="material-icons">close</span></a></li>
+                                    <li class="list-inline-item"><a class="px-3 py-1 badge-info mb-3" href="https://iiif.biblissima.fr/collections/search?"><span class="badge-name">query</span> : Paderborn<span class="material-icons">close</span></a></li>
+                                </ul>
+                        <aside class="col-12 col-sm-5 col-md-4 facets">
+                                     
+            <div class="facet collection mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet0">collection<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet0">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet0" placeholder="Filter Collection ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Gallica+%28Biblioth%C3%A8que+nationale+de+France%29"><span>Gallica (Bibliothèque nationale de France)</span>  <span class="count pl-2">9</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Digital+Collections+%28Leiden+University+Libraries%29"><span>Digital Collections (Leiden University Libraries)</span>  <span class="count pl-2">5</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Biblioteca+Nacional+de+Portugal+-+Biblioteca+Nacional+Digital"><span>Biblioteca Nacional de Portugal - Biblioteca Nacional Digital</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Digital+Bodleian+%28Oxford+University%29"><span>Digital Bodleian (Oxford University)</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Biblioth%C3%A8que+de+l%27Agglom%C3%A9ration+du+Pays+de+Saint-Omer"><span>Bibliothèque de l&#039;Agglomération du Pays de Saint-Omer</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Arca"><span>Arca</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Badische+Landesbibliothek+Karlsruhe"><span>Badische Landesbibliothek Karlsruhe</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Bayerische+Staatsbibliothek"><span>Bayerische Staatsbibliothek</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=Cambridge+Digital+Library"><span>Cambridge Digital Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=M%C3%A9monum+%28Montpellier+3M%29"><span>Mémonum (Montpellier 3M)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=The+British+Library%2C+Polonsky+Pre-1200+Project"><span>The British Library, Polonsky Pre-1200 Project</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;collection=e-codices"><span>e-codices</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet library mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet1">library<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet1">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet1" placeholder="Filter Library ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Paris.+Biblioth%C3%A8que+nationale+de+France%2C+D%C3%A9partement+des+manuscrits"><span>Paris. Bibliothèque nationale de France, Département des manuscrits</span>  <span class="count pl-2">9</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Leiden+University+Libraries"><span>Leiden University Libraries</span>  <span class="count pl-2">5</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Biblioteca+Nacional+de+Portugal"><span>Biblioteca Nacional de Portugal</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Oxford.+Bodleian+Library"><span>Oxford. Bodleian Library</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Biblioth%C3%A8que+de+l%27Agglom%C3%A9ration+du+Pays+de+Saint-Omer"><span>Bibliothèque de l&#039;Agglomération du Pays de Saint-Omer</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Bayerische+Staatsbibliothek"><span>Bayerische Staatsbibliothek</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Cambridge.+Cambridge+University+Library"><span>Cambridge. Cambridge University Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Karlsruhe.+Badische+Landesbibliothek"><span>Karlsruhe. Badische Landesbibliothek</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=London.+British+Library"><span>London. British Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Montpellier.+M%C3%A9diath%C3%A8que+centrale+Emile+Zola"><span>Montpellier. Médiathèque centrale Emile Zola</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=M%C3%A9diath%C3%A8que+Louis-Aragon+de+Le+Mans"><span>Médiathèque Louis-Aragon de Le Mans</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;library=Z%C3%BCrich.+Zentralbibliothek"><span>Zürich. Zentralbibliothek</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet location mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet2">location<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet2">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet2" placeholder="Filter Location ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Leuven+%28Flemish+Brabant%2C+Belgium%29"><span>Leuven (Flemish Brabant, Belgium)</span>  <span class="count pl-2">7</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Belgium"><span>Belgium</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Apennine+Peninsula"><span>Apennine Peninsula</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=German+regions"><span>German regions</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=German+regions%2C+Northern"><span>German regions, Northern</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Paderborn+%28North+Rhine-Westphalia%2C+Germany%29"><span>Paderborn (North Rhine-Westphalia, Germany)</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Abbey+of+Echternach+%28Luxembourg%29"><span>Abbey of Echternach (Luxembourg)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Abbey+of+St.+Gall+%28Switzerland%29"><span>Abbey of St. Gall (Switzerland)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Bo%CC%88ddeken+area+%28Germany%29"><span>Böddeken area (Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Derenburg+%28Saxony-Anhalt%2C+Germany%29"><span>Derenburg (Saxony-Anhalt, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=England+%28United+Kingdom%29"><span>England (United Kingdom)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=France"><span>France</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=France%2C+Northern"><span>France, Northern</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Frankfurt+am+Main+%28Hesse%2C+Germany%29"><span>Frankfurt am Main (Hesse, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Herrlisheim+%28Bas-Rhin%2C+France%29"><span>Herrlisheim (Bas-Rhin, France)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Ingelheim+am+Rhein+%28Rheinland-Pfalz%2C+Germany%29"><span>Ingelheim am Rhein (Rheinland-Pfalz, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Inheim+%28Germany%29+%28%3F%29"><span>Inheim (Germany) (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Longolane+%28Germany%29+%28%3F%29"><span>Longolane (Germany) (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Mainz+%28Rheinland-Pfalz%2C+Germany%29"><span>Mainz (Rheinland-Pfalz, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Metz+%28Moselle%2C+France%29"><span>Metz (Moselle, France)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Orvieto+%28Umbria%2C+Italy%29"><span>Orvieto (Umbria, Italy)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Paderborn+%28North+Rhine-Westphalia%2C+Germany%29+%28%3F%29"><span>Paderborn (North Rhine-Westphalia, Germany) (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Regensburg+%28Bavaria%2C+Germany%29"><span>Regensburg (Bavaria, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Westphalia+%28Germany%29+%28%3F%29"><span>Westphalia (Germany) (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=Worms+%28Rheinland-Pfalz%2C+Germany%29"><span>Worms (Rheinland-Pfalz, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;location=%C3%8Ele-de-France+%28France%29"><span>Île-de-France (France)</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet language mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet3">language<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet3">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet3" placeholder="Filter Language ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;language=Latin"><span>Latin</span>  <span class="count pl-2">17</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;language=German"><span>German</span>  <span class="count pl-2">5</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;language=French"><span>French</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;language=Dutch"><span>Dutch</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                                        <script type="text/javascript">
+                let values = {'min': 0801, 'max': 1800 };
+                let bounds = {'min': 0801, 'max': 1800 };
+            </script>
+            <div class="facet date mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet4">date<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id="facet4">
+                    <div>
+                        <form method="get" action="https://iiif.biblissima.fr/collections/search">
+                                                                                    <input type="hidden" name="q" value="Paderborn">
+                                                                                    <div id="sliderDate"></div>
+                                                        <input type="checkbox" name="date_include" id="date_include"><label for="date_include">Include results without date</label>
+                                                        <input class="btn btn-info" type="submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+                                            </aside>
+                <section class="col-12 col-sm-7 col-md-8">
+            <div class="results">
+                <h2>29 results</h2>
+                                                                <nav aria-label="pagination results">
+                    <ul class="pagination justify-content-center">
+                                                                                                            <li class="page-item active"><strong class="page-link">1</strong></li>
+                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;from=20&amp;">2</a></li>
+                                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;from=20&amp;">Next <span class="material-icons">chevron_right</span></a></li>
+                                        </ul>
+                </nav>
+                                <ul class="list-unstyled">
+                                    <li class="result media p-4 mb-3 cart-item" data-id="0c1b83bf3dc88d996f7734ff17fe7d43354ce9be" data-thumbnail="https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:884626/full/80,/0/default.jpg" data-shelfmark="Leyde. Universiteitsbibliotheek, BPL 191 E" data-manifest="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:884522/manifest">
+                        <a href="manifest/0c1b83bf3dc88d996f7734ff17fe7d43354ce9be">
+                                                        <img class="mr-3" src="https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:884626/full/80,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/UniversiteitLeidenLogo.svg" alt="Digital Collections (Leiden University Libraries)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Leyde. Universiteitsbibliotheek, BPL 191 E</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:884522/manifest?iiif-content=https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:884522/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="0c1b83bf3dc88d996f7734ff17fe7d43354ce9be"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Collections (Leiden University Libraries)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Leiden University Libraries</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">parts 1-3, 4, 5: German regions, northern part ; Paderborn?, 12th century, last quarter - parts 6-7: Apennine Peninsula, 12th century, last quarter - part 8: German regions, 12th century</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin, German</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/0c1b83bf3dc88d996f7734ff17fe7d43354ce9be">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Reinher de <em>Paderborn</em> (11..-11..)
+                                </li>
+                                                            <li class="highlight">
+                                    <em>Paderborn</em> (North Rhine-Westphalia, Germany) (?)
+                                </li>
+                                                            <li class="highlight">
+                                    . - (ff. 58v-59v) Letter from a provost of Mainz to a bishop of <em>Paderborn</em>. - (ff. 59v-60v) Annotations
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="206818cb8523aa11be64fe7b349a3e47943d13d9" data-thumbnail="https://bl.digirati.io/thumbs/ark:/81055/vdc_100056050256.0x000001/full/,200/0/default.jpg" data-shelfmark="London. British Library, Harley MS 3030" data-manifest="https://bl.digirati.io/iiif/ark:/81055/vdc_100056050254.0x000001">
+                        <a href="manifest/206818cb8523aa11be64fe7b349a3e47943d13d9">
+                                                        <img class="mr-3" src="https://bl.digirati.io/thumbs/ark:/81055/vdc_100056050256.0x000001/full/,200/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BritishLibrary.svg/226px-BritishLibrary.svg.png" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">London. British Library, Harley MS 3030</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://bl.digirati.io/iiif/ark:/81055/vdc_100056050254.0x000001?iiif-content=https://bl.digirati.io/iiif/ark:/81055/vdc_100056050254.0x000001"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="206818cb8523aa11be64fe7b349a3e47943d13d9"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">The British Library, Polonsky Pre-1200 Project</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">London. British Library</dd>
+                            </dl>
+                                                                                                                                                                        <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">lat</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/206818cb8523aa11be64fe7b349a3e47943d13d9">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Paderborn</em> (North Rhine-Westphalia, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    This volume was produced in the 2nd half of the 11th century in Western Germany, perhaps <em>Paderborn</em>.Fragments
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="ee4a0c07d05f8ad160336c12e9b7cd265ad841b8" data-thumbnail="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/b5/a5/9d/8c/b5a59d8c-701e-4d6a-ad2f-3622e1ee9aec/iiif/inc-191_0000_capa-capa_t24-C-R0150_000005.tif/full/!256,256/0/default.jpg" data-shelfmark="Lisbonne. Biblioteca nacional de Portugal, INC. 191" data-manifest="https://permalinkbnd.bnportugal.gov.pt/iiif/69895/manifest">
+                        <a href="manifest/ee4a0c07d05f8ad160336c12e9b7cd265ad841b8">
+                                                        <img class="mr-3" src="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/b5/a5/9d/8c/b5a59d8c-701e-4d6a-ad2f-3622e1ee9aec/iiif/inc-191_0000_capa-capa_t24-C-R0150_000005.tif/full/!256,256/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://permalinkbnd.bnportugal.gov.pt/themes/BNP/images/bnd_logo_dark.png" alt="Biblioteca Nacional de Portugal - Biblioteca Nacional Digital">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Lisbonne. Biblioteca nacional de Portugal, INC. 191</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://permalinkbnd.bnportugal.gov.pt/iiif/69895/manifest?iiif-content=https://permalinkbnd.bnportugal.gov.pt/iiif/69895/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="ee4a0c07d05f8ad160336c12e9b7cd265ad841b8"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal - Biblioteca Nacional Digital</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">[ca. 1484-87]</dd>
+                            </dl>
+                                                                                                                                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/ee4a0c07d05f8ad160336c12e9b7cd265ad841b8">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="c7fd11f52a9888d155691cffcf95eb5089b31f38" data-thumbnail="https://gallica.bnf.fr/ark:/12148/btv1b52505561w.thumbnail" data-shelfmark="Paris. Bibliothèque nationale de France, Département des manuscrits, Latin 9264" data-manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505561w/manifest.json">
+                        <a href="manifest/c7fd11f52a9888d155691cffcf95eb5089b31f38">
+                                                        <img class="mr-3" src="https://gallica.bnf.fr/ark:/12148/btv1b52505561w.thumbnail" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gallica_logo.svg" alt="Gallica (Bibliothèque nationale de France)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Paris. Bibliothèque nationale de France, Département des manuscrits, Latin 9264</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505561w/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505561w/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="c7fd11f52a9888d155691cffcf95eb5089b31f38"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Gallica (Bibliothèque nationale de France)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Paris. Bibliothèque nationale de France, Département des manuscrits</dd>
+                            </dl>
+                                                                                                                                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/c7fd11f52a9888d155691cffcf95eb5089b31f38">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Paderborn</em> (North Rhine-Westphalia, Germany)
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="67293ef3649d00e33574891975d0411601c681cc" data-thumbnail="https://iiif.bodleian.ox.ac.uk/iiif/image/42420bcc-a931-42c6-b63b-7a67055de94a/full/256,/0/default.jpg" data-shelfmark="Oxford. Bodleian Library, Auct. M inf. 1.6" data-manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/40f86b74-219e-4367-b7f0-ee0ca1f34aa1.json">
+                        <a href="manifest/67293ef3649d00e33574891975d0411601c681cc">
+                                                        <img class="mr-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/42420bcc-a931-42c6-b63b-7a67055de94a/full/256,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Oxford. Bodleian Library, Auct. M inf. 1.6</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://iiif.bodleian.ox.ac.uk/iiif/manifest/40f86b74-219e-4367-b7f0-ee0ca1f34aa1.json?iiif-content=https://iiif.bodleian.ox.ac.uk/iiif/manifest/40f86b74-219e-4367-b7f0-ee0ca1f34aa1.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="67293ef3649d00e33574891975d0411601c681cc"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Bodleian (Oxford University)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Oxford. Bodleian Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">[after 1476]</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/67293ef3649d00e33574891975d0411601c681cc">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>, ca 1484-ca 1487 > , impr.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="79ae41f05e4ae921e52c074f081c743d590ab3ac" data-thumbnail="https://iiif.bodleian.ox.ac.uk/iiif/image/8414d3ed-468b-4bb0-a197-83912d3e165f/full/256,/0/default.jpg" data-shelfmark="Oxford. Bodleian Library, Douce RR 59" data-manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/bb8fa775-ffd4-4050-b481-42dd26a7ed12.json">
+                        <a href="manifest/79ae41f05e4ae921e52c074f081c743d590ab3ac">
+                                                        <img class="mr-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/8414d3ed-468b-4bb0-a197-83912d3e165f/full/256,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Oxford. Bodleian Library, Douce RR 59</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://iiif.bodleian.ox.ac.uk/iiif/manifest/bb8fa775-ffd4-4050-b481-42dd26a7ed12.json?iiif-content=https://iiif.bodleian.ox.ac.uk/iiif/manifest/bb8fa775-ffd4-4050-b481-42dd26a7ed12.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="79ae41f05e4ae921e52c074f081c743d590ab3ac"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Bodleian (Oxford University)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Oxford. Bodleian Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">[1484/5-1487]</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/79ae41f05e4ae921e52c074f081c743d590ab3ac">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>, ca 1484-ca 1487 > , impr.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="eb374c298aa41a10c355b7beb33bf142640426c1" data-thumbnail="https://gallica.bnf.fr/ark:/12148/bpt6k1095313v.thumbnail" data-shelfmark="Montpellier. Bibliothèques municipales, C 122" data-manifest="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1095313v/manifest.json">
+                        <a href="manifest/eb374c298aa41a10c355b7beb33bf142640426c1">
+                                                        <img class="mr-3" src="https://gallica.bnf.fr/ark:/12148/bpt6k1095313v.thumbnail" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/fr/e/e0/Logo_Montpellier_M%C3%A9diterran%C3%A9e_M%C3%A9tropole.svg" alt="Mémonum (Montpellier 3M)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Montpellier. Bibliothèques municipales, C 122</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1095313v/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1095313v/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="eb374c298aa41a10c355b7beb33bf142640426c1"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Mémonum (Montpellier 3M)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Montpellier. Médiathèque centrale Emile Zola</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1482</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">lat</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/eb374c298aa41a10c355b7beb33bf142640426c1">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>, ca 1484-ca 1487 > , impr.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="cc7f4e005675d8efab14633dd1c0dad0cb594b88" data-thumbnail="https://iiif.bodleian.ox.ac.uk/iiif/image/298a591a-c9d1-4bdc-bf64-90d0c08f7646/full/256,/0/default.jpg" data-shelfmark="Oxford. Bodleian Library, Auct. Q sup. 1.15" data-manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2ff0c480-c6f7-4770-a7b1-7e239d1c5092.json">
+                        <a href="manifest/cc7f4e005675d8efab14633dd1c0dad0cb594b88">
+                                                        <img class="mr-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/298a591a-c9d1-4bdc-bf64-90d0c08f7646/full/256,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Oxford. Bodleian Library, Auct. Q sup. 1.15</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2ff0c480-c6f7-4770-a7b1-7e239d1c5092.json?iiif-content=https://iiif.bodleian.ox.ac.uk/iiif/manifest/2ff0c480-c6f7-4770-a7b1-7e239d1c5092.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="cc7f4e005675d8efab14633dd1c0dad0cb594b88"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Bodleian (Oxford University)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Oxford. Bodleian Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">[c. 1483-5]</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/cc7f4e005675d8efab14633dd1c0dad0cb594b88">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>, ca 1484-ca 1487 > , impr.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="a007af320fc0830a7f5babb0f8f4e4484a82c9fc" data-thumbnail="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/86/d7/a6/fd/86d7a6fd-c266-4b39-9917-8d480b8b9770/iiif/inc-1373_0000_000007.tif/full/!256,256/0/default.jpg" data-shelfmark="Lisbonne. Biblioteca nacional de Portugal, INC. 1373" data-manifest="https://permalinkbnd.bnportugal.gov.pt/iiif/69699/manifest">
+                        <a href="manifest/a007af320fc0830a7f5babb0f8f4e4484a82c9fc">
+                                                        <img class="mr-3" src="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/86/d7/a6/fd/86d7a6fd-c266-4b39-9917-8d480b8b9770/iiif/inc-1373_0000_000007.tif/full/!256,256/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://permalinkbnd.bnportugal.gov.pt/themes/BNP/images/bnd_logo_dark.png" alt="Biblioteca Nacional de Portugal - Biblioteca Nacional Digital">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Lisbonne. Biblioteca nacional de Portugal, INC. 1373</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://permalinkbnd.bnportugal.gov.pt/iiif/69699/manifest?iiif-content=https://permalinkbnd.bnportugal.gov.pt/iiif/69699/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="a007af320fc0830a7f5babb0f8f4e4484a82c9fc"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal - Biblioteca Nacional Digital</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">[ca. 1484-85]</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/a007af320fc0830a7f5babb0f8f4e4484a82c9fc">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="0c953fbd5d05e174813247cdbd081abc3d33dc8a" data-thumbnail="https://images.lib.cam.ac.uk/iiif/MS-FF-00001-00025-00004-000-00001.jp2/full/,150/0/default.jpg" data-shelfmark="Cambridge. Cambridge University Library, MS Ff.1.25.4" data-manifest="https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00025-00004">
+                        <a href="manifest/0c953fbd5d05e174813247cdbd081abc3d33dc8a">
+                                                        <img class="mr-3" src="https://images.lib.cam.ac.uk/iiif/MS-FF-00001-00025-00004-000-00001.jp2/full/,150/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://cudl.lib.cam.ac.uk/themeui/theme/images/logo.svg" alt="Cambridge Digital Library">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Cambridge. Cambridge University Library, MS Ff.1.25.4</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00025-00004?iiif-content=https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00025-00004"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="0c953fbd5d05e174813247cdbd081abc3d33dc8a"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Cambridge Digital Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Cambridge. Cambridge University Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Mid-thirteenth century C.E. (c. 1240-1260)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/0c953fbd5d05e174813247cdbd081abc3d33dc8a">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Oliver of <em>Paderborn</em>
+                                </li>
+                                                            <li class="highlight">
+                                    narrative of the fifth crusade (1217-1222) written by one of its principal participants, Oliver of <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="780dbb2a71522ee99dd180990b06ce19e2bb5533" data-thumbnail="https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/i/?IIIF=/44/02/34/aa/440234aa-d7d1-4901-ac2e-bf82aaabe232/iiif/627656201_MS0510_0006.tif/full/!256,256/0/default.jpg" data-shelfmark="Saint-Omer. Bibliothèque d&#039;agglomération, Ms. 510, Inc. 145" data-manifest="https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/iiif/18281/manifest">
+                        <a href="manifest/780dbb2a71522ee99dd180990b06ce19e2bb5533">
+                                                        <img class="mr-3" src="https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/i/?IIIF=/44/02/34/aa/440234aa-d7d1-4901-ac2e-bf82aaabe232/iiif/627656201_MS0510_0006.tif/full/!256,256/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/fr/e/e5/CA_Pays_de_Saint-Omer_logo_2017.svg" alt="Bibliothèque de l&#039;Agglomération du Pays de Saint-Omer">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Saint-Omer. Bibliothèque d&#039;agglomération, Ms. 510, Inc. 145</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/iiif/18281/manifest?iiif-content=https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/iiif/18281/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="780dbb2a71522ee99dd180990b06ce19e2bb5533"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bibliothèque de l'Agglomération du Pays de Saint-Omer</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bibliothèque de l'Agglomération du Pays de Saint-Omer</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1475-05-14, 28 mai 1475, 15e siècle</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">lat</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/780dbb2a71522ee99dd180990b06ce19e2bb5533">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>, ca 1484-ca 1487 > , impr.
+                                </li>
+                                                            <li class="highlight">
+                                    Leuven, Johann von <em>Paderborn</em>, 28.V.1475.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="ec5ef970810f88be6d910a03e07b2f6a51206483" data-thumbnail="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/d1/b4/4f/6f/d1b44f6f-75eb-4da8-b252-1bf9851cea97/iiif/inc-190_0000_000007.tif/full/!256,256/0/default.jpg" data-shelfmark="Lisbonne. Biblioteca nacional de Portugal, INC. 190" data-manifest="https://permalinkbnd.bnportugal.gov.pt/iiif/69887/manifest">
+                        <a href="manifest/ec5ef970810f88be6d910a03e07b2f6a51206483">
+                                                        <img class="mr-3" src="https://permalinkbnd.bnportugal.gov.pt/i/?IIIF=/d1/b4/4f/6f/d1b44f6f-75eb-4da8-b252-1bf9851cea97/iiif/inc-190_0000_000007.tif/full/!256,256/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://permalinkbnd.bnportugal.gov.pt/themes/BNP/images/bnd_logo_dark.png" alt="Biblioteca Nacional de Portugal - Biblioteca Nacional Digital">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Lisbonne. Biblioteca nacional de Portugal, INC. 190</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://permalinkbnd.bnportugal.gov.pt/iiif/69887/manifest?iiif-content=https://permalinkbnd.bnportugal.gov.pt/iiif/69887/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="ec5ef970810f88be6d910a03e07b2f6a51206483"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal - Biblioteca Nacional Digital</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Biblioteca Nacional de Portugal</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1484</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/ec5ef970810f88be6d910a03e07b2f6a51206483">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Johann de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="900f42d3775576229267050ad0c41871f84374d2" data-thumbnail="https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3761308/full/80,/0/default.jpg" data-shelfmark="Leyde. Universiteitsbibliotheek, BPL 1983" data-manifest="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3761179/manifest">
+                        <a href="manifest/900f42d3775576229267050ad0c41871f84374d2">
+                                                        <img class="mr-3" src="https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3761308/full/80,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/UniversiteitLeidenLogo.svg" alt="Digital Collections (Leiden University Libraries)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Leyde. Universiteitsbibliotheek, BPL 1983</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3761179/manifest?iiif-content=https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3761179/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="900f42d3775576229267050ad0c41871f84374d2"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Collections (Leiden University Libraries)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Leiden University Libraries</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">German regions, northern part ; Böddeken region, 1463</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">German, Dutch</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/900f42d3775576229267050ad0c41871f84374d2">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Meinolf (Meinolphus), Böddeken bei <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="958cf00f0fa1bbbf00e949f09dbcf122c0a49775" data-thumbnail="https://digital.blb-karlsruhe.de/blbhs/i3f/v21/5042497/full/304/0/default.jpg" data-shelfmark="Karlsruhe. Badische Landesbibliothek, Ettenheim-Münster 46" data-manifest="https://digital.blb-karlsruhe.de/i3f/v20/5037525/manifest">
+                        <a href="manifest/958cf00f0fa1bbbf00e949f09dbcf122c0a49775">
+                                                        <img class="mr-3" src="https://digital.blb-karlsruhe.de/blbhs/i3f/v21/5042497/full/304/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://blb-karlsruhe.de/files/user_upload/Logo/blb.svg" alt="Badische Landesbibliothek Karlsruhe">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Karlsruhe. Badische Landesbibliothek, Ettenheim-Münster 46</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://digital.blb-karlsruhe.de/i3f/v20/5037525/manifest?iiif-content=https://digital.blb-karlsruhe.de/i3f/v20/5037525/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="958cf00f0fa1bbbf00e949f09dbcf122c0a49775"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Badische Landesbibliothek Karlsruhe</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Karlsruhe. Badische Landesbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1582</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/958cf00f0fa1bbbf00e949f09dbcf122c0a49775">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Prophezeiung aus <em>Paderborn</em>, 1492-1599
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="2fce820d98d1facc351234171349668235ba8f6e" data-thumbnail="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxwfsy9s5u0g/full/200,/0/default.jpg" data-shelfmark="Le Mans. Médiathèque Louis Aragon, Ms. 51" data-manifest="https://api.irht.cnrs.fr/ark:/63955/fxgspl4w8xrl/manifest.json">
+                        <a href="manifest/2fce820d98d1facc351234171349668235ba8f6e">
+                                                        <img class="mr-3" src="https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxwfsy9s5u0g/full/200,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://arca.irht.cnrs.fr/logo-arca.svg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Le Mans. Médiathèque Louis Aragon, Ms. 51</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.irht.cnrs.fr/ark:/63955/fxgspl4w8xrl/manifest.json?iiif-content=https://api.irht.cnrs.fr/ark:/63955/fxgspl4w8xrl/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="2fce820d98d1facc351234171349668235ba8f6e"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Arca</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Médiathèque Louis-Aragon de Le Mans</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">15e s.-18e s.</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">latin</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Digitisation type</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">intégral</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/2fce820d98d1facc351234171349668235ba8f6e">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Pièces relatives à la confrérie des chanoines du Mans avec ceux d'Angers et l'église de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="11e5c15ea7623aa742eaa6876960188e34fff1b0" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008863_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 3934" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008863/manifest">
+                        <a href="manifest/11e5c15ea7623aa742eaa6876960188e34fff1b0">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008863_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 3934</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008863/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008863/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="11e5c15ea7623aa742eaa6876960188e34fff1b0"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1590</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/11e5c15ea7623aa742eaa6876960188e34fff1b0">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Chronik der Bischöfe von Augsburg, Bamberg, Chur, Konstanz, Eichstätt, Halberstadt, Hildesheim, Mainz, <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="91d17a71ce11712cfe6811586fa3a03377bb83ed" data-thumbnail="https://gallica.bnf.fr/ark:/12148/btv1b10035456k.thumbnail" data-shelfmark="Paris. Bibliothèque nationale de France, Département des manuscrits, Périgord 75" data-manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035456k/manifest.json">
+                        <a href="manifest/91d17a71ce11712cfe6811586fa3a03377bb83ed">
+                                                        <img class="mr-3" src="https://gallica.bnf.fr/ark:/12148/btv1b10035456k.thumbnail" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gallica_logo.svg" alt="Gallica (Bibliothèque nationale de France)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Paris. Bibliothèque nationale de France, Département des manuscrits, Périgord 75</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035456k/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035456k/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="91d17a71ce11712cfe6811586fa3a03377bb83ed"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Gallica (Bibliothèque nationale de France)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Paris. Bibliothèque nationale de France, Département des manuscrits</dd>
+                            </dl>
+                                                                                                                                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/91d17a71ce11712cfe6811586fa3a03377bb83ed">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    >ÉTATS PROVINCIAUX de PérigordLÉZIGNEMLOUIS XIV, roi de France<em>PADERBORN</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="fac28f2ea293a58bf550d929a3242018aec0042c" data-thumbnail="https://gallica.bnf.fr/ark:/12148/btv1b9000981v.thumbnail" data-shelfmark="Paris. Bibliothèque nationale de France, Département des manuscrits, Clairambault 794" data-manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b9000981v/manifest.json">
+                        <a href="manifest/fac28f2ea293a58bf550d929a3242018aec0042c">
+                                                        <img class="mr-3" src="https://gallica.bnf.fr/ark:/12148/btv1b9000981v.thumbnail" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gallica_logo.svg" alt="Gallica (Bibliothèque nationale de France)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Paris. Bibliothèque nationale de France, Département des manuscrits, Clairambault 794</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://gallica.bnf.fr/iiif/ark:/12148/btv1b9000981v/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b9000981v/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="fac28f2ea293a58bf550d929a3242018aec0042c"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Gallica (Bibliothèque nationale de France)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Paris. Bibliothèque nationale de France, Département des manuscrits</dd>
+                            </dl>
+                                                                                                                                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/fac28f2ea293a58bf550d929a3242018aec0042c">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    DIVERS, seigneuriauxFIEFS • DéclarationsFURSTENBERG (Ferdinand DE), évêque de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="ccb15712a7b23e1e52bfb0d492dbf2caf978723a" data-thumbnail="https://gallica.bnf.fr/ark:/12148/btv1b9002802h.thumbnail" data-shelfmark="Paris. Bibliothèque nationale de France, Département des manuscrits, Baluze 94" data-manifest="https://gallica.bnf.fr/iiif/ark:/12148/btv1b9002802h/manifest.json">
+                        <a href="manifest/ccb15712a7b23e1e52bfb0d492dbf2caf978723a">
+                                                        <img class="mr-3" src="https://gallica.bnf.fr/ark:/12148/btv1b9002802h.thumbnail" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gallica_logo.svg" alt="Gallica (Bibliothèque nationale de France)">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Paris. Bibliothèque nationale de France, Département des manuscrits, Baluze 94</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://gallica.bnf.fr/iiif/ark:/12148/btv1b9002802h/manifest.json?iiif-content=https://gallica.bnf.fr/iiif/ark:/12148/btv1b9002802h/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="ccb15712a7b23e1e52bfb0d492dbf2caf978723a"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Gallica (Bibliothèque nationale de France)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Paris. Bibliothèque nationale de France, Département des manuscrits</dd>
+                            </dl>
+                                                                                                                                                                        <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">français</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/ccb15712a7b23e1e52bfb0d492dbf2caf978723a">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Constantinopoli repertum »DIJON • Extraits de manuscritsFURSTENBERG (Fernand DE), évêque de <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="41b0714de5813abd6a3b2ec1e60a38e71eb492b8" data-thumbnail="https://www.e-codices.unifr.ch/loris/zbz/zbz-C0078/zbz-C0078_e001.jp2/full/,150/0/default.jpg" data-shelfmark="Zürich. Zentralbibliothek, Ms. C 78" data-manifest="https://www.e-codices.unifr.ch/metadata/iiif/zbz-C0078/manifest.json">
+                        <a href="manifest/41b0714de5813abd6a3b2ec1e60a38e71eb492b8">
+                                                        <img class="mr-3" src="https://www.e-codices.unifr.ch/loris/zbz/zbz-C0078/zbz-C0078_e001.jp2/full/,150/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://www.e-codices.ch/img/logo-for-iiif-manifest.png" alt="e-codices">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Zürich. Zentralbibliothek, Ms. C 78</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://www.e-codices.unifr.ch/metadata/iiif/zbz-C0078/manifest.json?iiif-content=https://www.e-codices.unifr.ch/metadata/iiif/zbz-C0078/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="41b0714de5813abd6a3b2ec1e60a38e71eb492b8"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">e-codices</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Zürich. Zentralbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">9th century, 10th century, 11th century, 12th century, 13th century, 14th century, 15th century, 9th–15th centuries</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin, German</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/41b0714de5813abd6a3b2ec1e60a38e71eb492b8">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    between King Charlemagne and Pope Leo III, the "Aachener Karlsepos " (Carolingean Epic of Aachen or <em>Paderborn</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                </ul>
+                <nav aria-label="pagination results">
+                    <ul class="pagination justify-content-center">
+                                                                                                            <li class="page-item active"><strong class="page-link">1</strong></li>
+                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;from=20&amp;">2</a></li>
+                                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Paderborn&amp;from=20&amp;">Next <span class="material-icons">chevron_right</span></a></li>
+                                        </ul>
+                </nav>
+                            </div>
+        </section>
+    </div>
+</div>
+            <button class="btn btn-light" id="backToTop"><span class="material-icons">expand_less</span></button>
+            <footer class="footer d-flex align-items-center justify-content-between p-3 mt-5">
+	<div class="">
+		<a href="https://projet.biblissima.fr"><img class="bbma-logo" src="https://iiif.biblissima.fr/collections/images/biblissima-logo.svg" alt="Biblissima"></a>
+	</div>
+	<div class="footer-contact">
+		<a href="https://iiif.biblissima.fr/collections/about">About</a>
+		<span class="">|</span>
+		<span>Feedback welcome: <a href="mailto:team@biblissima-condorcet.fr">team@biblissima-condorcet.fr</a></span>
+	</div>
+	<div class="">
+		Powered by
+		<a href="https://iiif.io"><img class="iiif-logo" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png" alt="IIIF"></a>
+	</div>
+</footer>        </main>
+    </div>
+    <div class="cart-modal modal fade" id="cartModal" role="dialog">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">My selection</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ul class="list-unstyled m-0">
+          <li class="justify-content-center">Please select items from search results or item pages.</li>
+        <!-- Rempli en JS -->
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <div class="d-flex flex-grow-1 mr-0">
+          <ul class="list-unstyled m-0 d-flex flex-row flex-wrap w-100 pr-2">
+            <li class="">
+              <button class="btn btn-success cart-btn-action" id="exportCart" data-placement="bottom" data-toggle="tooltip" title="Export some data about these documents in a spreadsheet">Export to CSV</button>
+            </li>
+            <li class="pl-2">
+              <button class="btn btn-success cart-btn-action" id="createIIIFCollection" data-placement="bottom" data-toggle="tooltip" title=" Create a persistent collection of these documents for sharing or viewing them in a viewer">Create a IIIF Collection</button>
+            </li>
+          </ul>
+          <div class="pl-2">
+            <button class="btn btn-danger cart-btn-action" id="emptyCart">Remove all items</button>
+          </div>
+        </div>
+        <div class="collection pt-2 mt-3 ml-0 w-100 border-top border-secondary" id="collection">
+          <p class="message my-2">
+            <strong>New collection created:</strong>
+          </p>
+          <div class="d-flex flex-wrap ">
+            <div class="collection-wrapper d-flex flex-grow-1">
+              <a class="iiif-logo pr-1" id="iiifLogo" href="" rel="nofollow noopener noreferrer" title="Glisser-déposer cette icône dans un visualiseur IIIF">
+                  <img src="https://iiif.biblissima.fr/collections/images/iiif-logo.png" alt="IIIF Drag and Drop Icon" width="28" height="28">
+              </a>
+              <input class="flex-fill" value="" id="iiifUrl" readonly="">
+              <button class="clipboard manual-tooltip d-flex" data-toggle="tooltip" data-clipboard-target="#iiifUrl" aria-label="Copy to clipboard" data-original-title="" title=""><i class="material-icons text-secondary">content_copy</i></button>
+            </div>
+            <a href="#" id="viewMirador" class="btn btn-secondary" target="_blank">View in Mirador</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>            <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+  _paq.push([function() {
+    var self = this;
+    function getOriginalVisitorCookieTimeout() {
+      var now = new Date(),
+      nowTs = Math.round(now.getTime() / 1000),
+      visitorInfo = self.getVisitorInfo();
+      var createTs = parseInt(visitorInfo[2]);
+      var cookieTimeout = 33696000; // 13 mois en secondes
+      var originalTimeout = createTs + cookieTimeout - nowTs;
+      return originalTimeout;
+    }
+    this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+  }]);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.biblissima.fr/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "14"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><img src="https://piwik.biblissima.fr/piwik.php?idsite=14" style="border:0" alt="" /></noscript>
+<!-- End Piwik -->        
+</body>
+</html>

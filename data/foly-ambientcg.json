@@ -1,0 +1,126 @@
+{
+  "provider": "ambientcg",
+  "reviewedAt": "2026-11-02",
+  "terms": "https://docs.ambientcg.com/license/",
+  "items": [
+    {
+      "id": "Bark016",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Bark016.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Bark016&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Fabric086",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Fabric086.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Fabric086&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Bricks001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Bricks001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Bricks001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Bricks002",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Bricks002.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Bricks002&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Concrete001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Concrete001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Concrete001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Concrete002",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Concrete002.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Concrete002&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Wood001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Wood001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Wood001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Wood002",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Wood002.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Wood002&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Ground001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Ground001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Ground001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Ground002",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Ground002.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Ground002&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Grass001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Grass001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Grass001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Gravel001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Gravel001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Gravel001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Metal001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Metal001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Metal001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Marble001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Marble001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Marble001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Tiles001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Tiles001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Tiles001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Tiles002",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Tiles002.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Tiles002&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    },
+    {
+      "id": "Rock001",
+      "image": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/512-JPG-FFFFFF/Rock001.jpg",
+      "provenance": "https://ambientcg.com/api/v2/full_json?id=Rock001&limit=1",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0"
+    }
+  ]
+}

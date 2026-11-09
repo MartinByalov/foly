@@ -1,0 +1,184 @@
+{
+  "@type": "sc:Manifest",
+  "@id": "https://digitalcollections.folger.edu/node/50479/manifest",
+  "label": "Concerning Edward Bacon's lease in Hockwold, Norfolk: manuscript",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "sequences": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://digitalcollections.folger.edu/node/50479/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://digitalcollections.folger.edu/node/50479/canvas/792663",
+          "@type": "sc:Canvas",
+          "label": "1 recto",
+          "height": 6408,
+          "width": 4677,
+          "images": [
+            {
+              "@id": "https://digitalcollections.folger.edu/node/50479/annotation/792663",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120235-Preservation%2520Master%2520File.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6408,
+                "width": 4677,
+                "service": {
+                  "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120235-Preservation%2520Master%2520File.jpg",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              },
+              "on": "https://digitalcollections.folger.edu/node/50479/canvas/792663"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digitalcollections.folger.edu/sites/default/files/2023-07/120235.jpg",
+            "format": "image/jpeg",
+            "height": 480,
+            "width": 350
+          },
+          "metadata": [
+            {
+              "label": "Digital image file name",
+              "value": "120235"
+            },
+            {
+              "label": "Member of",
+              "value": "Concerning Edward Bacon's lease in Hockwold, Norfolk: manuscript"
+            },
+            {
+              "label": "Resource Type",
+              "value": "Still Image"
+            },
+            {
+              "label": "Rights",
+              "value": "https://rightsstatements.org/page/NoC-US/1.0/"
+            },
+            {
+              "label": "Sort order",
+              "value": "52"
+            },
+            {
+              "label": "Title",
+              "value": "1 recto"
+            },
+            {
+              "label": "Page/opening",
+              "value": "1 recto"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalcollections.folger.edu/node/50479/canvas/792664",
+          "@type": "sc:Canvas",
+          "label": "1 verso",
+          "height": 6403,
+          "width": 4685,
+          "images": [
+            {
+              "@id": "https://digitalcollections.folger.edu/node/50479/annotation/792664",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120236-Preservation%2520Master%2520File.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6403,
+                "width": 4685,
+                "service": {
+                  "@id": "https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-12%2F120236-Preservation%2520Master%2520File.jpg",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              },
+              "on": "https://digitalcollections.folger.edu/node/50479/canvas/792664"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digitalcollections.folger.edu/sites/default/files/2023-07/120236.jpg",
+            "format": "image/jpeg",
+            "height": 480,
+            "width": 351
+          },
+          "metadata": [
+            {
+              "label": "Digital image file name",
+              "value": "120236"
+            },
+            {
+              "label": "Member of",
+              "value": "Concerning Edward Bacon's lease in Hockwold, Norfolk: manuscript"
+            },
+            {
+              "label": "Resource Type",
+              "value": "Still Image"
+            },
+            {
+              "label": "Rights",
+              "value": "https://rightsstatements.org/page/NoC-US/1.0/"
+            },
+            {
+              "label": "Sort order",
+              "value": "53"
+            },
+            {
+              "label": "Title",
+              "value": "1 verso"
+            },
+            {
+              "label": "Page/opening",
+              "value": "1 verso"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attribution": "Digital Collections",
+  "metadata": [
+    {
+      "label": "Date",
+      "value": "1570~/1618-09-08"
+    },
+    {
+      "label": "Member of",
+      "value": "Pre-1701 manuscripts"
+    },
+    {
+      "label": "Resource Type",
+      "value": "Collection"
+    },
+    {
+      "label": "Rights",
+      "value": "https://rightsstatements.org/page/NoC-US/1.0/"
+    },
+    {
+      "label": "Call number",
+      "value": "X.d.502 (1)"
+    },
+    {
+      "label": "Note(s)",
+      "value": "<p>For two pieces of land.</p>"
+    },
+    {
+      "label": "Extent",
+      "value": "leaf"
+    },
+    {
+      "label": "Title",
+      "value": "Concerning Edward Bacon's lease in Hockwold, Norfolk: manuscript"
+    },
+    {
+      "label": "Created/published",
+      "value": "undated"
+    }
+  ],
+  "behavior": [
+    "individuals",
+    "paged"
+  ]
+}

@@ -1,0 +1,39 @@
+name: Foly automatic checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */6 * * *'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Unit and regression tests
+        run: node --test tests/foly-*.test.mjs
+      - name: Node API, rights and media checks
+        id: live
+        continue-on-error: true
+        run: node scripts/check-foly-sources.mjs
+      - name: Respect shared-IP trivia rate limit
+        run: Start-Sleep -Seconds 6
+      - name: Browser CORS, card rendering, answer reveal and preview checks
+        id: browser
+        continue-on-error: true
+        run: node scripts/check-foly-browser.mjs
+      - name: Upload actual health reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: foly-health
+          path: data/foly-*-health.json
+      - name: Fail when a live check failed
+        if: steps.live.outcome == 'failure' || steps.browser.outcome == 'failure'
+        run: throw 'Provider health checks failed. See report artifacts; failed results are not approved.'

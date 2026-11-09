@@ -1,0 +1,2558 @@
+{
+  "@type": "sc:Manifest",
+  "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/manifest",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "label": [
+    {
+      "@language": "fr",
+      "@value": "Journal historique et littéraire - 1788-09-01"
+    },
+    {
+      "@value": "Journal historique et littéraire - 1788-09-01"
+    }
+  ],
+  "metadata": [
+    {
+      "label": "type",
+      "value": [
+        {
+          "@value": "http://data.europeana.eu/concept/18"
+        },
+        {
+          "@value": "http://schema.org/PublicationIssue"
+        },
+        {
+          "@language": "en",
+          "@value": "Analytic serial"
+        },
+        {
+          "@language": "en",
+          "@value": "Newspaper"
+        }
+      ]
+    },
+    {
+      "label": "language",
+      "value": [
+        {
+          "@value": "fr"
+        }
+      ]
+    }
+  ],
+  "thumbnail": {
+    "@type": "dctypes:Image",
+    "@id": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.europeana.eu%2Fimage%2FQNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA%2Fpresentation_images%2Fee0edfa0-0220-11e6-a696-fa163e2dd531%2Fnode-3%2Fimage%2FBNL%2FJournal_historique_et_litt%C3%A9raire%2F1788%2F09%2F01%2F00001%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=TEXT"
+  },
+  "navDate": "1788-09-01T00:00:00Z",
+  "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+  "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "logo": "https://style.europeana.eu/images/europeana-logo-default.png",
+  "seeAlso": [
+    {
+      "@id": "https://api.europeana.eu/record/9200396/BibliographicResource_3000118436165.json-ld",
+      "format": "application/ld+json",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    },
+    {
+      "@id": "https://api.europeana.eu/record/9200396/BibliographicResource_3000118436165.json",
+      "format": "application/json",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    },
+    {
+      "@id": "https://api.europeana.eu/record/9200396/BibliographicResource_3000118436165.rdf",
+      "format": "application/rdf+xml",
+      "profile": "http://www.europeana.eu/schemas/edm/"
+    }
+  ],
+  "service": {
+    "@context": "http://iiif.io/api/search/1/context.json",
+    "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/search",
+    "profile": "http://iiif.io/api/search/1/search"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "startCanvas": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p1",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p1",
+          "label": "p. 1",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00001/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00001",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p1"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/b831e45?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p2",
+          "label": "p. 2",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00002/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00002",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p2"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p3",
+          "label": "p. 3",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00003/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00003",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p3"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/f37f42c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p4",
+          "label": "p. 4",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00004/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00004",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p4"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/cf0ce0e?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p5",
+          "label": "p. 5",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00005/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00005",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p5"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/15a5222?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p6",
+          "label": "p. 6",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00006/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00006",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p6"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/21711b7?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p7",
+          "label": "p. 7",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00007/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00007",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p7"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/da47c18?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p8",
+          "label": "p. 8",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00008/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00008",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p8"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/3e5d88b?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p9",
+          "label": "p. 9",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00009/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00009",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p9"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/20cef6b?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p10",
+          "label": "p. 10",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00010/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00010",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p10"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/b25c9d2?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p11",
+          "label": "p. 11",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00011/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00011",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p11"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/ca3c2fb?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p12",
+          "label": "p. 12",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00012/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00012",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p12"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c7946b7?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p13",
+          "label": "p. 13",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00013/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00013",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p13"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/144009e?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p14",
+          "label": "p. 14",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00014/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00014",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p14"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/5179324?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p15",
+          "label": "p. 15",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00015/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00015",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p15"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/52716e8?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p16",
+          "label": "p. 16",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00016/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00016",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p16"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/e14f635?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p17",
+          "label": "p. 17",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00017/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00017",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p17"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c734588?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p18",
+          "label": "p. 18",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00018/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00018",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p18"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/6b463d8?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p19",
+          "label": "p. 19",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00019/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00019",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p19"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/7d8d673?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p20",
+          "label": "p. 20",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00020/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00020",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p20"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/3440abe?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p21",
+          "label": "p. 21",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00021/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00021",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p21"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/32a8cf4?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p22",
+          "label": "p. 22",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00022/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00022",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p22"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/ea570d7?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p23",
+          "label": "p. 23",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00023/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00023",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p23"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/6e64b52?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p24",
+          "label": "p. 24",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00024/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00024",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p24"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c4912d4?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p25",
+          "label": "p. 25",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00025/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00025",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p25"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/0090019?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p26",
+          "label": "p. 26",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00026/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00026",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p26"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/368c9ae?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p27",
+          "label": "p. 27",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00027/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00027",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p27"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/ba81773?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p28",
+          "label": "p. 28",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00028/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00028",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p28"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/e5da51f?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p29",
+          "label": "p. 29",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00029/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00029",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p29"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/bc8e767?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p30",
+          "label": "p. 30",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00030/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00030",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p30"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/980bd5c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p31",
+          "label": "p. 31",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00031/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00031",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p31"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/a1dbc70?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p32",
+          "label": "p. 32",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00032/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00032",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p32"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/19bfecd?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p33",
+          "label": "p. 33",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00033/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00033",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p33"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/63c662d?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p34",
+          "label": "p. 34",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00034/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00034",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p34"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/5dcd737?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p35",
+          "label": "p. 35",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00035/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00035",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p35"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/dc8917c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p36",
+          "label": "p. 36",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00036/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00036",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p36"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/e2f957d?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p37",
+          "label": "p. 37",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00037/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00037",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p37"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/388a20c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p38",
+          "label": "p. 38",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00038/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00038",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p38"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/d2c8a15?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p39",
+          "label": "p. 39",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00039/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00039",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p39"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/b2792b7?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p40",
+          "label": "p. 40",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00040/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00040",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p40"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/99ee6c7?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p41",
+          "label": "p. 41",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00041/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00041",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p41"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/8fbc9d3?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p42",
+          "label": "p. 42",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00042/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00042",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p42"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/5f4e6cb?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p43",
+          "label": "p. 43",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00043/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00043",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p43"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/d01a7c2?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p44",
+          "label": "p. 44",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00044/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00044",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p44"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/a7b31a2?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p45",
+          "label": "p. 45",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00045/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00045",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p45"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c339122?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p46",
+          "label": "p. 46",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00046/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00046",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p46"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/1049fae?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p47",
+          "label": "p. 47",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00047/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00047",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p47"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/9913b4e?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p48",
+          "label": "p. 48",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00048/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00048",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p48"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/4de93e5?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p49",
+          "label": "p. 49",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00049/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00049",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p49"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/a483ac1?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p50",
+          "label": "p. 50",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00050/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00050",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p50"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/7180333?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p51",
+          "label": "p. 51",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00051/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00051",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p51"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/2a30b72?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p52",
+          "label": "p. 52",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00052/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00052",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p52"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/1bbab37?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p53",
+          "label": "p. 53",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00053/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00053",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p53"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/ac0b261?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p54",
+          "label": "p. 54",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00054/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00054",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p54"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/2ff1acd?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p55",
+          "label": "p. 55",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00055/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00055",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p55"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/34341ab?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p56",
+          "label": "p. 56",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00056/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00056",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p56"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/67b1830?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p57",
+          "label": "p. 57",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00057/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00057",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p57"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/0dc8231?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p58",
+          "label": "p. 58",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00058/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00058",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p58"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/23c962f?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p59",
+          "label": "p. 59",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00059/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00059",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p59"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/75fecb6?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p60",
+          "label": "p. 60",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00060/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00060",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p60"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/fb5f509?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p61",
+          "label": "p. 61",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00061/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00061",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p61"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/1c892c0?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p62",
+          "label": "p. 62",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00062/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00062",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p62"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/0f305b9?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p63",
+          "label": "p. 63",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00063/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00063",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p63"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/4beea0c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p64",
+          "label": "p. 64",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00064/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00064",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p64"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/df64320?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p65",
+          "label": "p. 65",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00065/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00065",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p65"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c80b9e9?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p66",
+          "label": "p. 66",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00066/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00066",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p66"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/d322d0c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p67",
+          "label": "p. 67",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00067/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00067",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p67"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/faf9a9a?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p68",
+          "label": "p. 68",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00068/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00068",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p68"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/53a308e?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p69",
+          "label": "p. 69",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00069/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00069",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p69"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/3b70351?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p70",
+          "label": "p. 70",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00070/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00070",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p70"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/582bf97?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p71",
+          "label": "p. 71",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00071/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00071",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p71"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/684a1a2?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p72",
+          "label": "p. 72",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00072/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00072",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p72"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/a8fcfa1?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p73",
+          "label": "p. 73",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00073/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00073",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p73"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/c449710?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p74",
+          "label": "p. 74",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00074/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00074",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p74"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/52d312b?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p75",
+          "label": "p. 75",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00075/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00075",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p75"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/f79af93?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p76",
+          "label": "p. 76",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00076/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00076",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p76"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/d39ac8c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p77",
+          "label": "p. 77",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00077/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00077",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p77"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/0af2f5e?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p78",
+          "label": "p. 78",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00078/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00078",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p78"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/31d042c?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p79",
+          "label": "p. 79",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00079/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00079",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p79"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/df738ad?lang=fr"
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p80",
+          "label": "p. 80",
+          "height": 2048,
+          "width": 1256,
+          "attribution": "Journal historique et littéraire - 1788-09-01 - https://www.europeana.eu/item/9200396/BibliographicResource_3000118436165. Bibliothèque nationale de Luxembourg. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00080/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.europeana.eu/image/QNYVL2Z2FVHRGMK2UNXIP4DUUOTOVA2ND3WIPJQF6V23SO2CJ5UA/presentation_images/ee0edfa0-0220-11e6-a696-fa163e2dd531/node-3/image/BNL/Journal_historique_et_littéraire/1788/09/01/00080",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 2048,
+                "width": 1256,
+                "language": "fr"
+              },
+              "on": "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/canvas/p80"
+            }
+          ],
+          "otherContent": [
+            "https://iiif.europeana.eu/presentation/9200396/BibliographicResource_3000118436165/annopage/402637b?lang=fr"
+          ]
+        }
+      ]
+    }
+  ]
+}

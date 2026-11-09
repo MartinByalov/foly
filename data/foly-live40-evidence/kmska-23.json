@@ -1,0 +1,153 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.kmska.be/iiif/2/23/manifest.json",
+  "@type": "sc:Manifest",
+  "label": [
+    {
+      "@language": "en",
+      "@value": "The Visit"
+    },
+    {
+      "@language": "nl",
+      "@value": "Het bezoek"
+    }
+  ],
+  "metadata": [
+    {
+      "label": [
+        {
+          "@language": "en",
+          "@value": "Title"
+        },
+        {
+          "@language": "nl",
+          "@value": "Titel"
+        }
+      ],
+      "value": [
+        {
+          "@language": "en",
+          "@value": "The Visit"
+        },
+        {
+          "@language": "nl",
+          "@value": "Het bezoek"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@language": "en",
+          "@value": "Creator"
+        },
+        {
+          "@language": "nl",
+          "@value": "Vervaardiger"
+        }
+      ],
+      "value": "Schilder: Theodor Boeijermans"
+    },
+    {
+      "label": [
+        {
+          "@language": "en",
+          "@value": "Date created"
+        },
+        {
+          "@language": "nl",
+          "@value": "Vervaardigingsdatum"
+        }
+      ],
+      "value": "1601 - 1700"
+    },
+    {
+      "label": [
+        {
+          "@language": "en",
+          "@value": "Inventory no."
+        },
+        {
+          "@language": "nl",
+          "@value": "Inventarisnummer"
+        }
+      ],
+      "value": "22"
+    },
+    {
+      "label": [
+        {
+          "@language": "en",
+          "@value": "Photographer"
+        },
+        {
+          "@language": "nl",
+          "@value": "Fotograaf"
+        }
+      ],
+      "value": "Hugo Maertens"
+    },
+    {
+      "label": "Image spectrum",
+      "value": "Visible light"
+    },
+    {
+      "label": "Image view type",
+      "value": "Full view"
+    },
+    {
+      "label": "IIIF manifest",
+      "value": "<a href=\"https://iiif.kmska.be/iiif/2/23/manifest.json\">https://iiif.kmska.be/iiif/2/23/manifest.json</a>"
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "license": "https://rightsstatements.org/page/UND/1.0/",
+  "attribution": [
+    {
+      "@language": "en",
+      "@value": "CC0, CC0<p><a href=\"http://rightsstatements.org/vocab/UND/1.0/\"><img src=\"https://vlaamsekunstcollectie.be/volumes/general/copyrightundetermined.png\"/></a></p><a href=\"https://kmska.be/en\">Royal Museum of Fine Arts Antwerp - Flemish Community</a><br>The jpg files of public domain artworks are downloadable in high resolution through the KMSKA website. Requesting images can be done through the contact form at <a href=\"https://kmska.be/en/contact\">kmska.be/en/contact</a>.</p>"
+    },
+    {
+      "@language": "nl",
+      "@value": "CC0, CC0<p><a href=\"http://rightsstatements.org/vocab/UND/1.0/\"><img src=\"https://vlaamsekunstcollectie.be/volumes/general/copyrightundetermined.png\"/></a></p><a href=\"https://kmska.be/nl\">Koninklijk Museum voor Schone Kunsten Antwerpen - Vlaamse Gemeenschap</a><br>De jpg-bestanden van kunstwerken in het publieke domein zijn downloadbaar in hoge resolutie via de website van KMSKA. Beelden aanvragen kan via het contactformulier op <a href=\"https://kmska.be/nl/contact\">kmska.be/nl/contact</a>.</p>"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "startCanvas": "https://iiif.kmska.be/iiif/2/23/canvas/1.json",
+      "canvases": [
+        {
+          "@id": "https://iiif.kmska.be/iiif/2/23/canvas/1.json",
+          "@type": "sc:Canvas",
+          "label": "23",
+          "height": 3376,
+          "width": 6970,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "oa:Annotation",
+              "@id": "https://iiif.kmska.be/iiif/2/23/canvas/1.json/image",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.kmska.be/c/iiif/2/public@23.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.kmska.be/c/iiif/2/public@23.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "height": 3376,
+                "width": 6970
+              },
+              "on": "https://iiif.kmska.be/iiif/2/23/canvas/1.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

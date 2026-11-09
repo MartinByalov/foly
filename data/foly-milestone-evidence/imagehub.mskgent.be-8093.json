@@ -1,0 +1,178 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://imagehub.mskgent.be/iiif/3/8093/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Winter Landscape in the Morning"
+    ],
+    "nl": [
+      "Sneeuwlandschap in de ochtend"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "IIIF manifest"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://imagehub.mskgent.be/iiif/3/8093/manifest.json\">https://imagehub.mskgent.be/iiif/3/8093/manifest.json</a>"
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "nl": [
+        "Naamsvermelding"
+      ]
+    },
+    "value": {
+      "en": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be/en\">Museum of Fine Arts Ghent</a><br><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, MSK Gent would appreciate having three copies sent to MSK Gent, Hofbouwlaan 28, B-9000 Gent. More information: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
+      ],
+      "nl": [
+        "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Museum voor Schone Kunsten Gent</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
+      ]
+    }
+  },
+  "seeAlso": [
+    {
+      "id": "https://datahub.mskgent.be/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.mskgent.be:mskgent.be:1935-S",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Object Description in XML"
+        ],
+        "nl": [
+          "Objectbeschrijving in XML"
+        ]
+      },
+      "format": "text/xml",
+      "profile": "http://www.lido-schema.org"
+    }
+  ],
+  "start": {
+    "id": "https://imagehub.mskgent.be/iiif/3/8093/canvas/1",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://imagehub.mskgent.be/iiif/3/8093/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Winter Landscape in the Morning"
+        ],
+        "nl": [
+          "Sneeuwlandschap in de ochtend"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Winter Landscape in the Morning"
+            ],
+            "nl": [
+              "Sneeuwlandschap in de ochtend"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Schilder: De Saedeleer, Valerius"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "1935-S"
+            ]
+          }
+        }
+      ],
+      "height": 2904,
+      "width": 3672,
+      "items": [
+        {
+          "id": "https://imagehub.mskgent.be/iiif/3/8093/canvas/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://imagehub.mskgent.be/iiif/3/8093/annotation/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://imagehub.mskgent.be/iiif/2/public%2F8093.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://imagehub.mskgent.be/iiif/2/public%2F8093.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 2904,
+                "width": 3672
+              },
+              "target": "https://imagehub.mskgent.be/iiif/3/8093/canvas/1"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://imagehub.mskgent.be/iiif/2/public%2F8093.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://imagehub.mskgent.be/iiif/2/public%2F8093.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

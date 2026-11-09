@@ -1,0 +1,153 @@
+{
+  "reviewedAt": "2026-11-03",
+  "built": "2026-11-03T18:30:52.059Z",
+  "prefixSha256": "2fc37a118e47195c00f768a4a2b36e1cb91e4872596418b253ac4415584b2237",
+  "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+  "mediaEvidence": "https://kokoelma.kansallisgalleria.fi/docs/swagger.json",
+  "items": [
+    {
+      "objectId": 526794,
+      "mediaId": 235561,
+      "title": "Black Grouse in a Treetop",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/235561.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/526794",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "acc222071fb9ab6dd940e2f325c718823d0b5341e0972c4248c722671417f711"
+    },
+    {
+      "objectId": 433384,
+      "mediaId": 311294,
+      "title": "Black Grouse, Female, from the incomplete series Suomen Lintuja (Finnish Birds), No. 2,  1827",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/311294.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/433384",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "d9dc027eac748baa3ab3775549c427db19885565816af7a215523689729b0455"
+    },
+    {
+      "objectId": 577564,
+      "mediaId": 329879,
+      "title": "Girl with Flower",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/329879.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/577564",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "d31409448aedc9163c2970ec5092336575d350b5e9f756129769047f014a0eca"
+    },
+    {
+      "objectId": 468897,
+      "mediaId": 3033103,
+      "title": "Beech Forest",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/3033103.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/468897",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "e52028cb7aed98157bedfd05e677beee73121a62c376480cb2c2ce418267a907"
+    },
+    {
+      "objectId": 507081,
+      "mediaId": 244183,
+      "title": "Landscape",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/244183.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/507081",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "032111b16fe17da46052a3e2634fbb6b74fae0294de40bb8a0f49846594024d9"
+    },
+    {
+      "objectId": 546969,
+      "mediaId": 2163473,
+      "title": "The Street Seller of Chicken Dung",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/2163473.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/546969",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "14175ca2f4964b0c35b9a78e55bfa14b9ae46f971ba7dea712ac010eb2c00e24"
+    },
+    {
+      "objectId": 579315,
+      "mediaId": 315757,
+      "title": "Landscape with Two Goats",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/315757.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/579315",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "beb8d259fd1bac080ff484b4f3f07271a0c3ce9f8ccc0c6337a31076823803f6"
+    },
+    {
+      "objectId": 396688,
+      "mediaId": 1458426,
+      "title": "Landscape",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/1458426.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/396688",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "eca6872195e26864bfe358ee2a8f59b21e4b02fe5c5c90ad5d375cdd76534d6c"
+    },
+    {
+      "objectId": 388398,
+      "mediaId": 332074,
+      "title": "Street in Stockholm (Drottninggatan)",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/332074.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/388398",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "49cb555e065e959cea4cd2c79ad9fcaa83dfa78e7842544a1209a1b9b67de1c3"
+    },
+    {
+      "objectId": 396672,
+      "mediaId": 233342,
+      "title": "Landscape",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/233342.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/396672",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "5997684054cf23f114882bacc975317afc57679bd196894a3a22ba73c0123c00"
+    },
+    {
+      "objectId": 443269,
+      "mediaId": 1878062,
+      "title": "The Cluny Museum Garden in Paris",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/1878062.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/443269",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "99e918fd63a1fc9abd5d183c9b66e10d3f9bd9c5cee1f48fbff92740e1264013"
+    },
+    {
+      "objectId": 422837,
+      "mediaId": 1463440,
+      "title": "Finnish Landscape in Summer",
+      "image": "https://kokoelma.kansallisgalleria.fi/media-assets/1/jpg/1000/1463440.jpg",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/422837",
+      "metadataLicense": "CC0",
+      "mediaLicense": "CC0",
+      "provenance": "https://kokoelma.kansallisgalleria.fi/api/v1/objects",
+      "metadataEvidence": "https://www.avoindata.fi/data/api/3/action/package_show?id=4d6bbc3f-792e-458d-818e-7cafd6daa288",
+      "mediaSha256": "5eb1390589944c5c70051caf3b548ac16c3b0dc8d0f982acd4a7db8d20a2b395"
+    }
+  ]
+}

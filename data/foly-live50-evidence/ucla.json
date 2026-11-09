@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest",
+  "@type": "sc:Manifest",
+  "label": "A. Danforth's Great Vegetable Pain Destroyer [inscribed]",
+  "viewingHint": "individuals",
+  "metadata": [
+    {
+      "label": "Repository",
+      "value": "Louise M. Darling Biomedical Library. History and Special Collections for the Sciences"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest/canvas/7q192w7x",
+          "width": 2596,
+          "height": 1315,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/annotation/7q192w7x",
+              "motivation": "sc:painting",
+              "on": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest/canvas/7q192w7x",
+              "resource": {
+                "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F7q192w7x/full/600,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F7q192w7x",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest/canvas/36143v2j",
+          "width": 1352,
+          "height": 2587,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/annotation/36143v2j",
+              "motivation": "sc:painting",
+              "on": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002hp4m/manifest/canvas/36143v2j",
+              "resource": {
+                "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F36143v2j/full/600,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002hp4m%2F36143v2j",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

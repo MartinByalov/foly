@@ -1,0 +1,214 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://resourcespace.muzee.be/iiif/3/6750/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "De stal"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "IIIF manifest"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://resourcespace.muzee.be/iiif/3/6750/manifest.json\">https://resourcespace.muzee.be/iiif/3/6750/manifest.json</a>"
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "nl": [
+        "Naamsvermelding"
+      ]
+    },
+    "value": {
+      "en": [
+        "<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a><br></span><span><a href=\"https://www.muzee.be/en\">Mu.ZEE, Art Museum by the Sea</a><br></span><span>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Mu.ZEE would appreciate having three copies sent to Mu.ZEE, Romestraat 11, 8400 Oostende, Belgium. More information: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</span>"
+      ],
+      "nl": [
+        "<span>Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<br></span><span><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a><br></span><span><a href=\"https://www.muzee.be/nl\">Mu.ZEE, Kunstmuseum aan zee</a><br></span><span>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Mu.ZEE dat drie exemplaren worden toegestuurd naar Mu.ZEE, Romestraat 11, 8400 Oostende. Meer info: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</span>"
+      ]
+    }
+  },
+  "seeAlso": [
+    {
+      "id": "https://datahub.muzee.be/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.muzee.be:muzee.be:K000132",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Object Description in XML"
+        ],
+        "nl": [
+          "Objectbeschrijving in XML"
+        ]
+      },
+      "format": "text/xml",
+      "profile": "http://www.lido-schema.org"
+    }
+  ],
+  "start": {
+    "id": "https://resourcespace.muzee.be/iiif/3/6750/canvas/1",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://resourcespace.muzee.be/iiif/3/6750/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "De stal"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Title"
+            ],
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "none": [
+              "De stal"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Creator"
+            ],
+            "nl": [
+              "Vervaardiger"
+            ]
+          },
+          "value": {
+            "none": [
+              "Permeke, Constant"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date created"
+            ],
+            "nl": [
+              "Vervaardigingsdatum"
+            ]
+          },
+          "value": {
+            "none": [
+              "1928"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Inventory no."
+            ],
+            "nl": [
+              "Inventarisnummer"
+            ]
+          },
+          "value": {
+            "none": [
+              "K000132"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Steven Decroos"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Description"
+            ],
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "none": [
+              "In het jaar 1928 stond het landschap centraal, in tegenstelling tot de periode 1925-1927 waarin de zee het hoofdthema was. Permeke verbleef steeds vaker op het platteland van Jabbeke. Hij had een stuk grond gekocht van ongeveer 2 ha waarop hij zijn definitieve huis wou bouwen. Het perceel had honderduizend frank gekost. Voor het eerst in zijn leven maakte hij met de kunsthandelaar Sam Salz vaste afspraken, weliswaar niet uitgeschreven in een contract. Nu moest hij produceren. Hij maakte tal van olieverfschetsen en kleine tekeningen van werkende boeren en landschappen. In vlugge bewegingen – met brede borstelstreken of met het paletmes – schilderde hij de natuur rond de kleine boerderijen. De mens bleef afwezig of werd herleid tot een klein schematisch fragment in de omgeving. \nHet pleinairisme dat in deze werken is toegepast, heeft niets meer te maken met impressies van de realiteit. Kleur, vorm en expressiviteit van de materie maken de gebondenheid met de aarde voelbaar en tastbaar. \nHet thema ‘de stal’ kwam wel vaker aan bod. In 1924 schilderde hij ook een schilderij met dat thema. In het werk van 1928 zien we een monumentale koe tegen een door de zon doorgelichte stal. Omdat het licht van achteren komt, is de koe nog slechts een silhouet. Elk detail werd weggelaten."
+            ]
+          }
+        }
+      ],
+      "height": 5315,
+      "width": 4377,
+      "items": [
+        {
+          "id": "https://resourcespace.muzee.be/iiif/3/6750/canvas/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://resourcespace.muzee.be/iiif/3/6750/annotation/1-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://resourcespace.muzee.be/iiif/2/public%2F6750.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://resourcespace.muzee.be/iiif/2/public%2F6750.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ],
+                "height": 5315,
+                "width": 4377
+              },
+              "target": "https://resourcespace.muzee.be/iiif/3/6750/canvas/1"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://resourcespace.muzee.be/iiif/2/public%2F6750.tif/full/400,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://resourcespace.muzee.be/iiif/2/public%2F6750.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

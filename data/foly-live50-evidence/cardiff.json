@@ -1,0 +1,2224 @@
+{
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Ellor-gāst "
+    },
+    {
+      "label": "Author",
+      "value": "Jones, Shirley, 1934-"
+    },
+    {
+      "label": "Subjects",
+      "value": "Beowulf -- Pictorial works"
+    },
+    {
+      "label": "Subjects",
+      "value": "Old English"
+    },
+    {
+      "label": "Subjects",
+      "value": "Artists' books -- Wales"
+    },
+    {
+      "label": "Description",
+      "value": "Ellor-gāst, or alien spirit, explores the theme of the monster in Beowulf. The book consists of eight aquatints and eight translations by Shirley Jones, an introduction and linked passages. With the title page and postscript, there are ten illustrations, the colours being mainly limited to the dark green and red of the text, printed in 18- and 12-pt Baskerville type, on paper handmade by Jacques Brejoux, at Moulin du Verger, France. Thirty copies are quarter bound in green morocco with printed canvas boards by Jen Lindsay. Copy 38/40, signed by Shirley Jones, dated 1986."
+    },
+    {
+      "label": "Related Titles",
+      "value": "Artists' books:Collection"
+    },
+    {
+      "label": "Publisher",
+      "value": "Brecon: Red Hen Press"
+    },
+    {
+      "label": "Creation Date",
+      "value": "1986"
+    },
+    {
+      "label": "Source",
+      "value": "alma"
+    }
+  ],
+  "label": "Ellor-gāst ",
+  "description": "Ellor-gāst, or alien spirit, explores the theme of the monster in Beowulf. The book consists of eight aquatints and eight translations by Shirley Jones, an introduction and linked passages. With the title page and postscript, there are ten illustrations, the colours being mainly limited to the dark green and red of the text, printed in 18- and 12-pt Baskerville type, on paper handmade by Jacques Brejoux, at Moulin du Verger, France. Thirty copies are quarter bound in green morocco with printed canvas boards by Jen Lindsay. Copy 38/40, signed by Shirley Jones, dated 1986.",
+  "attribution": "This title is licensed under <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0. </a> Re-use must be attributed to Cardiff University Special Collections and Archives / Trwyddedwyd y teitl hwn o dan <a target=\"_blank\" href=https://creativecommons.org/licenses/by/4.0></a>CC BY 4.0. </a> Rhaid priodoli ail-ddefnydd i Gasgliadau Arbennig ac Archifau Prifysgol Caerdydd.",
+  "license": "https://librarysearch.cardiff.ac.uk/view/delivery/copyrights/44WHELF_CAR/10589872460002420?language=en",
+  "logo": "https://librarysearch.cardiff.ac.uk/infra/branding/logo/logo-main.png?institutionCode=44WHELF_CAR",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "thumbnail": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/12204338230002420",
+      "label": "",
+      "canvases": [
+        {
+          "label": "RHP-00002-0001-lo",
+          "width": 6048,
+          "height": 4032,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwMS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI2MDQ4IiwiaGVpZ2h0IjoiNDAzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 6048,
+                "height": 4032,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360850002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360850002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.03 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360850002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360850002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360850002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0002-lo",
+          "width": 6048,
+          "height": 4032,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwMi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI2MDQ4IiwiaGVpZ2h0IjoiNDAzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 6048,
+                "height": 4032,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360840002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360840002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.85 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360840002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360840002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360840002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0003-lo",
+          "width": 6048,
+          "height": 4032,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwMy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI2MDQ4IiwiaGVpZ2h0IjoiNDAzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 6048,
+                "height": 4032,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360830002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360830002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.09 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360830002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360830002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360830002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0004-lo",
+          "width": 6048,
+          "height": 4032,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwNC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI2MDQ4IiwiaGVpZ2h0IjoiNDAzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 6048,
+                "height": 4032,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360820002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360820002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.00 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360820002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360820002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360820002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0005-lo",
+          "width": 5342,
+          "height": 611,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwNS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI1MzQyIiwiaGVpZ2h0IjoiNjExIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9"
+                },
+                "width": 5342,
+                "height": 611,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360810002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360810002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 658.98 KB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360810002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360810002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360810002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0006-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwNi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360800002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360800002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 4.48 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360800002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360800002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360800002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0007-lo",
+          "width": 5512,
+          "height": 633,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwNy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI1NTEyIiwiaGVpZ2h0IjoiNjMzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9"
+                },
+                "width": 5512,
+                "height": 633,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360790002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360790002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 535.37 KB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360790002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360790002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360790002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0008-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwOC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360780002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360780002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 4.35 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360780002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360780002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360780002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0009-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAwOS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360770002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360770002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.29 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360770002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360770002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360770002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0010-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxMC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360760002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360760002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.22 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360760002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360760002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360760002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0011-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxMS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360750002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360750002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.36 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360750002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360750002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360750002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0012-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxMi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360740002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360740002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.25 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360740002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360740002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360740002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0013-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxMy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360730002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360730002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.40 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360730002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360730002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360730002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0014-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxNC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360720002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360720002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.93 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360720002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360720002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360720002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0015-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxNS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360710002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360710002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.45 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360710002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360710002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360710002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0016-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxNi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360700002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360700002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.66 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360700002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360700002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360700002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0017-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxNy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360690002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360690002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.38 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360690002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360690002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360690002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0018-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxOC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360680002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360680002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.48 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360680002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360680002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360680002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0019-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAxOS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360670002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360670002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.05 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360670002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360670002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360670002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0020-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyMC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360660002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360660002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.48 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360660002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360660002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360660002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0021-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyMS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360650002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360650002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.41 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360650002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360650002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360650002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0022-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyMi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360640002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360640002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.32 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360640002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360640002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360640002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0023-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyMy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360630002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360630002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.05 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360630002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360630002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360630002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0024-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyNC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360620002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360620002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.77 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360620002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360620002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360620002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0025-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyNS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360610002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360610002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.41 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360610002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360610002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360610002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0026-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyNi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360600002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360600002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.50 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360600002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360600002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360600002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0027-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyNy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360590002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360590002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.01 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360590002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360590002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360590002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0028-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyOC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360580002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360580002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.22 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360580002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360580002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360580002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0029-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAyOS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360570002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360570002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.43 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360570002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360570002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360570002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0030-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzMC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360560002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360560002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.25 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360560002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360560002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360560002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0031-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzMS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360550002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360550002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.04 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360550002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360550002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360550002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0032-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzMi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360540002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360540002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.55 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360540002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360540002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360540002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0033-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzMy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360530002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360530002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.43 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360530002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360530002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360530002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0034-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzNC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360520002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360520002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.32 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360520002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360520002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360520002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0035-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzNS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360510002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360510002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.07 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360510002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360510002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360510002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0036-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzNi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360500002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360500002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.83 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360500002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360500002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360500002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0037-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzNy1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360490002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360490002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.42 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360490002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360490002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360490002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0038-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzOC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360480002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360480002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.43 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360480002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360480002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360480002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0039-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDAzOS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360470002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360470002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.07 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360470002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360470002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360470002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0040-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0MC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360460002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360460002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.26 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360460002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360460002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360460002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0041-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0MS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360450002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360450002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.48 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360450002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360450002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360450002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0042-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0Mi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360440002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360440002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.44 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360440002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360440002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360440002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0043-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0My1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360430002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360430002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.12 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360430002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360430002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360430002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0044-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0NC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360420002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360420002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.78 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360420002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360420002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360420002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0045-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0NS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360410002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360410002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.39 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360410002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360410002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360410002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0046-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0Ni1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360400002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360400002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.33 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360400002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360400002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360400002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0047-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0Ny1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360390002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360390002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.01 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360390002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360390002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360390002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0048-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0OC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360380002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360380002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.63 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360380002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360380002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360380002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0049-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA0OS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360370002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360370002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.41 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360370002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360370002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360370002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0050-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1MC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360360002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360360002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.49 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360360002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360360002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360360002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0051-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1MS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360350002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360350002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.37 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360350002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360350002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360350002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0052-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1Mi1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360340002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360340002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.46 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360340002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360340002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360340002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0053-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1My1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360330002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360330002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.32 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360330002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360330002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360330002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0054-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1NC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360320002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360320002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.29 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360320002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360320002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360320002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0055-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1NS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360310002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360310002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.34 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360310002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360310002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360310002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0056-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1Ni1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360300002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360300002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 1.32 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360300002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360300002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360300002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0057-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1Ny1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360290002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360290002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.26 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360290002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360290002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360290002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0058-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1OC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360280002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360280002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 2.19 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360280002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360280002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360280002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0059-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA1OS1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360270002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360270002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 4.26 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360270002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360270002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360270002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        },
+        {
+          "label": "RHP-00002-0060-lo",
+          "width": 4032,
+          "height": 6048,
+          "images": [
+            {
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjQ0V0hFTEZfQ0FSL3N0b3JhZ2UvYWxtYS9FNS8zNC8yMS9FQS8yQy9BRC83Mi9DQy83RS84NC9ENy9DMi9CQi9GNy8wMS82Mi9SSFAtMDAwMDItMDA2MC1sby5qcGciLCJyZXBfaWQiOiIxMjIwNDMzODIzMDAwMjQyMCIsImluc3RhbmNlIjoiZXUiLCJpbnN0aXR1dGlvbiI6IjQ0V0hFTEZfQ0FSIiwid2lkdGgiOiI0MDMyIiwiaGVpZ2h0IjoiNjA0OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D"
+                },
+                "width": 4032,
+                "height": 6048,
+                "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/res/13204360260002420",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360260002420?iiifVersion=2",
+              "motivation": "sc:painting",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "rendering": [
+            {
+              "format": "image/jpeg",
+              "label": "Original Source File, 4.44 MB",
+              "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/44WHELF_CAR/12204338230002420/13204360260002420?fromUV=true"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://librarysearch.cardiff.ac.uk/view/delivery/thumbnail/44WHELF_CAR/13204360260002420"
+          },
+          "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/canvas/13204360260002420?iiifVersion=2",
+          "@type": "sc:Canvas"
+        }
+      ],
+      "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/sequence/normal?iiifVersion=2",
+      "@type": "sc:Sequence"
+    }
+  ],
+  "viewingHint": "individuals",
+  "@id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12204338230002420/manifest?iiifVersion=2",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest"
+}

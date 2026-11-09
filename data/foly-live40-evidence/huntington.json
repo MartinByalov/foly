@@ -1,0 +1,160 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/manifest.json",
+  "label": "...Singular-sand-stone cones",
+  "metadata": [
+    {
+      "label": "Call Number",
+      "value": "mssHM 8044 (168)"
+    },
+    {
+      "label": "Catalog Link",
+      "value": "https://catalog.huntington.org/record=b1552343"
+    },
+    {
+      "label": "Cataloging Notes",
+      "value": "In Box 3. Part of the Western Americana Drawings Cataloging and Digitization Project."
+    },
+    {
+      "label": "Creator",
+      "value": "Bruff, Joseph Goldsborough, 1804-1889, artist."
+    },
+    {
+      "label": "Date Searchable",
+      "value": "1850-09-27"
+    },
+    {
+      "label": "Date",
+      "value": "1850, Sept. 27"
+    },
+    {
+      "label": "Digital Collection",
+      "value": "Manuscripts, Huntington Digital Library"
+    },
+    {
+      "label": "Form/Genre",
+      "value": "Drawings -- United States -- 19th century. (aat)"
+    },
+    {
+      "label": "Language",
+      "value": "English [eng]"
+    },
+    {
+      "label": "Biographical Note",
+      "value": "Joseph Goldsborough Bruff is best known as a topographer, journalist, and artist of the gold rush era. Bruff was born in Washington, D.C., on October 2, 1804. He attended West Point from 1820 until his resignation in 1822. From 1827-1836 he worked as a topographical engineer, predominantly at Gosport Naval Yard in Norfolk, Virginia. He returned to Washington, D.C., in 1837 and from 1838-1849 worked for the U.S. Bureau of Topographical Engineers. Bruff then organized the Washington City and California Mining Association, which he accompanied to California. While in California he produced extensive journals and drawings of the mining camp experience. In 1853 Bruff returned to Washington, D.C., where he worked in office of the Supervising Architect of the Treasury Department until his death on April 14, 1889."
+    },
+    {
+      "label": "Notes",
+      "value": "View of an emigrant near sand-stone cones under trees.  Full caption reads: \"Eastern slope Sierra Nevada - Singular sand-stone cones\"; Note under sketch reads: \"15 ft high)\"."
+    },
+    {
+      "label": "Physical Collection",
+      "value": "Journal and drawings of J. Goldsborough Bruff, 1849-1853"
+    },
+    {
+      "label": "Physical Description",
+      "value": "18.5 x 24 cm.; pencil drawing"
+    },
+    {
+      "label": "Provenance",
+      "value": "Purchased from A.S.W. Rosenbach, 1919."
+    },
+    {
+      "label": "Rights",
+      "value": "For information on use of Digital Library materials, please see Library Rights and Permissions: https://www.huntington.org/library-rights-permissions"
+    },
+    {
+      "label": "Subjects",
+      "value": "California -- Pictorial works. ; Sierra Nevada (Calif. and Nev.)"
+    },
+    {
+      "label": "Title",
+      "value": "...Singular-sand-stone cones"
+    },
+    {
+      "label": "Unique Digital Identifier",
+      "value": "43593"
+    },
+    {
+      "label": "Repository",
+      "value": "Huntington Digital Library"
+    },
+    {
+      "label": "Source",
+      "value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p15150coll7/id/5145\">...Singular-sand-stone cones</a></span>"
+    }
+  ],
+  "attribution": [
+    "",
+    "For information on use of Digital Library materials, please see Library Rights and Permissions: https://www.huntington.org/library-rights-permissions"
+  ],
+  "seeAlso": {
+    "@id": "https://cdm16003.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16003.contentdm.oclc.org:p15150coll7/5145&metadataPrefix=oai_qdc",
+    "format": "application/xml",
+    "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+  },
+  "within": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7/manifest.json",
+  "sequences": [
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "...Singular-sand-stone cones",
+      "canvases": [
+        {
+          "@id": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "...Singular-sand-stone cones",
+          "images": [
+            {
+              "@id": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cdm16003.contentdm.oclc.org/iiif/2/p15150coll7:5145/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16003.contentdm.oclc.org/iiif/2/p15150coll7:5145",
+                  "width": 6384,
+                  "height": 5780,
+                  "tiles": [
+                    {
+                      "width": 6384,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                      ]
+                    }
+                  ],
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "protocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 6384,
+                "height": 5780
+              },
+              "on": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/canvas/c0"
+            }
+          ],
+          "width": 6384,
+          "height": 5780
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/range/r0",
+      "@type": "sc:Range",
+      "label": "...Singular-sand-stone cones",
+      "ranges": [],
+      "canvases": [
+        "https://cdm16003.contentdm.oclc.org/iiif/p15150coll7:5145/canvas/c0"
+      ]
+    }
+  ]
+}

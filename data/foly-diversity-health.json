@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-11-04T02:25:02.307Z",
+  "reports": [
+    {
+      "id": "nobel",
+      "kind": "api",
+      "checkedAt": "2026-11-04T02:25:01.799Z",
+      "ok": true,
+      "contentKind": "text",
+      "item": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/",
+      "sourcePage": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/",
+      "rights": {
+        "metadataLicense": "CC0",
+        "metadataLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceItemUrl": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/",
+        "verifiedBy": "https://api.nobelprize.org/2.1/laureates?limit=100&offset=0",
+        "author": "Nobel Prize Outreach",
+        "source_url": "https://www.nobelprize.org/prizes/literature/2021/gurnah/facts/",
+        "verifiedAt": "2026-11-04T02:25:02.037Z",
+        "attribution": "Nobel Prize Outreach · CC0 metadata",
+        "creator": "Nobel Prize Outreach",
+        "mediaTitle": "Abdulrazak Gurnah",
+        "originalMediaUrl": "",
+        "changes": "Selected bibliographic facts; no linked full text or media reproduced."
+      },
+      "rightsValid": true
+    },
+    {
+      "id": "noaaTides",
+      "kind": "api",
+      "checkedAt": "2026-11-04T02:25:01.901Z",
+      "ok": true,
+      "contentKind": "text",
+      "item": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290",
+      "sourcePage": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290",
+      "rights": {
+        "metadataLicense": "US_GOV_PUBLIC_DOMAIN",
+        "metadataLicenseUrl": "https://oceanservice.noaa.gov/about/faq.html",
+        "sourceItemUrl": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290",
+        "verifiedBy": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?date=latest&station=9414290&product=water_level&datum=MLLW&units=metric&time_zone=gmt&format=json",
+        "author": "NOAA / NOS / CO-OPS",
+        "source_url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9414290",
+        "verifiedAt": "2026-11-04T02:25:02.306Z",
+        "attribution": "NOAA / NOS / CO-OPS",
+        "creator": "NOAA / NOS / CO-OPS",
+        "mediaTitle": "San Francisco",
+        "originalMediaUrl": "",
+        "changes": "Selected observation values; no linked full text or media reproduced."
+      },
+      "rightsValid": true
+    }
+  ]
+}

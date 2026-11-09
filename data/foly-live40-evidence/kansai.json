@@ -1,0 +1,1791 @@
+{
+  "label": "公法会通",
+  "metadata": [
+    {
+      "label": "著者",
+      "value": "端国歩倫撰"
+    },
+    {
+      "label": "資料ID",
+      "value": "200899741"
+    },
+    {
+      "label": "請求記号",
+      "value": "LM2*ホ*20*12-2"
+    },
+    {
+      "label": "NDC分類",
+      "value": "NDC8:329"
+    },
+    {
+      "label": "ページ数",
+      "value": "1冊"
+    },
+    {
+      "label": "出版地",
+      "value": "東京"
+    },
+    {
+      "label": "出版社",
+      "value": "岸田氏楽善堂"
+    },
+    {
+      "label": "タイトル",
+      "value": "公法会通"
+    },
+    {
+      "label": "巻数",
+      "value": "巻2-3"
+    },
+    {
+      "label": "刊行年(西暦)",
+      "value": "明治14"
+    },
+    {
+      "label": "タイトル(ヨミ)",
+      "value": "コウホウ カイツウ"
+    }
+  ],
+  "attribution": "関西大学アジア・オープン・リサーチセンター[KU-ORCAS]",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "logo": {
+    "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/themes/custom/ukansai/images/logo.jpg"
+  },
+  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/books/200899741/manifest.json",
+  "@type": "sc:Manifest",
+  "viewingDirection": "right-to-left",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "within": "[paragraph:type:entity]",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0001",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0001",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0001",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0001",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0001.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0002",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0002",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0002",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0002",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0002.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0003",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0003",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0003",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0003",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0003.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0004",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0004",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0004",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0004",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0004.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0005",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0005",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0005",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0005",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0005.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0006",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0006",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0006",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0006",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0006.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0007",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0007",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0007",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0007",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0007.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0008",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0008",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0008",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0008",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0008.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0009",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0009",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0009",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0009",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0009.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0010",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0010",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0010",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0010",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0010.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0011",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0011",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0011",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0011",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0011.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0012",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0012",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0012",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0012",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0012.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0013",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0013",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0013",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0013",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0013.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0014",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0014",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0014",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0014",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0014.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0015",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0015",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0015",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0015",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0015.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0016",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0016",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0016",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0016",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0016.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0017",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0017",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0017",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0017",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0017.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0018",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0018",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0018",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0018",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0018.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0019",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0019",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0019",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0019",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0019.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0020",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0020",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0020",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0020",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0020.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0021",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0021",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0021",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0021",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0021.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0022",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0022",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0022",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0022",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0022.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0023",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0023",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0023",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0023",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0023.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0024",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0024",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0024",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0024",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0024.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0025",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0025",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0025",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0025",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0025.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0026",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0026",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0026",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0026",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0026.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0027",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0027",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0027",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0027",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0027.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0028",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0028",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0028",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0028",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0028.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0029",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0029",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0029",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0029",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0029.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0030",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0030",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0030",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0030",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0030.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0031",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0031",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0031",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0031",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0031.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0032",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0032",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0032",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0032",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0032.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0033",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0033",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0033",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0033",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0033.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0034",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0034",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0034",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0034",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0034.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0035",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0035",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0035",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0035",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0035.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0036",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0036",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0036",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0036",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0036.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0037",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0037",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0037",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0037",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0037.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0038",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0038",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0038",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0038",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0038.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0039",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0039",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0039",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0039",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0039.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0040",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0040",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0040",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0040",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0040.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0041",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0041",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0041",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0041",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0041.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0042",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0042",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0042",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0042",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0042.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0043",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0043",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0043",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0043",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0043.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0044",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0044",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0044",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0044",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0044.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0045",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0045",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0045",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0045",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0045.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0046",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0046",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0046",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0046",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0046.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0047",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0047",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0047",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0047",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0047.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0048",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0048",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0048",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0048",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0048.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0049",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0049",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0049",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0049",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0049.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0050",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0050",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0050",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0050",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0050.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0051",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0051",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0051",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0051",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0051.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0052",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0052",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0052",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0052",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0052.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0053",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0053",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0053",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0053",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0053.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0054",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0054",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0054",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0054",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0054.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0055",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0055",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0055",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0055",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0055.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0056",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0056",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0056",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0056",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0056.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0057",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0057",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0057",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0057",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0057.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0058",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0058",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0058",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0058",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0058.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0059",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0059",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0059",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0059",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0059.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0060",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0060",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0060",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0060",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0060.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0061",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0061",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0061",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0061",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0061.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0062",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0062",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0062",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0062",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0062.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0063",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0063",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0063",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0063",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0063.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0064",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0064",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0064",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0064",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0064.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0065",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0065",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0065",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0065",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0065.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0066",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0066",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0066",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0066",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0066.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0067",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0067",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0067",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0067",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0067.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0068",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0068",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0068",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0068",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0068.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0069",
+          "@type": "sc:Canvas",
+          "height": 1364,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/img0069",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/page0069",
+              "resource": {
+                "description": "[paragraph:field_description]",
+                "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741/0069",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif/2/200899741%2F0069.tif",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

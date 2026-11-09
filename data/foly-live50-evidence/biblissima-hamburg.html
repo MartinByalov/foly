@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="Ojk9DWggn8CoeMeklNKgAeaXlnklv6KQo8zrU2SZ">
+
+        <title>38 results found for &quot;Hamburg&quot; | IIIF Collections of Manuscripts and Rare Books</title>
+        <meta name="description" content="A Biblissima prototype to search for interoperable digitized manuscripts and rare books across IIIF-compliant digital libraries">
+        <meta name="robots" content="noindex" />
+        <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" href="https://static.biblissima.fr/images/favicons/apple-touch-icon-152x152.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://static.biblissima.fr/images/favicons/mstile-144x144.png">
+    <link rel="icon" type="image/png" href="https://static.biblissima.fr/images/favicons/favicon.png">
+    <!--[if IE]><link rel="shortcut icon" href="https://static.biblissima.fr/images/favicons/favicon.ico"><![endif]-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Scripts -->
+    <script type="text/javascript">
+        DATA_URL = 'https://iiif.biblissima.fr/collections/';
+        HOME_URL = 'https://iiif.biblissima.fr/collections';
+    </script>
+    
+    <script src="https://iiif.biblissima.fr/collections/js/vendors/tify3/tify.js"></script>
+    <script src="https://iiif.biblissima.fr/collections/js/app.js?id=96a07681b7d1da5dd86e" defer></script>
+    
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    
+    <!-- Styles -->
+    <!-- <link href="https://iiif.biblissima.fr/collections/js/vendors/tify3/tify.css" rel="stylesheet"> -->
+    <link href="https://iiif.biblissima.fr/collections/css/app.css?id=62399b1b707104ab2683" rel="stylesheet">
+</head>
+<body>
+    <style>
+.menu-bbma-close-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #FFF;
+  -webkit-transition: .2s linear all;
+  transition: .2s linear all;
+}
+
+.menu-bbma-btn:hover,
+.menu-bbma-close-btn:hover {
+  color: #fed443;
+}
+
+.menu-bbma-wrapper {
+  background: #2b2e2f;
+  width: 320px;
+  height: 100%;
+  position: absolute;
+  left: -320px;
+  z-index: 1060;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+.menu-bbma-wrapper.active {
+  left: 0;
+  box-shadow: 1px 0 4px 0 rgba(51,51,51,.4);
+}
+
+.menu-bbma-wrapper .header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20px 15px;
+  align-items: center;
+  -webkit-box-align: center;
+    -ms-flex-align: center;
+  /*border-bottom: solid 2px #e6e5e5;*/
+}
+
+.menu-bbma-wrapper .header h2 {
+  font-family: "Source Serif Pro",Georgia,Times,serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0px;
+  padding: 0;
+  border: none;
+}
+
+.menu-bbma-wrapper .header .menu-bbma-close-btn {
+  color: #fff;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+
+.menu-bbma-wrapper .header .menu-bbma-close-btn:hover {
+  color: #fed443;
+}
+
+.menu-bbma-wrapper a {
+  color: #fff;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.menu-bbma-wrapper ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-bbma-wrapper ul li {
+  background: #3C474C;
+  position: relative;
+  border-bottom: solid 1px #5f686e;
+  margin-bottom: 0;
+}
+
+.home-bbma .menu-bbma-wrapper ul li:first-child {
+  display: none;
+}
+
+.menu-bbma-wrapper ul li:first-child h3 {
+  margin-bottom: 0;
+}
+
+.menu-bbma-wrapper ul li h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #FFF;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 0;
+  font-family: 'Source sans pro', sans-serif;
+  text-transform: uppercase;
+}
+
+.menu-bbma-wrapper ul li a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column wrap;
+          flex-flow: column wrap;
+  padding: 20px 15px 20px 16px;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper ul li a:hover {
+  background: #5f676d;
+  border-right: 2px solid #fed443;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper ul li a p {
+  color: #ddd;
+  font-weight: 400;
+}
+
+.menu-bbma-wrapper .footer {
+  background: #2b2e2f;
+  padding: 20px 15px;
+  color: #fff;
+}
+
+.menu-bbma-wrapper .footer a {
+  padding: 0 5px;
+  font-size: 13px;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.menu-bbma-wrapper .footer a:hover {
+  opacity: .8;
+}
+
+.menu-bbma-wrapper .other-links {
+  text-transform: uppercase;
+}
+
+.menu-bbma-wrapper ul li p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 21px;
+}
+</style>
+<div class="menu-bbma-wrapper">
+    <nav class="menu-bbma" id="menuBbma">
+        <div class="header">
+            <h2>Discover Biblissima</h2>
+            <button class="material-icons menu-bbma-close-btn" id="menuBbmaCloseBtn">close</button>
+        </div>
+        <ul>
+            <li>
+                <a href="https://biblissima.fr">
+                    <h3>Home Biblissima</h3>
+                </a>
+            </li>
+            <li>
+                <a href="https://portail.biblissima.fr">
+                    <h3>Biblissima Portal</h3>
+                    <!-- TODO : <sup></sup> .po -->
+                    <!-- <p>Point d'accès au patrimoine écrit du Moyen &Acirc;ge et de la Renaissance en Occident du VIII<sup>e</sup> au XVIII<sup>e</sup> siècle</p> -->
+                    <p>An entry point to the written heritage of the Middle Ages and the Renaissance in Western Europe, from the 8th to the 18th century.</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://iiif.biblissima.fr/collections/">
+                    <h3>IIIF Collections</h3>
+                    <p>A search engine of interoperable digitized manuscripts and rare books</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://data.biblissima.fr/w/Accueil">
+                    <h3>Biblissima Authority Files</h3>
+                    <p>Collaborative platform to manage and publish Biblissima authority data</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://outils.biblissima.fr">
+                    <h3>Biblissima Tools</h3>
+                    <p>Help for reading and learning classical languages, XML editing tools and environments</p>
+                </a>
+            </li>
+            <li>
+                <a href="https://iiif.biblissima.fr/services-iiif">
+                    <h3>IIIF360</h3>
+                    <p>Expertise service around IIIF standards</p>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="footer">
+      <p class="other-links"><a href="https://projet.biblissima.fr">Project</a> | <a href="https://demos.biblissima.fr">Demos</a> | <a href="https://doc.biblissima.fr">Documentation</a></p>
+      <p><a href="https://doc.biblissima.fr/contribuer-a-biblissima">Contribute to Biblissima+</a></p>
+      <p><a href="https://listes.campus-condorcet.fr/sympa/info/biblissima-info-membres">Subscribe to our newsletter</a></p>
+      <p><a href="https://projet.biblissima.fr/fr/contact">Contact us</a></p>
+    </div>
+</div>
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('#menuBbmaBtn, #menuBbmaCloseBtn').forEach(function(el) {
+    el.addEventListener('click', function() {
+      document.querySelector('.menu-bbma-wrapper').classList.toggle('active');
+    })
+  });
+});
+</script>
+  
+    <div id="app">
+                <main class="search">
+                    <div><style type="text/css">
+.top-bar-bbma.navbar {
+    border: 0;
+    padding: 0;
+    margin-bottom: 0;
+    z-index: 1000;
+}
+.top-bar-bbma.main-menu {
+    background: #16232d;
+    border-radius: 0;
+    min-height: 0;
+    box-shadow:  0px 0px 3px rgb(0 0 0 / 80%)
+}
+.top-bar-bbma .navbar-header {
+    display: flex;
+    margin: 0;
+    height: 43px;
+    align-items: center;
+}
+.top-bar-bbma .navbar-header h1 {
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 4rem;
+    overflow: initial;
+}
+.top-bar-bbma .navbar-header h1 a {
+    display: block;
+}
+.top-bar-bbma .navbar-header h1 a img {
+    display: block;
+    margin-top: -7px;
+}
+.menu-bbma-btn {
+    background: 0 0;
+    border: none;
+    cursor: pointer;
+    color: #dde1e6;
+    transition: .2s linear all;
+    padding: 0 10px 0 0;
+}
+</style>
+<nav class="main-menu navbar top-bar-bbma" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button class="material-icons menu-bbma-btn" id="menuBbmaBtn"></button>
+            <h1>
+                <a href="https://biblissima.fr" class="logo">
+                    <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMSBUaW55Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLXRpbnkuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJ0aW55IiBpZD0iQ2FscXVlXzEiCgkgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxNDVweCIgaGVpZ2h0PSIyN3B4IgoJIHZpZXdCb3g9IjAgMCAxNDUgMjciIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik0xMzUuMjQsMTkuOTgzVjAuNDE3aDMuOTA5djE5LjU2N0gxMzUuMjR6IE0xNDEuMDkxLDguMjM0SDE0NXYxMS43NWgtMy45MDlWOC4yMzR6Ii8+CjwvZz4KPGc+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNOC45Nyw5LjE0MmMzLjk3OSwwLDUuODUxLDEuNzQyLDUuODUxLDQuMTM0YzAsMS44Mi0xLjA5MiwzLjQwNi00LjIxMiw0LjAwNAoJCWMzLjY2NiwwLjQ2OCw1LjE0OCwyLjEzMiw1LjE0OCw0LjMxNmMwLDIuMjg4LTEuNzY4LDQuNzg0LTcuNDg4LDQuNzg0SDEuMDE0di0xLjIyMmwyLjE4NC0wLjIzNAoJCUMzLjI1LDIyLjc0LDMuMjUsMjAuNTMsMy4yNSwxOC4yNjl2LTEuMDE0YzAtMi4yMSwwLTQuNDQ2LTAuMDUyLTYuNjU3bC0yLjE4NC0wLjIzNFY5LjE0Mkg4Ljk3eiBNNi42MywxMC40NjgKCQljLTAuMDUyLDIuMDU0LTAuMDUyLDQuMTg2LTAuMDUyLDYuMzE4aDEuMDY2YzIuNjc4LDAsMy44NzUtMS4wNCwzLjg3NS0zLjI3NmMwLTIuMTU4LTEuMTQ0LTMuMDQyLTMuNTEtMy4wNDJINi42M3ogTTcuODUyLDI1LjAyOQoJCWMyLjg4NiwwLDQuMzk1LTEuMTk2LDQuMzk1LTMuNDMzYzAtMi4zOTItMS40MDQtMy41MzYtNC40OTgtMy41MzZoLTEuMTdjMCwyLjQ0NCwwLDQuNzMyLDAuMDUyLDYuOTY5SDcuODUyeiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTI0LjU3LDI1LjMxNHYxLjA2NmgtNi40NDh2LTEuMDY2bDEuNzE2LTAuMzM4YzAuMDI2LTEuMjczLDAuMDI2LTIuOTM4LDAuMDI2LTQuMDU2di0xLjMKCQljMC0xLjQzMS0wLjAyNi0yLjIzNi0wLjA3OC0zLjI3NkwxNy45NCwxNi4xMXYtMC45NjJsNC43MDYtMS42NjRsMC40MTYsMC4yODZsLTAuMDc4LDMuNjR2My41MTFjMCwxLjExOCwwLDIuNzgyLDAuMDI2LDQuMDgyCgkJTDI0LjU3LDI1LjMxNHogTTE5LjQyMiw5LjI5OGMwLTEuMTE4LDAuODU4LTEuODcyLDEuOTc2LTEuODcyYzEuMDkyLDAsMS45NSwwLjc1NCwxLjk1LDEuODcyYzAsMS4wNjYtMC44NTgsMS44NDYtMS45NSwxLjg0NgoJCUMyMC4yOCwxMS4xNDUsMTkuNDIyLDEwLjM2NCwxOS40MjIsOS4yOTh6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNMzEuNDYsMTUuMzNjMS4xNDQtMS4yNDgsMi40NDQtMS44NDYsMy44NzUtMS44NDZjMi44MDgsMCw1LjAxOCwyLjM5Myw1LjAxOCw2LjU1MwoJCWMwLDQuMDgyLTIuNDQ0LDYuNzMzLTUuNDM0LDYuNzMzYy0xLjM3OCwwLTIuNTIyLTAuNDkzLTMuNTEtMS43MTZsLTAuMzM4LDEuNjlsLTQuMzk0LTAuMzY0di0xLjA2NmwxLjcxNi0wLjMzOAoJCWMwLjAyNi0xLjMsMC4wMjYtMi45MzgsMC4wMjYtNC4wNTZWMTBMMjYuNTIsOS43NjZWOC43NTJsNC42NTQtMS4xN2wwLjM5LDAuMjM0bC0wLjEwNCwzLjY2NlYxNS4zM3ogTTMxLjUzOCwyMy44MzMKCQljMC44MDYsMC43NTQsMS41ODYsMS4xMTgsMi40NDQsMS4xMThjMS42OSwwLDMuMDQyLTEuNTYxLDMuMDQyLTQuNzg0YzAtMy4xOTgtMS4xOTYtNC44MTEtMi45MzgtNC44MTEKCQljLTAuODA2LDAtMS42NjQsMC40NDItMi41NDgsMS4xOTZWMjMuODMzeiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTQ5LjI3LDI1LjMxNHYxLjA2NmgtNi43NnYtMS4wNjZsMS43NjgtMC4zMzhjMC4wMjYtMS4zNTIsMC4wNTItMi43MDQsMC4wNTItNC4wNTZWMTAuMDI2bC0xLjg5OC0wLjI2CgkJVjguNzUybDQuNzMyLTEuMTdsMC4zOSwwLjIzNGwtMC4xMDQsMy42NjZ2OS40MzhjMCwxLjM1MiwwLjAyNiwyLjcwNCwwLjA1Miw0LjA1Nkw0OS4yNywyNS4zMTR6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNNTcuODI0LDI1LjMxNHYxLjA2NmgtNi40NDh2LTEuMDY2bDEuNzE2LTAuMzM4YzAuMDI2LTEuMjczLDAuMDI2LTIuOTM4LDAuMDI2LTQuMDU2di0xLjMKCQljMC0xLjQzMS0wLjAyNi0yLjIzNi0wLjA3OC0zLjI3NmwtMS44NDYtMC4yMzR2LTAuOTYybDQuNzA2LTEuNjY0bDAuNDE2LDAuMjg2bC0wLjA3OCwzLjY0djMuNTExYzAsMS4xMTgsMCwyLjc4MiwwLjAyNiw0LjA4MgoJCUw1Ny44MjQsMjUuMzE0eiBNNTIuNjc2LDkuMjk4YzAtMS4xMTgsMC44NTgtMS44NzIsMS45NzYtMS44NzJjMS4wOTIsMCwxLjk1LDAuNzU0LDEuOTUsMS44NzJjMCwxLjA2Ni0wLjg1OCwxLjg0Ni0xLjk1LDEuODQ2CgkJQzUzLjUzNCwxMS4xNDUsNTIuNjc2LDEwLjM2NCw1Mi42NzYsOS4yOTh6Ii8+Cgk8cGF0aCBmaWxsPSIjZGRlMWU2IiBkPSJNNjYuMzc4LDE4Ljc4OWMyLjUyMSwwLjg1NywzLjQ4MywyLjE4NCwzLjQ4MywzLjk1MWMwLDIuMzQxLTEuOTI0LDQuMDMtNS40MzQsNC4wMwoJCWMtMS41ODYsMC0yLjg2LTAuMzYzLTQuMTg3LTEuMDkybC0wLjAyNi0zLjAxNmgxLjc0MmwwLjQ2OCwyLjQxOGMwLjYyNCwwLjI2LDEuMjc0LDAuMzksMi4wMjgsMC4zOQoJCWMxLjc2OSwwLDIuNjUyLTAuNjc2LDIuNjUyLTEuNzk0YzAtMC45NjItMC42NDktMS41MzQtMi4zMTMtMi4wOGwtMS4zMDEtMC40MTZjLTEuOTUtMC42NS0zLjE0Ni0xLjg3Mi0zLjE0Ni0zLjY2NgoJCWMwLTIuMjEsMS44NzItNC4wMyw0Ljk0LTQuMDNjMS40ODIsMCwyLjY1MiwwLjM5LDMuODc0LDEuMDY2bC0wLjEzLDIuNzU2aC0xLjcxNmwtMC40NjgtMi4xODQKCQljLTAuNDk0LTAuMjA5LTAuOTg4LTAuMzEyLTEuNjEyLTAuMzEyYy0xLjM3OCwwLTIuMTg0LDAuNjI0LTIuMTg0LDEuNjg5YzAsMC44ODUsMC41MiwxLjM3OSwyLjI4OSwxLjk3N0w2Ni4zNzgsMTguNzg5eiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTc4LjU3MiwxOC43ODljMi41MjEsMC44NTcsMy40ODQsMi4xODQsMy40ODQsMy45NTFjMCwyLjM0MS0xLjkyNCw0LjAzLTUuNDM2LDQuMDMKCQljLTEuNTg2LDAtMi44NTktMC4zNjMtNC4xODUtMS4wOTJsLTAuMDI2LTMuMDE2aDEuNzQzbDAuNDY3LDIuNDE4YzAuNjI1LDAuMjYsMS4yNzUsMC4zOSwyLjAyOSwwLjM5CgkJYzEuNzY4LDAsMi42NTItMC42NzYsMi42NTItMS43OTRjMC0wLjk2Mi0wLjY1LTEuNTM0LTIuMzE0LTIuMDhsLTEuMzAxLTAuNDE2Yy0xLjk0OS0wLjY1LTMuMTQ2LTEuODcyLTMuMTQ2LTMuNjY2CgkJYzAtMi4yMSwxLjg3My00LjAzLDQuOTQxLTQuMDNjMS40ODIsMCwyLjY1MiwwLjM5LDMuODczLDEuMDY2bC0wLjEyOSwyLjc1NmgtMS43MTdsLTAuNDY5LTIuMTg0CgkJYy0wLjQ5Mi0wLjIwOS0wLjk4Ni0wLjMxMi0xLjYxMS0wLjMxMmMtMS4zNzcsMC0yLjE4NCwwLjYyNC0yLjE4NCwxLjY4OWMwLDAuODg1LDAuNTIsMS4zNzksMi4yODcsMS45NzdMNzguNTcyLDE4Ljc4OXoiLz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik05MC44NDQsMjUuMzE0djEuMDY2aC02LjQ0OXYtMS4wNjZsMS43MTctMC4zMzhjMC4wMjUtMS4yNzMsMC4wMjUtMi45MzgsMC4wMjUtNC4wNTZ2LTEuMwoJCWMwLTEuNDMxLTAuMDI1LTIuMjM2LTAuMDc4LTMuMjc2bC0xLjg0Ni0wLjIzNHYtMC45NjJsNC43MDctMS42NjRsMC40MTYsMC4yODZsLTAuMDc4LDMuNjR2My41MTFjMCwxLjExOCwwLDIuNzgyLDAuMDI1LDQuMDgyCgkJTDkwLjg0NCwyNS4zMTR6IE04NS42OTUsOS4yOThjMC0xLjExOCwwLjg1Ny0xLjg3MiwxLjk3Ny0xLjg3MmMxLjA5MiwwLDEuOTQ5LDAuNzU0LDEuOTQ5LDEuODcyYzAsMS4wNjYtMC44NTcsMS44NDYtMS45NDksMS44NDYKCQlDODYuNTUzLDExLjE0NSw4NS42OTUsMTAuMzY0LDg1LjY5NSw5LjI5OHoiLz4KCTxwYXRoIGZpbGw9IiNkZGUxZTYiIGQ9Ik0xMTUuMDQ5LDI1LjMxNHYxLjA2NmgtNi4zNDR2LTEuMDY2bDEuNjEzLTAuMzM4YzAuMDI1LTEuMjczLDAuMDI1LTIuODg2LDAuMDI1LTQuMDU2di0yLjQ0NAoJCWMwLTIuMjEtMC41NDctMi44MDktMS44NDYtMi44MDljLTAuOTM4LDAtMS44NzMsMC40NDItMi44NjEsMS4zMjZjMC4wMjcsMC4zMzgsMC4wNTMsMC43MjksMC4wNTMsMS4xNDV2Mi43ODIKCQljMCwxLjE3LDAsMi43ODIsMC4wMjUsNC4wODJsMS41NjEsMC4zMTJ2MS4wNjZoLTYuMzcxdi0xLjA2NmwxLjY2NC0wLjMzOGMwLjAyNy0xLjI3MywwLjAyNy0yLjg4NiwwLjAyNy00LjA1NnYtMi40MTgKCQljMC0yLjEwNi0wLjQ2OS0yLjgzNS0xLjgyLTIuODM1Yy0wLjk4OCwwLTEuOTI0LDAuNDk0LTIuODM0LDEuMzAxdjMuOTUyYzAsMS4xNDQsMCwyLjc4MiwwLjAyNSw0LjA4MmwxLjUzNSwwLjMxMnYxLjA2NmgtNi40MjQKCQl2LTEuMDY2bDEuNjkxLTAuMzM4YzAuMDI1LTEuMjczLDAuMDI1LTIuOTM4LDAuMDI1LTQuMDU2VjE5LjQ5YzAtMS40MywwLTIuMTA1LTAuMDc4LTMuMTQ2bC0xLjgyLTAuMjM0di0wLjk2Mmw0LjM0Mi0xLjY2NAoJCWwwLjQxNiwwLjI4NmwwLjIwOSwyLjAyOGMxLjI0OC0xLjQ1NywyLjczLTIuMzE0LDQuMzE2LTIuMzE0YzEuNjg5LDAsMi43ODEsMC43NTQsMy4yNSwyLjM5M2MxLjQwNC0xLjcxNywyLjg4Ny0yLjM5Myw0LjQ3My0yLjM5MwoJCWMyLjM0LDAsMy41MzUsMS40MywzLjUzNSw0LjU3NnYyLjg2YzAsMS4xNywwLDIuNzgyLDAuMDI1LDQuMDgyTDExNS4wNDksMjUuMzE0eiIvPgoJPHBhdGggZmlsbD0iI2RkZTFlNiIgZD0iTTEyOS43MTMsMjUuMDI5Yy0wLjU5OCwxLjI3My0xLjM3NywxLjY2NC0yLjU3NCwxLjY2NGMtMS41MzMsMC0yLjM5My0wLjc1NS0yLjY3OC0xLjk1CgkJYy0xLjI3MywxLjMtMi4xMDUsMi4wMjctMy43NywyLjAyN2MtMS45NTEsMC0zLjQ1OS0xLjE3LTMuNDU5LTMuMzI4YzAtMS42MzgsMC45MS0yLjkxMiw0LjY1NC00LjEwNwoJCWMwLjY3Ni0wLjIzNCwxLjU4Ni0wLjQ5NCwyLjQ5Ni0wLjcyOXYtMC43OGMwLTIuNDE4LTAuNTk4LTMuMDY4LTIuMjg3LTMuMDY4Yy0wLjMxMiwwLTAuNjUsMC4wMjYtMS4wNDEsMC4wNzhsLTAuMzEyLDEuNTA5CgkJYy0wLjE1NiwxLjI0OC0wLjgwNSwxLjgxOS0xLjY2NCwxLjgxOWMtMC44MDUsMC0xLjMyNi0wLjQ0MS0xLjQ1NS0xLjE5NWMwLjMxMi0yLjA4LDIuMzE0LTMuNDg0LDUuNDg2LTMuNDg0CgkJYzMuMDE2LDAsNC4zNDIsMS4zNTIsNC4zNDIsNC43MzJ2NS43MmMwLDAuNzgsMC4yMzQsMS4xNywwLjcwMSwxLjE3YzAuMzY1LDAsMC42MjUtMC4yMDgsMC44MzItMC40NDFsMC4xMzEtMC4xM0wxMjkuNzEzLDI1LjAyOXoKCQkgTTEyNC4zODMsMTkuNjQ2Yy0wLjcyOSwwLjIzNC0xLjQwNCwwLjQ0Mi0xLjg0NiwwLjYyNGMtMS43NDIsMC43MDItMi4yNjIsMS42NjQtMi4yNjIsMi42NTJjMCwwLjcwMiwwLjE4MiwxLjA5MiwwLjQ5NCwxLjQwNAoJCWMwLjM2MywwLjM5LDAuODA1LDAuNTQ2LDEuMzUyLDAuNTQ2YzAuNjc2LDAsMS4xMTctMC4yODYsMi4yNjItMS4wOTJWMTkuNjQ2eiIvPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=" alt="Biblissima">
+                </a>
+            </h1>
+        </div>
+        <ul class="nav">
+	    <li>
+                <a href="https://listes.campus-condorcet.fr/sympa/arc/biblissima-info-membres" title="Liste de diffusion" class="nav-link">
+                    <i class="bi bi-envelope-fill"></i>
+                </a>
+            </li>
+	    <li>
+                <a href="https://www.linkedin.com/company/biblissima" rel="me" title="LinkedIn" class="nav-link">
+                    <i class="bi bi-linkedin"></i>
+                </a>
+            </li>
+	    <li>
+                <a href="https://bsky.app/profile/biblissima.bsky.social" rel="me" title="Bluesky" class="nav-link">
+                    <i class="bi bi-bluesky"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://universites.social/@biblissima" rel="me" title="Mastodon" class="nav-link">
+                    <i class="bi bi-mastodon"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCaHWzwUV0xBAQ-sEdE9EtKg" title="Youtube" class="nav-link">
+                    <i class="bi bi-youtube"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/biblissima" title="Github" class="nav-link">
+                    <i class="bi bi-github"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://gitlab.huma-num.fr/biblissima" title="Gitlab" class="nav-link">
+                    <i class="bi bi-gitlab"></i>
+                </a>
+            </li>
+            <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-three-dots-vertical"></i>
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end">
+                    <li class="dropdown-item"><a href="https://zenodo.org/communities/biblissima">Communauté Zenodo</a></li>
+                    <li class="dropdown-item"><a href="https://gitlab.huma-num.fr/biblissima">Gitlab</a></li>
+                </ul>
+            </li> -->
+        </ul>
+    </div>
+</nav>
+</div>
+<header>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<a class="navbar-brand" href="https://iiif.biblissima.fr/collections">
+			
+		IIIF Collections - Manuscripts &amp; Rare Books
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+  		</button>
+
+	  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+	  		<form class="mr-auto mt-2 mb-0 mt-md-0" action="https://iiif.biblissima.fr/collections/search" method="GET">
+	  			<div class="input-group">					
+					<button type="button" class="input-group-prepend btn btn-outline-success my-2 my-sm-0" id="searchHelp"><i class="material-icons">help</i></button>
+					<input class="form-control" type="text" placeholder="Search across ~144,000 IIIF manifests of digitized manuscripts and rare books" aria-label="Search" name="q" value="Hamburg" autofocus>
+					<button class="input-group-append btn btn-outline-success my-2 my-sm-0" type="submit"><i class="material-icons">search</i></button>
+	  			</div>
+	    	</form>
+			<ul class="navbar-nav my-2 my-md-0 ml-md-3">
+				<li class="nav-item active">
+					<a class="nav-link" href="https://iiif.biblissima.fr/collections/about">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="cartButton" href="#"><i class="material-icons">shopping_cart</i><span class="badge badge-success badge-pill" id="number"><strong>0</strong></span></a>
+				</li>
+			</ul>
+	  	</div>
+	</nav>
+</header>
+            <div class="container">
+    <div class="row">
+                <ul class="badges col-12 list-inline">
+            <li class="list-inline-item"><a class="px-3 py-1 badge-danger mb-3" href=https://iiif.biblissima.fr/collections/search>Remove all filters<span class="material-icons">close</span></a></li>
+                                    <li class="list-inline-item"><a class="px-3 py-1 badge-info mb-3" href="https://iiif.biblissima.fr/collections/search?"><span class="badge-name">query</span> : Hamburg<span class="material-icons">close</span></a></li>
+                                </ul>
+                        <aside class="col-12 col-sm-5 col-md-4 facets">
+                                     
+            <div class="facet collection mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet0">collection<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet0">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet0" placeholder="Filter Collection ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Bayerische+Staatsbibliothek"><span>Bayerische Staatsbibliothek</span>  <span class="count pl-2">22</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=e-codices"><span>e-codices</span>  <span class="count pl-2">5</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Digital+Bodleian+%28Oxford+University%29"><span>Digital Bodleian (Oxford University)</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Digital+Collections+%28Leiden+University+Libraries%29"><span>Digital Collections (Leiden University Libraries)</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Heidelberg+University+Library%2C+Bibliotheca+Palatina"><span>Heidelberg University Library, Bibliotheca Palatina</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Badische+Landesbibliothek+Karlsruhe"><span>Badische Landesbibliothek Karlsruhe</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Cambridge+Digital+Library"><span>Cambridge Digital Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Manchester+Digital+Collections"><span>Manchester Digital Collections</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;collection=Mmmonk"><span>Mmmonk</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet library mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet1">library<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet1">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet1" placeholder="Filter Library ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Bayerische+Staatsbibliothek"><span>Bayerische Staatsbibliothek</span>  <span class="count pl-2">22</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Z%C3%BCrich.+Braginsky+Collection"><span>Zürich. Braginsky Collection</span>  <span class="count pl-2">5</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Oxford.+Bodleian+Library"><span>Oxford. Bodleian Library</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Leiden+University+Libraries"><span>Leiden University Libraries</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Bruges+Public+Library"><span>Bruges Public Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Cambridge.+Cambridge+University+Library"><span>Cambridge. Cambridge University Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Karlsruhe.+Badische+Landesbibliothek"><span>Karlsruhe. Badische Landesbibliothek</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=The+John+Rylands+Library"><span>The John Rylands Library</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Universit%C3%A4tsbibliothek+Heidelberg"><span>Universitätsbibliothek Heidelberg</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;library=Vatikan%2C+Biblioteca+Apostolica+Vaticana"><span>Vatikan, Biblioteca Apostolica Vaticana</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet location mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet2">location<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet2">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet2" placeholder="Filter Location ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Hamburg+%28Hamburg%2C+Germany%29"><span>Hamburg (Hamburg, Germany)</span>  <span class="count pl-2">11</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Altona+%28Hamburg%2C+Germany%29"><span>Altona (Hamburg, Germany)</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Amsterdam+%28Netherlands%29"><span>Amsterdam (Netherlands)</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Augsburg+%28Bavaria%2C+Germany%29"><span>Augsburg (Bavaria, Germany)</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Wandsbek+%28Hamburg%2C+Germany%29"><span>Wandsbek (Hamburg, Germany)</span>  <span class="count pl-2">2</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Amstelland+%28Netherlands%29"><span>Amstelland (Netherlands)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Austria"><span>Austria</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Bavaria+%28Germany%29"><span>Bavaria (Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Belgium"><span>Belgium</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Bruges+%28West+Flanders%2C+Belgium%29"><span>Bruges (West Flanders, Belgium)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Flanders"><span>Flanders</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=France"><span>France</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Frankfurt+am+Main+%28Hesse%2C+Germany%29"><span>Frankfurt am Main (Hesse, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=German+regions%2C+Western+%28%3F%29"><span>German regions, Western (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Germany%2C+Northern"><span>Germany, Northern</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Gl%C3%BCcksbrunn+%28Thuringia%2C+Germany%29"><span>Glücksbrunn (Thuringia, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Hamburg-Altona+%28Hamburg%2C+Germany%29"><span>Hamburg-Altona (Hamburg, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Hamburg-Bremen+region+%28Germany%29"><span>Hamburg-Bremen region (Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Inzigkofen+%28Baden-W%C3%BCrttemberg%2C+Germany%29"><span>Inzigkofen (Baden-Württemberg, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Leipzig+%28Saxony%2C+Germany%29"><span>Leipzig (Saxony, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Low+Countries%2C+Eastern+%28%3F%29"><span>Low Countries, Eastern (?)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Low+Countries%2C+Northern"><span>Low Countries, Northern</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Lower+Saxony+%28Germany%29"><span>Lower Saxony (Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Munich+%28Bavaria%2C+Germany%29"><span>Munich (Bavaria, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Nuremberg+%28Bavaria%2C+Germany%29"><span>Nuremberg (Bavaria, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Oxford+%28Oxfordshire%2C+United+Kingdom%29"><span>Oxford (Oxfordshire, United Kingdom)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Regensburg+%28Bavaria%2C+Germany%29"><span>Regensburg (Bavaria, Germany)</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;location=Southern-Bavarian+language+area"><span>Southern-Bavarian language area</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                             
+            <div class="facet language mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet3">language<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id ="facet3">
+                    <div>
+                        <div class="input-container">
+                            <input type="text" name="filter-facet3" placeholder="Filter Language ...">
+                            <button class="btn btn-link"><span class="material-icons">search</span></button>
+                        </div>
+                        <ul class="list-unstyled m-0">
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=German"><span>German</span>  <span class="count pl-2">18</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Latin"><span>Latin</span>  <span class="count pl-2">8</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Hebrew"><span>Hebrew</span>  <span class="count pl-2">7</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Middle+High+German"><span>Middle High German</span>  <span class="count pl-2">3</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Dutch"><span>Dutch</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Ladino"><span>Ladino</span>  <span class="count pl-2">1</span></a></li>
+                                                        <li><a class="" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;language=Yiddish"><span>Yiddish</span>  <span class="count pl-2">1</span></a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+                                                                        <script type="text/javascript">
+                let values = {'min': 1033, 'max': 1827 };
+                let bounds = {'min': 1033, 'max': 1827 };
+            </script>
+            <div class="facet date mb-4">
+                <h4 class="m-0"><a class="px-3" href="#" aria-expanded="true" aria-controls="facet4">date<span class="material-icons">arrow_drop_down</span></a></h4>
+                <div class="collapse show p-3" id="facet4">
+                    <div>
+                        <form method="get" action="https://iiif.biblissima.fr/collections/search">
+                                                                                    <input type="hidden" name="q" value="Hamburg">
+                                                                                    <div id="sliderDate"></div>
+                                                        <input type="checkbox" name="date_include" id="date_include"><label for="date_include">Include results without date</label>
+                                                        <input class="btn btn-info" type="submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+                                            </aside>
+                <section class="col-12 col-sm-7 col-md-8">
+            <div class="results">
+                <h2>38 results</h2>
+                                                                <nav aria-label="pagination results">
+                    <ul class="pagination justify-content-center">
+                                                                                                            <li class="page-item active"><strong class="page-link">1</strong></li>
+                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;from=20&amp;">2</a></li>
+                                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;from=20&amp;">Next <span class="material-icons">chevron_right</span></a></li>
+                                        </ul>
+                </nav>
+                                <ul class="list-unstyled">
+                                    <li class="result media p-4 mb-3 cart-item" data-id="a9447ae3e79193edfd4a0c006284452b83a99088" data-thumbnail="https://www.e-codices.unifr.ch/loris/bc/bc-b-0052/bc-b-0052_e001.jp2/full/,150/0/default.jpg" data-shelfmark="Zürich. Braginsky Collection, B52" data-manifest="https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0052/manifest.json">
+                        <a href="manifest/a9447ae3e79193edfd4a0c006284452b83a99088">
+                                                        <img class="mr-3" src="https://www.e-codices.unifr.ch/loris/bc/bc-b-0052/bc-b-0052_e001.jp2/full/,150/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://www.e-codices.ch/img/logo-for-iiif-manifest.png" alt="e-codices">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Zürich. Braginsky Collection, B52</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0052/manifest.json?iiif-content=https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0052/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="a9447ae3e79193edfd4a0c006284452b83a99088"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">e-codices</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Zürich. Braginsky Collection</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">18th century, 1750</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Hebrew</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/a9447ae3e79193edfd4a0c006284452b83a99088">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    of the illustrator Uri Fayvesh ben Isaac  Segal, who was a prominent representative of the so-called <em>Hamburg</em>-Altona
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="1255005db644a97adcdb2c10a42ab546cb0c3f86" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00145071_00006/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 9328" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00145071/manifest">
+                        <a href="manifest/1255005db644a97adcdb2c10a42ab546cb0c3f86">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00145071_00006/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 9328</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00145071/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00145071/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="1255005db644a97adcdb2c10a42ab546cb0c3f86"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">um 1500</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/1255005db644a97adcdb2c10a42ab546cb0c3f86">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Günther, <em>Hamburg</em>
+                                </li>
+                                                            <li class="highlight">
+                                    der Sammlung des Duke of Hamilton, 1882 - 1889 im Kupferstichkabinett in Berlin; gekauft bei Günther, <em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="3a96933b89554a1956d96df93f1a47717c531a0b" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085903_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Autogr. Cim. Bach, Carl Philipp Emanuel. 1" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085903/manifest">
+                        <a href="manifest/3a96933b89554a1956d96df93f1a47717c531a0b">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085903_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Autogr. Cim. Bach, Carl Philipp Emanuel. 1</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085903/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085903/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="3a96933b89554a1956d96df93f1a47717c531a0b"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">15.11.1776</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/3a96933b89554a1956d96df93f1a47717c531a0b">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Publication Statement:<em>Hamburg</em> 15.11.1776Other title:
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="67fd55af26ce27ac62f170bdf5b55bfdadd95723" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00091565_00001/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Autogr. Cim. Klopstock, Friedrich Gottlieb. 1" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091565/manifest">
+                        <a href="manifest/67fd55af26ce27ac62f170bdf5b55bfdadd95723">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00091565_00001/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Autogr. Cim. Klopstock, Friedrich Gottlieb. 1</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091565/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091565/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="67fd55af26ce27ac62f170bdf5b55bfdadd95723"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">18.03.1776</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/67fd55af26ce27ac62f170bdf5b55bfdadd95723">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Publication Statement:<em>Hamburg</em> 18.03.1776Other title:
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="34ce223aa7e135ca5c59cee78a3fe4cb4260ec70" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00096457_00001/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Autogr. Cim. Telemann, Georg Philipp" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00096457/manifest">
+                        <a href="manifest/34ce223aa7e135ca5c59cee78a3fe4cb4260ec70">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00096457_00001/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Autogr. Cim. Telemann, Georg Philipp</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00096457/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00096457/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="34ce223aa7e135ca5c59cee78a3fe4cb4260ec70"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">04.03.1744</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/34ce223aa7e135ca5c59cee78a3fe4cb4260ec70">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Extent:1 Brief, 2 SeitenPublication Statement:<em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="ec41e93ec2dd17d7a542e63c74f2925cfe35e3c1" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00091566_00001/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Autogr. Cim. Klopstock, Friedrich Gottlieb. 2" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091566/manifest">
+                        <a href="manifest/ec41e93ec2dd17d7a542e63c74f2925cfe35e3c1">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00091566_00001/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Autogr. Cim. Klopstock, Friedrich Gottlieb. 2</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091566/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00091566/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="ec41e93ec2dd17d7a542e63c74f2925cfe35e3c1"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">06.09.1797</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/ec41e93ec2dd17d7a542e63c74f2925cfe35e3c1">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Publication Statement:<em>Hamburg</em> 06.09.1797Other title:
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="0cb473998c6bd07a6a04e2c3648d83fdb7c22ac3" data-thumbnail="https://www.e-codices.unifr.ch/loris/bc/bc-b-0351/bc-b-0351_e001.jp2/full/,150/0/default.jpg" data-shelfmark="Zürich. Braginsky Collection, B351" data-manifest="https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0351/manifest.json">
+                        <a href="manifest/0cb473998c6bd07a6a04e2c3648d83fdb7c22ac3">
+                                                        <img class="mr-3" src="https://www.e-codices.unifr.ch/loris/bc/bc-b-0351/bc-b-0351_e001.jp2/full/,150/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://www.e-codices.ch/img/logo-for-iiif-manifest.png" alt="e-codices">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Zürich. Braginsky Collection, B351</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0351/manifest.json?iiif-content=https://www.e-codices.unifr.ch/metadata/iiif/bc-b-0351/manifest.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="0cb473998c6bd07a6a04e2c3648d83fdb7c22ac3"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">e-codices</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Zürich. Braginsky Collection</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">18th century, 1741</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Hebrew</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/0cb473998c6bd07a6a04e2c3648d83fdb7c22ac3">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Altona (<em>Hamburg</em>, Germany)
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="3e04c09171eca17598a167385f61673199a265f3" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00147591_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 9396" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00147591/manifest">
+                        <a href="manifest/3e04c09171eca17598a167385f61673199a265f3">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00147591_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 9396</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00147591/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00147591/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="3e04c09171eca17598a167385f61673199a265f3"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">kurz nach 1529</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/3e04c09171eca17598a167385f61673199a265f3">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Günther, <em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="3339618a0c071b23843b124564ebc3ffda213917" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113836_00001/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 5420(93 c" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00113836/manifest">
+                        <a href="manifest/3339618a0c071b23843b124564ebc3ffda213917">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00113836_00001/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 5420(93 c</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00113836/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00113836/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="3339618a0c071b23843b124564ebc3ffda213917"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1796-1806</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/3339618a0c071b23843b124564ebc3ffda213917">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    br/>Extent:8 Briefe, 47 SeitenPublication Statement:<em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="2aea969f9f1eff9d109c382226d7e1f8e0fd1577" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00104095_00007/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 9220" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00104095/manifest">
+                        <a href="manifest/2aea969f9f1eff9d109c382226d7e1f8e0fd1577">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00104095_00007/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 9220</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00104095/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00104095/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="2aea969f9f1eff9d109c382226d7e1f8e0fd1577"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Ende 16. Jh</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger, http://id.loc.gov/vocabulary/iso639-2/gmh</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/2aea969f9f1eff9d109c382226d7e1f8e0fd1577">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Jörn Günther, <em>Hamburg</em>
+                                </li>
+                                                            <li class="highlight">
+                                    Handschriften der Sammlung Ludwig, Bd 4, Köln 1985, Nr XV 10 - BSB-Provenienz: Gekauft von Günther, <em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="dfa79b7cdf2705815aee913320a67223ab48f0b4" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085904_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Autogr. Cim. Bach, Carl Philipp Emanuel. 2" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085904/manifest">
+                        <a href="manifest/dfa79b7cdf2705815aee913320a67223ab48f0b4">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085904_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Autogr. Cim. Bach, Carl Philipp Emanuel. 2</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085904/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085904/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="dfa79b7cdf2705815aee913320a67223ab48f0b4"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">04.09.1786</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/dfa79b7cdf2705815aee913320a67223ab48f0b4">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Publication Statement:<em>Hamburg</em> 04.09.1786Other title:
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="8408c711617e6b0b4a639c0b1c6b59fdc1d1fed9" data-thumbnail="https://iiif.bodleian.ox.ac.uk/iiif/image/f880c8f1-7803-48b6-a5a8-752d1c0e7e0b/full/256,/0/default.jpg" data-shelfmark="Oxford. Bodleian Library, B 2.10 Th.Seld." data-manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/989a9367-3adf-4775-8a38-3a82ca6a5f15.json">
+                        <a href="manifest/8408c711617e6b0b4a639c0b1c6b59fdc1d1fed9">
+                                                        <img class="mr-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f880c8f1-7803-48b6-a5a8-752d1c0e7e0b/full/256,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Oxford. Bodleian Library, B 2.10 Th.Seld.</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://iiif.bodleian.ox.ac.uk/iiif/manifest/989a9367-3adf-4775-8a38-3a82ca6a5f15.json?iiif-content=https://iiif.bodleian.ox.ac.uk/iiif/manifest/989a9367-3adf-4775-8a38-3a82ca6a5f15.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="8408c711617e6b0b4a639c0b1c6b59fdc1d1fed9"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Bodleian (Oxford University)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Oxford. Bodleian Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1572-1618</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/8408c711617e6b0b4a639c0b1c6b59fdc1d1fed9">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Map of city of <em>Hamburg</em>.In Civitates Orbis Terrarum (six volumes, 1572 - 1618, printed by G.
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="1287c149814d8a1a82f4046034e19863e1e9518e" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00141054_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Panzeriana. Krohn, Barthold Nicolaus" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00141054/manifest">
+                        <a href="manifest/1287c149814d8a1a82f4046034e19863e1e9518e">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00141054_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Panzeriana. Krohn, Barthold Nicolaus</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00141054/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00141054/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="1287c149814d8a1a82f4046034e19863e1e9518e"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1792-1793</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/1287c149814d8a1a82f4046034e19863e1e9518e">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    strong>:2 eigenhändige Briefe mit UnterschriftPublication Statement:<em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="07e7bd336ee654e4c508829a9ca424b9a7c27676" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00142337_00007/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Cgm 8333" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00142337/manifest">
+                        <a href="manifest/07e7bd336ee654e4c508829a9ca424b9a7c27676">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00142337_00007/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Cgm 8333</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00142337/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00142337/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="07e7bd336ee654e4c508829a9ca424b9a7c27676"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1531</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/gmh</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/07e7bd336ee654e4c508829a9ca424b9a7c27676">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Hauswedell, <em>Hamburg</em>
+                                </li>
+                                                            <li class="highlight">
+                                    Ergänzungen von späterer Hand - BSB-Provenienz: Nr 17(8 der Auktion 185 (252651972) bei Hauswedell in <em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="3edda30ae823a19718b9da603a5e1f7ecf803410" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00138543_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Clm 28670" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00138543/manifest">
+                        <a href="manifest/3edda30ae823a19718b9da603a5e1f7ecf803410">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00138543_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Clm 28670</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00138543/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00138543/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="3edda30ae823a19718b9da603a5e1f7ecf803410"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">14. Jahrhundert</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/lat</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/3edda30ae823a19718b9da603a5e1f7ecf803410">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Antiquariat DL Bertalot, <em>Hamburg</em>
+                                </li>
+                                                            <li class="highlight">
+                                    Description:BSB-Provenienz: Antiquariat DL Bertalot, <em>Hamburg</em> 1953 durch die BSB
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="8711203867710b3d13035c25bcd61e0f2c55ba8f" data-thumbnail="https://sharedcanvas.be/IIIF/images/B_OB_MS762%3Ad4f47bbb-b4dd-11ec-aae3-f1ef43704249/full/,150/0/default.jpg" data-shelfmark="Bruges. Bibliothèque publique, Ms. 762" data-manifest="https://sharedcanvas.be/IIIF/manifests/B_OB_MS762">
+                        <a href="manifest/8711203867710b3d13035c25bcd61e0f2c55ba8f">
+                                                        <img class="mr-3" src="https://sharedcanvas.be/IIIF/images/B_OB_MS762%3Ad4f47bbb-b4dd-11ec-aae3-f1ef43704249/full/,150/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://www.mmmonk.be/files/_375x281_crop_center-center_82_line/logo.jpg.webp" alt="Mmmonk">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Bruges. Bibliothèque publique, Ms. 762</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://sharedcanvas.be/IIIF/manifests/B_OB_MS762?iiif-content=https://sharedcanvas.be/IIIF/manifests/B_OB_MS762"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="8711203867710b3d13035c25bcd61e0f2c55ba8f"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Mmmonk</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bruges Public Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">15de eeuw (ca. 1470-1474)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Latin</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/8711203867710b3d13035c25bcd61e0f2c55ba8f">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Günther, <em>Hamburg</em>
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="135992925de92c4e32b4cf96d42791527c5f866b" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00103221_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Gerstenbergiana II. Henrici, Paul Christian" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103221/manifest">
+                        <a href="manifest/135992925de92c4e32b4cf96d42791527c5f866b">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00103221_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Gerstenbergiana II. Henrici, Paul Christian</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103221/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103221/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="135992925de92c4e32b4cf96d42791527c5f866b"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Altona 1761 - 1779</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/135992925de92c4e32b4cf96d42791527c5f866b">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em>-Altona (<em>Hamburg</em>, Germany)
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="0a79dbb5c0aa10cb101673599c399cceac5dc822" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00021204_00005/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Kiesewetteriana 30" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00021204/manifest">
+                        <a href="manifest/0a79dbb5c0aa10cb101673599c399cceac5dc822">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00021204_00005/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Kiesewetteriana 30</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00021204/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00021204/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="0a79dbb5c0aa10cb101673599c399cceac5dc822"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1765 - 1769</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/ger</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/0a79dbb5c0aa10cb101673599c399cceac5dc822">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em> (<em>Hamburg</em>, Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    <em>Hamburg</em>. Leipzig Glücksbrunn 1765 - 1769
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="b1f68232690402e56358a453dae98181e9783ce5" data-thumbnail="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00072176_00007/full/280,/0/default.jpg" data-shelfmark="Munich. Bayerische Staatsbibliothek, Clm 9475" data-manifest="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072176/manifest">
+                        <a href="manifest/b1f68232690402e56358a453dae98181e9783ce5">
+                                                        <img class="mr-3" src="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00072176_00007/full/280,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png" alt="Bayerische Staatsbibliothek">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Munich. Bayerische Staatsbibliothek, Clm 9475</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072176/manifest?iiif-content=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072176/manifest"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="b1f68232690402e56358a453dae98181e9783ce5"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Bayerische Staatsbibliothek</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">2. Drittel 11. Jh</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">http://id.loc.gov/vocabulary/iso639-2/lat</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/b1f68232690402e56358a453dae98181e9783ce5">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    <em>Hamburg</em>-Bremen region (Germany)
+                                </li>
+                                                            <li class="highlight">
+                                    Autor: Béatrice Hernad // Datum: 2016Publication Statement:Niedersachsen (<em>Hamburg</em>-Bremen
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                    <li class="result media p-4 mb-3 cart-item" data-id="c66052772007abd827f76852987ff2ee21d9ec94" data-thumbnail="https://iiif.bodleian.ox.ac.uk/iiif/image/dc14e353-af37-4a07-8f49-31fb0194f64f/full/256,/0/default.jpg" data-shelfmark="Oxford. Bodleian Library, MS. Bodley Or. 617" data-manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/50031bd9-6736-4754-afa5-56dbec5cb9de.json">
+                        <a href="manifest/c66052772007abd827f76852987ff2ee21d9ec94">
+                                                        <img class="mr-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/dc14e353-af37-4a07-8f49-31fb0194f64f/full/256,/0/default.jpg" alt="Thumbnail">
+                                                                                    <img class="logo mr-3 mt-3" src="https://iiif.bodleian.ox.ac.uk/iiif/image/f27e28db-0b08-4f16-9bdf-3565f591fb71/full/256,/0/default.jpg" alt="Library logo">
+                                                    </a>
+                        <div class="media-body">
+                            <div class="title-container d-flex justify-content-between">
+                                <h5 class="">Oxford. Bodleian Library, MS. Bodley Or. 617</h5>
+                                                                <div class="d-flex">
+                                    <a target="_blank" class="iiif-logo" href="https://iiif.bodleian.ox.ac.uk/iiif/manifest/50031bd9-6736-4754-afa5-56dbec5cb9de.json?iiif-content=https://iiif.bodleian.ox.ac.uk/iiif/manifest/50031bd9-6736-4754-afa5-56dbec5cb9de.json"><img class="iiif-logo-img" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png"></a><button class="btn cart-add-btn d-flex px-2" id="c66052772007abd827f76852987ff2ee21d9ec94"><i class="material-icons">add_shopping_cart</i></button>
+                                </div>
+                                                            </div>
+                                                                                    <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Collection</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Digital Bodleian (Oxford University)</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Library</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Oxford. Bodleian Library</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Date</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">1756</dd>
+                            </dl>
+                                                                                                                <dl class="row">
+                                <dt class="col-sm-5 col-md-4 py-1">Language</dt>
+                                <dd class="col-sm-7 col-md-8 py-1">Hebrew</dd>
+                            </dl>
+                                                                                    <div class="d-flex justify-content-end">
+                                <a class="btn btn-primary" href="manifest/c66052772007abd827f76852987ff2ee21d9ec94">View entry</a>
+                            </div>
+                        </div>
+                                                <div class="jumbotron py-4 mt-4">
+                            <ul class="highlights">
+                                                            <li class="highlight">
+                                    Altona (<em>Hamburg</em>, Germany)
+                                </li>
+                                                        </ul>
+                        </div>
+                                            </li>
+                                </ul>
+                <nav aria-label="pagination results">
+                    <ul class="pagination justify-content-center">
+                                                                                                            <li class="page-item active"><strong class="page-link">1</strong></li>
+                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;from=20&amp;">2</a></li>
+                                                                                                            <li class="page-item"><a class="page-link" href="https://iiif.biblissima.fr/collections/search?q=Hamburg&amp;from=20&amp;">Next <span class="material-icons">chevron_right</span></a></li>
+                                        </ul>
+                </nav>
+                            </div>
+        </section>
+    </div>
+</div>
+            <button class="btn btn-light" id="backToTop"><span class="material-icons">expand_less</span></button>
+            <footer class="footer d-flex align-items-center justify-content-between p-3 mt-5">
+	<div class="">
+		<a href="https://projet.biblissima.fr"><img class="bbma-logo" src="https://iiif.biblissima.fr/collections/images/biblissima-logo.svg" alt="Biblissima"></a>
+	</div>
+	<div class="footer-contact">
+		<a href="https://iiif.biblissima.fr/collections/about">About</a>
+		<span class="">|</span>
+		<span>Feedback welcome: <a href="mailto:team@biblissima-condorcet.fr">team@biblissima-condorcet.fr</a></span>
+	</div>
+	<div class="">
+		Powered by
+		<a href="https://iiif.io"><img class="iiif-logo" src="https://iiif.biblissima.fr/collections/images/iiif-logo.png" alt="IIIF"></a>
+	</div>
+</footer>        </main>
+    </div>
+    <div class="cart-modal modal fade" id="cartModal" role="dialog">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">My selection</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ul class="list-unstyled m-0">
+          <li class="justify-content-center">Please select items from search results or item pages.</li>
+        <!-- Rempli en JS -->
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <div class="d-flex flex-grow-1 mr-0">
+          <ul class="list-unstyled m-0 d-flex flex-row flex-wrap w-100 pr-2">
+            <li class="">
+              <button class="btn btn-success cart-btn-action" id="exportCart" data-placement="bottom" data-toggle="tooltip" title="Export some data about these documents in a spreadsheet">Export to CSV</button>
+            </li>
+            <li class="pl-2">
+              <button class="btn btn-success cart-btn-action" id="createIIIFCollection" data-placement="bottom" data-toggle="tooltip" title=" Create a persistent collection of these documents for sharing or viewing them in a viewer">Create a IIIF Collection</button>
+            </li>
+          </ul>
+          <div class="pl-2">
+            <button class="btn btn-danger cart-btn-action" id="emptyCart">Remove all items</button>
+          </div>
+        </div>
+        <div class="collection pt-2 mt-3 ml-0 w-100 border-top border-secondary" id="collection">
+          <p class="message my-2">
+            <strong>New collection created:</strong>
+          </p>
+          <div class="d-flex flex-wrap ">
+            <div class="collection-wrapper d-flex flex-grow-1">
+              <a class="iiif-logo pr-1" id="iiifLogo" href="" rel="nofollow noopener noreferrer" title="Glisser-déposer cette icône dans un visualiseur IIIF">
+                  <img src="https://iiif.biblissima.fr/collections/images/iiif-logo.png" alt="IIIF Drag and Drop Icon" width="28" height="28">
+              </a>
+              <input class="flex-fill" value="" id="iiifUrl" readonly="">
+              <button class="clipboard manual-tooltip d-flex" data-toggle="tooltip" data-clipboard-target="#iiifUrl" aria-label="Copy to clipboard" data-original-title="" title=""><i class="material-icons text-secondary">content_copy</i></button>
+            </div>
+            <a href="#" id="viewMirador" class="btn btn-secondary" target="_blank">View in Mirador</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>            <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+  _paq.push([function() {
+    var self = this;
+    function getOriginalVisitorCookieTimeout() {
+      var now = new Date(),
+      nowTs = Math.round(now.getTime() / 1000),
+      visitorInfo = self.getVisitorInfo();
+      var createTs = parseInt(visitorInfo[2]);
+      var cookieTimeout = 33696000; // 13 mois en secondes
+      var originalTimeout = createTs + cookieTimeout - nowTs;
+      return originalTimeout;
+    }
+    this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+  }]);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.biblissima.fr/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "14"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><img src="https://piwik.biblissima.fr/piwik.php?idsite=14" style="border:0" alt="" /></noscript>
+<!-- End Piwik -->        
+</body>
+</html>

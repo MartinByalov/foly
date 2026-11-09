@@ -1,0 +1,318 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Kotohira Shrine, Kagawa, Unknown (Written record)."
+    ],
+    "ja": [
+      "香川県, 金刀比羅宮, 不明 (書面記録)."
+    ],
+    "none": [
+      "香川県, 金刀比羅宮, 不明 (書面記録). / Kotohira Shrine, Kagawa, Unknown (Written record)."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "著作権表示・Image Rights"
+      ]
+    },
+    "value": {
+      "none": [
+        "パブリックドメイン：https://creativecommons.org/publicdomain/zero/1.0/deed.ja・"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "奉納所・ Dedication site"
+        ]
+      },
+      "value": {
+        "none": [
+          "金刀比羅宮・Kotohira Shrine"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "県・ Prefecture"
+        ]
+      },
+      "value": {
+        "none": [
+          "香川県・Kagawa"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "住所・ Address"
+        ]
+      },
+      "value": {
+        "none": [
+          "仲多度郡琴平町・Kotohira, Nakatado District"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "年・ Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "不明・Unknown"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "奉納者・ Dedicator"
+        ]
+      },
+      "value": {
+        "none": [
+          "理軒福田先生門人花井健吉・Hanai Kenkichi, disciple of Fukuda Riken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "流・ School"
+        ]
+      },
+      "value": {
+        "none": [
+          "福田派・Fukuda School"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "注・ Notes"
+        ]
+      },
+      "value": {
+        "none": [
+          "・"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "種類・ Type"
+        ]
+      },
+      "value": {
+        "none": [
+          "書面記録・Written record"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "サイズ・ Size"
+        ]
+      },
+      "value": {
+        "none": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "謝辞・Acknowledgments"
+        ]
+      },
+      "value": {
+        "none": [
+          "画像提供：東北大学附属図書館 国文学研究資料館・Image provided by Tohoku University Library, National Institute of Japanese Literature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "公開情報・Visitor Info"
+        ]
+      },
+      "value": {
+        "none": [
+          "順天堂算譜（じゅんてんどうさんぷ）\n島田清庸 編\n福田泉 監修\n〈版〉大坂順天堂\n〈序〉1847\n東北大学附属図書館，和算資料，狩7-20355-2・Juntendo Sanpu (Juntendo Mathematical Program)\nEdited by Shimada Kiyotaka\nSupervised by Fukuda Izumi\nPublished by Osaka Juntendo\nPreface: 1847\nTohoku University Library, Wasan Materials, Kari 7-20355-2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "画像再利用について・Regarding Image Reuse"
+        ]
+      },
+      "value": {
+        "none": [
+          "撮影の過程で新たに撮影された写真の著作権は、算額の所有者または管理者に譲渡されています。クリエイティブ・コモンズ・ネットワークからライセンスが選択された場合は、各算額のページーのリンクを参照し、二次利用の条件について詳しくお読みください。画像に「版権所有」と表示されている場合は、算額の所有者および写真の提供者から直接特別な許可を得る必要があります。「パブリックドメイン」と表示された画像は、自由に再利用できます。・Where a license was chosen from the Creative Commons Network, please see the link in the archive entry to read more about the conditions for reuse. Where an image is marked as \"All Rights Reserved\", special permission has to be obtained directly from the owner of the sangaku and the provider of the photograph. Images marked as \"Public Domain\" can be freely reused."
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Kotohira Shrine, Kagawa"
+            ],
+            "ja": [
+              "金刀比羅宮, 香川県"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            133.80965,
+            34.18402707
+          ]
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/01",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Image 1"
+        ]
+      },
+      "width": 1485,
+      "height": 2278,
+      "items": [
+        {
+          "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/01/annotationPage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/01/annotationPage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sangaku-archive.com/iiif/3/Unknown_Kagawa_Kotohira_1942.ptiff/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1485,
+                "height": 2278,
+                "service": [
+                  {
+                    "id": "https://sangaku-archive.com/iiif/3/Unknown_Kagawa_Kotohira_1942.ptiff",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/01"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://sangaku-archive.com/iiif/3/Unknown_Kagawa_Kotohira_1942.ptiff/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 200,
+          "height": 150,
+          "service": [
+            {
+              "id": "https://sangaku-archive.com/iiif/3/Unknown_Kagawa_Kotohira_1942.ptiff",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/02",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Image 2"
+        ]
+      },
+      "width": 5696,
+      "height": 3776,
+      "items": [
+        {
+          "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/02/annotationPage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/02/annotationPage/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sangaku-archive.com/iiif/3/THKW-05295-00040.ti.ptiff/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5696,
+                "height": 3776,
+                "service": [
+                  {
+                    "id": "https://sangaku-archive.com/iiif/3/THKW-05295-00040.ti.ptiff",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://sangaku-archive.com/app/api/sangaku_manifests/3/Unknown_Kagawa_Kotohira_1942.json/canvas/02"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://sangaku-archive.com/iiif/3/THKW-05295-00040.ti.ptiff/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 200,
+          "height": 150,
+          "service": [
+            {
+              "id": "https://sangaku-archive.com/iiif/3/THKW-05295-00040.ti.ptiff",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "right-to-left",
+  "behavior": [
+    "individuals"
+  ]
+}

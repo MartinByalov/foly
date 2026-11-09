@@ -1,0 +1,5 @@
+# Temporary command, test, and development-server logs in the repository root.
+/*.log
+.env
+.env.*
+!.env.example

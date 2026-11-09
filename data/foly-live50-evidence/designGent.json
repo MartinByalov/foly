@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://api.collectie.gent/iiif/presentation/v2/manifest/dmg:3075",
+  "@type": "sc:Manifest",
+  "label": "Frame van een stoel met hoge rechte rugleuning",
+  "description": "Deze stoel zonder bekleding heeft een hoge rechte en smalle rug, wat doet denken aan de Engelse stoelen uit de 17de eeuw. Het is onduidelijk of de stoel in de 18de eeuw of in de 19de eeuw werd uitgevoerd. Vanaf de 19de eeuw was er een vernieuwde belangstelling voor verschillende eerdere meubelstijlen, waarbij elementen eclectisch werden gecombineerd met elkaar, met nieuwe ideeën en moderne technieken en materialen. Deze zogenaamde neostijlen zullen ook in de 20ste-eeuw blijven doorwerken. Verder onderzoek is nodig.",
+  "rendering": {
+    "@id": "https://stad.gent/id/mensgemaaktobject/dmg/530014543/2026-09-19T09:16:20.042Z"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://api.collectie.gent/iiif/presentation/v2/canvas/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg",
+          "height": 3285,
+          "width": 2432,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "attribution": "photographer: Foto Design Museum Gent, source: Design Museum Gent",
+              "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api.collectie.gent/iiif/image/iiif/2/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3285,
+                "width": 2432,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api.collectie.gent/iiif/image/iiif/2/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://api.collectie.gent/iiif/presentation/v2/canvas/cea52a3a28fa1b1ff922692e7f358c13-transcode-3075.jpg.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

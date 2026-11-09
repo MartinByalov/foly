@@ -1,0 +1,237 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/manifest",
+  "@type": "sc:Manifest",
+  "label": "Portret van een man",
+  "description": "",
+  "metadata": [
+    {
+      "label": "Gebruik",
+      "value": [
+        {
+          "@value": "Goed voor gebruik",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Formats voor gebruik",
+      "value": [
+        {
+          "@value": "Grafische reproductie (geheel/gedeeltelijk) in om het even welke vorm (affiches/foto\\'s/dia\\'s/post- en prentkaarten...),Publicatie van het werk (geheel/gedeeltelijk) in krant/weekblad/informatiebrochure/tijdschrift/of anderszins en de verspreiding van de laatstgenoemde creaties,Opname (geheel/gedeeltelijk) van het werk in een beeldenbank en op de website van M/documentatiemap/boek/catalogus/databank (grafisch en/of elektronische) en de verspreiding van de laatstgenoemde creaties,Publieke mededeling en ter beschikking stelling (bv. via film/televisie/internet) van een werk (geheel/gedeeltelijk),Recht tot tentoonstelling in de gebouwen/instellingen en inrichtingen van het Museum alsook in de gebouwen/instellingen en inrichtingen van de huurder/ontlener van deze werken in de zin van bovenstaande paragraaf 7",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Publiceren op website?",
+      "value": [
+        {
+          "@value": "Ja",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "© Creditline NL",
+      "value": "Portret van een man, Michiel van Mierevelt, 1629, Collectie M Leuven, bron: artinflanders.be, foto: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift NL",
+      "value": "Portret van een man, Michiel van Mierevelt, 1629"
+    },
+    {
+      "label": "© Creditline FR",
+      "value": "Portrait d'un homme, Michiel van Mierevelt, 1629, Collection M leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift FR",
+      "value": "Portrait d'un homme, Michiel van Mierevelt, 1629"
+    },
+    {
+      "label": "© Creditline EN",
+      "value": "Portrait of a Man, Michiel van Mierevelt, 1629, Collection M leuven, source: artinflanders.be, photo: Cedric Verhelst"
+    },
+    {
+      "label": "Onderschrift EN",
+      "value": "Portrait of a Man, Michiel van Mierevelt, 1629"
+    },
+    {
+      "label": "Rechtenstatus",
+      "value": [
+        {
+          "@value": "publiek domein (PDM)",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Rechtenverklaring",
+      "value": [
+        {
+          "@value": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Mappenstructuur",
+      "value": [
+        {
+          "@value": "Collectie,M-collectie,Schilderingen, tekeningen en drukwerk",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Wat",
+      "value": [
+        {
+          "@value": "Oude kunst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Type beeld",
+      "value": [
+        {
+          "@value": "Objectfoto",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Fotograaf",
+      "value": [
+        {
+          "@value": "Cedric Verhelst",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "Originele bestandsnaam",
+      "value": "S_54_M.tif"
+    },
+    {
+      "label": "Datum foto",
+      "value": "2024-08-28 11:06:36"
+    },
+    {
+      "label": "Bestandsformaat",
+      "value": "TIFF"
+    },
+    {
+      "label": "Bestandsgrootte",
+      "value": "968 MB"
+    },
+    {
+      "label": "Afmetingen",
+      "value": "11172x15149"
+    },
+    {
+      "label": "Kleurruimte",
+      "value": "Uncalibrated"
+    },
+    {
+      "label": "Inventarisnummer",
+      "value": "S/54/M"
+    },
+    {
+      "label": "Titel kunstobject",
+      "value": "Portret van een man"
+    },
+    {
+      "label": "Vervaardiger",
+      "value": "Michiel van Mierevelt"
+    },
+    {
+      "label": "Sterfdatum vervaardiger",
+      "value": "1641-06-27"
+    },
+    {
+      "label": "GUID uit Axiell Collections",
+      "value": "68a3dc5b-13f4-4b14-ba68-74f6116dc401"
+    },
+    {
+      "label": "pURI collectiestuk",
+      "value": "https://data.mleuven.be/ark:16425/68a3dc5b-13f4-4b14-ba68-74f6116dc401"
+    },
+    {
+      "label": "IIIF resource?",
+      "value": [
+        {
+          "@value": "Yes",
+          "@language": "nl"
+        }
+      ]
+    },
+    {
+      "label": "IIIF Sequence",
+      "value": "1"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "thumbnail": {
+    "@id": "https://mleuven.resourcespace.com/iiif/image/6172/full/thm/0/default.jpg",
+    "@type": "dctypes:Image",
+    "height": 175,
+    "width": 129,
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://mleuven.resourcespace.com/iiif/image/6172",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences": [
+    {
+      "@id": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Default order",
+      "canvases": [
+        {
+          "@id": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/canvas/0",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 15149,
+          "width": 11172,
+          "thumbnail": {
+            "@id": "https://mleuven.resourcespace.com/iiif/image/6172/full/thm/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 175,
+            "width": 129,
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/image/6172",
+              "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+          },
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/annotation/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://mleuven.resourcespace.com/iiif/image/6172/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 15149,
+                "width": 11172,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mleuven.resourcespace.com/iiif/image/6172",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://mleuven.resourcespace.com/iiif/68a3dc5b-13f4-4b14-ba68-74f6116dc401/canvas/0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

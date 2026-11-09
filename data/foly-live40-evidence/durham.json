@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/manifest",
+  "@type": "sc:Manifest",
+  "label": "Letter to George Clavering from his brother Sir Thomas Clavering, 14 March 1750 - CLV.253",
+  "description": "Their Chippenham beer has reached Newcastle.  ",
+  "related": [
+    {
+      "@id": "http://reed.dur.ac.uk/xtf/view?docId=ark/32150_s1kw52j8058.xml#Clav1-323",
+      "label": "Catalogue record"
+    }
+  ],
+  "seeAlso": {
+    "@id": "https://palimpsest.dur.ac.uk/resolver/?source_record_ssim=schmit%3Aark%3A%2F32150%2Fs1kw52j8058%23Clav1-323",
+    "format": "application/marc",
+    "profile": "http://www.loc.gov/standards/marcxml"
+  },
+  "logo": "https://iiif.durham.ac.uk/images/logos/duruni_logo.png",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+  "attribution": "Durham University Library",
+  "metadata": [
+    {
+      "label": "Published",
+      "value": "14 March 1750"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "default",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/canvas/t1tz890s915v",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "width": 3047,
+          "height": 4377,
+          "images": [
+            {
+              "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/annotation/canvas_t1tz890s915v",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/3a425f2f8a21a4525a16fa3e96e42f0e.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3047,
+                "height": 4377,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/3a425f2f8a21a4525a16fa3e96e42f0e.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/canvas/t1tz890s915v"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/canvas/t1t08613455x",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "width": 3104,
+          "height": 4313,
+          "images": [
+            {
+              "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/annotation/canvas_t1t08613455x",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/ad5d4248ce093fd26326758835596137.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3104,
+                "height": 4313,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mv/t1/t1mvt150j86r/ad5d4248ce093fd26326758835596137.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mv/t1/t1mvt150j86r/canvas/t1t08613455x"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "within": "https://iiif.durham.ac.uk/manifests/trifle/collection/32150/t2cks65hc24m"
+}

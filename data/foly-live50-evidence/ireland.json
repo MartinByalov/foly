@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://repository.dri.ie/iiif/collection/b564jg065.json",
+  "@type": "sc:Collection",
+  "label": "Papers of Major Richard William George Hingston",
+  "description": "Major Richard William George Hingston was educated at Merchant Taylor’s School then near London, and in University College Cork; he graduated as a medical doctor and entered the Indian Medical Service in 1910. During the First World War he served in the British Indian Army in East Africa, Mesopotamia and France. He was awarded the Military Cross and was twice mentioned in despatches. He was a fellow of the Royal Geographical Society since 1922 and had a long career as a member of expeditions to many parts of the world.\r\n\r\nHis reputation as a naturalist led to his appointment in that capacity in 1913 as the surgeon and naturalist with the Indo-Russian Pamir Triangulation Expedition. Hingston is best remembered as the doctor and naturalist on the 1924 Mount Everest Expedition during which he made a special study of the effect of altitude on the human body, and of the entomology of the region. He was the surgeon-naturalist on the Indian Marine Survey of 1925-1927. Hingston was also an author who published several works about his expedition experiences as a naturalist; he also wrote a study of Charles Darwin.\r\n\r\nIn 1990-1991 Hingston’s family presented to the Library of Trinity College Dublin a number of diaries and journals. The donation includes his journal of the 1913 expedition to the Pamirs; of the 1924 Everest expedition; of the 1928 Oxford University Expedition to Greenland; of the 1930 Mission to Africa on behalf of the Society for the Preservation of the Empire Fauna. Hingston’s photographs from some of his travels were also generously donated. Source: Manuscripts & Archives Research Library’s Fit as Fiddles and as Hard as Nails, https://www.tcd.ie/library/fitasfiddles/the-authors/richard-william-george-hingston/",
+  "metadata": [
+    {
+      "label": "Creator",
+      "value": "Hingston, R. W. G. (Richard William George), 1887-1966"
+    },
+    {
+      "label": "Title",
+      "value": "Papers of Major Richard William George Hingston"
+    },
+    {
+      "label": "Creation date",
+      "value": "name=between 1910-1966; start=1910-01-01; end=1966-12-31"
+    },
+    {
+      "label": "Permalink",
+      "value": "doi:10.7486/DRI.b564jg065"
+    }
+  ],
+  "seeAlso": {
+    "@id": "https://repository.dri.ie/objects/b564jg065/metadata",
+    "format": "text/xml"
+  },
+  "logo": "https://repository.dri.ie/organisations/36/logo",
+  "license": "https://rightsstatements.org/vocab/InC/1.0/",
+  "attribution": "Trinity College Dublin, the University of Dublin, Copyright The Board of Trinity College Dublin. Images are available for single-use academic application only. Publication, transmission or display is prohibited without formal written approval of the Library of Trinity College, Dublin.",
+  "viewingHint": "top",
+  "collections": [
+    {
+      "@id": "https://repository.dri.ie/iiif/collection/b851kb90q.json",
+      "@type": "sc:Collection",
+      "label": "Papers of Major Richard Hingston: Slides & Negatives"
+    },
+    {
+      "@id": "https://repository.dri.ie/iiif/collection/0000cp58f.json",
+      "@type": "sc:Collection",
+      "label": "Papers of Major Richard Hingston: Private Journals & Offprints"
+    },
+    {
+      "@id": "https://repository.dri.ie/iiif/collection/c821w844g.json",
+      "@type": "sc:Collection",
+      "label": "Papers of Major Richard Hingston: Press Cuttings"
+    }
+  ]
+}

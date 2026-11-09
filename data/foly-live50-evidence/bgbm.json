@@ -1,0 +1,171 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/2/context.json"
+  ],
+  "@type": "sc:Manifest",
+  "@id": "https://herbarium.bgbm.org/data/iiif/B200012401/manifest.json",
+  "label": "Asplenium bullatum Wall. ex Mett.",
+  "description": "A herbarium specimen of Asplenium bullatum Wall. ex Mett. collected by Wallich,N.",
+  "metadata": [
+    {
+      "label": "dwc:family",
+      "value": "Aspleniaceae"
+    },
+    {
+      "label": "dwc:catalogNumber",
+      "value": "B 20 0012401"
+    },
+    {
+      "label": "dc:title",
+      "value": "Asplenium bullatum Wall. ex Mett."
+    },
+    {
+      "label": "dwc:fieldNumber",
+      "value": "Hb.Wall.215"
+    },
+    {
+      "label": "dwc:materialSampleID",
+      "value": "http://herbarium.bgbm.org/object/B200012401"
+    },
+    {
+      "label": "dwc:countryCode",
+      "value": "NP"
+    },
+    {
+      "label": "dwc:eventDate",
+      "value": "1821"
+    },
+    {
+      "label": "dwc:country",
+      "value": "Nepal"
+    },
+    {
+      "label": "dwc:basisOfRecord",
+      "value": "Specimen"
+    },
+    {
+      "label": "dwc:locality",
+      "value": "Nepalea"
+    },
+    {
+      "label": "dwc:scientificName",
+      "value": "Asplenium bullatum Wall. ex Mett."
+    },
+    {
+      "label": "dc:type",
+      "value": "Specimen"
+    },
+    {
+      "label": "dwc:recordNumber",
+      "value": "Hb.Wall.215"
+    },
+    {
+      "label": "dc:created",
+      "value": "1821"
+    },
+    {
+      "label": "dwc:genus",
+      "value": "Asplenium"
+    },
+    {
+      "label": "dwc:collectionCode",
+      "value": "B"
+    },
+    {
+      "label": "dwc:previousIdentifications",
+      "value": "Asplenium bullatum Wall. ex Mett."
+    },
+    {
+      "label": "dwc:specificEpithet",
+      "value": "bullatum"
+    },
+    {
+      "label": "dc:publisher",
+      "value": "BGBM"
+    },
+    {
+      "label": "dc:creator",
+      "value": "Wallich,N."
+    },
+    {
+      "label": "dwc:recordedBy",
+      "value": "Wallich,N."
+    },
+    {
+      "label": "dwc:associatedMedia",
+      "value": "https://image.bgbm.org/images/internal/HerbarThumbs/B200012401_1700"
+    },
+    {
+      "label": "dc:thumbnail",
+      "value": "https://image.bgbm.org/images/internal/HerbarThumbs/B200012401_1700"
+    },
+    {
+      "label": "CETAF_ID",
+      "value": "<a href=\"http://herbarium.bgbm.org/object/B200012401\">http://herbarium.bgbm.org/object/B200012401</a>"
+    },
+    {
+      "label": "dwciri:recordedBy",
+      "value": "<a href=\"http://www.wikidata.org/entity/Q730310\">http://www.wikidata.org/entity/Q730310</a>"
+    },
+    {
+      "label": "owl:sameAs",
+      "value": "<a href=\"http://viaf.org/viaf/9962177\">http://viaf.org/viaf/9962177</a>"
+    },
+    {
+      "label": "owl:sameAs",
+      "value": "<a href=\"http://purl.oclc.org/net/edu.harvard.huh/guid/uuid/dbd4bf21-2d4a-4d82-b5be-edaf3326d5a1\">http://purl.oclc.org/net/edu.harvard.huh/guid/uuid/dbd4bf21-2d4a-4d82-b5be-edaf3326d5a1</a>"
+    },
+    {
+      "label": "dwc:associatedMedia",
+      "value": "<a href=\"https://pictures.bgbm.org/digilib/Scaler/IIIF/B!20!00!12!40!B_20_0012401.jpg/full/2048,/0/default.jpg\">https://pictures.bgbm.org/digilib/Scaler/IIIF/B!20!00!12!40!B_20_0012401.jpg/full/2048,/0/default.jpg</a>"
+    }
+  ],
+  "attribution": "http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de",
+  "logo": {
+    "@id": "https://pictures.bgbm.org/iiif/3/bo_logo.png",
+    "format": "image/jpeg"
+  },
+  "seeAlso": [
+    {
+      "@id": "https://herbarium.bgbm.org/data/rdf/B200012401",
+      "label": "RDF",
+      "format": "application/rdf+xml",
+      "profile": "https://cetafidentifiers.biowikifarm.net/wiki/CSPP"
+    }
+  ],
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://herbarium.bgbm.org/iiif/canvas/1",
+          "label": "B_20_0012401.jpg",
+          "width": 6924,
+          "height": 10107,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://herbarium.bgbm.org/iiif/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://pictures.bgbm.org/iiif/3/B/20/00/12/40/B_20_0012401.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://pictures.bgbm.org/iiif/3/B!20!00!12!40!B_20_0012401.jpg",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "proctocol": "http://iiif.io/api/image"
+                },
+                "format": "image/jpeg",
+                "width": 6924,
+                "height": 10107
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
