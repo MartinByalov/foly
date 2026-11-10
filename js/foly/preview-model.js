@@ -1,4 +1,8 @@
 // Keep production integrations separate from historical, unapproved adapter candidates.
+export function previewSources(primary, sources) {
+  return [...primary, ...sources.filter(source => source.enabled).sort((a, b) => a.name.localeCompare(b.name))];
+}
+
 export function previewDirectory(sources) {
   const active = sources.filter(source => source.enabled).sort((a, b) => a.name.localeCompare(b.name));
   return {

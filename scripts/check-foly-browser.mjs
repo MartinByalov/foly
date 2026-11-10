@@ -184,8 +184,20 @@ try {
     }
     const value = preview.result.value;
     if (pageErrors.length || value?.startupError) throw Error(`Preview startup errors: ${JSON.stringify(pageErrors)} ${value?.startupError || ''}`);
-    const expected = await send('Runtime.evaluate', { awaitPromise: true, returnByValue: true, expression: `(async () => { const { SOURCES } = await import('/js/foly/sources.js'); const active = SOURCES.filter(s => s.enabled); return { providers: active.length, total: SOURCES.length, categories: new Set(SOURCES.map(s => s.category)).size }; })()` });
-    if (value?.providers !== expected.result.value?.providers || value?.menus !== expected.result.value?.providers) throw Error('Preview API cards or category menus failed to render completely');
+    const expected = await send('Runtime.evaluate', { awaitPromise: true, returnByValue: true, expression: `(async () => {
+      const { SOURCES } = await import('/js/foly/sources.js');
+      const { discoveryCatalog } = await import('/js/foly/catalog.js');
+      const { previewSources } = await import('/js/foly/preview-model.js');
+      const { primary } = discoveryCatalog(document.documentElement.lang);
+      const active = previewSources(primary, SOURCES);
+      return { providers: active.length, ids: active.map(source => 'provider-' + source.id) };
+    })()` });
+    if (expected.exceptionDetails) throw Error('Preview catalogue could not be evaluated');
+    const providerIds = await send('Runtime.evaluate', { returnByValue: true, expression: `[...document.querySelectorAll('#providers .provider')].map(node => node.id)` });
+    if (value?.providers !== expected.result.value?.providers || value?.menus !== expected.result.value?.providers ||
+      JSON.stringify(providerIds.result.value) !== JSON.stringify(expected.result.value.ids)) {
+      throw Error('Preview API cards or category menus failed to render completely: ' + JSON.stringify({ actual: value, expected: expected.result.value, ids: providerIds.result.value }));
+    }
     const directory = await send('Runtime.evaluate', { awaitPromise: true, returnByValue: true, expression: `(async () => {
       const { SOURCES } = await import('/js/foly/sources.js');
       const active = SOURCES.filter(source => source.enabled);

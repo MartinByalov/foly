@@ -7,7 +7,26 @@ import { categorySummary } from '../js/foly/categories.js';
 import { validateDiscoveryRights } from '../js/foly/rights.js';
 import { discover, present } from '../js/foly/resolver.js';
 import { checkSource } from '../js/foly/checks.js';
-import { previewDirectory, previewGroups, inactiveReason, runPreviewChecks } from '../js/foly/preview-model.js';
+import { previewDirectory, previewGroups, previewSources, inactiveReason, runPreviewChecks } from '../js/foly/preview-model.js';
+import { discoveryCatalog } from '../js/foly/catalog.js';
+import { LANGUAGES } from '../js/foly/locale.js';
+
+test('preview includes native discovery categories and enabled visual providers for every language', () => {
+  const visuals = SOURCES.filter(source => source.enabled).sort((a, b) => a.name.localeCompare(b.name));
+  const originalOrder = SOURCES.map(source => source.id);
+  for (const language of Object.keys(LANGUAGES)) {
+    const { primary } = discoveryCatalog(language);
+    const entries = previewSources(primary, SOURCES);
+    assert.ok(primary.length > 0, language);
+    assert.equal(entries.length, primary.length + visuals.length, language);
+    assert.deepEqual(entries.slice(0, primary.length), primary, language);
+    assert.deepEqual(entries.slice(primary.length), visuals, language);
+    assert.equal(new Set(entries.map(source => source.id)).size, entries.length, language);
+    assert.ok(primary.every(source => source.language === language), language);
+  }
+  assert.deepEqual(SOURCES.map(source => source.id), originalOrder);
+  assert.deepEqual(previewSources([], []), []);
+});
 
 const question = { type: 'multiple', question: 'Which%20number%20is%20even%3F', category: 'Mathematics', difficulty: 'easy',
   correct_answer: '2', incorrect_answers: ['1', '3', '5'] };

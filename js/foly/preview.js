@@ -2,7 +2,7 @@ import { SOURCES } from './sources.js';
 import { checkSource } from './checks.js';
 import { h, discoveryCard } from './card.js';
 import { sourceCategories } from './source-categories.js';
-import { previewDirectory, runPreviewChecks } from './preview-model.js';
+import { previewDirectory, previewSources, runPreviewChecks } from './preview-model.js';
 import { discoveryCatalog } from './catalog.js';
 import { normalizeLanguage, LANGUAGES } from './locale.js';
 
@@ -16,7 +16,7 @@ document.querySelector('.preview-header').append(languageSelect);
 
 const providers = document.getElementById('providers');
 const summary = document.getElementById('summary');
-const enabled = [...primary, ...SOURCES.filter(source => source.enabled).sort((a, b) => a.name.localeCompare(b.name))];
+const enabled = previewSources(primary, SOURCES);
 const directory = document.getElementById('api-directory');
 const { apis, datasets } = previewDirectory(SOURCES);
 const directoryList = (sources, type) => h('ul', { class: 'api-directory-list', 'data-kind': type },
