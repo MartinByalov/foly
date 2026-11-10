@@ -58,6 +58,14 @@ Your discoveries stay with the open page. Close or refresh it, and the collectio
 
 **CLEARED ON CLOSE.**
 
+## Automated checks
+
+**Foly automatic checks** runs the complete unit and regression suite on every push and pull request, or manually. It does not run the live provider smoke checks. Run the same suite locally with `node --test tests/*.test.mjs`.
+
+**Foly provider health** checks external APIs, rights, images and browser behaviour separately. It runs once daily at 06:23 UTC, or manually from GitHub Actions. External outages, rate limits and CORS failures can make this workflow fail even when code tests pass. Its failure remains visible; it is not treated as provider approval or used as a dependency of the code-check workflow.
+
+Each health run removes the previous source and browser reports before checking, then uploads newly generated reports in the `foly-health` artifact. Read those reports for the underlying provider errors; the final failure step only aggregates the results. Neither workflow publishes the site; GitHub Pages deployment remains separate.
+
 ## Many worlds. One visual language.
 
 Science beside history. Nature beside astronomy. A random article beside an event from this day in history.
