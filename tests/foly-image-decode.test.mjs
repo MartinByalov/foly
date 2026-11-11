@@ -10,11 +10,15 @@ test('external metadata requests omit cookies', async () => {
   } });
 });
 
-test('image requests set anonymous CORS before assigning the URL', async () => {
+test('display-only images decode without requiring provider CORS headers or sending a referrer', async () => {
   class AnonymousImage {
     naturalWidth = 10;
     naturalHeight = 10;
-    set src(value) { assert.equal(this.crossOrigin, 'anonymous'); queueMicrotask(() => this.onload()); }
+    set src(value) {
+      assert.equal(this.crossOrigin, undefined);
+      assert.equal(this.referrerPolicy, 'no-referrer');
+      queueMicrotask(() => this.onload());
+    }
     decode() { return Promise.resolve(); }
   }
   await loadImage('https://images.test/anonymous.png', { ImageClass: AnonymousImage });

@@ -5,6 +5,7 @@ import path from 'node:path';
 import os from 'node:os';
 import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { providerHealthExitCode } from './foly-health-status.mjs';
 const root = path.resolve(fileURLToPath(new URL('..', import.meta.url)));
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const server = http.createServer(async (req, res) => {
@@ -310,7 +311,7 @@ try {
   await writeFile(new URL('../data/' + reportName, import.meta.url), JSON.stringify({ checkedAt: new Date().toISOString(), reports }, null, 2) + '\n');
   console.log(JSON.stringify(reports, null, 2));
   if (networkFailures.length) console.log('Network failures:', JSON.stringify(networkFailures));
-  if (reports.some(report => !report.ok)) process.exitCode = 1;
+  process.exitCode = providerHealthExitCode(reports);
   }
 } finally {
   socket?.close(); browser.kill(); server.close();

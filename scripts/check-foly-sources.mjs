@@ -3,6 +3,7 @@ import { writeFile, readFile } from 'node:fs/promises';
 import { SOURCES } from '../js/foly/sources.js';
 import { fetchJson, present } from '../js/foly/resolver.js';
 import { validateDiscoveryRights } from '../js/foly/rights.js';
+import { providerHealthExitCode } from './foly-health-status.mjs';
 
 const reports = [];
 const json = async url => {
@@ -43,7 +44,10 @@ async function check(source) {
     }
     Object.assign(report, { ok: true, contentKind: raw.kind || 'image', item: raw.url,
       sourcePage: raw.sourcePageUrl || raw.url, image: raw.image, rights: raw.rights, rightsValid: validateDiscoveryRights(raw).ok });
-  } catch (error) { Object.assign(report, { ok: false, error: error.message }); }
+  } catch (error) {
+    Object.assign(report, { ok: false, error: error.message,
+      ...(error.cause ? { cause: error.cause.message, code: error.cause.code } : {}) });
+  }
   reports.push(report);
   console.log(JSON.stringify(report));
 }
@@ -54,4 +58,4 @@ await Promise.all(Array.from({ length: Math.min(concurrency, selected.length) },
 reports.sort((a, b) => selected.findIndex(source => source.id === a.id) - selected.findIndex(source => source.id === b.id));
 await writeFile(new URL(requested.size ? '../data/foly-source-health-selected.json' : '../data/foly-source-health.json', import.meta.url), JSON.stringify({ checkedAt: new Date().toISOString(), reports }, null, 2) + '\n');
 console.log(JSON.stringify({ checked: reports.length, passed: reports.filter(r => r.ok).length, failed: reports.filter(r => !r.ok).length }));
-if (reports.some(r => !r.ok)) process.exitCode = 1;
+process.exitCode = providerHealthExitCode(reports);

@@ -42,6 +42,9 @@ test('grid and archive use provider media without generated thumbnail code', asy
   const main = await readFile(new URL('../js/foly/main.js', import.meta.url), 'utf8');
   assert.doesNotMatch(main, /chartThumbnail|thumbnail\.js|data:image/);
   assert.match(main, /const thumb = picture\(entry\?\.discovery.thumb\)/);
-  assert.match(main, /class: 'archive-thumb', crossorigin: 'anonymous', src: d.thumb/);
+  assert.match(main, /class: 'archive-thumb', referrerpolicy: 'no-referrer', src: d.thumb/);
+  const card = await readFile(new URL('../js/foly/card.js', import.meta.url), 'utf8');
+  assert.doesNotMatch(main + card, /crossorigin:/);
+  assert.match(card, /referrerpolicy: 'no-referrer', src: d.image/);
   await assert.rejects(access(new URL('../js/foly/thumbnail.js', import.meta.url)));
 });

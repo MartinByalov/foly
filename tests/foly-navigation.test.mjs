@@ -46,7 +46,7 @@ test('Discoveries displays the concise clearing notice', () => {
 
 test('grid targets 140 percent of the previous square size on desktop and mobile', () => {
   assert.match(main, /import \{ gridGeometry \} from '\.\/layout\.js'/);
-  assert.match(main, /gridGeometry\(width, innerHeight\)/);
+  assert.match(main, /gridGeometry\(width, root\.clientHeight\)/);
 });
 
 test('logo and the combined header controls each span exactly one grid square', () => {
@@ -61,7 +61,7 @@ test('logo and the combined header controls each span exactly one grid square', 
 
 test('header height matches a grid square and resize recalculates the spacing', () => {
   assert.match(main, /root\.style\.setProperty\('--header-h', `\$\{headerHeight\}px`\)/);
-  assert.match(main, /mobile \? headerHeight : 2 \* cell/);
+  assert.match(main, /headerHeight \+ inset/);
   assert.match(main, /const \{ cols, cell, gap, height, gapY, inset, headerHeight, mobile \} = gridGeometry/);
   assert.match(main, /addEventListener\('resize', \(\) => \{ measure\(\); renderGrid\(true\); \}\)/);
   assert.doesNotMatch(main, /header\.offsetHeight/);

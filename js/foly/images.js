@@ -5,7 +5,8 @@ export function loadImage(url, { timeout = 8000, ImageClass = globalThis.Image }
   if (loaded.has(url)) return loaded.get(url);
   const promise = new Promise((resolve, reject) => {
     const image = new ImageClass();
-    image.crossOrigin = 'anonymous';
+    // Display-only images do not require permission to read pixels through canvas.
+    image.referrerPolicy = 'no-referrer';
     let settled = false;
     const finish = error => {
       if (settled) return;

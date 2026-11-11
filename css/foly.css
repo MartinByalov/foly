@@ -164,7 +164,7 @@
 .filter-panel[hidden] { display: none; }
 .filter-panel { max-width: calc(100vw - 24px); }
 @media (max-width: 480px) {
-  .filter-panel { position: fixed; top: calc(var(--header-h) + 8px); left: 12px; right: 12px; width: auto; }
+  .filter-panel { position: fixed; top: calc(var(--header-h) + 12px); bottom: calc(var(--header-h) + 12px); left: 12px; right: 12px; width: auto; max-height: none; }
 }
 .find .card-title, .find .card-copy, .find .card-rights { overflow-wrap: anywhere; min-width: 0; }
 .category-search { display: block; width: 100%; margin: 8px 0; padding: 9px 10px; border: 1px solid var(--line); border-radius: 3px; background: rgba(0,0,0,.25); color: #fff; font: inherit; font-size: 12px; }
@@ -196,31 +196,81 @@
 .filter-panel { max-height: min(560px, calc(100dvh - var(--header-h) - 24px)); overscroll-behavior: contain; }
 .drawer { height: 100dvh; }
 @media (max-width: 680px), (pointer: coarse), (max-height: 480px) and (orientation: landscape) {
-  .header-meta { --control-size: 44px; --control-height: 44px; --control-gap: 8px; width: 96px; }
   .header-inner { gap: 12px; }
-  .filter-panel { position: fixed; top: calc(var(--header-h) + 8px); left: 12px; right: 12px; width: auto; }
+  .filter-panel { position: fixed; top: calc(var(--header-h) + 12px); bottom: calc(var(--header-h) + 12px); left: 12px; right: 12px; width: auto; max-height: none; }
   .category-search { font-size: 16px; min-height: 44px; }
   .filter-option { min-height: 44px; }
   .dialog-close { display: grid; place-items: center; width: 44px; height: 44px; top: 4px; right: 4px; }
   .find { padding: 52px 16px 20px; }
   .find .media img { max-height: min(420px, 48dvh); }
   .discovery, .info-dialog { max-width: calc(100vw - 24px); max-height: calc(100dvh - 24px); }
-  .info-dialog { padding-top: 56px; }
-  .footer-nav button { min-height: 20px; padding: 3px 0; }
 }
 @media (hover: none) {
   .box:hover { transform: var(--at); }
   .box:hover::after { transform: none; }
 }
-@media (max-width: 680px) and (orientation: portrait) {
-  .footer-brand { bottom: 8px; }
-  .footer-nav { left: 50%; right: auto; top: 6px; transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); flex-direction: row; gap: 12px; }
-  .footer-nav button { width: auto; min-height: 32px; text-align: center; }
-}
 @media (max-height: 480px) and (orientation: landscape) {
-  .header-meta { --control-size: 44px; --control-height: 44px; --control-gap: 8px; width: 96px; }
   .find .media img { max-height: 42dvh; }
-  .filter-panel { position: fixed; top: calc(var(--header-h) + 8px); right: 12px; }
+  .filter-panel { position: fixed; top: calc(var(--header-h) + 12px); bottom: calc(var(--header-h) + 12px); right: 12px; }
   .footer-nav { gap: 0; }
   .footer-nav button { padding: 1px 0; min-height: 0; }
+}
+.header-inner { width: auto; }
+
+/* Shared heading row for About, Sources and Privacy, including scrollable dialogs. */
+.info-dialog { padding-top: 0; }
+.info-header { position: sticky; top: 0; z-index: 2; margin: 0 calc(-1 * clamp(18px, 4vw, 36px)) 20px; padding: 8px 56px; background: #272727; }
+.info-header h2 { display: grid; place-items: center; min-height: 44px; margin: 0; text-align: center; line-height: 1.2; }
+.info-header .dialog-close { display: grid; place-items: center; top: 50%; right: 4px; transform: translateY(-50%); width: 44px; height: 44px; padding: 0; line-height: 1; }
+
+/* Discovery stays in the content band; only its body scrolls. */
+.discovery { top: calc(var(--header-h) + 12px); bottom: calc(var(--header-h) + 12px); margin: auto; max-height: calc(100dvh - 2 * var(--header-h) - 24px); overflow: hidden; background: #272727; }
+.discovery[open] { display: flex; flex-direction: column; }
+.discovery-header { position: relative; flex: none; padding: 8px 56px; min-height: 60px; display: grid; place-items: center; }
+.discovery-header .card-label { margin: 0; text-align: center; overflow-wrap: anywhere; }
+.discovery-header .dialog-close { display: grid; place-items: center; width: 44px; height: 44px; padding: 0; top: 50%; right: 4px; transform: translateY(-50%); line-height: 1; }
+#discoveryBody { min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
+.discovery .find { padding-top: 0; }
+.find-actions { align-items: center; gap: 10px; }
+.discovery .find-actions { --next-spacing: 20px; flex-direction: column; margin-top: var(--next-spacing); gap: var(--next-spacing); }
+.discovery .card-copy { padding-bottom: 0; }
+.next-box { display: grid; place-items: center; flex: none; width: var(--cell, 62px); height: var(--cell, 62px); padding: 0; background: #000; border: 1px solid rgba(255,255,255,.12); border-radius: var(--radius); }
+.next-box:hover, .next-box:active { background: #000; color: #fff; border-color: rgba(255,255,255,.12); }
+.next-box { -webkit-tap-highlight-color: transparent; }
+.next-box span { width: calc(var(--cell, 62px) * .1); height: calc(var(--cell, 62px) * .1); background: currentColor; }
+.next-box[aria-busy="true"] span { background: transparent; border: 2px solid currentColor; width: 10px; height: 10px; animation: square-loading 2.4s linear infinite; }
+.next-box:disabled { cursor: progress; }
+.next-status { text-align: center; padding: 12px; font-size: 12px; }
+
+/* Discovery width is independent of the page grid alignment. */
+:root { --card-edge: max(12px, calc((100% - 620px) / 2)); }
+.header-inner { padding-left: var(--grid-left); padding-right: var(--grid-right); }
+.footer-brand { left: var(--grid-left); }
+.footer-nav { right: var(--grid-right); }
+.discovery { width: calc(100% - 2 * var(--card-edge)); max-width: none; }
+
+/* Mobile page corners follow the grid, not the fullscreen discovery card. */
+@media (max-width: 680px), (pointer: coarse), (max-height: 480px) and (orientation: landscape) {
+  .header-inner { padding-left: var(--grid-left); padding-right: var(--grid-right); }
+  .footer-brand { left: var(--grid-left); }
+  .footer-nav { right: var(--grid-right); }
+}
+@media (max-width: 680px) and (orientation: portrait) {
+  .header-inner { padding-left: calc(var(--cell) * .1); padding-right: calc(var(--cell) * .1); }
+  .brand { width: calc(var(--cell) * .8); }
+  .header-meta { --control-gap: calc(var(--cell) * .08); --control-size: calc(var(--cell) * .36); --control-height: var(--control-size); width: calc(var(--cell) * .8); }
+  .footer-brand { left: 12px; }
+  .footer-nav { right: 12px; }
+  .footer-brand, .footer-nav button { font-size: 8px; }
+  .footer-nav { gap: 0; }
+  .footer-nav button { padding: 1px 0; }
+  .ghost-btn.language-select, .language-code { font-size: 8px; }
+}
+
+/* On phones the discovery replaces the visible page in either orientation. */
+@media (max-width: 680px), (pointer: coarse), (max-height: 480px) and (orientation: landscape) {
+  .discovery { inset: 0; margin: 0; width: 100%; height: 100dvh; max-width: none; max-height: none; border: 0; border-radius: 0; }
+  .discovery-header { padding-top: calc(8px + env(safe-area-inset-top, 0px)); padding-left: calc(56px + env(safe-area-inset-left, 0px)); padding-right: calc(56px + env(safe-area-inset-right, 0px)); }
+  .discovery-header .dialog-close { right: calc(4px + env(safe-area-inset-right, 0px)); }
+  #discoveryBody { flex: 1; padding-bottom: env(safe-area-inset-bottom, 0px); }
 }

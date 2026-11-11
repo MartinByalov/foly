@@ -13,7 +13,7 @@ test('code validation runs the full suite on changes without external health che
   assert.doesNotMatch(checks, /schedule:|check-foly-(?:sources|browser)\.mjs|continue-on-error/);
 });
 
-test('provider health runs daily or manually and preserves failures and fresh reports', async () => {
+test('provider health runs daily or manually with advisory observations and strict checker execution', async () => {
   const health = await workflow('foly-health.yml');
   assert.match(health, /^  workflow_dispatch:/m);
   assert.match(health, /cron: '23 6 \* \* \*'/);
@@ -25,9 +25,16 @@ test('provider health runs daily or manually and preserves failures and fresh re
   assert.match(health, /Remove-Item -LiteralPath 'data\/foly-source-health\.json', 'data\/foly-browser-health\.json'/);
   assert.ok(health.indexOf('Remove previous health reports') < health.indexOf('id: live'));
   assert.match(health, /if: always\(\)\s+uses: actions\/upload-artifact@v6/);
-  assert.match(health, /steps\.live\.outcome == 'failure' \|\| steps\.browser\.outcome == 'failure'/);
-  assert.match(health, /run: throw 'Provider health checks failed/);
+  assert.match(health, /FOLY_HEALTH_ADVISORY: '1'/);
+  assert.doesNotMatch(health, /continue-on-error|Fail when a live check failed|run: throw 'Provider health checks failed/);
+  assert.match(health, /throw "Missing health report:/);
+  assert.match(health, /throw "Invalid health result/);
+  assert.match(health, /throw "Missing provider error/);
   assert.match(health, /GITHUB_STEP_SUMMARY/);
+  assert.match(health, /\$report = Get-Content -Raw -LiteralPath \$file \| ConvertFrom-Json/);
+  assert.match(health, /\$rows\.Count -eq 0/);
+  assert.match(health, /HtmlEncode/);
+  assert.match(health, /\$row\.id.*\$row\.error.*\$row\.code.*\$row\.cause/);
 });
 
 test('workflows use actions with native Node 24 runtimes', async () => {

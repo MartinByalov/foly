@@ -50,8 +50,9 @@ try {
   };
   await send('Runtime.enable');
   await send('Page.enable');
+  await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] });
   await send('Fetch.enable', { patterns: [{ urlPattern: 'https://upload.wikimedia.org/*' }, { urlPattern: 'https://thumb.wikimedia.org/*' }] });
-  const viewports = process.env.FOLY_LANDSCAPE_ONLY ? [[568, 320], [844, 390]] : [[1892, 844], [1280, 844], [390, 844], [320, 568], [568, 320], [844, 390]];
+  const viewports = process.env.FOLY_LANDSCAPE_ONLY ? [[758, 355], [568, 320], [844, 390]] : [[359, 774], [1892, 844], [1280, 844], [390, 844], [320, 568], [758, 355], [568, 320], [844, 390]];
   for (const [width, height] of viewports) {
     const mobile = width <= 680 || height <= 480;
     await send('Emulation.setDeviceMetricsOverride', { width, height, deviceScaleFactor: 1, mobile });
@@ -97,35 +98,35 @@ try {
           vertical:links.every((link,index)=>!index||links[index-1].bottom<=link.top),
           appearance:getComputedStyle(document.querySelector('#languageSelect')).appearance, topics:document.querySelectorAll('#categoryList input').length };
       })()`);
-      if (!mobile) {
-        for (const value of [alignment.brandLeft, alignment.logoLeft]) assert.ok(Math.abs(value-alignment.first)<1, `Left grid alignment: ${JSON.stringify(alignment)}`);
-        for (const value of [alignment.categoriesRight, alignment.footerRight]) assert.ok(Math.abs(value-alignment.last)<1, `Right grid alignment: ${JSON.stringify(alignment)}`);
-      } else {
-        assert.ok(Math.abs(alignment.first)<1 && Math.abs(alignment.last-width)<1, 'Mobile grid fills background width');
-        assert.ok(Math.abs(alignment.logoLeft-(width-alignment.categoriesRight))<1, 'Equal header edge spacing');
-      }
-      if (mobile) {
-        assert.ok(alignment.languageWidth >= 44 && alignment.categoriesWidth >= 44, 'Mobile controls have usable touch targets');
-      } else assert.ok(Math.abs(alignment.combined-alignment.width)<1, 'Combined controls span one grid column');
-      if (!mobile) assert.ok(Math.abs(alignment.footerLeft-alignment.lastLeft)<1, 'Footer starts at last column left edge');
-      assert.equal(alignment.footerText, mobile && height > width ? 'center' : 'right');
-      if (!mobile) assert.ok(Math.abs(alignment.brandTextLeft-alignment.first)<1, 'Visible copyright text follows first column');
+      const portrait = width<=680 && height>width;
+      const edge = portrait ? 12 : alignment.first;
+      const rightEdge = portrait ? width-12 : alignment.last;
+      assert.ok(Math.abs(alignment.brandLeft-edge)<1, `Footer left alignment: ${JSON.stringify(alignment)}`);
+      assert.ok(Math.abs(alignment.logoLeft-(portrait ? alignment.width*.1 : edge))<1, 'Logo centered in portrait left empty column');
+      assert.ok(Math.abs(alignment.categoriesRight-(portrait ? width-alignment.width*.1 : rightEdge))<1, `Header controls at right edge: ${JSON.stringify(alignment)}`);
+      assert.ok(Math.abs(alignment.footerRight-rightEdge)<1, `Footer grid alignment: ${JSON.stringify(alignment)}`);
+      if (portrait) assert.ok(Math.abs((alignment.languageLeft+alignment.categoriesRight)/2-(width-alignment.width/2))<1, 'Portrait controls centered in right empty column');
+      const cornerSize = alignment.width;
+      assert.ok(Math.abs(alignment.combined-cornerSize*(portrait ? .8 : 1))<1, 'Portrait controls reduced to 80 percent of one square');
+      assert.ok(Math.abs(alignment.footerLeft-(rightEdge-cornerSize))<1, 'Footer occupies one corner unit at the right page edge');
+      assert.equal(alignment.footerText, 'right');
+      assert.ok(Math.abs(alignment.brandTextLeft-edge)<1, 'Visible copyright text follows page edge');
       assert.equal(alignment.languageBorder, 'rgba(255, 255, 255, 0.28)');
       assert.equal(alignment.borderWidth, '1px');
       assert.equal(alignment.languages, Object.keys(LANGUAGES).length);
       assert.ok(alignment.hindi.includes('Hindi'));
       assert.ok(alignment.square);
       assert.ok(alignment.stacked);
-      if (!(mobile && height > width)) assert.ok(alignment.vertical);
-      if (mobile) assert.equal(await evaluate(`(() => {
+      assert.ok(alignment.vertical);
+      assert.equal(await evaluate(`(() => {
         const field=document.getElementById('field').getBoundingClientRect();
         const header=document.querySelector('.site-header').getBoundingClientRect();
         const footer=document.querySelector('.site-footer').getBoundingClientRect();
-        const links=[...document.querySelectorAll('.footer-nav button')].map(b=>b.getBoundingClientRect());
-        const nav=document.querySelector('.footer-nav').getBoundingClientRect();
-        return Math.abs(field.top-header.bottom)<1 && Math.abs(field.bottom-footer.top)<1 &&
-          (innerHeight<innerWidth || (links.every(r=>Math.abs(r.top-links[0].top)<1) && Math.abs((nav.left+nav.right)/2-innerWidth/2)<1));
-      })()`), true, 'Edge-to-edge field and centered portrait footer row');
+        const box=document.querySelector('.box').getBoundingClientRect();
+        const first=box.left;
+        const last=Math.max(...[...document.querySelectorAll('.box')].map(node=>node.getBoundingClientRect().right));
+        return [field.top-header.bottom,footer.top-field.bottom,first,innerWidth-last].every(gap=>Math.abs(gap-box.width)<1);
+      })()`), true, 'All four grid margins remain one square despite reduced portrait controls');
       assert.equal(alignment.appearance, 'none');
       assert.ok(alignment.topics >= 15);
       assert.equal(await evaluate(`document.querySelectorAll('#categoryList small').length`), 0);
@@ -135,11 +136,25 @@ try {
         return field.height >= box.height - 1 && field.top >= 0 && field.bottom <= innerHeight &&
           document.documentElement.scrollWidth <= innerWidth;
       })()`), true, 'A complete grid row fits without horizontal page overflow');
+      assert.equal(await evaluate(`(() => {
+        const field=document.getElementById('field').getBoundingClientRect();
+        const visible=[...document.querySelectorAll('.box')].map(box=>box.getBoundingClientRect())
+          .filter(box=>box.bottom>field.top+.5 && box.top<field.bottom-.5);
+        const clipped=visible.filter(box=>box.top<field.top-.5 || box.bottom>field.bottom+.5);
+        if(clipped.length) throw Error(JSON.stringify({field:field.toJSON(),clipped:clipped.map(box=>box.toJSON()),scroll:document.getElementById('field').scrollTop}));
+        return true;
+      })()`), true, 'Every initially visible square is complete, with no clipped extra row');
       for (const section of ['about', 'sources', 'privacy']) {
         const info = await evaluate(`(() => {
           document.querySelector('[data-info="${section}"]').click();
           const dialog=document.getElementById('infoDialog'), body=document.getElementById('infoBody');
+          const title=document.getElementById('infoTitle').getBoundingClientRect();
+          const close=document.getElementById('infoClose').getBoundingClientRect();
+          const bounds=dialog.getBoundingClientRect();
           const result={open:dialog.open,lang:dialog.lang,dir:body.dir,
+            centered:Math.abs((title.left+title.right-bounds.left-bounds.right)/2)<4,
+            sameRow:Math.abs((title.top+title.bottom-close.top-close.bottom)/2)<1,
+            separate:title.right<=close.left,
             paragraphs:body.querySelectorAll(':scope > p').length,links:body.querySelectorAll('.info-links a').length,
             overflow:dialog.scrollWidth>dialog.clientWidth,
             safeLinks:[...body.querySelectorAll('a')].every(a=>a.target==='_blank' && a.rel.includes('noopener'))};
@@ -147,6 +162,9 @@ try {
           return result;
         })()`);
         assert.equal(info.open, true, section);
+        assert.equal(info.centered, true, `${section}: centered heading`);
+        assert.equal(info.sameRow, true, `${section}: heading aligned with close button`);
+        assert.equal(info.separate, true, `${section}: heading does not overlap close button`);
         assert.equal(info.lang, language, section);
         assert.equal(info.dir, language === 'ar' ? 'rtl' : 'ltr', section);
         assert.equal(info.paragraphs, section === 'privacy' ? 4 : 3, section);
@@ -158,9 +176,13 @@ try {
         document.getElementById('categoriesBtn').click();
         const r=document.getElementById('categoryMenu').getBoundingClientRect();
         const visible=r.left>=0 && r.right<=innerWidth && r.top>=0 && r.bottom<=innerHeight;
+        const fixed=getComputedStyle(document.getElementById('categoryMenu')).position==='fixed';
+        const header=document.querySelector('.site-header').getBoundingClientRect();
+        const footer=document.querySelector('.site-footer').getBoundingClientRect();
+        const equal=!fixed || [r.top-header.bottom, footer.top-r.bottom, innerWidth-r.right].every(gap=>Math.abs(gap-r.left)<1);
         document.getElementById('categoriesBtn').click();
-        return visible;
-      })()`), true, 'Category menu stays inside the viewport');
+        return visible && equal;
+      })()`), true, 'Category menu stays inside the viewport with equal space on all four sides');
       // Footer anchors must follow unrevealed, unhovered geometry, never scale(1.08).
       const hoverTarget = await evaluate(`(() => {
         const box=document.querySelector('.box'); const r=box.getBoundingClientRect();
@@ -194,8 +216,8 @@ try {
           window.discoveryRequests.push(url.hostname);
           const lang = document.documentElement.lang;
           return new Response(JSON.stringify({query:{rightsinfo:{url:'https://creativecommons.org/licenses/by-sa/4.0/'},pages:[{
-            ns:0,pageid:101,title:'Fixture article '+lang,extract:'An encyclopedia introduction for browser regression testing.',
-            fullurl:'https://'+lang+'.wikipedia.org/wiki/Fixture',revisions:[{revid:42}],pageimage:'Tree.jpg'
+            ns:0,pageid:101+(window.nextFixture || 0),title:'Fixture article '+lang+(window.nextFixture ? ' '+window.nextFixture : ''),extract:'An encyclopedia introduction for browser regression testing.',
+            fullurl:'https://'+lang+'.wikipedia.org/wiki/Fixture'+(window.nextFixture || ''),revisions:[{revid:42}],pageimage:'Tree.jpg'
           }]}}),{headers:{'Content-Type':'application/json'}});
         };
         document.getElementById('categoriesBtn').click();
@@ -211,8 +233,8 @@ try {
           if (!card || (card.dataset.kind === 'fact' && !card.querySelector('img')?.naturalWidth)) return null;
           return {kind:card.dataset.kind,lang:card.lang,text:card.textContent,credits:card.querySelectorAll('.card-rights a').length,
             source:card.querySelector('.find-actions a')?.href,overflow:document.documentElement.scrollWidth>innerWidth,
-            image:!!card.querySelector('img')?.naturalWidth,label:card.querySelector('.card-label')?.textContent,
-            separators:card.querySelector('.card-label')?.querySelectorAll('.square-dot').length};
+            image:!!card.querySelector('img')?.naturalWidth,label:document.querySelector('#discoveryCategory')?.textContent,
+            separators:document.querySelector('#discoveryCategory')?.querySelectorAll('.square-dot').length};
         })()`);
         if (card) break;
         await sleep(100);
@@ -227,6 +249,39 @@ try {
       assert.equal(card.separators, 0);
       assert.ok(card.source.startsWith(`https://${language}.wikipedia.org/`));
       assert.equal(card.overflow, false);
+      assert.equal(await evaluate(`(() => {
+        const rect=selector=>document.querySelector(selector).getBoundingClientRect();
+        const dialog=rect('#discovery'), header=rect('.site-header'), footer=rect('.site-footer');
+        const category=rect('#discoveryCategory'), close=rect('#dialogClose');
+        const next=rect('#discovery .next-box'), source=rect('#discovery .find-actions a');
+        const previous=document.querySelector('#discovery .find-actions').previousElementSibling.getBoundingClientRect();
+        const square=rect('.box');
+        const gridRight=Math.max(...[...document.querySelectorAll('.box')].map(node=>node.getBoundingClientRect().right));
+        const aligned=[rect('.brand').left,rect('.footer-brand').left].every(x=>Math.abs(x-square.left)<1) &&
+          [rect('#categoriesBtn').right,rect('.footer-nav').right].every(x=>Math.abs(x-gridRight)<1);
+        const fullscreen=matchMedia('(max-width: 680px), (pointer: coarse), (max-height: 480px) and (orientation: landscape)').matches;
+        const bounds=fullscreen ? Math.abs(dialog.top)<1 && Math.abs(dialog.left)<1 &&
+          Math.abs(dialog.right-innerWidth)<1 && Math.abs(dialog.bottom-innerHeight)<1 :
+          dialog.top>=header.bottom+11 && dialog.bottom<=footer.top-11 && aligned;
+        return bounds &&
+          Math.abs((category.top+category.bottom-close.top-close.bottom)/2)<1 &&
+          Math.abs((category.left+category.right-dialog.left-dialog.right)/2)<4 &&
+          next.bottom<=source.top && Math.abs((next.top-previous.bottom)-(source.top-next.bottom))<1 &&
+          Math.abs(next.width-square.width)<1 && Math.abs(next.height-square.height)<1 &&
+          document.querySelector('.find-actions').firstElementChild.matches('.next-box');
+      })()`), true, 'Mobile discovery fills viewport; desktop stays in content band; category aligns with X and next square keeps normal size and spacing');
+      await send('DOM.enable');
+      await send('CSS.enable');
+      const nextDocument = await send('DOM.getDocument');
+      const nextNode = await send('DOM.querySelector', { nodeId: nextDocument.root.nodeId, selector: '#discovery .next-box' });
+      for (const forcedPseudoClasses of [[], ['hover'], ['active'], ['hover', 'active']]) {
+        await send('CSS.forcePseudoState', { nodeId: nextNode.nodeId, forcedPseudoClasses });
+        assert.equal(await evaluate(`(() => {
+          const style=getComputedStyle(document.querySelector('#discovery .next-box'));
+          return style.backgroundColor==='rgb(0, 0, 0)' && style.color==='rgb(255, 255, 255)' && style.webkitTapHighlightColor==='rgba(0, 0, 0, 0)';
+        })()`), true, `Next square stays black without tap highlight: ${forcedPseudoClasses.join(',')}`);
+      }
+      await send('CSS.forcePseudoState', { nodeId: nextNode.nodeId, forcedPseudoClasses: [] });
       const reopened = await evaluate(`(() => {
         document.getElementById('dialogClose').click();
         document.querySelector('.box.opened').click();
@@ -321,6 +376,22 @@ try {
       assert.ok(requestsAfter.discovery > requestsBefore.discovery);
       assert.equal(requestsAfter.host, targetLanguage+'.wikipedia.org');
       assert.ok(!requestsAfter.machine.includes('Machine translation') && !requestsAfter.machine.includes('Машинен превод'));
+      const nextCount = await evaluate(`(() => {
+        window.nextFixture=1;
+        window.dialogCloses=0;
+        document.getElementById('discovery').addEventListener('close',()=>window.dialogCloses++);
+        const count=Number(document.getElementById('historyCount').textContent);
+        document.querySelector('#discovery .next-box').click();
+        return count;
+      })()`);
+      let nextOpened = false;
+      for (let attempt=0; attempt<80; attempt++) {
+        nextOpened=await evaluate(`Number(document.getElementById('historyCount').textContent)===${nextCount+1}`);
+        if(nextOpened) break;
+        await sleep(100);
+      }
+      assert.ok(nextOpened, 'Next square records another discovery');
+      assert.equal(await evaluate(`document.getElementById('discovery').open && window.dialogCloses===0 && document.getElementById('discoveryBody').scrollTop===0`), true, 'Next discovery replaces content without closing the dialog');
       console.log(JSON.stringify({ type: 'fixture-ui', width, height, language, ok: true }));
     }
   }

@@ -9,6 +9,8 @@ jobs:
   provider-health:
     runs-on: windows-latest
     timeout-minutes: 20
+    env:
+      FOLY_HEALTH_ADVISORY: '1'
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -19,11 +21,10 @@ jobs:
           Remove-Item -LiteralPath 'data/foly-source-health.json', 'data/foly-browser-health.json' -ErrorAction SilentlyContinue
       - name: Node API, rights and media checks
         id: live
-        continue-on-error: true
         run: node scripts/check-foly-sources.mjs
       - name: Browser CORS, card rendering, answer reveal and preview checks
         id: browser
-        continue-on-error: true
+        if: ${{ !cancelled() && steps.live.outcome != 'skipped' }}
         run: node scripts/check-foly-browser.mjs
       - name: Upload actual health reports
         if: always()
@@ -42,12 +43,34 @@ jobs:
         run: |
           @"
           ## External provider health
-          Node API checks: $env:NODE_OUTCOME
-          Browser checks: $env:BROWSER_OUTCOME
+          Node checker execution: $env:NODE_OUTCOME
+          Browser checker execution: $env:BROWSER_OUTCOME
 
           This workflow checks live external services, separately from code regression tests.
-          Download the foly-health artifact for per-provider results. A missing report is not a pass.
+          Provider failures are warnings, not workflow failures or provider approval.
+          Download the foly-health artifact for per-provider results. A missing report is an execution failure.
           "@ >> $env:GITHUB_STEP_SUMMARY
-      - name: Fail when a live check failed
-        if: steps.live.outcome == 'failure' || steps.browser.outcome == 'failure'
-        run: throw 'Provider health checks failed. See report artifacts; failed results are not approved.'
+          foreach ($file in 'data/foly-source-health.json', 'data/foly-browser-health.json') {
+            "`n### $file`n" >> $env:GITHUB_STEP_SUMMARY
+            if (-not (Test-Path -LiteralPath $file)) {
+              "Missing report. This check did not complete successfully." >> $env:GITHUB_STEP_SUMMARY
+              throw "Missing health report: $file"
+            }
+            $report = Get-Content -Raw -LiteralPath $file | ConvertFrom-Json
+            $rows = @($report.reports)
+            if ($rows.Count -eq 0) { throw "Empty health report: $file" }
+            foreach ($row in $rows) {
+              if ($null -eq $row -or $row.id -isnot [string] -or [string]::IsNullOrWhiteSpace($row.id) -or $row.ok -isnot [bool]) {
+                throw "Invalid health result in $file"
+              }
+              if (-not $row.ok -and ($row.error -isnot [string] -or [string]::IsNullOrWhiteSpace($row.error))) {
+                throw "Missing provider error in $file"
+              }
+            }
+            $passed = @($rows | Where-Object { $_.ok -eq $true }).Count
+            "$passed / $($rows.Count) passed`n" >> $env:GITHUB_STEP_SUMMARY
+            foreach ($row in $rows | Where-Object { $_.ok -ne $true }) {
+              $detail = [System.Net.WebUtility]::HtmlEncode("$($row.id): $($row.error) $($row.code) $($row.cause)")
+              "- $detail" >> $env:GITHUB_STEP_SUMMARY
+            }
+          }

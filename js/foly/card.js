@@ -46,7 +46,7 @@ export function discoveryCard(d) {
   }
   const vector = d.image && /(?:\.svg|\/svg)$/i.test(new URL(d.image).pathname);
   const image = d.image && h('div', { class: vector ? 'media media-vector' : 'media' },
-    h('img', { crossorigin: 'anonymous', src: d.image, alt: d.title, decoding: 'async', onerror: event => event.target.closest('.find')?.remove() }));
+    h('img', { referrerpolicy: 'no-referrer', src: d.image, alt: d.title, decoding: 'async', onerror: event => event.target.closest('.find')?.remove() }));
   const chart = d.chart && h('ol', { class: 'chart-bars', 'aria-label': `${d.title} data chart` },
     d.chart.map((row, index) => h('li', { class: 'chart-row' },
       h('span', { class: 'chart-term' }, row.label),

@@ -55,16 +55,17 @@ const root = document.documentElement;
 const layout = { cols: 1, cell: 62, pitchX: 72, pitchY: 72, rows: 0, first: -1, last: -1, height: 0 };
 function measure() {
   const width = root.clientWidth;
-  const { cols, cell, gap, height, gapY, inset, headerHeight, mobile } = gridGeometry(width, innerHeight);
+  const { cols, cell, gap, height, gapY, inset, headerHeight, mobile } = gridGeometry(width, root.clientHeight);
   const rows = Math.ceil(TOTAL_BOXES / cols);
   Object.assign(layout, { cols, cell, inset, pitchX: cell + gap, pitchY: cell + gapY, rows, height });
-  root.style.setProperty('--margin', `${mobile ? 16 : cell}px`);
-  root.style.setProperty('--grid-left', `${mobile ? 16 : cell}px`);
-  root.style.setProperty('--grid-right', `${mobile ? 16 : width - (cell + (cols - 1) * (cell + gap) + cell)}px`);
+  root.style.setProperty('--margin', `${inset}px`);
+  root.style.setProperty('--grid-left', `${inset}px`);
+  root.style.setProperty('--grid-right', `${inset}px`);
   root.style.setProperty('--header-h', `${headerHeight}px`);
-  root.style.setProperty('--field-top', `${mobile ? headerHeight : 2 * cell}px`);
-  root.style.setProperty('--field-bottom', `${mobile ? headerHeight : 2 * cell}px`);
+  root.style.setProperty('--field-top', `${headerHeight + inset}px`);
+  root.style.setProperty('--field-bottom', `${headerHeight + inset}px`);
   grid.style.setProperty('--cell', `${cell}px`);
+  root.style.setProperty('--cell', `${cell}px`);
   grid.style.height = `${rows * layout.pitchY - gapY}px`;
 }
 
@@ -111,7 +112,7 @@ function paintCell(cell) {
   let thumbnail = cell.querySelector('.box-image');
   if (thumb) {
     if (!thumbnail) {
-      thumbnail = h('img', { class: 'box-image', crossorigin: 'anonymous', alt: '', decoding: 'async' });
+      thumbnail = h('img', { class: 'box-image', referrerpolicy: 'no-referrer', alt: '', decoding: 'async' });
       cell.append(thumbnail);
     }
     if (thumbnail.getAttribute('src') !== thumb) thumbnail.src = thumb;
@@ -177,7 +178,30 @@ async function openBox(box) {
 
 function openDialog(content) {
   dialogBody.removeAttribute('aria-busy');
+  const category = content.querySelector('.card-label');
+  $('discoveryCategory').textContent = category?.textContent || '';
+  category?.remove();
+  const next = h('button', { class: 'ghost-btn next-box', type: 'button', 'aria-label': 'Open next square',
+    title: 'Open next square', onclick: async () => {
+      if (!displayedEntry || opening.size) return;
+      const current = displayedEntry;
+      const box = current.box % TOTAL_BOXES + 1;
+      next.disabled = true;
+      next.setAttribute('aria-busy', 'true');
+      dialogBody.querySelector('.next-status')?.remove();
+      try {
+        await openBox(box);
+        if (dialog.open && displayedEntry === current) {
+          dialogBody.append(h('p', { class: 'next-status', role: 'status' }, t('retry')));
+        }
+      } finally {
+        next.disabled = false;
+        next.setAttribute('aria-busy', 'false');
+      }
+    } }, h('span', { 'aria-hidden': 'true' }));
+  content.querySelector('.find-actions')?.prepend(next);
   dialogBody.replaceChildren(content);
+  dialogBody.scrollTop = 0;
   if (!dialog.open) dialog.showModal();
   dialog.scrollTop = 0;
 }
@@ -229,7 +253,7 @@ function renderArchive(fresh) {
     return h('li', { class: entry.n === fresh ? 'fresh' : null },
       h('button', { class: 'archive-open', type: 'button', onclick: () => { showDrawer(archive, false); showDiscovery(entry); } },
         h('span', { class: 'archive-n' }, String(entry.n).padStart(2, '0')),
-        d.thumb ? h('img', { class: 'archive-thumb', crossorigin: 'anonymous', src: d.thumb, alt: '', loading: 'lazy', decoding: 'async' })
+        d.thumb ? h('img', { class: 'archive-thumb', referrerpolicy: 'no-referrer', src: d.thumb, alt: '', loading: 'lazy', decoding: 'async' })
           : h('span', { class: 'archive-thumb empty', 'aria-hidden': 'true' }),
         h('span', { class: 'archive-copy' },
           label(d.category, d.subject),

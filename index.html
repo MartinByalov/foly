@@ -62,12 +62,17 @@
   <p class="archive-empty" id="archiveEmpty">Nothing yet. Open a box to start.</p>
 </aside>
 <dialog class="media-dialog discovery" id="discovery" aria-label="Discovery">
-  <button class="dialog-close" id="dialogClose" type="button" aria-label="Close">×</button>
+  <div class="discovery-header">
+    <p class="card-label" id="discoveryCategory"></p>
+    <button class="dialog-close" id="dialogClose" type="button" aria-label="Close">×</button>
+  </div>
   <div id="discoveryBody"></div>
 </dialog>
 <dialog class="media-dialog info-dialog" id="infoDialog" aria-labelledby="infoTitle">
-  <button class="dialog-close" id="infoClose" type="button" aria-label="Close information">×</button>
-  <h2 id="infoTitle"></h2>
+  <div class="info-header">
+    <h2 id="infoTitle"></h2>
+    <button class="dialog-close" id="infoClose" type="button" aria-label="Close information">×</button>
+  </div>
   <div class="info-copy" id="infoBody"></div>
 </dialog>
 <template id="info-trivia">

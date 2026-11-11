@@ -62,9 +62,11 @@ Your discoveries stay with the open page. Close or refresh it, and the collectio
 
 **Foly automatic checks** runs the complete unit and regression suite on every push and pull request, or manually. It does not run the live provider smoke checks. Run the same suite locally with `node --test tests/*.test.mjs`.
 
-**Foly provider health** checks external APIs, rights, images and browser behaviour separately. It runs once daily at 06:23 UTC, or manually from GitHub Actions. External outages, rate limits and CORS failures can make this workflow fail even when code tests pass. Its failure remains visible; it is not treated as provider approval or used as a dependency of the code-check workflow.
+**Foly provider health** checks external APIs, rights, images and browser behaviour separately. It runs once daily at 06:23 UTC, or manually from GitHub Actions. It sets `FOLY_HEALTH_ADVISORY=1`: failed provider observations (including outages, rate limits, certificate errors and rejected media) produce warnings, not a failed workflow. The results retain `ok: false` and do not approve those providers. Checker crashes, failed browser interactions, missing/empty/malformed reports and infrastructure failures still fail the workflow. Code regression tests remain strict and independent.
 
-Each health run removes the previous source and browser reports before checking, then uploads newly generated reports in the `foly-health` artifact. Read those reports for the underlying provider errors; the final failure step only aggregates the results. Neither workflow publishes the site; GitHub Pages deployment remains separate.
+Each health run removes the previous source and browser reports before checking, then uploads newly generated reports in the `foly-health` artifact. The summary validates the reports and lists provider errors. Neither workflow publishes the site; GitHub Pages deployment remains separate. Local smoke checks remain strict unless you explicitly set `FOLY_HEALTH_ADVISORY=1`.
+
+Node reports retain nested transport error messages and codes, including certificate failures. Display-only images are decoded without requesting canvas access through CORS and omit the referrer; API metadata still requires readable CORS responses. Certificate verification, image decoding and rights validation remain mandatory. A successful monitoring workflow means the checks completed, not that all providers passed; use the provider counts and errors in the summary for actual health.
 
 ## Many worlds. One visual language.
 
