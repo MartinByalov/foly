@@ -136,7 +136,7 @@
 .find .media.media-vector { width: 240px; max-width: 100%; }
 .find .media.media-vector img { width: 100%; height: auto; }
 .find .text-frame { font-size: 18px; line-height: 1.45; }
-.find .card-copy { flex: none; gap: 6px; font-size: 13px; white-space: pre-line; }
+.find .card-copy { flex: none; width: 100%; max-width: 44ch; gap: 6px; font-size: 13px; white-space: pre-line; }
 .find-answer { margin: 12px 0 0; font-size: 13px; font-weight: 700; }
 .find .quiz { width: 100%; }
 .find .quiz-options { width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -230,10 +230,11 @@
 .discovery-header .card-label { margin: 0; text-align: center; overflow-wrap: anywhere; }
 .discovery-header .dialog-close { display: grid; place-items: center; width: 44px; height: 44px; padding: 0; top: 50%; right: 4px; transform: translateY(-50%); line-height: 1; }
 #discoveryBody { min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
-.discovery .find { padding-top: 0; }
+.discovery .find { --card-spacing: 20px; padding-top: 0; padding-bottom: var(--card-spacing); }
 .find-actions { align-items: center; gap: 10px; }
-.discovery .find-actions { --next-spacing: 20px; flex-direction: column; margin-top: var(--next-spacing); gap: var(--next-spacing); }
-.discovery .card-copy { padding-bottom: 0; }
+.discovery .find-actions { flex-direction: column; margin-top: var(--card-spacing); gap: var(--card-spacing); }
+.discovery .card-copy { padding: 0; }
+.discovery .card-rights { margin: var(--card-spacing) 0 0; max-width: 100%; }
 .next-box { display: grid; place-items: center; flex: none; width: var(--cell, 62px); height: var(--cell, 62px); padding: 0; background: #000; border: 1px solid rgba(255,255,255,.12); border-radius: var(--radius); }
 .next-box:hover, .next-box:active { background: #000; color: #fff; border-color: rgba(255,255,255,.12); }
 .next-box { -webkit-tap-highlight-color: transparent; }
@@ -273,4 +274,12 @@
   .discovery-header { padding-top: calc(8px + env(safe-area-inset-top, 0px)); padding-left: calc(56px + env(safe-area-inset-left, 0px)); padding-right: calc(56px + env(safe-area-inset-right, 0px)); }
   .discovery-header .dialog-close { right: calc(4px + env(safe-area-inset-right, 0px)); }
   #discoveryBody { flex: 1; padding-bottom: env(safe-area-inset-bottom, 0px); }
+}
+
+/* Keep portrait copy inset, but let landscape use the available horizontal space. */
+@media (max-width: 680px) and (orientation: portrait), (pointer: coarse) and (orientation: portrait) {
+  .discovery .card-copy { width: 90%; max-width: 44ch; }
+}
+@media (max-width: 680px) and (orientation: landscape), (pointer: coarse) and (orientation: landscape), (max-height: 480px) and (orientation: landscape) {
+  .discovery .card-copy { width: 88%; max-width: none; }
 }

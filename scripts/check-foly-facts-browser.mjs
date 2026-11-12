@@ -249,6 +249,33 @@ try {
       assert.equal(card.separators, 0);
       assert.ok(card.source.startsWith(`https://${language}.wikipedia.org/`));
       assert.equal(card.overflow, false);
+      const rhythm = await evaluate(`(() => {
+        const find=document.querySelector('#discovery .find');
+        const copy=find.querySelector('.card-copy');
+        const next=find.querySelector('.next-box').getBoundingClientRect();
+        const source=find.querySelector('.find-actions a').getBoundingClientRect();
+        const rights=find.querySelector('.card-rights').getBoundingClientRect();
+        const text=copy.getBoundingClientRect();
+        const bottom=find.getBoundingClientRect().bottom;
+        const style=getComputedStyle(copy);
+        return {gaps:[next.top-text.bottom,source.top-next.bottom,rights.top-source.bottom,bottom-rights.bottom],
+          textWidth:text.width,cardWidth:find.getBoundingClientRect().width,maxWidth:style.maxWidth,
+          availableWidth:find.clientWidth-parseFloat(getComputedStyle(find).paddingLeft)-parseFloat(getComputedStyle(find).paddingRight),
+          paddingTop:style.paddingTop,paddingBottom:style.paddingBottom};
+      })()`);
+      assert.ok(rhythm.gaps.every(gap => Math.abs(gap-20)<1), `Equal card rhythm: ${JSON.stringify(rhythm)}`);
+      assert.equal(rhythm.paddingTop, '0px');
+      assert.equal(rhythm.paddingBottom, '0px');
+      if (width > height && mobile) {
+        assert.equal(rhythm.maxWidth, 'none');
+        assert.ok(Math.abs(rhythm.textWidth-rhythm.availableWidth*.88)<1, 'Landscape copy uses 88 percent of available width');
+      } else {
+        assert.ok(rhythm.textWidth <= parseFloat(rhythm.maxWidth)+1, 'Copy stays within readable measure');
+        if (mobile) assert.ok(Math.abs(rhythm.textWidth-Math.min(rhythm.availableWidth*.9,parseFloat(rhythm.maxWidth)))<1,
+          'Portrait copy has extra side insets');
+      }
+      if (language === 'bg') console.log(JSON.stringify({type:'copy-measure',width,height,textWidth:rhythm.textWidth,availableWidth:rhythm.availableWidth}));
+      if (width >= 1280) assert.ok(rhythm.textWidth < rhythm.cardWidth-80, 'Desktop copy is narrower than the card');
       assert.equal(await evaluate(`(() => {
         const rect=selector=>document.querySelector(selector).getBoundingClientRect();
         const dialog=rect('#discovery'), header=rect('.site-header'), footer=rect('.site-footer');
